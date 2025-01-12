@@ -1,0 +1,15 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Teachers have to wear smart, tidy clothes. Teachers have to wear ________ clothes.",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "respectable" },
+      { "B": "tracksuit" },
+      { "C": "Fashionable" },
+      { "D": "amusing" },
+      { "E": "get dressed" }
+    ]
+  }
+]
