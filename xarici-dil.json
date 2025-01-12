@@ -2,14 +2,6757 @@
   {
     "questionNumber": 1,
     "questionUp": "Complete the sentence.",
-    "questionDown": "Teachers have to wear smart, tidy clothes. Teachers have to wear ________ clothes.",
+    "questionDown": "Teachers have to wear smart, tidy clothes.\nTeachers have to wear ________ clothes.",
     "correctAnwser": "A",
     "answers": [
-      { "A": "respectable" },
-      { "B": "tracksuit" },
-      { "C": "Fashionable" },
-      { "D": "amusing" },
-      { "E": "get dressed" }
+      {
+        "A": "respectable"
+      },
+      {
+        "B": "tracksuit"
+      },
+      {
+        "C": "Fashionable"
+      },
+      {
+        "D": "amusing"
+      },
+      {
+        "E": "get dressed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "He put on his sports clothes and went to the sports centre.He put on his ________ and went to the sports centre.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "tracksuit"
+      },
+      {
+        "B": "casual"
+      },
+      {
+        "C": "investing"
+      },
+      {
+        "D": "slogans"
+      },
+      {
+        "E": "took off"
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "The company is using its money in a new housing project.The company is ________ in a new housing project.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "investing"
+      },
+      {
+        "B": "judge"
+      },
+      {
+        "C": "amusing"
+      },
+      {
+        "D": "slogans"
+      },
+      {
+        "E": "respectable"
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "We can wear informal clothes to the barbecue.\nWe can wear ________ clothes to the barbecue.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "casual"
+      },
+      {
+        "B": "tracksuit"
+      },
+      {
+        "C": "amusing"
+      },
+      {
+        "D": "investing"
+      },
+      {
+        "E": "Fashionable"
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Josh is always telling funny stories.\nJosh is very  ________ .",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "amusing"
+      },
+      {
+        "B": "tracksuit"
+      },
+      {
+        "C": "slogans"
+      },
+      {
+        "D": "casual"
+      },
+      {
+        "E": "investing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "I always put my clothes on in the bathroom.\nI always ________ in the bathroom.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "get dressed"
+      },
+      {
+        "B": "tracksuit"
+      },
+      {
+        "C": "investing"
+      },
+      {
+        "D": "respectable"
+      },
+      {
+        "E": "casual"
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Which short sentences do you remember from the adverts you’ve seen recently? Which ________ do you remember from the adverts you’ve seen recently?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "slogans"
+      },
+      {
+        "B": "amusing"
+      },
+      {
+        "C": "respectable"
+      },
+      {
+        "D": "casual"
+      },
+      {
+        "E": "Fashionable"
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "It was very hot, so we all removed our jackets.\nIt was very hot, so we all ________ our jackets.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "took off"
+      },
+      {
+        "B": "amusing"
+      },
+      {
+        "C": "judge"
+      },
+      {
+        "D": "respectable"
+      },
+      {
+        "E": "investing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Jessica always wears clothes that are popular at the moment.Jessica always wears ________ clothes.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Fashionable"
+      },
+      {
+        "B": "tracksuit"
+      },
+      {
+        "C": "slogans"
+      },
+      {
+        "D": "respectable"
+      },
+      {
+        "E": "get dressed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "I try not to form an opinion about people before \nI know them.I try not to ________ people before I know them.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "judge"
+      },
+      {
+        "B": "amusing"
+      },
+      {
+        "C": "casual"
+      },
+      {
+        "D": "slogans"
+      },
+      {
+        "E": "took off"
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Emily works at a hospital where the dress ________ is very strict.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "code"
+      },
+      {
+        "B": "mannered"
+      },
+      {
+        "C": "coat"
+      },
+      {
+        "D": "up"
+      },
+      {
+        "E": "Staff"
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "________ are not allowed to ________ jeans or shorts.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "staff, wear"
+      },
+      {
+        "B": "mannered, coat"
+      },
+      {
+        "C": "logo, code"
+      },
+      {
+        "D": "up, wear"
+      },
+      {
+        "E": "code,coat"
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "If you wear anything unsuitable, they will tell you to take it ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "off"
+      },
+      {
+        "B": "on"
+      },
+      {
+        "C": "up"
+      },
+      {
+        "D": "code"
+      },
+      {
+        "E": "do"
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Doctors always wear a white ________, which they have to put ________ as soon as they enter the hospital",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "coat, on"
+      },
+      {
+        "B": "mannered, wear"
+      },
+      {
+        "C": "code ,staff"
+      },
+      {
+        "D": "logo, up"
+      },
+      {
+        "E": "wear, up"
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "They must ________ up the buttons in order to look smart and tidy.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "do"
+      },
+      { "B": "on" },
+      { "C": "wear" },
+      {
+        "D": "up"
+      },
+      { "E": "mannered" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Complete the sentence",
+    "questionDown": "They may pull ________ the sleeves to wash their hands, but they are not allowed to attend patients like this.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "up"
+      },
+      {
+        "B": "coat"
+      },
+      {
+        "C": "wear"
+      },
+      {
+        "D": "code"
+      },
+      {
+        "E": "on"
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Employees are also expected to be well- ________ at work.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "mannered"
+      },
+      {
+        "B": "wear"
+      },
+      {
+        "C": "code"
+      },
+      {
+        "D": "coat"
+      },
+      {
+        "E": "logo"
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Whatever colour we choose _______ says something about our personality.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "to buy"
+      },
+      {
+        "B": "a buy"
+      },
+      {
+        "C": "buying"
+      },
+      {
+        "D": "buy"
+      },
+      {
+        "E": "the buy"
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "In general, reserved people _______ in darker colours.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a dress"
+      },
+      {
+        "B": "to dress"
+      },
+      {
+        "C": "dressing"
+      },
+      {
+        "D": "dress"
+      },
+      {
+        "E": "the dress"
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "They don’t want _______.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "to stand out"
+      },
+      {
+        "B": "stand out"
+      },
+      {
+        "C": "standing out"
+      },
+      {
+        "D": "stood out"
+      },
+      {
+        "E": "not to stand out"
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "This shows the importance of spending time _______ what to wear before any occasion.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "deciding"
+      },
+      {
+        "B": "decide"
+      },
+      {
+        "C": "to decide"
+      },
+      {
+        "D": "decided"
+      },
+      {
+        "E": "to not decide"
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Avoid _______ on brown clothes.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "putting"
+      },
+      {
+        "B": "put"
+      },
+      {
+        "C": "to put"
+      },
+      {
+        "D": "to putting"
+      },
+      {
+        "E": "to put no"
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "You intend _______ modern and fashionable.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "to look"
+      },
+      {
+        "B": "looking"
+      },
+      {
+        "C": "look"
+      },
+      {
+        "D": "to looking"
+      },
+      {
+        "E": "to not put"
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "You need _______ your intelligence, wear grey.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "to show"
+      },
+      {
+        "B": "showing"
+      },
+      {
+        "C": "show"
+      },
+      {
+        "D": "shown"
+      },
+      {
+        "E": "showed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "And remember that even the most timid person can pretend _______ assertive by wearing bright colours.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "to be"
+      },
+      {
+        "B": "be"
+      },
+      {
+        "C": "being"
+      },
+      {
+        "D": "was"
+      },
+      {
+        "E": "were"
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Complete the sentences with the correct expression .",
+    "questionDown": "We packed our bags and then went to the hotel reception to ________ ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "check out"
+      },
+      {
+        "B": "departures board"
+      },
+      {
+        "C": "waiting area"
+      },
+      {
+        "D": "get back"
+      },
+      {
+        "E": "got off"
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "The assistant at the ________ ________ gave us a train timetable.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "information desk"
+      },
+      {
+        "B": "departures board"
+      },
+      {
+        "C": "waiting area"
+      },
+      {
+        "D": "get back"
+      },
+      {
+        "E": "dropped off"
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "Jake went to the airport to ________ his parents ________ when they arrived.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "pick  up"
+      },
+      {
+        "B": "check out"
+      },
+      {
+        "C": "got off"
+      },
+      {
+        "D": "dropped off"
+      },
+      {
+        "E": "check in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Complete the sentences with the correct  expression.",
+    "questionDown": "Their train didn’t leave for two hours, so they went to the ________ ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "waiting area"
+      },
+      {
+        "B": "information desk"
+      },
+      {
+        "C": "get back"
+      },
+      {
+        "D": "pick up"
+      },
+      {
+        "E": "departures board"
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "Laura left home at 8 a.m. and she didn’t ________ ________ until 9 p.m.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "get back"
+      },
+      {
+        "B": "information desk"
+      },
+      {
+        "C": "got off"
+      },
+      {
+        "D": "pick up"
+      },
+      {
+        "E": "check out"
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "We ________ ________ the train at the wrong stop, so we had to get a taxi to our destination.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "got off"
+      },
+      {
+        "B": "check in"
+      },
+      {
+        "C": "pick up"
+      },
+      {
+        "D": "waiting area"
+      },
+      {
+        "E": "information desk"
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Complete the sentences with  the correct expression.",
+    "questionDown": "They looked at the ________ ________ to check the time of their flight.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "departures board"
+      },
+      {
+        "B": "ticket office"
+      },
+      {
+        "C": "got off"
+      },
+      {
+        "D": "information desk"
+      },
+      {
+        "E": "check in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "The taxi ________ me ________ just outside my front door.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "dropped off"
+      },
+      {
+        "B": "got off"
+      },
+      {
+        "C": "waiting area"
+      },
+      {
+        "D": "check out"
+      },
+      {
+        "E": "ticket office"
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "There was a long queue at the ________ ________, so we thought we were going to miss our train.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "ticket office"
+      },
+      {
+        "B": "got off"
+      },
+      {
+        "C": "information desk"
+      },
+      {
+        "D": "waiting area"
+      },
+      {
+        "E": "departures board"
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "Let’s ________ ________ at the hotel so we can leave our bags in our room and go for a walk.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "check in"
+      },
+      {
+        "B": "check out"
+      },
+      {
+        "C": "get back"
+      },
+      {
+        "D": "pick  up"
+      },
+      {
+        "E": "dropped off"
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "Fog is causing a very disorganized situation at the airport.Fog is causing ________ at the airport.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "chaos"
+      },
+      {
+        "B": "terrified"
+      },
+      {
+        "C": "tip-off"
+      },
+      {
+        "D": "vital"
+      },
+      {
+        "E": "crashed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "I need to modernize my computer’s anti-virus software. I need to ________ my computer’s anti-virus software",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "update"
+      },
+      {
+        "B": "18-storey building"
+      },
+      {
+        "C": "tip-off"
+      },
+      {
+        "D": "backups"
+      },
+      {
+        "E": "terrified"
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "My little sister is extremely scared of spiders.\nMy little sister is ________ of spiders.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "terrified"
+      },
+      {
+        "B": "update"
+      },
+      {
+        "C": "chaos"
+      },
+      {
+        "D": "vital"
+      },
+      {
+        "E": "18-storey building"
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "A man gave detectives some secret information during an anonymous phonecall.\nA man gave detectives a ________ during an anonymous phonecall.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "tip-off"
+      },
+      {
+        "B": "18-storey building"
+      },
+      {
+        "C": "vital"
+      },
+      {
+        "D": "update"
+      },
+      {
+        "E": "chaos"
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Complete the sentences with the correct expression .",
+    "questionDown": "Ruth’s flat is on the top floor of a building with 18 storeys. Ruth’s flat is on the top floor of an ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "18-storey building"
+      },
+      {
+        "B": "terrified"
+      },
+      {
+        "C": "backups"
+      },
+      {
+        "D": "update"
+      },
+      {
+        "E": "crashed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 41.1,
+    "questionUp": "Complete the sentences with the correct  expression.",
+    "questionDown": "I always make copies of my computer files in case I get a virus.\nI always make ________ of my computer files in case I get a virus.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "backups"
+      },
+      {
+        "B": "delighted"
+      },
+      {
+        "C": "18-storey building"
+      },
+      {
+        "D": "chaos"
+      },
+      {
+        "E": "update"
+      }
+    ]
+  },
+  {
+    "questionNumber": 41.2,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "They were extremely happy to receive the wedding invitation. \nThey were ________ to receive the wedding invitation",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "delighted"
+      },
+      {
+        "B": "18-storey building"
+      },
+      {
+        "C": "update"
+      },
+      {
+        "D": "backups"
+      },
+      {
+        "E": "terrified"
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "I can’t do any work because my computer has suddenly stopped working.\nI can’t do any work because my computer has ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "crashed"
+      },
+      {
+        "B": "tip-off"
+      },
+      {
+        "C": "backups"
+      },
+      {
+        "D": "update"
+      },
+      {
+        "E": "20-minute walk"
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "It’s a walk of 20 minutes from my house to the station.\nIt’s a ________ from my house to the station.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "20-minute walk"
+      },
+      {
+        "B": "18-storey building"
+      },
+      {
+        "C": "tip-off"
+      },
+      {
+        "D": "terrified"
+      },
+      {
+        "E": "update"
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Complete the sentences with the correct expression.",
+    "questionDown": "The police found a very important clue while they were searching the scene of the crime. \nThe police found a ________ clue while they were searching the scene of the crime.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "vital"
+      },
+      {
+        "B": "tip-off"
+      },
+      {
+        "C": "chaos"
+      },
+      {
+        "D": "delighted"
+      },
+      {
+        "E": "crashed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Choose the correct expression.",
+    "questionDown": "The bad weather delayed the departure of our flight.  The bad weather ________ ________ the departure of our flight.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "set back"
+      },
+      { "B": "play back" },
+      { "C": "backing" },
+      {
+        "D": "back off"
+      },
+      { "E": "back it" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Choose the correct expression.",
+    "questionDown": "My little brother always behaves in a silly way. \nMy little brother always  ________ ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "plays the fool"
+      },
+      {
+        "B": "playing the fool"
+      },
+      {
+        "C": "played the fool"
+      },
+      {
+        "D": "play fool"
+      },
+      {
+        "E": "the fool playing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Choose the correct expression.",
+    "questionDown": "The tourist was taking a risk when he tried to take a photo of the shark. \nThe tourist was ________ ________ when he tried to take a photo of the shark.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "playing  with fire"
+      },
+      {
+        "B": "play fire"
+      },
+      {
+        "C": "playing the with fire"
+      },
+      {
+        "D": "setting with fire"
+      },
+      {
+        "E": "set off fire"
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Choose the correct expression.",
+    "questionDown": "The rain arrived and stayed for the day, so we couldn’t go out.\nThe rain   ________ ________ for the day, so we couldn’t go out.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "set in"
+      },
+      {
+        "B": "set off"
+      },
+      {
+        "C": "set of"
+      },
+      {
+        "D": "set on"
+      },
+      {
+        "E": "set aside"
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Choose the correct expression.",
+    "questionDown": "We started our journey early to avoid the traffic. \n We ________ ________ early to avoid the traffic.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "set off"
+      },
+      {
+        "B": "set on"
+      },
+      {
+        "C": "set in"
+      },
+      {
+        "D": "set aside"
+      },
+      {
+        "E": "set of"
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Choose the correct expression",
+    "questionDown": "Kate laughed when we tricked her. \nKate laughed when we ________ ________ ________ on her.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "played a joke"
+      },
+      {
+        "B": "playing joke"
+      },
+      {
+        "C": "play a joke"
+      },
+      {
+        "D": "played joke"
+      },
+      {
+        "E": "play a joking"
+      }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Choose the correct expression",
+    "questionDown": "I’m saving some money every month for a car. \n I’m ________ ________ some money every month for a car.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "setting aside"
+      },
+      {
+        "B": "set on"
+      },
+      {
+        "C": "set off"
+      },
+      {
+        "D": "set of"
+      },
+      {
+        "E": "set in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Choose the correct expression",
+    "questionDown": "I didn’t understand the message on my answerphone so I listened to it again. \nI didn’t understand the message on my answerphone so I ________ ________ ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "played it back"
+      },
+      {
+        "B": "playing it back"
+      },
+      {
+        "C": "play it back"
+      },
+      {
+        "D": "play back"
+      },
+      {
+        "E": "play off back"
+      }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Choose the correct expression",
+    "questionDown": "The school bus lets us get out outside our house. \n The school bus ________ ________ ________ outside our house.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "sets us down"
+      },
+      {
+        "B": "setting us down"
+      },
+      {
+        "C": "set us down"
+      },
+      {
+        "D": "set off us down"
+      },
+      {
+        "E": "set with us down"
+      }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Choose the correct expression",
+    "questionDown": "If he uses his opportunities well, the company might offer him a promotion. \n If he ________ ________ ________ right, the company might offer him a promotion.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "plays his cards"
+      },
+      {
+        "B": "play his cards"
+      },
+      {
+        "C": "playing his cards"
+      },
+      {
+        "D": "played his cards"
+      },
+      {
+        "E": "play in his cards"
+      }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Complete the sentences.",
+    "questionDown": "Last Wednesday David was serving a customer in the bank when two masked men ran ________ the bank firing guns.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "into"
+      },
+      {
+        "B": "down"
+      },
+      {
+        "C": "on"
+      },
+      {
+        "D": "cool"
+      },
+      {
+        "E": "survival"
+      }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "They told everyone to lie face ________ on the floor.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "down"
+      },
+      {
+        "B": "for"
+      },
+      {
+        "C": "time"
+      },
+      {
+        "D": "survival"
+      },
+      {
+        "E": "along"
+      }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "One of them headed ________ the manager’s office.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for"
+      },
+      {
+        "B": "in"
+      },
+      {
+        "C": "off"
+      },
+      {
+        "D": "of"
+      },
+      {
+        "E": "along"
+      }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "He pushed the manager ________ the door to the safe.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "through"
+      },
+      {
+        "B": "towards"
+      },
+      {
+        "C": "along"
+      },
+      {
+        "D": "survival"
+      },
+      {
+        "E": "down"
+      }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "‘Open it!’ he shouted, but the manager refused. The robber set ________ him at once",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "on"
+      },
+      {
+        "B": "in"
+      },
+      {
+        "C": "into"
+      },
+      {
+        "D": "along"
+      },
+      {
+        "E": "for"
+      }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "He walked _______ the safe, then put his hand on the dial",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "towards"
+      },
+      {
+        "B": "through"
+      },
+      {
+        "C": "survival"
+      },
+      {
+        "D": "into"
+      },
+      {
+        "E": "on"
+      }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "The rest of the staff realized that David was playing for ________ until the police arrived.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "time"
+      },
+      {
+        "B": "along"
+      },
+      {
+        "C": "down"
+      },
+      {
+        "D": "survival"
+      },
+      {
+        "E": "towards"
+      }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Complete the sencence.",
+    "questionDown": "They played ________ with his plan",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "along"
+      },
+      {
+        "B": "time"
+      },
+      {
+        "C": "cool"
+      },
+      {
+        "D": "down"
+      },
+      {
+        "E": "through"
+      }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Complete the sentences.",
+    "questionDown": "David said he had managed to play it ________ because of his ________ instinct.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "cool, survival"
+      },
+      {
+        "B": "survival, cool"
+      },
+      {
+        "C": "towards,  cool"
+      },
+      {
+        "D": "survival, time"
+      },
+      {
+        "E": "cool, along"
+      }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "In 1996 David Beckham _____ one of the best goals in history.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "scored"
+      },
+      {
+        "B": "scoring"
+      },
+      {
+        "C": "score"
+      },
+      {
+        "D": "was score"
+      },
+      {
+        "E": "were score"
+      }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "It __ the first match of the \nseason.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "was"
+      },
+      {
+        "B": "be"
+      },
+      {
+        "C": "being"
+      },
+      {
+        "D": "been"
+      },
+      {
+        "E": "were"
+      }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "He ____ up to see the state of play .",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "looked"
+      },
+      {
+        "B": "look"
+      },
+      {
+        "C": "looking"
+      },
+      {
+        "D": "were looking"
+      },
+      {
+        "E": "was look"
+      }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Choose the correct tense form",
+    "questionDown": "He___ that the Wimbledon \nGoalkeeper was inexperienced player.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "saw"
+      },
+      {
+        "B": "see"
+      },
+      {
+        "C": "seeing"
+      },
+      {
+        "D": "were saw"
+      },
+      {
+        "E": "was saw"
+      }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Our part of the city is extremely quiet.\nOur ________ is extremely quiet.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "neighbourhood"
+      },
+      {
+        "B": "valley"
+      },
+      {
+        "C": "resort"
+      },
+      {
+        "D": "thriving"
+      },
+      {
+        "E": "lane"
+      }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "The natural landscape near my village is really beautiful. The ________ near my village is really beautiful.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "scenery"
+      },
+      {
+        "B": "valley"
+      },
+      {
+        "C": "junk"
+      },
+      {
+        "D": "resort"
+      },
+      {
+        "E": "refugees"
+      }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "My uncle is a person who travels a lot.\nMy uncle is a ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "globetrotter"
+      },
+      {
+        "B": "junk"
+      },
+      {
+        "C": "neighbourhood"
+      },
+      {
+        "D": "scenery"
+      },
+      {
+        "E": "refugees"
+      }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "I live in a low area between two mountains,\nover there. I live in a ________, over there.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "valley"
+      },
+      {
+        "B": "storeys"
+      },
+      {
+        "C": "scenery"
+      },
+      {
+        "D": "thriving"
+      },
+      {
+        "E": "refugees"
+      }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "We had to throw out our old, useless things before we moved house.\nWe had to throw out all our ________ before we moved house.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "junk"
+      },
+      {
+        "B": "neighbourhood"
+      },
+      {
+        "C": "resort"
+      },
+      {
+        "D": "scenery"
+      },
+      {
+        "E": "lane"
+      }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "The block of flats where we live has 18 floors.\nThe block of flats where we live has 18 ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "storeys"
+      },
+      {
+        "B": "resort"
+      },
+      {
+        "C": "thriving"
+      },
+      {
+        "D": "globetrotter"
+      },
+      {
+        "E": "refugees"
+      }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "My cousins live near a place where tourists go. \nMy cousins live near a tourist ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "resort"
+      },
+      {
+        "B": "thriving"
+      },
+      {
+        "C": "globetrotter"
+      },
+      {
+        "D": "refugees"
+      },
+      {
+        "E": "scenery"
+      }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Governments are sending aid to the people who have left their homes. \nGovernments are sending aid to the ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "refugees"
+      },
+      {
+        "B": "neighbourhood"
+      },
+      {
+        "C": "globetrotter"
+      },
+      {
+        "D": "resort"
+      },
+      {
+        "E": "scenery"
+      }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Go to the end of the road, then turn left into the small road.\n Go to the end of the road, then turn left into the ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "lane"
+      },
+      {
+        "B": "thriving"
+      },
+      {
+        "C": "valley"
+      },
+      {
+        "D": "storeys"
+      },
+      {
+        "E": "resort"
+      }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "My father’s business is growing successfully. \nMy father’s business is ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "thriving"
+      },
+      {
+        "B": "globetrotter"
+      },
+      {
+        "C": "junk"
+      },
+      {
+        "D": "valley"
+      },
+      {
+        "E": "refugees"
+      }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "What can you see in an urban ________?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "landscape"
+      },
+      {
+        "B": "traffic"
+      },
+      {
+        "C": "take"
+      },
+      {
+        "D": "tourist"
+      },
+      {
+        "E": "crossing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "My flat is on the first ________ in a very busy city street.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "storey"
+      },
+      {
+        "B": "road"
+      },
+      {
+        "C": "street"
+      },
+      {
+        "D": "landscape"
+      },
+      {
+        "E": "take"
+      }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "Right outside my window there is a pedestrian ________ at the ________ lights.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "crossing, traffic"
+      },
+      {
+        "B": "take,  bins"
+      },
+      {
+        "C": "storey , at"
+      },
+      {
+        "D": "street,  crossing"
+      },
+      {
+        "E": "road , street"
+      }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "I can also see ________ lamps, rubbish ________ and ________ signs.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "street ,bins, road"
+      },
+      {
+        "B": "road ,storey, landscape"
+      },
+      {
+        "C": "bins ,street ,traffic"
+      },
+      {
+        "D": "traffic, landscape, at"
+      },
+      {
+        "E": "take ,bins ,crossing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "It’s not a very attractive view, but I love watching the tourists who ________ the train here to see the famous ________ attraction that is just down the street",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "take ,tourist"
+      },
+      {
+        "B": "landscape, crossing"
+      },
+      {
+        "C": "street, traffic"
+      },
+      {
+        "D": "road, tourist"
+      },
+      {
+        "E": "traffic,  at"
+      }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Complete the sentence.",
+    "questionDown": "It’s called the British Museum. People from all over the world come to marvel ________ its famous exhibits.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "at"
+      },
+      {
+        "B": "traffic"
+      },
+      {
+        "C": "road"
+      },
+      {
+        "D": "storey"
+      },
+      {
+        "E": "tourist"
+      }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Choose the correct degrees of adjectives .",
+    "questionDown": "Andrew doesn’t like ________ cities",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "big"
+      },
+      {
+        "B": "a big"
+      },
+      {
+        "C": "a small"
+      },
+      {
+        "D": "the big"
+      },
+      {
+        "E": "the small"
+      }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Choose the correct degrees of adjectives .",
+    "questionDown": "He lives in ________ town.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a small"
+      },
+      {
+        "B": "big"
+      },
+      {
+        "C": "an big"
+      },
+      {
+        "D": "an small"
+      },
+      {
+        "E": "an hursh"
+      }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Choose correct the word.",
+    "questionDown": "There are ________ beautiful old buildings in _______.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "some , the  town"
+      },
+      {
+        "B": "a some , town"
+      },
+      {
+        "C": "some, town"
+      },
+      {
+        "D": "some , a town"
+      },
+      {
+        "E": "any, town"
+      }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Choose correct the word.",
+    "questionDown": "________ tourists go there in the summer.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a lot of"
+      },
+      {
+        "B": "a little"
+      },
+      {
+        "C": "much"
+      },
+      {
+        "D": "little"
+      },
+      {
+        "E": "a many"
+      }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Choose correct the word.",
+    "questionDown": "There aren’t ________ cars in the centre  of the town",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "any"
+      },
+      {
+        "B": "some"
+      },
+      {
+        "C": "much"
+      },
+      {
+        "D": "a little"
+      },
+      {
+        "E": "something"
+      }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Choose correct the word.",
+    "questionDown": "There  isn’t ________ noise.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "much"
+      },
+      {
+        "B": "many"
+      },
+      {
+        "C": "few"
+      },
+      {
+        "D": "some"
+      },
+      {
+        "E": "no"
+      }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Choose correct the word.",
+    "questionDown": "All the cafés have ________ tables outside for people to enjoy ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a few, the sun"
+      },
+      {
+        "B": "much , the sun"
+      },
+      {
+        "C": "little ,  sun"
+      },
+      {
+        "D": "a little sun"
+      },
+      {
+        "E": "a lot ,sun"
+      }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Choose correct the word.",
+    "questionDown": "There aren’t ________ houses for sale in Andrew’s town because everybody wants to live there",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "many"
+      },
+      {
+        "B": "much"
+      },
+      {
+        "C": "little"
+      },
+      {
+        "D": "a lot"
+      },
+      {
+        "E": "some"
+      }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "My grandfather has got a farm. \nMy grandfather is ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a farmer"
+      },
+      {
+        "B": "a doctor"
+      },
+      {
+        "C": "a dentist"
+      },
+      {
+        "D": "a techer"
+      },
+      {
+        "E": "a hairdresser"
+      }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "The restaurant wasn’t busy. \nThere weren’t ________ in the restaurant.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "many people"
+      },
+      {
+        "B": "much people"
+      },
+      {
+        "C": "little people"
+      },
+      {
+        "D": "a people"
+      },
+      {
+        "E": "people"
+      }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Choose correct  quantifier",
+    "questionDown": "The theatre has got a small capacity. \n There aren’t ________ in the theatre.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "many seats"
+      },
+      {
+        "B": "much seats"
+      },
+      {
+        "C": "a seats"
+      },
+      {
+        "D": "some seats"
+      },
+      {
+        "E": "seats enough"
+      }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Choose correct quantifier.",
+    "questionDown": "There were no children in the park. \nThere weren’t ________ in the park.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "any children"
+      },
+      {
+        "B": "some children"
+      },
+      {
+        "C": "a children"
+      },
+      {
+        "D": "much children"
+      },
+      {
+        "E": "many child"
+      }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "Choose correct  quantifier.",
+    "questionDown": "The teacher didn’t give us much homework. \n The teacher gave us ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a few exercises"
+      },
+      {
+        "B": "much  exercises"
+      },
+      {
+        "C": "little exercises"
+      },
+      {
+        "D": "a lot exercises"
+      },
+      {
+        "E": "a little exercises"
+      }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Choose correct quantifier.",
+    "questionDown": "The train leaves in an hour so we’ve got ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a lot of time"
+      },
+      {
+        "B": "times"
+      },
+      {
+        "C": "a time"
+      },
+      {
+        "D": "many times"
+      },
+      {
+        "E": "few time"
+      }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Choose correct  quantifier.",
+    "questionDown": "My mum isn’t making a lot of cakes.  \nMy mum’s making ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a few cakes"
+      },
+      {
+        "B": "much cakes"
+      },
+      {
+        "C": "little cake"
+      },
+      {
+        "D": "a cakes"
+      },
+      {
+        "E": "an cake"
+      }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Choose correct  quantifier.",
+    "questionDown": "Our hotel room faced the coast. \nWe had a view of ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "the sea"
+      },
+      {
+        "B": "little"
+      },
+      {
+        "C": "many sea"
+      },
+      {
+        "D": "much seas"
+      },
+      {
+        "E": "a lot  seas"
+      }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "Choose correct  quantifier",
+    "questionDown": "There are only a few cars on the motorway.  There isn’t ________ on the motorway.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "much traffic"
+      },
+      {
+        "B": "a lot traffic"
+      },
+      {
+        "C": "some traffics"
+      },
+      {
+        "D": "many traffices"
+      },
+      {
+        "E": "no traffics"
+      }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "My brother has an uncommon talent for mathematics. My brother has an ________ talent for mathematics.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "exceptional"
+      },
+      {
+        "B": "distressed"
+      },
+      {
+        "C": "outstanding"
+      },
+      {
+        "D": "intense"
+      },
+      {
+        "E": "countless"
+      }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "The weather was awful on Friday – it rained all day. The weather was ________ on Friday – it rained all day.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "dreadful"
+      },
+      {
+        "B": "heroic"
+      },
+      {
+        "C": "agonizing"
+      },
+      {
+        "D": "gripping"
+      },
+      {
+        "E": "terrified"
+      }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "We were extremely upset when we heard the news. We were ________ when we heard the news.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "distressed"
+      },
+      {
+        "B": "exceptional"
+      },
+      {
+        "C": "dreadful"
+      },
+      {
+        "D": "agonizing"
+      },
+      {
+        "E": "countless"
+      }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Robert made a brave attempt to rescue his sister. Robert made a ________ attempt to rescue his sister.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "heroic"
+      },
+      {
+        "B": "agonizing"
+      },
+      {
+        "C": "dreadful"
+      },
+      {
+        "D": "intense"
+      },
+      {
+        "E": "terrified"
+      }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Her exam results were extremely good.\nHer exam results were ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "outstanding"
+      },
+      {
+        "B": "dreadful"
+      },
+      {
+        "C": "countless"
+      },
+      {
+        "D": "worse"
+      },
+      {
+        "E": "calamity"
+      }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "When Rosie cut her arm, the wound was very painful. When Rosie cut her arm, the wound was ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "agonizing"
+      },
+      {
+        "B": "amazing"
+      },
+      {
+        "C": "dreadful"
+      },
+      {
+        "D": "astonishing"
+      },
+      {
+        "E": "gripping"
+      }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "I wasn’t prepared for the extreme cold in Siberia.\n I wasn’t prepared for the ________ cold in Siberia",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "intense"
+      },
+      {
+        "B": "good"
+      },
+      {
+        "C": "heroic"
+      },
+      {
+        "D": "calm"
+      },
+      {
+        "E": "agonizing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Stieg Larsson’s books are very interesting. \nStieg Larsson’s books are ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "gripping"
+      },
+      {
+        "B": "dreadful"
+      },
+      {
+        "C": "outstanding"
+      },
+      {
+        "D": "terrified"
+      },
+      {
+        "E": "intense"
+      }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "She’s asked her children an enormous number of times to tidy their rooms.\nShe’s asked her children ________ times to tidy their rooms.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "countless"
+      },
+      {
+        "B": "distressed"
+      },
+      {
+        "C": "agonizing"
+      },
+      {
+        "D": "exceptional"
+      },
+      {
+        "E": "heroic"
+      }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Richard was extremely afraid of dogs as a child. Richard was ________ of dogs as a child.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "terrified"
+      },
+      {
+        "B": "happpy"
+      },
+      {
+        "C": "exceptional"
+      },
+      {
+        "D": "outstanding"
+      },
+      {
+        "E": "countless"
+      }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Choose the correct form of the word.",
+    "questionDown": "When I read The Kite Runner, I was ________ (astound) by the _______ (loyal) that Hassan, one of the main characters, showed to his childhood friend Amir.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "astounded, loyalty"
+      },
+      {
+        "B": "loyalty, astounded"
+      },
+      {
+        "C": "astound, loyalty"
+      },
+      {
+        "D": "loyaled, astounded"
+      },
+      {
+        "E": "astounding, loyal"
+      }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Choose the correct form of the  word.",
+    "questionDown": "At first, Amir showed great ________ (patient) when he taught Hassan to read, but this didn’t last.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "patience"
+      },
+      {
+        "B": "patient"
+      },
+      {
+        "C": "an patient"
+      },
+      {
+        "D": "patiently"
+      },
+      {
+        "E": "patiented"
+      }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Choose the correct form of the  word.",
+    "questionDown": "One day, Hassan’s ________ (generous) towards Amir caused the local bully,  Assef, to set on Hassan.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "generosity"
+      },
+      {
+        "B": "generously"
+      },
+      {
+        "C": "a generosity"
+      },
+      {
+        "D": "gentle"
+      },
+      {
+        "E": "gentles"
+      }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Choose the correct form of the  word.",
+    "questionDown": "Amir saw the attack, but showed his ________ (coward) by not going to help the _______ (frighten) Hassan",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "cowardice, frightened"
+      },
+      {
+        "B": "frightened , coward"
+      },
+      {
+        "C": "cowardice, f rightenly"
+      },
+      {
+        "D": "frightened, cowardice"
+      },
+      {
+        "E": "coward,  frightened"
+      }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Choose the correct form of the  word.",
+    "questionDown": "In fact, Amir found the incident so ________ (embarrass) that he committed an act of enormous _______ (mean).",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "embarrassing, meanness"
+      },
+      {
+        "B": "meanness ,embarrassing"
+      },
+      {
+        "C": "embarrass, meanness"
+      },
+      {
+        "D": "embarrassing ,mean"
+      },
+      {
+        "E": "embarrassly, meanless"
+      }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Choose the correct form of the  word.",
+    "questionDown": "Because of Hassan’s ________ (modest), he never complained.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "modesty"
+      },
+      {
+        "B": "modest"
+      },
+      {
+        "C": "modestly"
+      },
+      {
+        "D": "a modest"
+      },
+      {
+        "E": "modesly"
+      }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Choose the correct form of the  word.",
+    "questionDown": "Amir made up for everything through his ________ (persevere) in rescuing Hassan’s son.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "perseverance"
+      },
+      {
+        "B": "persevere"
+      },
+      {
+        "C": "perseverly"
+      },
+      {
+        "D": "a persevere"
+      },
+      {
+        "E": "persevereness"
+      }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Correct the mistake in each line.",
+    "questionDown": "Tokyo and Seoul are two of the larger cities in the world.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "largest"
+      },
+      {
+        "B": "as larger"
+      },
+      {
+        "C": "large"
+      },
+      {
+        "D": "as larger as"
+      },
+      {
+        "E": "as large as"
+      }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Correct the mistake in each line",
+    "questionDown": "Tokyo has a biggest population.\nthan Seoul.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "bigger"
+      },
+      {
+        "B": "big"
+      },
+      {
+        "C": "biggest"
+      },
+      {
+        "D": "the biggest"
+      },
+      {
+        "E": "the bigger"
+      }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Correct the mistake in the line.",
+    "questionDown": "It isn’t as older as Seoul.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "old"
+      },
+      {
+        "B": "older"
+      },
+      {
+        "C": "oldest"
+      },
+      {
+        "D": "the  old"
+      },
+      {
+        "E": "as old"
+      }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Correct the mistake in the line",
+    "questionDown": "Tokyo is warmer that Seoul in the winter.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "than"
+      },
+      {
+        "B": "as"
+      },
+      {
+        "C": "at that"
+      },
+      {
+        "D": "than as"
+      },
+      {
+        "E": "the than"
+      }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Correct the mistake in the line",
+    "questionDown": "It isn’t as wet than Seoul in the summer.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "as"
+      },
+      {
+        "B": "that"
+      },
+      {
+        "C": "than"
+      },
+      {
+        "D": "as that"
+      },
+      {
+        "E": "that as"
+      }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Correct the mistake in the line",
+    "questionDown": "The Tokyo subway is one of a busiest in the world.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "the"
+      },
+      {
+        "B": "as"
+      },
+      {
+        "C": "that"
+      },
+      {
+        "D": "than"
+      },
+      {
+        "E": "as that"
+      }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Correct the mistake in the line",
+    "questionDown": "Incheon Airport in Seoul is the world’s better airport",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "best"
+      },
+      {
+        "B": "better"
+      },
+      {
+        "C": "the best"
+      },
+      {
+        "D": "the better"
+      },
+      {
+        "E": "good"
+      }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Correct the mistake in the line",
+    "questionDown": "Seoul is cheap than Tokyo.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "cheaper"
+      },
+      {
+        "B": "cheapest"
+      },
+      {
+        "C": "cheap"
+      },
+      {
+        "D": "as cheap"
+      },
+      {
+        "E": "cheaper as"
+      }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "correct the mistake in each line",
+    "questionDown": "Tokyo is one of the expensivest cities in the world.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "most expensive"
+      },
+      {
+        "B": "more expensive"
+      },
+      {
+        "C": "expensive"
+      },
+      {
+        "D": "expensivest"
+      },
+      {
+        "E": "as expensive"
+      }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Correct the mistake in the line",
+    "questionDown": "Workers in Tokyo earn the higher salaries too.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "highest"
+      },
+      {
+        "B": "higher"
+      },
+      {
+        "C": "as highest"
+      },
+      {
+        "D": "highest as"
+      },
+      {
+        "E": "high"
+      }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "Greece is hotter than Italy.\nItaly isn’t ________ ________ ________ Greece.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "as hot as"
+      },
+      {
+        "B": "as hot"
+      },
+      {
+        "C": "hotter"
+      },
+      {
+        "D": "hotest"
+      },
+      {
+        "E": "the hottest"
+      }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "These trousers aren’t long enough for me.\nThese trousers ____  ____ ___ for me.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "are too short"
+      },
+      {
+        "B": "are too shorttter"
+      },
+      {
+        "C": "short"
+      },
+      {
+        "D": "the shortest"
+      },
+      {
+        "E": "is shot"
+      }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "Lagos and Kinshasa aren’t as big as Cairo.\nCairo ________ ________ ________ Lagos and Kinshasa.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "is bigger than"
+      },
+      {
+        "B": "is than"
+      },
+      {
+        "C": "biggest"
+      },
+      {
+        "D": "bigger"
+      },
+      {
+        "E": "are bigger"
+      }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "Kevin isn’t well enough to go to work.\nKevin ________ ________ ________ to go to work.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "is too ill"
+      },
+      {
+        "B": "are ill"
+      },
+      {
+        "C": "ill"
+      },
+      {
+        "D": "more ill"
+      },
+      {
+        "E": "most iller"
+      }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "Travelling by car isn’t as safe as travelling by plane. Travelling by car is ________ ________ ________ travelling by plane.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "more dangerous than"
+      },
+      {
+        "B": "dangerouser  than"
+      },
+      {
+        "C": "most dangerous than"
+      },
+      {
+        "D": "as dangerous  so"
+      },
+      {
+        "E": "so more dangerous as"
+      }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "I’m too busy to help you. I haven’t ________ ________ ________ to help you.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "got enough time"
+      },
+      {
+        "B": "get enough time"
+      },
+      {
+        "C": "enough time"
+      },
+      {
+        "D": "enough"
+      },
+      {
+        "E": "gets enough time"
+      }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "It’s too cold to go to the beach.\nIt isn’t ________ ________ ________ go to the beach.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "hot / warm enough to"
+      },
+      {
+        "B": "more hot / warm enough"
+      },
+      {
+        "C": "most hot / warm enough to"
+      },
+      {
+        "D": "most hot / warmest"
+      },
+      {
+        "E": "hot / warmest"
+      }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "Fruit is healthier than ice cream.\nIce cream isn’t ________ ________ ________ fruit.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "as healthy as"
+      },
+      {
+        "B": "as healthy so"
+      },
+      {
+        "C": "healthy so"
+      },
+      {
+        "D": "not  healthy"
+      },
+      {
+        "E": "healthy than"
+      }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "Football isn’t as interesting as basketball.\nBasketball is ________ ________ ________ football.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "more interesting than"
+      },
+      {
+        "B": "most interesting than"
+      },
+      {
+        "C": "most interestinger than"
+      },
+      {
+        "D": "as interesting than"
+      },
+      {
+        "E": "interestingly  than"
+      }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Complete the second sentence with three words.",
+    "questionDown": "There isn’t enough space in his office for the meeting. His office ________ ________ ________ for the meeting.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "is too small"
+      },
+      {
+        "B": "are too small"
+      },
+      {
+        "C": "too small"
+      },
+      {
+        "D": "smaller"
+      },
+      {
+        "E": "smallest"
+      }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "The Eiffel Tower dominates the Paris ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "skyline"
+      },
+      {
+        "B": "Lighthouses"
+      },
+      {
+        "C": "headquarters"
+      },
+      {
+        "D": "earthquake"
+      },
+      {
+        "E": "housekeeper"
+      }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Choose the correct word",
+    "questionDown": "The Empire State Building is a familiar ________ in New York.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "landmark"
+      },
+      {
+        "B": "oilfield"
+      },
+      {
+        "C": "woodland"
+      },
+      {
+        "D": "boardroom"
+      },
+      {
+        "E": "housekeeper"
+      }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Choose the correct word",
+    "questionDown": "________ warn ships about dangerous rocks near the coast.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Lighthouses"
+      },
+      {
+        "B": "headquarters"
+      },
+      {
+        "C": "woods"
+      },
+      {
+        "D": "boardroom"
+      },
+      {
+        "E": "charity shop"
+      }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Choose the correct word",
+    "questionDown": "A new ________ has been found near the coast of Brazil.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "oilfield"
+      },
+      {
+        "B": "landmark"
+      },
+      {
+        "C": "earthquake"
+      },
+      {
+        "D": "housekeeper"
+      },
+      {
+        "E": "woodland"
+      }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Choose the correct word",
+    "questionDown": "Vodaphone’s UK ________ are in Newbury.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "headquarters"
+      },
+      {
+        "B": "housekeeper"
+      },
+      {
+        "C": "earthquake"
+      },
+      {
+        "D": "skyline"
+      },
+      {
+        "E": "boardroom"
+      }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Choose the correct word",
+    "questionDown": "Some ancient ________ caught fire last weekend, destroying thousands of trees.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "woodland"
+      },
+      {
+        "B": "housekeeper"
+      },
+      {
+        "C": "boardroom"
+      },
+      {
+        "D": "skyline"
+      },
+      {
+        "E": "charity shop"
+      }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Choose the correct word",
+    "questionDown": "The ________ in Samoa registered seven on the Richter scale.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "earthquake"
+      },
+      {
+        "B": "skyline"
+      },
+      {
+        "C": "landmark"
+      },
+      {
+        "D": "boardroom"
+      },
+      {
+        "E": "oilfield"
+      }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Choose the correct word",
+    "questionDown": "We have a ________ who cleans and takes care of our home.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "housekeeper"
+      },
+      {
+        "B": "landmark"
+      },
+      {
+        "C": "skyline"
+      },
+      {
+        "D": "earthquake"
+      },
+      {
+        "E": "woodland"
+      }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Choose the correct word",
+    "questionDown": "We emptied the wardrobe and took all the old clothes to the ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "charity shop"
+      },
+      {
+        "B": "headquarters"
+      },
+      {
+        "C": "Lighthouses"
+      },
+      {
+        "D": "woodland"
+      },
+      {
+        "E": "boardroom"
+      }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Felicity’s boss paid her on Friday. First of all, she paid her rent to her ________ lord.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "land"
+      },
+      {
+        "B": "window"
+      },
+      {
+        "C": "store"
+      },
+      {
+        "D": "clothes"
+      },
+      {
+        "E": "price"
+      }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Then she went ________ shopping, planning what to buy.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "window"
+      },
+      {
+        "B": "clothes"
+      },
+      {
+        "C": "shop"
+      },
+      {
+        "D": "up"
+      },
+      {
+        "E": "food"
+      }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "After that, she went into a department ________ to buy a coat.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "store"
+      },
+      {
+        "B": "news"
+      },
+      {
+        "C": "cash"
+      },
+      {
+        "D": "price"
+      },
+      {
+        "E": "land"
+      }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "The coats were on a ________ rail in the women’s department.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "clothes"
+      },
+      {
+        "B": "shop"
+      },
+      {
+        "C": "cash"
+      },
+      {
+        "D": "up"
+      },
+      {
+        "E": "price"
+      }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "She looked at the ________ tags, but they were all too expensive.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "price"
+      },
+      {
+        "B": "news"
+      },
+      {
+        "C": "land"
+      },
+      {
+        "D": "window"
+      },
+      {
+        "E": "clothes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "So she went to the 6________ counter to buy something to eat for dinner.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "food"
+      },
+      {
+        "B": "news"
+      },
+      {
+        "C": "up"
+      },
+      {
+        "D": "up"
+      },
+      {
+        "E": "shop"
+      }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Next, she went to the _______ agent’s to buy a magazine",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "news"
+      },
+      {
+        "B": "up"
+      },
+      {
+        "C": "window"
+      },
+      {
+        "D": "clothes"
+      },
+      {
+        "E": "food"
+      }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "there were too many people queuing ________ at the _______ till.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "up, cash"
+      },
+      {
+        "B": "food store"
+      },
+      {
+        "C": "shop, up"
+      },
+      {
+        "D": "store, window"
+      },
+      {
+        "E": "clothes, food"
+      }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "She went to the corner _______ to buy some bread. It was shut!",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "shop"
+      },
+      {
+        "B": "up"
+      },
+      {
+        "C": "window"
+      },
+      {
+        "D": "price"
+      },
+      {
+        "E": "land"
+      }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "Kate and her family _______ in Kenya  _______ six months now,",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have lived, for"
+      },
+      {
+        "B": "has lived , ago"
+      },
+      {
+        "C": "lived, for"
+      },
+      {
+        "D": "lived , since"
+      },
+      {
+        "E": "have lived  ago"
+      }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "Before they moved, Kate’s husband _______ to Nairobi to find a house and a school for the children",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "flew"
+      },
+      {
+        "B": "have flown"
+      },
+      {
+        "C": "has flown"
+      },
+      {
+        "D": "had flew"
+      },
+      {
+        "E": "flowns"
+      }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "He _______ a house immediately",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "rented"
+      },
+      {
+        "B": "have rented"
+      },
+      {
+        "C": "has rent"
+      },
+      {
+        "D": "were rented"
+      },
+      {
+        "E": "has be rent"
+      }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "There ________ many schools to choose from.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "weren’t"
+      },
+      {
+        "B": "wasn’t"
+      },
+      {
+        "C": "haven’t"
+      },
+      {
+        "D": "hasn’t been"
+      },
+      {
+        "E": "have is"
+      }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "The children ________ school last September, but they don’t like it very much.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "started"
+      },
+      {
+        "B": "have started"
+      },
+      {
+        "C": "has started"
+      },
+      {
+        "D": "will start"
+      },
+      {
+        "E": "starting"
+      }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "They ________ happier in their old school.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "were"
+      },
+      {
+        "B": "was"
+      },
+      {
+        "C": "have"
+      },
+      {
+        "D": "has"
+      },
+      {
+        "E": "being"
+      }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "The house _______ running water ________ August",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "hasn’t had ,  since"
+      },
+      {
+        "B": "hasn’t had,  ago"
+      },
+      {
+        "C": "didn’t have\t,  for"
+      },
+      {
+        "D": "haven’t , since"
+      },
+      {
+        "E": "didn’t has, ago"
+      }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "the people are very kind, and they 10________ a lot of new friends.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have made"
+      },
+      {
+        "B": "made"
+      },
+      {
+        "C": "has made"
+      },
+      {
+        "D": "makeing"
+      },
+      {
+        "E": "mades"
+      }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "We moved here in 2005. We ________here since 2005.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have lived"
+      },
+      {
+        "B": "has lived"
+      },
+      {
+        "C": "live"
+      },
+      {
+        "D": "lives"
+      },
+      {
+        "E": "living"
+      }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "I can’t find my mobile phone. \nI________ my mobile phone.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have lost"
+      },
+      {
+        "B": "has lost"
+      },
+      {
+        "C": "losted"
+      },
+      {
+        "D": "losts"
+      },
+      {
+        "E": "losting"
+      }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "My parents aren’t here. They’re at the supermarket.  My parents ____________to the supermarket",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have gone"
+      },
+      {
+        "B": "has gone"
+      },
+      {
+        "C": "have going"
+      },
+      {
+        "D": "gone"
+      },
+      {
+        "E": "goes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "My brother bought his car two months ago. My brother  _______ his car for two months.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "has had"
+      },
+      {
+        "B": "have had"
+      },
+      {
+        "C": "having"
+      },
+      {
+        "D": "have"
+      },
+      {
+        "E": "has have"
+      }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "When did your sister get married? \nHow  long  __your sister ____married?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "has been"
+      },
+      {
+        "B": "have been"
+      },
+      {
+        "C": "had b"
+      },
+      {
+        "D": "have"
+      },
+      {
+        "E": "have had"
+      }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "Have you ridden a horse before? \n ___ you ever   ________ a horse?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have ridden"
+      },
+      {
+        "B": "has  riden"
+      },
+      {
+        "C": "has ride"
+      },
+      {
+        "D": "rodden"
+      },
+      {
+        "E": "riddens"
+      }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "Josh went to the gym earlier, but he’s come back home now. Josh _____________to the gym",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "has been"
+      },
+      {
+        "B": "have been"
+      },
+      {
+        "C": "had  be"
+      },
+      {
+        "D": "been"
+      },
+      {
+        "E": "was been"
+      }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "I met Sarah six years ago. \nI __________ Sarah for\nsix years.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have known"
+      },
+      {
+        "B": "has known"
+      },
+      {
+        "C": "known"
+      },
+      {
+        "D": "having known"
+      },
+      {
+        "E": "have knowing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Choose  the correct word.",
+    "questionDown": "The doctor ________ some tablets for my throat infection yesterday.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "prescribed"
+      },
+      {
+        "B": "diagnosed"
+      },
+      {
+        "C": "deleted"
+      },
+      {
+        "D": "to cure"
+      },
+      {
+        "E": "recorded"
+      }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Choose the  correct word.",
+    "questionDown": "I forgot ________ my phone last night so I couldn’t call you.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "to charge"
+      },
+      {
+        "B": "to cure"
+      },
+      {
+        "C": "iagnosed"
+      },
+      {
+        "D": "predict"
+      },
+      {
+        "E": "switch on"
+      }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Some people believe that doctors will never be able ________ diseases like cancer.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "to cure"
+      },
+      {
+        "B": "prescribed"
+      },
+      {
+        "C": "predict"
+      },
+      {
+        "D": "pause"
+      },
+      {
+        "E": "reboot"
+      }
+    ]
+  },
+  {
+    "questionNumber": 176.1,
+    "questionUp": "Choose the  correct word.",
+    "questionDown": "Don’t forget to ________ your computer after you install that new software.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "reboot"
+      },
+      {
+        "B": "diagnosed"
+      },
+      {
+        "C": "switch on"
+      },
+      {
+        "D": "predict"
+      },
+      {
+        "E": "recorded"
+      }
+    ]
+  },
+  {
+    "questionNumber": 176.2,
+    "questionUp": "Choose  the correct word.",
+    "questionDown": "My sister got very ill in Africa. When she came back, the doctors ________ a rare tropical disease.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "diagnosed"
+      },
+      {
+        "B": "predict"
+      },
+      {
+        "C": "reboot"
+      },
+      {
+        "D": "prescribed"
+      },
+      {
+        "E": "recorded"
+      }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "‘How do you ________ this phone?’ ‘Press that button there!’",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "switch on"
+      },
+      {
+        "B": "predict"
+      },
+      {
+        "C": "recorded"
+      },
+      {
+        "D": "pause"
+      },
+      {
+        "E": "reboot"
+      }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Choose the  correct word.",
+    "questionDown": "No one can ________ what new technology will be invented in the future.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "predict"
+      },
+      {
+        "B": "switch on"
+      },
+      {
+        "C": "prescribed"
+      },
+      {
+        "D": "pause"
+      },
+      {
+        "E": "recorded"
+      }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Choose the  correct word.",
+    "questionDown": "Boys, ________ the DVD now. Dinner’s on the table!",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "pause"
+      },
+      {
+        "B": "deleted"
+      },
+      {
+        "C": "reboot"
+      },
+      {
+        "D": "to cure"
+      },
+      {
+        "E": "predict"
+      }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Choose  the correct word.",
+    "questionDown": "I went out last night, so I ________ my favourite TV programme to watch tonight.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "recorded"
+      },
+      {
+        "B": "to cure"
+      },
+      {
+        "C": "deleted"
+      },
+      {
+        "D": "to charge"
+      },
+      {
+        "E": "prescribed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "On no! I think I’ve just ________ all myMP3 files from my laptop by mistake!",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "deleted"
+      },
+      {
+        "B": "reboot"
+      },
+      {
+        "C": "diagnosed"
+      },
+      {
+        "D": "predict"
+      },
+      {
+        "E": "pause"
+      }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Technology never stops changing. In the past, people used to entertain themselves with ________ radios and the only way to communicate over long distances was by ________",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "crystal, telegraph"
+      },
+      {
+        "B": "players, video"
+      },
+      {
+        "C": "digital, camcorder"
+      },
+      {
+        "D": "camcorder, plug"
+      },
+      {
+        "E": "crystal, video"
+      }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Now, we have 3________ radios.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "DAB"
+      },
+      {
+        "B": "games"
+      },
+      {
+        "C": "camcorder"
+      },
+      {
+        "D": "plug"
+      },
+      {
+        "E": "save"
+      }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "She has ¬¬¬¬¬  CD ________ and _______ consoles.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "players, games"
+      },
+      {
+        "B": "crystal, players"
+      },
+      {
+        "C": "players, games"
+      },
+      {
+        "D": "games, crystal"
+      },
+      {
+        "E": "plug, DAB"
+      }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "We use mobile phones to speak to each other, and many of them now have 7________ cameras.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "digital"
+      },
+      {
+        "B": "camcorder"
+      },
+      {
+        "C": "plug"
+      },
+      {
+        "D": "save"
+      },
+      {
+        "E": "crystal"
+      }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "Every month, I use my _______ to record a video message for my cousins in Australia.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "camcorder"
+      },
+      {
+        "B": "digital"
+      },
+      {
+        "C": "crystal"
+      },
+      {
+        "D": "save"
+      },
+      {
+        "E": "DAB"
+      }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "There’s something wrong with my MP3 player, though. Every time I _______ it in to my laptop, my laptop crashes",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "plug"
+      },
+      {
+        "B": "DAB"
+      },
+      {
+        "C": "video"
+      },
+      {
+        "D": "crystal"
+      },
+      {
+        "E": "players"
+      }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Choose the correct word.",
+    "questionDown": "I can’t ________ any MP3 files. My grandad says I should use a gramophone instead",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "save"
+      },
+      {
+        "B": "plug"
+      },
+      {
+        "C": "digital"
+      },
+      {
+        "D": "camcorder"
+      },
+      {
+        "E": "players"
+      }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Choose the correct  tense form.",
+    "questionDown": "Maisie going to stay in tonight.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "is going to"
+      },
+      {
+        "B": "are going to"
+      },
+      {
+        "C": "is gone to"
+      },
+      {
+        "D": "was going to"
+      },
+      {
+        "E": "is goes to"
+      }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "She isn’t sure what she’s ______ .",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "going to do"
+      },
+      {
+        "B": "go do"
+      },
+      {
+        "C": "gone doing"
+      },
+      {
+        "D": "going to done"
+      },
+      {
+        "E": "going to doing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "The pan in the kitchen caught fire, so my mum quickly ________ it with water",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "doused"
+      },
+      {
+        "B": "respect"
+      },
+      {
+        "C": "relieve"
+      },
+      {
+        "D": "Elderly"
+      },
+      {
+        "E": "chased"
+      }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "In Japan, bowing is a sign of ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "respect"
+      },
+      {
+        "B": "Elderly"
+      },
+      {
+        "C": "steep"
+      },
+      {
+        "D": "soared"
+      },
+      {
+        "E": "relieve"
+      }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "In the UK, people usually ________ a little milk in their tea.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "pour"
+      },
+      {
+        "B": "relieve"
+      },
+      {
+        "C": "Elderly"
+      },
+      {
+        "D": "respect"
+      },
+      {
+        "E": "chased"
+      }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "Putting ice on an injury is a good way to ________ the pain.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "relieve"
+      },
+      {
+        "B": "Elderly"
+      },
+      {
+        "C": "steep"
+      },
+      {
+        "D": "soared"
+      },
+      {
+        "E": "protests"
+      }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "________ people are often more traditional. For example, my grandmother",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Elderly"
+      },
+      {
+        "B": "relieve"
+      },
+      {
+        "C": "steep"
+      },
+      {
+        "D": "respect"
+      },
+      {
+        "E": "soared"
+      }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "Mark is very brave. After the thieves stole his wallet, he ________ them down the street!",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "chased"
+      },
+      {
+        "B": "Elderly"
+      },
+      {
+        "C": "chased"
+      },
+      {
+        "D": "protests"
+      },
+      {
+        "E": "doused"
+      }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "I’m not fit enough to cycle up that hill. It’s far too ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "steep"
+      },
+      {
+        "B": "respect"
+      },
+      {
+        "C": "relieve"
+      },
+      {
+        "D": "steep"
+      },
+      {
+        "E": "soared"
+      }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "The wind blew my uncle’s hat off his head and it ________ away over a wall.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "soared"
+      },
+      {
+        "B": "protests"
+      },
+      {
+        "C": "chased"
+      },
+      {
+        "D": "respect"
+      },
+      {
+        "E": "Elderly"
+      }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "People were really upset after they banned the fireworks festival. There were a lot of ________ about it.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "protests"
+      },
+      {
+        "B": "relieve"
+      },
+      {
+        "C": "respect"
+      },
+      {
+        "D": "steep"
+      },
+      {
+        "E": "soared"
+      }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "They need volunteers to help organize the town parade next month. Shall we ________?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "sign up"
+      },
+      {
+        "B": "respect"
+      },
+      {
+        "C": "chased"
+      },
+      {
+        "D": "Elderly"
+      },
+      {
+        "E": "relieve"
+      }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Complete the sentences with the correct form of a word .",
+    "questionDown": "They moved people from the area because of the\nfire. They ________ the area because of the fire.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "evacuated"
+      },
+      {
+        "B": "dripping"
+      },
+      {
+        "C": "disease"
+      },
+      {
+        "D": "floods"
+      },
+      {
+        "E": "fortnight"
+      }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Complete the sentences with the correct form of a word .",
+    "questionDown": "Doctors are trying to stop the illness from spreading. Doctors are trying to stop the ________ from spreading.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "disease"
+      },
+      {
+        "B": "floods"
+      },
+      {
+        "C": "chunk"
+      },
+      {
+        "D": "dripping"
+      },
+      {
+        "E": "decade"
+      }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "We turned off the tap, but water was still falling from it.\nWe turned off the tap, but water was still ________ from it.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "dripping"
+      },
+      {
+        "B": "floods"
+      },
+      {
+        "C": "evacuated"
+      },
+      {
+        "D": "fortnight"
+      },
+      {
+        "E": "chunk"
+      }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "Their garden fills with water every time it rains.\nTheir garden ________ every time it rains.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "floods"
+      },
+      {
+        "B": "disease"
+      },
+      {
+        "C": "evacuated"
+      },
+      {
+        "D": "spill"
+      },
+      {
+        "E": "fortnight"
+      }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Complete the sentences with the correct form of a word from the box.",
+    "questionDown": "Charities are collecting money for the victims of the lack of water.\nCharities are collecting money for the victims of the ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "drought"
+      },
+      {
+        "B": "dripping"
+      },
+      {
+        "C": "floods"
+      },
+      {
+        "D": "chunk"
+      },
+      {
+        "E": "fortnight"
+      }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Complete the sentences with the correct form of a word .",
+    "questionDown": "There is an avalanche in the area every ten years.\nThere is an avalanche in the area every ________.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "decade"
+      },
+      {
+        "B": "evacuated"
+      },
+      {
+        "C": "disease"
+      },
+      {
+        "D": "dripping"
+      },
+      {
+        "E": "fortnight"
+      }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Complete the sentences with the correct form of a word .",
+    "questionDown": "He was furious when his son made him drop coffee on his laptop.\nHe was furious when his son made him ________ coffee on his laptop.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "spill"
+      },
+      {
+        "B": "disease"
+      },
+      {
+        "C": "floods"
+      },
+      {
+        "D": "dripping"
+      },
+      {
+        "E": "chunk"
+      }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Complete the sentences with the correct form of a word .",
+    "questionDown": "A large piece of falling rock just missed their car.\nA ________ of falling rock just missed their car.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "chunk"
+      },
+      {
+        "B": "disease"
+      },
+      {
+        "C": "floods"
+      },
+      {
+        "D": "evacuated"
+      },
+      {
+        "E": "dripping"
+      }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Complete the sentences with the correct form of a word .",
+    "questionDown": "If the volcano explodes, this village will be in danger.\nIf the volcano ________, this village will be in danger.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "erupts"
+      },
+      {
+        "B": "floods"
+      },
+      {
+        "C": "chunk"
+      },
+      {
+        "D": "evacuated"
+      },
+      {
+        "E": "spill"
+      }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Complete the sentences with the correct form of a word .",
+    "questionDown": "Last year we spent two weeks in the Greek\nislands.\nLast year we spent a ________ in the Greek islands.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "fortnight"
+      },
+      {
+        "B": "disease"
+      },
+      {
+        "C": "floods"
+      },
+      {
+        "D": "chunk"
+      },
+      {
+        "E": "evacuated"
+      }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "This coffee is too sweet. There is … sugar  in it.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "too much"
+      },
+      { "B": "several" },
+      {
+        "C": "little"
+      },
+      { "D": "a lot" },
+      {
+        "E": "else"
+      }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We needn’t take the porter. We have … luggage.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "little"
+      },
+      {
+        "B": "a little"
+      },
+      {
+        "C": "much"
+      },
+      { "D": "several" },
+      {
+        "E": "enough"
+      }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "I don't think Jill would be a good teacher. She's got … patience.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "so little"
+      },
+      {
+        "B": "too few"
+      },
+      {
+        "C": "so a lot of"
+      },
+      {
+        "D": "too many"
+      },
+      {
+        "E": "too much"
+      }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "There was … noise because it was … big party.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a lot of, such a"
+      },
+      {
+        "B": "little, so"
+      },
+      {
+        "C": "much, so"
+      },
+      {
+        "D": "much, such"
+      },
+      {
+        "E": "a lot, so"
+      }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "With hard work and … luck nothing can stop you in your way to success.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a little"
+      },
+      {
+        "B": "many"
+      },
+      {
+        "C": "several"
+      },
+      {
+        "D": "few"
+      },
+      {
+        "E": "a lot"
+      }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "It’s difficult to understand her because she speaks … quickly.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "so"
+      },
+      {
+        "B": "many"
+      },
+      {
+        "C": "enough"
+      },
+      {
+        "D": "such"
+      },
+      {
+        "E": "a lot of"
+      }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "This girl works very … that’s why she knows everything.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "much"
+      },
+      {
+        "B": "little"
+      },
+      {
+        "C": "many"
+      },
+      {
+        "D": "a little"
+      },
+      {
+        "E": "few"
+      }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The theatre was almost empty. There were … people there.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "few"
+      },
+      {
+        "B": "a few"
+      },
+      {
+        "C": "enough"
+      },
+      {
+        "D": "a lot of"
+      },
+      {
+        "E": "much"
+      }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ate so … ice cream that she had a sore throat.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "much"
+      },
+      { "B": "many" },
+      { "C": "few" },
+      {
+        "D": "little"
+      },
+      { "E": "a little" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Children like this book. There are … pictures in it.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "many"
+      },
+      {
+        "B": "a lot"
+      },
+      {
+        "C": "few"
+      },
+      {
+        "D": "so a lot of"
+      },
+      {
+        "E": "a little"
+      }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Though it is a densely populated city, there are surprisingly … people seen on the streets.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "few"
+      },
+      { "B": "a little" },
+      { "C": "little" },
+      {
+        "D": "many"
+      },
+      { "E": "much" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "David is so tired today. So he can’t pay … attention to his lessons.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "much"
+      },
+      {
+        "B": "little"
+      },
+      {
+        "C": "several"
+      },
+      {
+        "D": "few"
+      },
+      {
+        "E": "many"
+      }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "It’s been a poor summer. We haven’t had … good weather.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "much"
+      },
+      { "B": "few" },
+      { "C": "little" },
+      {
+        "D": "many"
+      },
+      { "E": "a lot" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We haven’t got … petrol. We need to stop and get some.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "much"
+      },
+      { "B": "little" },
+      { "C": "several" },
+      {
+        "D": "a lot"
+      },
+      { "E": "few" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He’s rude and arrogant and that’s why he has … friends.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "few"
+      },
+      { "B": "plenty of" },
+      { "C": "a few" },
+      {
+        "D": "many"
+      },
+      { "E": "a lot" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "Are you interested … Mathematics or Literature?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "in"
+      },
+      { "B": "of" },
+      { "C": "for" },
+      { "D": "at" },
+      { "E": "by" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "That sweet little girl suffers … cancer.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "from"
+      },
+      { "B": "for" },
+      { "C": "with" },
+      { "D": "in" },
+      { "E": "at" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "1. Pessimism is bad … your health. 2. Is this luxurious house really … rent?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for"
+      },
+      { "B": "from" },
+      { "C": "on" },
+      { "D": "with" },
+      { "E": "at" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "Fred has been … holiday … Canada … 2 weeks.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "on, in, for"
+      },
+      {
+        "B": "on, in, since"
+      },
+      {
+        "C": "in, in, since"
+      },
+      {
+        "D": "in, in, for"
+      },
+      {
+        "E": "on, on, for"
+      }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "Don’t sit … the table! Sit … the table as our precious guests.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "on, at"
+      },
+      {
+        "B": "in, at"
+      },
+      {
+        "C": "under, above"
+      },
+      {
+        "D": "on, in"
+      },
+      {
+        "E": "in, on"
+      }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "… most countries people drive … the right.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "in, On"
+      },
+      {
+        "B": "In, at"
+      },
+      {
+        "C": "In, in"
+      },
+      {
+        "D": "At, on"
+      },
+      {
+        "E": "In, at"
+      }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "The old lady spends most of her time sitting … the window and looking … it.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "by, out of"
+      },
+      {
+        "B": "by, like"
+      },
+      {
+        "C": "on, for"
+      },
+      {
+        "D": "at, at"
+      },
+      {
+        "E": "by, in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "I’ll be able to meet you … the corner of the street … 11 … Monday.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "at, at, on"
+      },
+      {
+        "B": "in, at, in"
+      },
+      {
+        "C": "in, in, on"
+      },
+      {
+        "D": "in, at, on"
+      },
+      {
+        "E": "on, at, in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "She was very angry ... me because I had dropped the letter ... the wrong box.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "with, into"
+      },
+      { "B": "for, to" },
+      { "C": "to, into" },
+      {
+        "D": "with, to"
+      },
+      { "E": "into, with" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "Our teacher divided ... us ... small groups ... last Sunday.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "-, into, -"
+      },
+      {
+        "B": "–, into, on"
+      },
+      {
+        "C": "–, to, in"
+      },
+      {
+        "D": "–, –, –"
+      },
+      {
+        "E": "–, into, at"
+      }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "I didn’t want to sit … the armchair because she was sitting … the sofa.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "in, on"
+      },
+      {
+        "B": "at, at"
+      },
+      {
+        "C": "in, at"
+      },
+      {
+        "D": "in, at"
+      },
+      {
+        "E": "on, in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "… Canada the children used to stand … the corner of the room if they were noisy … the class.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "in, in, in"
+      },
+      {
+        "B": "On, in, at"
+      },
+      {
+        "C": "In, at, in"
+      },
+      {
+        "D": "at, in, on"
+      },
+      {
+        "E": "In, at, in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "Don’t forget to put your clothes … the right cupboard and also … the right shelves.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "in, on"
+      },
+      { "B": "in, at" },
+      { "C": "at, on" },
+      {
+        "D": "on, on"
+      },
+      { "E": "at, at" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Choose the correct preposition.",
+    "questionDown": "Everybody in the room was sitting … the table and waiting … the lunch.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "at, for"
+      },
+      { "B": "at, with" },
+      { "C": "on, for" },
+      {
+        "D": "on, with"
+      },
+      { "E": "at, –" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "If you have a problem with your computer hardware, call the ____ technician.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "support"
+      },
+      {
+        "B": "clients"
+      },
+      {
+        "C": "check"
+      },
+      {
+        "D": "agenda"
+      },
+      {
+        "E": "diagnose"
+      }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "I ____ my emails twice a day to see if anyone has sent me a message.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "check"
+      },
+      {
+        "B": "support"
+      },
+      {
+        "C": "clients"
+      },
+      {
+        "D": "characters"
+      },
+      {
+        "E": "diagnose"
+      }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "First, ____ the problem. Then solve it.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "diagnose"
+      },
+      {
+        "B": "support"
+      },
+      {
+        "C": "agenda"
+      },
+      {
+        "D": "check"
+      },
+      {
+        "E": "provide"
+      }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "In our company we ____ support to users of all kinds of operating systems.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "provide"
+      },
+      {
+        "B": "characters"
+      },
+      {
+        "C": "support"
+      },
+      {
+        "D": "clients"
+      },
+      {
+        "E": "occasionally"
+      }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "Make sure you read the ____ before the meeting so that you know what we’ll talk about.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "agenda"
+      },
+      {
+        "B": "support"
+      },
+      {
+        "C": "characters"
+      },
+      {
+        "D": "diagnose"
+      },
+      {
+        "E": "provide"
+      }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "I travel a lot in my role as salesperson because my company has many ____ in different countries.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "clients"
+      },
+      {
+        "B": "agenda"
+      },
+      {
+        "C": "support"
+      },
+      {
+        "D": "occasionally"
+      },
+      {
+        "E": "characters"
+      }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "Passwords must be eight or more ____ long, including both letters and numbers.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "characters"
+      },
+      {
+        "B": "agenda"
+      },
+      {
+        "C": "provide"
+      },
+      {
+        "D": "diagnose"
+      },
+      {
+        "E": "characters"
+      }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "I’m usually at my desk but I ____ go out to visit a supplier.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "occassionally"
+      },
+      {
+        "B": "check"
+      },
+      {
+        "C": "characters"
+      },
+      {
+        "D": "agenda"
+      },
+      {
+        "E": "provide"
+      }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "A(n) ____ looks after",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "database administrator"
+      },
+      {
+        "B": "helpdesk supervisor"
+      },
+      {
+        "C": "systems analyst"
+      },
+      {
+        "D": "software developer"
+      },
+      {
+        "E": "project manager"
+      }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "A(n)____ writes specifications for software.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "systems analyst"
+      },
+      {
+        "B": "project manager"
+      },
+      {
+        "C": "database administrator"
+      },
+      {
+        "D": "support technician"
+      },
+      {
+        "E": "helpdesk supervisor"
+      }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "A(n)____ writes specifications for software.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "systems analyst"
+      },
+      {
+        "B": "project manager"
+      },
+      {
+        "C": "database administrator"
+      },
+      {
+        "D": "support technician"
+      },
+      {
+        "E": "helpdesk supervisor"
+      }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "A(n)____ writes specifications for software.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "systems analyst"
+      },
+      {
+        "B": "project manager"
+      },
+      {
+        "C": "database administrator"
+      },
+      {
+        "D": "support technician"
+      },
+      {
+        "E": "helpdesk supervisor"
+      }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "A(n)____ manages projects.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "project manager"
+      },
+      {
+        "B": "support technician"
+      },
+      {
+        "C": "database administrator"
+      },
+      {
+        "D": "helpdesk supervisor"
+      },
+      {
+        "E": "software developer"
+      }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "A(n)____ manages a team of helpdesk workers.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "helpdesk supervisor"
+      },
+      {
+        "B": "software developer"
+      },
+      {
+        "C": "support technician"
+      },
+      {
+        "D": "systems analyst"
+      },
+      {
+        "E": "project manager"
+      }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "A(n)____ maintains computers.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "support technician"
+      },
+      {
+        "B": "helpdesk supervisor"
+      },
+      {
+        "C": "systems analyst"
+      },
+      {
+        "D": "software developer"
+      },
+      {
+        "E": "project manager"
+      }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Choose correct variant.",
+    "questionDown": "A(n)____ writes software.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "software developer"
+      },
+      {
+        "B": "project manager"
+      },
+      {
+        "C": "support technician"
+      },
+      {
+        "D": "database administrator"
+      },
+      {
+        "E": "helpdesk supervisor"
+      }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The Moon is … than The Earth.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "smaller"
+      },
+      { "B": "small" },
+      {
+        "C": "the smallest"
+      },
+      { "D": "the most small" },
+      {
+        "E": "a more small"
+      }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "For … people it is… to learn computer skills.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "younger, easier"
+      },
+      {
+        "B": "bad , easier"
+      },
+      {
+        "C": "old, more easy"
+      },
+      {
+        "D": "oldest, easiest"
+      },
+      {
+        "E": "youngest, most difficult"
+      }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "It was a very … book, … than we had expected.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "amusing,  more amusing"
+      },
+      {
+        "B": "amusing, the more amusing"
+      },
+      {
+        "C": "amusing, much amusing"
+      },
+      {
+        "D": "most amusing, more amusing"
+      },
+      {
+        "E": "more amusing, more amusing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The colour of the jacket which I bought yesterday was … than the old one.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "much darker"
+      },
+      {
+        "B": "very dark"
+      },
+      {
+        "C": "a darker"
+      },
+      {
+        "D": "more darkest"
+      },
+      {
+        "E": "more darker"
+      }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "It seems that Julia is … girl among her friends.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "the  happiest"
+      },
+      {
+        "B": "the happy"
+      },
+      {
+        "C": "the most happiest"
+      },
+      {
+        "D": "happiest"
+      },
+      {
+        "E": "happier"
+      }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Is a lake as … as a sea? No, a sea is much … .",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "big, bigger"
+      },
+      {
+        "B": "biggest, bigger"
+      },
+      {
+        "C": "biggest, more big"
+      },
+      {
+        "D": "big, biggest"
+      },
+      {
+        "E": "big, more bigger"
+      }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The lion is … animal. It is … animal in the world.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a strong , the strongest"
+      },
+      {
+        "B": "a strong, the strong"
+      },
+      {
+        "C": "stronger, strongest"
+      },
+      {
+        "D": "strong, the strong"
+      },
+      {
+        "E": "a strong, much strong"
+      }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "Mr. Smith still … heating oil from that company every year.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "buys"
+      },
+      {
+        "B": "bought"
+      },
+      {
+        "C": "will buy"
+      },
+      {
+        "D": "would buy"
+      },
+      {
+        "E": "was buying"
+      }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "The candidates … many voters when they answered all their questions.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "impressed"
+      },
+      {
+        "B": "will impress"
+      },
+      {
+        "C": "impress"
+      },
+      {
+        "D": "would be impress"
+      },
+      {
+        "E": "impresses"
+      }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "My mother …. any gifts on her birthday yesterday.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "didn’t get"
+      },
+      {
+        "B": "got not"
+      },
+      {
+        "C": "didn’t got"
+      },
+      {
+        "D": "doesn’t get"
+      },
+      {
+        "E": "didn’t got"
+      }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "Where … this kitten?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "did she find"
+      },
+      {
+        "B": "she found"
+      },
+      {
+        "C": "did she found"
+      },
+      {
+        "D": "found she"
+      },
+      {
+        "E": "does she finds"
+      }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "During the last Ice Age, glaciers … Canada.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "covered"
+      },
+      {
+        "B": "covers"
+      },
+      {
+        "C": "cover"
+      },
+      {
+        "D": "cover"
+      },
+      {
+        "E": "would cover"
+      }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "After that earthquake last summer, millions of\npeople … their homes, unfortunately.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "lost"
+      },
+      {
+        "B": "lose"
+      },
+      {
+        "C": "would lose"
+      },
+      {
+        "D": "were losing"
+      },
+      {
+        "E": "will lose"
+      }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Don’t worry, we … the room in some minutes.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "are going to leave"
+      },
+      {
+        "B": "were gone to leave"
+      },
+      {
+        "C": "would leave"
+      },
+      {
+        "D": "left"
+      },
+      {
+        "E": "were leaving"
+      }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Choose the correct tense forms.",
+    "questionDown": "When she entered the room, I … up and … to applaud.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "stood, began"
+      },
+      {
+        "B": "were standing, began"
+      },
+      {
+        "C": "stood, begun"
+      },
+      {
+        "D": "standing, began"
+      },
+      {
+        "E": "stand, begin"
+      }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Choose the correct tense forms.",
+    "questionDown": "My girlfriend  … very well but her sister cooked \nmuch better when I … her guest.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "cooks, was"
+      },
+      {
+        "B": "cook, was cooks"
+      },
+      {
+        "C": "will cook, will be"
+      },
+      {
+        "D": "cooked, would be"
+      },
+      {
+        "E": "was cooking, am"
+      }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Don’t interrupt me, please. I … for my TESOL \nexam at the moment.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "am preparing"
+      },
+      {
+        "B": "was preparing"
+      },
+      {
+        "C": "would be preparing"
+      },
+      {
+        "D": "am preparing"
+      },
+      {
+        "E": "are prepared"
+      }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Choose the correct tense forms.",
+    "questionDown": "My mother … an analytic programme on TV,\n \twhile my sister and I … for our entrance exam.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "was watching, were preparing"
+      },
+      {
+        "B": "was watching, are preparing"
+      },
+      {
+        "C": "were watching, prepared"
+      },
+      {
+        "D": "were watching, was preparing"
+      },
+      {
+        "E": "watched, would prepare"
+      }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "Yesterday my students … an educational film about Science fiction from 9 till 10:30.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "were watching"
+      },
+      {
+        "B": "have been watching"
+      },
+      {
+        "C": "will watch"
+      },
+      {
+        "D": "was watched"
+      },
+      {
+        "E": "would have been watching"
+      }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Be careful, don’t touch this hot pan. The water … in it.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "is boiling"
+      },
+      {
+        "B": "boils"
+      },
+      {
+        "C": "will boil"
+      },
+      {
+        "D": "would boil"
+      },
+      {
+        "E": "was boiling"
+      }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Look! Jenny … a heavy box, go and help her.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "is carring"
+      },
+      {
+        "B": "was carrying"
+      },
+      {
+        "C": "will carry"
+      },
+      {
+        "D": "were carrying"
+      },
+      {
+        "E": "will be carrying"
+      }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "I didn’t enjoy the film because the people behind me … during the film in the cinema.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "were talking"
+      },
+      {
+        "B": "are talking"
+      },
+      {
+        "C": "had talked"
+      },
+      {
+        "D": "talked"
+      },
+      {
+        "E": "talk"
+      }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "It is a very pleasant fact that our country … day by day.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "is improving"
+      },
+      {
+        "B": "has improved"
+      },
+      {
+        "C": "improved"
+      },
+      {
+        "D": "improve"
+      },
+      {
+        "E": "would improve"
+      }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "I … him for a long time.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have  known"
+      },
+      {
+        "B": "had been knowing"
+      },
+      {
+        "C": "has known"
+      },
+      {
+        "D": "have knowning"
+      },
+      {
+        "E": "am knowing"
+      }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Weather usually … colder in winter.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "gets"
+      },
+      {
+        "B": "will get"
+      },
+      {
+        "C": "got"
+      },
+      {
+        "D": "get"
+      },
+      {
+        "E": "would get"
+      }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "Sue … up trial exams once a month.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "sets"
+      },
+      {
+        "B": "is setting"
+      },
+      {
+        "C": "will setting"
+      },
+      {
+        "D": "had set"
+      },
+      {
+        "E": "has set"
+      }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The last competitions … in Greece a few days ago.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "took place"
+      },
+      {
+        "B": "will take place"
+      },
+      {
+        "C": "takes place"
+      },
+      {
+        "D": "would take place"
+      },
+      {
+        "E": "had taken place"
+      }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "–Will you go to the theatre tomorrow?\n –No, I … there last Sunday.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "was"
+      },
+      { "B": "had been" },
+      {
+        "C": "were"
+      },
+      { "D": "will be" },
+      {
+        "E": "am"
+      }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Choose the correct tense forms.",
+    "questionDown": "Water… at 0 C, and … into ice.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "freezes, turns"
+      },
+      {
+        "B": "will freeze, turns"
+      },
+      {
+        "C": "freeze, turns"
+      },
+      {
+        "D": "freezes, will turn"
+      },
+      {
+        "E": "froze, turns"
+      }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Choose the correct tense form.",
+    "questionDown": "- Why is your nose bleeding?\n -  I … into the door.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "have bumped"
+      },
+      {
+        "B": "bumped"
+      },
+      {
+        "C": "had  bumped"
+      },
+      {
+        "D": "will bump"
+      },
+      {
+        "E": "has bumped"
+      }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "I … over the Caspian Sea at that time yesterday.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "was flowing"
+      },
+      {
+        "B": "had been flying"
+      },
+      {
+        "C": "were flying"
+      },
+      {
+        "D": "will fly"
+      },
+      {
+        "E": "were flying"
+      }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "I … her voice yesterday. She … my favourite song.",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "heard, was singing"
+      },
+      {
+        "B": "hear, was singing"
+      },
+      {
+        "C": "had heard, was singing"
+      },
+      {
+        "D": "heard, had sung"
+      },
+      {
+        "E": "hear, sang"
+      }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "RAM (Random Access Memory)  _________",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "this is the computer's main memory; it temporarily"
+      },
+      {
+        "B": "this is where the computer permanently stores data like photos, videos, and other files"
+      },
+      {
+        "C": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "D": "another input device; it's used to point, click and scroll on the screen"
+      },
+      {
+        "E": "it displays information in a visual form, often in text, graphics, and videos."
+      }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Hard Drive :",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "this is where the computer permanently stores data like photos, videos, and other files; it can be either"
+      },
+      {
+        "B": "this is the computer's main memory; it temporarily"
+      },
+      {
+        "C": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "D": "another input device; it's used to point, click and scroll on the screen"
+      },
+      {
+        "E": "it displays information in a visual form, often in text, graphics, and videos."
+      }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Keyboard:",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "B": "this is where the computer permanently stores data like photos, videos, and other files; it can be either"
+      },
+      {
+        "C": "this is the computer's main memory; it temporarily"
+      },
+      {
+        "D": "another input device; it's used to point, click and scroll on the screen"
+      },
+      {
+        "E": "it displays information in a visual form, often in text, graphics, and videos."
+      }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Mouse:",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "another input device; it's used to point, click and scroll on the screen"
+      },
+      {
+        "B": "it displays information in a visual form, often in text, graphics, and videos"
+      },
+      {
+        "C": "it prints the text or images on paper"
+      },
+      {
+        "D": "The main circuit board of a computer. It holds and lets many of the most important technical parts talk to each other."
+      },
+      {
+        "E": "this is the computer's main memory; it temporarily"
+      }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Monitor:",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "it displays information in a visual form, often in text, graphics, and videos."
+      },
+      {
+        "B": "it prints the text or images on paper"
+      },
+      {
+        "C": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "D": "this is the computer's main memory; it temporarily"
+      },
+      {
+        "E": "another input device; it's used to point, click and scroll on the screen"
+      }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Printer:",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "it prints the text or images on paper."
+      },
+      {
+        "B": "this is the computer's main memory; it temporarily"
+      },
+      {
+        "C": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "D": "this is the computer's main memory; it temporarily stores data that the CPU uses."
+      },
+      {
+        "E": "another input device; it's used to point, click and scroll on the screen"
+      }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Motherboard:",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "The main circuit board of a computer. It holds and lets many of the most important technical parts talk to each other."
+      },
+      {
+        "B": "it displays information in a visual form, often in text, graphics, and videos."
+      },
+      {
+        "C": "it prints the text or images on paper."
+      },
+      {
+        "D": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "E": "this is the computer's main memory; it temporarily"
+      }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "USB (Universal Serial Bus):",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a standard way for devices and a computer, to send information to each other."
+      },
+      {
+        "B": "this is the computer's main memory; it temporarily"
+      },
+      {
+        "C": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "D": "another input device; it's used to point, click and scroll on the screen"
+      },
+      {
+        "E": "it displays information in a visual form, often in text, graphics, and videos."
+      }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Power Supply Unit (PSU):",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "it converts the power from the wall outlet into usable power for the many parts inside the computer."
+      },
+      {
+        "B": "this is the computer's main memory; it temporarily"
+      },
+      {
+        "C": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "D": "this is the computer's main memory; it temporarily"
+      },
+      {
+        "E": "another input device; it's used to point, click and scroll on the screen"
+      }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Webcam:",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "a camera that sends its picture to or through a computer in real time. It is often used for video calls or conferencing."
+      },
+      {
+        "B": "it displays information in a visual form, often in text, graphics, and videos."
+      },
+      {
+        "C": "another input device; it's used to point, click and scroll on the screen"
+      },
+      {
+        "D": "this is an input device; it's used to type text and control the computer"
+      },
+      {
+        "E": "this is the computer's main memory; it temporarily stores data that the CPU uses."
+      }
     ]
   }
 ]
