@@ -1,6 +1,6 @@
 'use strict';
 
-const endpoint = '../xarici-dil.json';
+const endpoint = 'https://animeroman.github.io/SeidExam/xarici-dil.json';
 const cardContainer = document.querySelector('.card-body');
 
 // Fetch data and display 25 random questions
