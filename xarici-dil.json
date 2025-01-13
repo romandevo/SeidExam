@@ -6754,5 +6754,555 @@
         "E": "this is the computer's main memory; it temporarily stores data that the CPU uses."
       }
     ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does CPU stand for?",
+    "answers": [
+      {
+        "a": "Central Processing Unit"
+      },
+      {
+        "b": "Computer Processing Unit"
+      },
+      {
+        "c": "Central Peripheral Unit"
+      },
+      {
+        "d": "Core Processing Unit"
+      },
+      {
+        "e": "Central Power Unit"
+      }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In networking, what does IP stand for?",
+    "answers": [
+      {
+        "a": "Internet Protocol"
+      },
+      {
+        "b": "Information Protocol"
+      },
+      {
+        "c": "Integrated Protocol"
+      },
+      {
+        "d": "Interface Protocol"
+      },
+      {
+        "e": "Internet Provider"
+      }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the function of a GPU in a computer system?",
+    "answers": [
+      {
+        "a": "Graphics Processing Unit"
+      },
+      {
+        "b": "General Processing Unit"
+      },
+      {
+        "c": "Gaming Processing Unit"
+      },
+      {
+        "d": "Grouped Processing Unit"
+      },
+      {
+        "e": "Graphics Peripheral Unit"
+      }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does RAID stand for in data storage?",
+    "answers": [
+      {
+        "a": "Redundant Array of Independent Disks"
+      },
+      {
+        "b": "Random Access of Internal Drives"
+      },
+      {
+        "c": "Rapid Access to Integrated Data"
+      },
+      {
+        "d": "Remote Array of Input Devices"
+      },
+      {
+        "e": "Read-After-Input Disk"
+      }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which type of software is designed to harm or exploit computer systems?",
+    "answers": [
+      {
+        "a": "Malware"
+      },
+      {
+        "b": "Freeware"
+      },
+      {
+        "c": "Shareware"
+      },
+      {
+        "d": "Open Source Software"
+      },
+      {
+        "e": "Spyware"
+      }
+    ]
+  },
+  {
+    "questionNumber": 306,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The cat is perched __ the top shelf.",
+    "answers": [
+      {
+        "a": "on"
+      },
+      {
+        "b": "in"
+      },
+      {
+        "c": "under"
+      },
+      {
+        "d": "beside"
+      },
+      {
+        "e": "amid"
+      }
+    ]
+  },
+  {
+    "questionNumber": 307,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The shoes are scattered __ the room.",
+    "answers": [
+      {
+        "a": "throughout"
+      },
+      {
+        "b": "on"
+      },
+      {
+        "c": "under"
+      },
+      {
+        "d": "beside"
+      },
+      {
+        "e": "in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 308,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The library is __ the post office and the bank.",
+    "answers": [
+      {
+        "a": "between"
+      },
+      {
+        "b": "beside"
+      },
+      {
+        "c": "in"
+      },
+      {
+        "d": "on"
+      },
+      {
+        "e": "beneath"
+      }
+    ]
+  },
+  {
+    "questionNumber": 309,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The cat is napping __ the rocking chair.",
+    "answers": [
+      {
+        "a": "under"
+      },
+      {
+        "b": "on"
+      },
+      {
+        "c": "beside"
+      },
+      {
+        "d": "between"
+      },
+      {
+        "e": "within"
+      }
+    ]
+  },
+  {
+    "questionNumber": 310,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The keys are concealed __ the couch cushions.",
+    "answers": [
+      {
+        "a": "on"
+      },
+      {
+        "b": "in"
+      },
+      {
+        "c": "under"
+      },
+      {
+        "d": "between"
+      },
+      {
+        "e": "amidst"
+      }
+    ]
+  },
+  {
+    "questionNumber": 311,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The coffee shop is __ the bookstore and the art gallery.",
+    "answers": [
+      {
+        "a": "beside"
+      },
+      {
+        "b": "to"
+      },
+      {
+        "c": "in"
+      },
+      {
+        "d": "on"
+      },
+      {
+        "e": "from"
+      }
+    ]
+  },
+  {
+    "questionNumber": 312,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "I need to __ my homework before going out.",
+    "answers": [
+      {
+        "a": "Do"
+      },
+      {
+        "b": "Make"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Making"
+      },
+      {
+        "e": "Does"
+      }
+    ]
+  },
+  {
+    "questionNumber": 313,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Can you help me __ the dishes after dinner?",
+    "answers": [
+      {
+        "a": "Do"
+      },
+      {
+        "b": "Make"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Doing"
+      },
+      {
+        "e": "Makes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 314,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She always knows how to __ a good impression.",
+    "answers": [
+      {
+        "a": "Make"
+      },
+      {
+        "b": "Do"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Doing"
+      },
+      {
+        "e": "Makes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 315,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Let's __ a decision about our vacation plans.",
+    "answers": [
+      {
+        "a": "Make"
+      },
+      {
+        "b": "Do"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Doing"
+      },
+      {
+        "e": "Makes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 316,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The chef will __ a delicious cake for the celebration.",
+    "answers": [
+      {
+        "a": "Make"
+      },
+      {
+        "b": "Do"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Doing"
+      },
+      {
+        "e": "Makes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 317,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We should __ a plan for the upcoming project.",
+    "answers": [
+      {
+        "a": "Make"
+      },
+      {
+        "b": "Do"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Doing"
+      },
+      {
+        "e": "Makes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 318,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "It's important to __ your best in challenging situations.",
+    "answers": [
+      {
+        "a": "Do"
+      },
+      {
+        "b": "Make"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Doing"
+      },
+      {
+        "e": "Makes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 319,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Can you __ me a favor and pick up some groceries?",
+    "answers": [
+      {
+        "a": "Do"
+      },
+      {
+        "b": "Make"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Doing"
+      },
+      {
+        "e": "Makes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 320,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The students need to __ their assignments before the deadline.",
+    "answers": [
+      {
+        "a": "Do"
+      },
+      {
+        "b": "Make"
+      },
+      {
+        "c": "Did"
+      },
+      {
+        "d": "Doing"
+      },
+      {
+        "e": "Makes"
+      }
+    ]
+  },
+  {
+    "questionNumber": 321,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "After a long day, it's time to __ and relax.",
+    "answers": [
+      {
+        "a": "set aside"
+      },
+      {
+        "b": "set back"
+      },
+      {
+        "c": "set off"
+      },
+      {
+        "d": "set in"
+      },
+      {
+        "e": "set up"
+      }
+    ]
+  },
+  {
+    "questionNumber": 322,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The students had to __ their project before the deadline.",
+    "answers": [
+      {
+        "a": "set about"
+      },
+      {
+        "b": "set back"
+      },
+      {
+        "c": "set in"
+      },
+      {
+        "d": "set off"
+      },
+      {
+        "e": "set up"
+      }
+    ]
+  },
+  {
+    "questionNumber": 323,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We decided to __ some money for a future vacation.",
+    "answers": [
+      {
+        "a": "set aside"
+      },
+      {
+        "b": "set about"
+      },
+      {
+        "c": "set up"
+      },
+      {
+        "d": "set off"
+      },
+      {
+        "e": "set in"
+      }
+    ]
+  },
+  {
+    "questionNumber": 324,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The fireworks will __ at midnight to celebrate the New Year.",
+    "answers": [
+      {
+        "a": "set off"
+      },
+      {
+        "b": "set in"
+      },
+      {
+        "c": "set up"
+      },
+      {
+        "d": "set about"
+      },
+      {
+        "e": "set aside"
+      }
+    ]
+  },
+  {
+    "questionNumber": 325,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She wanted to __ a good example for her younger siblings.",
+    "answers": [
+      {
+        "a": "set up"
+      },
+      {
+        "b": "set off"
+      },
+      {
+        "c": "set about"
+      },
+      {
+        "d": "set aside"
+      },
+      {
+        "e": "set in"
+      }
+    ]
   }
 ]
