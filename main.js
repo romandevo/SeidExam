@@ -88,6 +88,17 @@ document.getElementById('restartBtn').addEventListener('click', () => {
   window.location.reload(); // Simple page reload to restart
 });
 
+// Ensure the modal backdrop is removed when the modal is closed
+document
+  .getElementById('exampleModalCenter')
+  .addEventListener('hidden.bs.modal', () => {
+    document.body.classList.remove('modal-open');
+    const backdrop = document.querySelector('.modal-backdrop');
+    if (backdrop) {
+      backdrop.remove();
+    }
+  });
+
 // Function to add listener for "Check Answers" button
 function addCheckAnswersListener(questions) {
   document.getElementById('checkAnswersBtn').addEventListener('click', () => {
