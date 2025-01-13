@@ -6759,6 +6759,7 @@
     "questionNumber": 301,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does CPU stand for?",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Central Processing Unit"
@@ -6781,6 +6782,7 @@
     "questionNumber": 302,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In networking, what does IP stand for?",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Internet Protocol"
@@ -6803,6 +6805,7 @@
     "questionNumber": 303,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the function of a GPU in a computer system?",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Graphics Processing Unit"
@@ -6825,6 +6828,7 @@
     "questionNumber": 304,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does RAID stand for in data storage?",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Redundant Array of Independent Disks"
@@ -6847,6 +6851,7 @@
     "questionNumber": 305,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which type of software is designed to harm or exploit computer systems?",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Malware"
@@ -6869,6 +6874,7 @@
     "questionNumber": 306,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The cat is perched __ the top shelf.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "on"
@@ -6891,6 +6897,7 @@
     "questionNumber": 307,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The shoes are scattered __ the room.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "throughout"
@@ -6913,6 +6920,7 @@
     "questionNumber": 308,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The library is __ the post office and the bank.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "between"
@@ -6935,6 +6943,7 @@
     "questionNumber": 309,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The cat is napping __ the rocking chair.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "under"
@@ -6957,6 +6966,7 @@
     "questionNumber": 310,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The keys are concealed __ the couch cushions.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "on"
@@ -6979,6 +6989,7 @@
     "questionNumber": 311,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The coffee shop is __ the bookstore and the art gallery.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "beside"
@@ -7001,6 +7012,7 @@
     "questionNumber": 312,
     "questionUp": "Choose the correct variant.",
     "questionDown": "I need to __ my homework before going out.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Do"
@@ -7023,6 +7035,7 @@
     "questionNumber": 313,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Can you help me __ the dishes after dinner?",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Do"
@@ -7045,6 +7058,7 @@
     "questionNumber": 314,
     "questionUp": "Choose the correct variant.",
     "questionDown": "She always knows how to __ a good impression.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Make"
@@ -7067,6 +7081,7 @@
     "questionNumber": 315,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Let's __ a decision about our vacation plans.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Make"
@@ -7089,6 +7104,7 @@
     "questionNumber": 316,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The chef will __ a delicious cake for the celebration.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Make"
@@ -7111,6 +7127,7 @@
     "questionNumber": 317,
     "questionUp": "Choose the correct variant.",
     "questionDown": "We should __ a plan for the upcoming project.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Make"
@@ -7133,6 +7150,7 @@
     "questionNumber": 318,
     "questionUp": "Choose the correct variant.",
     "questionDown": "It's important to __ your best in challenging situations.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Do"
@@ -7155,6 +7173,7 @@
     "questionNumber": 319,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Can you __ me a favor and pick up some groceries?",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Do"
@@ -7177,6 +7196,7 @@
     "questionNumber": 320,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The students need to __ their assignments before the deadline.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "Do"
@@ -7199,6 +7219,7 @@
     "questionNumber": 321,
     "questionUp": "Choose the correct variant.",
     "questionDown": "After a long day, it's time to __ and relax.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "set aside"
@@ -7221,6 +7242,7 @@
     "questionNumber": 322,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The students had to __ their project before the deadline.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "set about"
@@ -7243,6 +7265,7 @@
     "questionNumber": 323,
     "questionUp": "Choose the correct variant.",
     "questionDown": "We decided to __ some money for a future vacation.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "set aside"
@@ -7265,6 +7288,7 @@
     "questionNumber": 324,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The fireworks will __ at midnight to celebrate the New Year.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "set off"
@@ -7287,6 +7311,7 @@
     "questionNumber": 325,
     "questionUp": "Choose the correct variant.",
     "questionDown": "She wanted to __ a good example for her younger siblings.",
+    "correctAnwser": "A",
     "answers": [
       {
         "a": "set up"
