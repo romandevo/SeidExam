@@ -45,17 +45,26 @@ function displayQuestions(questions) {
     // Create a copy of the answers array and shuffle it
     const shuffledAnswers = shuffleArray([...question.answers]);
 
+    // Define fixed labels A, B, C, D, E
+    const labels = ['A', 'B', 'C', 'D', 'E'];
+
     const questionHtml = `
       <div class="question-block">
         <h5 class="card-title">${index + 1}. ${question.questionUp}</h5>
         <p class="card-text">${question.questionDown}</p>
         <div class="list-group">
           ${shuffledAnswers
-            .map(answer => {
-              const key = Object.keys(answer)[0];
+            .map((answer, answerIndex) => {
+              const key = labels[answerIndex]; // Use fixed label for the current answer
+              const value = Object.values(answer)[0]; // Get the answer text
+              const isCorrect =
+                Object.keys(answer)[0] === question.correctAnwser; // Check if it's the correct answer
               return `
-              <button type="button" class="list-group-item list-group-item-action" data-question="${index}" data-answer="${key}">
-                ${key}. ${answer[key]}
+              <button type="button" class="list-group-item list-group-item-action" 
+                      data-question="${index}" 
+                      data-answer="${key}" 
+                      data-correct="${isCorrect}">
+                ${key}. ${value}
               </button>`;
             })
             .join('')}
@@ -70,7 +79,7 @@ function displayQuestions(questions) {
   });
 }
 
-// Function to add listeners for selecting answers
+// Function to add listeners for selecting answers with toggle functionality
 function addAnswerSelectionListeners() {
   const answerButtons = document.querySelectorAll('.list-group-item');
   answerButtons.forEach(button => {
@@ -80,18 +89,27 @@ function addAnswerSelectionListeners() {
       const questionIndex = button.getAttribute('data-question');
       const answerKey = button.getAttribute('data-answer');
 
-      // Deselect previously selected answer
-      document
-        .querySelectorAll(`.list-group-item[data-question="${questionIndex}"]`)
-        .forEach(btn => {
-          btn.classList.remove('active');
-        });
+      // Check if the clicked button is already active
+      if (button.classList.contains('active')) {
+        // If already active, remove the active class and clear the selected answer
+        button.classList.remove('active');
+        delete selectedAnswers[questionIndex];
+      } else {
+        // Deselect previously selected answer for the same question
+        document
+          .querySelectorAll(
+            `.list-group-item[data-question="${questionIndex}"]`
+          )
+          .forEach(btn => {
+            btn.classList.remove('active');
+          });
 
-      // Mark the clicked button as selected
-      button.classList.add('active');
+        // Mark the clicked button as selected
+        button.classList.add('active');
 
-      // Store selected answer
-      selectedAnswers[questionIndex] = answerKey;
+        // Store selected answer
+        selectedAnswers[questionIndex] = answerKey;
+      }
     });
   });
 }
@@ -130,35 +148,27 @@ function addCheckAnswersListener(questions) {
     document.getElementById('checkAnswersBtn').textContent = 'Answers';
 
     questions.forEach((question, index) => {
-      const correctAnswer = question.correctAnwser;
-      const selectedAnswer = selectedAnswers[index];
       const answerButtons = document.querySelectorAll(
         `.list-group-item[data-question="${index}"]`
       );
+      const selectedButton = document.querySelector(
+        `.list-group-item[data-question="${index}"].active`
+      );
 
-      if (!selectedAnswer) {
+      if (!selectedButton) {
         unansweredCount++;
-      } else if (selectedAnswer === correctAnswer) {
+      } else if (selectedButton.getAttribute('data-correct') === 'true') {
         correctCount++;
-
-        // Mark correct answer button as green
-        answerButtons.forEach(button => {
-          if (button.getAttribute('data-answer') === correctAnswer) {
-            button.classList.remove('active');
-            button.classList.add('selected-correct');
-          }
-        });
+        selectedButton.classList.remove('active');
+        selectedButton.classList.add('selected-correct');
       } else {
         incorrectCount++;
+        selectedButton.classList.remove('active');
+        selectedButton.classList.add('selected-wrong');
 
-        // Mark selected wrong answer as red
+        // Highlight the correct answer
         answerButtons.forEach(button => {
-          if (button.getAttribute('data-answer') === selectedAnswer) {
-            button.classList.remove('active');
-            button.classList.add('selected-wrong');
-          }
-          // Mark correct answer as green for reference
-          if (button.getAttribute('data-answer') === correctAnswer) {
+          if (button.getAttribute('data-correct') === 'true') {
             button.classList.remove('active');
             button.classList.add('should-select');
           }
