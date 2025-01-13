@@ -3,6 +3,7 @@
 const endpoint = './xarici-dil.json';
 const cardContainer = document.querySelector('.card-body');
 let selectedAnswers = {}; // To store selected answers
+let isChecked = false; // Flag to track if "Check" has been clicked
 
 // Fetch data and display 25 random questions
 fetch(endpoint)
@@ -62,6 +63,8 @@ function addAnswerSelectionListeners() {
   const answerButtons = document.querySelectorAll('.list-group-item');
   answerButtons.forEach(button => {
     button.addEventListener('click', () => {
+      if (isChecked) return; // Prevent selection if check has been performed
+
       const questionIndex = button.getAttribute('data-question');
       const answerKey = button.getAttribute('data-answer');
 
@@ -80,6 +83,7 @@ function addAnswerSelectionListeners() {
     });
   });
 }
+
 document.getElementById('restartBtn').addEventListener('click', () => {
   window.location.reload(); // Simple page reload to restart
 });
@@ -87,12 +91,20 @@ document.getElementById('restartBtn').addEventListener('click', () => {
 // Function to add listener for "Check Answers" button
 function addCheckAnswersListener(questions) {
   document.getElementById('checkAnswersBtn').addEventListener('click', () => {
+    if (isChecked) return; // Prevent re-checking if already checked
+
+    isChecked = true; // Set flag to true to prevent further checks
+
     let correctCount = 0;
     let incorrectCount = 0;
     let unansweredCount = 0;
     let totalPoint;
     let pointMessage;
     let modalContent = '';
+
+    document.getElementById('checkAnswersBtn').classList.remove('btn-warning');
+    document.getElementById('checkAnswersBtn').classList.add('btn-info');
+    document.getElementById('checkAnswersBtn').textContent = 'Answers';
 
     questions.forEach((question, index) => {
       const correctAnswer = question.correctAnwser;
