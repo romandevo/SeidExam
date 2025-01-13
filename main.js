@@ -29,16 +29,28 @@ function getRandomQuestions(data, count) {
   return shuffled.slice(0, count);
 }
 
+// Function to shuffle an array (Fisher-Yates shuffle algorithm)
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
 // Function to display questions in the card-body
 function displayQuestions(questions) {
   cardContainer.innerHTML = ''; // Clear any existing content
   questions.forEach((question, index) => {
+    // Create a copy of the answers array and shuffle it
+    const shuffledAnswers = shuffleArray([...question.answers]);
+
     const questionHtml = `
       <div class="question-block">
         <h5 class="card-title">${index + 1}. ${question.questionUp}</h5>
         <p class="card-text">${question.questionDown}</p>
         <div class="list-group">
-          ${question.answers
+          ${shuffledAnswers
             .map(answer => {
               const key = Object.keys(answer)[0];
               return `
