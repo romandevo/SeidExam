@@ -12,14 +12,61 @@
       .footer {
         background-color: rgb(40, 46, 46);
       }
-      .selected-answer {
-        background-color: #2e3334ab;
+      .selected-correct {
+        background-color: #218838;
         color: #ffffff;
-        /* border-color: #28a745; */
+        border-color: #1e7e34;
       }
-      .selected-answer:hover {
-        background-color: #2e3334ab;
+      .selected-correct:hover {
+        background-color: #218838;
         color: #ffffff;
+        border-color: #1e7e34;
+      }
+      .selected-correct:active {
+        background-color: #218838;
+        color: #ffffff;
+        border-color: #1e7e34;
+      }
+      .selected-correct:focus {
+        background-color: #218838;
+        color: #ffffff;
+        border-color: #1e7e34;
+      }
+      .selected-wrong {
+        background-color: #c82333;
+        color: #ffffff;
+        border-color: #bd2130;
+      }
+      .selected-wrong:hover {
+        background-color: #c82333;
+        color: #ffffff;
+        border-color: #bd2130;
+      }
+      .selected-wrong:active {
+        background-color: #c82333;
+        color: #ffffff;
+        border-color: #bd2130;
+      }
+      .selected-wrong:focus {
+        background-color: #c82333;
+        color: #ffffff;
+        border-color: #bd2130;
+      }
+      .should-select {
+        color: #28a745;
+      }
+      .should-select:hover {
+        color: #28a745;
+      }
+      .should-select:active {
+        color: #28a745;
+      }
+      .should-select:focus {
+        color: #28a745;
+      }
+      .active {
+        background-color: #2e3334ab !important;
+        border-color: #2e3334ab !important;
       }
     </style>
   </head>
@@ -37,19 +84,19 @@
               <div class="list-group">
                 <button
                   type="button"
-                  class="list-group-item list-group-item-action selected-answer"
+                  class="list-group-item list-group-item-action should-select"
                 >
                   A. respectable
                 </button>
                 <button
                   type="button"
-                  class="list-group-item list-group-item-action"
+                  class="list-group-item list-group-item-action selected-wrong"
                 >
                   B. tracksuit
                 </button>
                 <button
                   type="button"
-                  class="list-group-item list-group-item-action"
+                  class="list-group-item list-group-item-action selected-correct"
                 >
                   C. Fashionable
                 </button>
@@ -80,15 +127,7 @@
       <div class="container">
         <button id="restartBtn" class="btn btn-warning mx-2">Restart</button>
         <button id="checkAnswersBtn" class="btn btn-secondary mx-2">
-          Check Answers
-        </button>
-        <button
-          type="button"
-          class="btn btn-info mx-2"
-          data-bs-toggle="modal"
-          data-bs-target="#exampleModalCenter"
-        >
-          Answers
+          Check
         </button>
       </div>
     </footer>

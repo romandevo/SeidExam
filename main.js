@@ -2,6 +2,7 @@
 
 const endpoint = './xarici-dil.json';
 const cardContainer = document.querySelector('.card-body');
+let selectedAnswers = {}; // To store selected answers
 
 // Fetch data and display 25 random questions
 fetch(endpoint)
@@ -15,6 +16,7 @@ fetch(endpoint)
     const randomQuestions = getRandomQuestions(data, 25);
     displayQuestions(randomQuestions);
     addAnswerSelectionListeners(); // Add listeners after displaying questions
+    addCheckAnswersListener(randomQuestions); // Add listener for checking answers
   })
   .catch(error => {
     console.error('Error fetching the data:', error);
@@ -39,7 +41,7 @@ function displayQuestions(questions) {
             .map(answer => {
               const key = Object.keys(answer)[0];
               return `
-              <button type="button" class="list-group-item list-group-item-action" data-question="${index}">
+              <button type="button" class="list-group-item list-group-item-action" data-question="${index}" data-answer="${key}">
                 ${key}. ${answer[key]}
               </button>`;
             })
@@ -61,26 +63,103 @@ function addAnswerSelectionListeners() {
   answerButtons.forEach(button => {
     button.addEventListener('click', () => {
       const questionIndex = button.getAttribute('data-question');
+      const answerKey = button.getAttribute('data-answer');
 
       // Deselect previously selected answer
       document
         .querySelectorAll(`.list-group-item[data-question="${questionIndex}"]`)
         .forEach(btn => {
-          btn.classList.remove('selected-answer');
+          btn.classList.remove('active');
         });
 
       // Mark the clicked button as selected
-      button.classList.add('selected-answer');
+      button.classList.add('active');
+
+      // Store selected answer
+      selectedAnswers[questionIndex] = answerKey;
     });
   });
 }
-
-// Restart button functionality
 document.getElementById('restartBtn').addEventListener('click', () => {
   window.location.reload(); // Simple page reload to restart
 });
 
-// Check Answers button functionality (placeholder)
-document.getElementById('checkAnswersBtn').addEventListener('click', () => {
-  alert('Check Answers button clicked!');
-});
+// Function to add listener for "Check Answers" button
+function addCheckAnswersListener(questions) {
+  document.getElementById('checkAnswersBtn').addEventListener('click', () => {
+    let correctCount = 0;
+    let incorrectCount = 0;
+    let unansweredCount = 0;
+    let totalPoint;
+    let pointMessage;
+    let modalContent = '';
+
+    questions.forEach((question, index) => {
+      const correctAnswer = question.correctAnwser;
+      const selectedAnswer = selectedAnswers[index];
+      const answerButtons = document.querySelectorAll(
+        `.list-group-item[data-question="${index}"]`
+      );
+
+      if (!selectedAnswer) {
+        unansweredCount++;
+      } else if (selectedAnswer === correctAnswer) {
+        correctCount++;
+
+        // Mark correct answer button as green
+        answerButtons.forEach(button => {
+          if (button.getAttribute('data-answer') === correctAnswer) {
+            button.classList.remove('active');
+            button.classList.add('selected-correct');
+          }
+        });
+      } else {
+        incorrectCount++;
+
+        // Mark selected wrong answer as red
+        answerButtons.forEach(button => {
+          if (button.getAttribute('data-answer') === selectedAnswer) {
+            button.classList.remove('active');
+            button.classList.add('selected-wrong');
+          }
+          // Mark correct answer as green for reference
+          if (button.getAttribute('data-answer') === correctAnswer) {
+            button.classList.remove('active');
+            button.classList.add('should-select');
+          }
+        });
+      }
+    });
+
+    function calcPoint() {
+      totalPoint = correctCount * 2 + incorrectCount * -1;
+
+      if (0 < totalPoint && totalPoint < 17) {
+        pointMessage = 'Kəsildin, moyka';
+      } else if (totalPoint <= 0) {
+        pointMessage = 'Başı';
+      } else {
+        pointMessage = 'Ə yaxşı';
+      }
+    }
+
+    calcPoint();
+
+    modalContent += `
+      <hr>
+      <p class="text-success">Düzlər: <span class="text-secondary">${correctCount}</span></p>
+      <p class="text-danger">Səhvlər: <span class="text-secondary">${incorrectCount}</span></p>
+      <p class="text-warning">Cavabsız: <span class="text-secondary">${unansweredCount}</span></p>
+      <p class="text-info">Topladığı bal: <span class="text-secondary">${totalPoint} (${pointMessage})</span></p>
+    `;
+
+    // Insert content into the modal
+    document.getElementById('modalBody').innerHTML = modalContent;
+
+    // Trigger the modal display
+    const modal = new bootstrap.Modal(
+      document.getElementById('exampleModalCenter')
+    );
+    modal.show();
+  });
+}
