@@ -1,9 +1,30 @@
 'use strict';
 
-const endpoint = './xarici-dil.json';
 const cardContainer = document.querySelector('.card-body');
 let selectedAnswers = {}; // To store selected answers
 let isChecked = false; // Flag to track if "Check" has been clicked
+
+// Get the current location
+const currentLocation = window.location;
+
+console.log('Pathname:', currentLocation.pathname); // Pathname (relative path)
+
+// Function to determine the endpoint
+function getEndpoint(locationPath) {
+  let endpoint; // Define the variable within the function
+  if (locationPath === '/xarici-dil.html') {
+    endpoint = './xarici-dil.json';
+  } else if (locationPath === '/information-technologies.html') {
+    endpoint = './information-technologies.json';
+  }
+  return endpoint; // Return the endpoint
+}
+
+// Pass the pathname to the function and store the result
+const endpoint = getEndpoint(currentLocation.pathname);
+
+// Log the endpoint to verify the result
+console.log('Endpoint:', endpoint);
 
 // Fetch data and display 25 random questions
 fetch(endpoint)
