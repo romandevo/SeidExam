@@ -11,7 +11,7 @@ console.log('Pathname:', currentLocation.pathname); // Pathname (relative path)
 
 // Function to determine the endpoint
 function getEndpoint(locationPath) {
-  let endpoint; // Define the variable within the function
+  let endpoint;
 
   if (
     locationPath === '/xarici-dil.html' ||
@@ -25,7 +25,7 @@ function getEndpoint(locationPath) {
     endpoint = './information-technologies.json';
   }
 
-  return endpoint; // Return the endpoint
+  return endpoint;
 }
 
 // Pass the pathname to the function and store the result
