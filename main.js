@@ -14,16 +14,19 @@ function getEndpoint(locationPath) {
   let endpoint;
 
   if (
+    locationPath === '/xarici-dil' ||
     locationPath === '/xarici-dil.html' ||
     locationPath === '/SeidExam/xarici-dil.html'
   ) {
     endpoint = './xarici-dil.json';
   } else if (
+    locationPath === '/information-technologies' ||
     locationPath === '/information-technologies.html' ||
     locationPath === '/SeidExam/information-technologies.html'
   ) {
     endpoint = './information-technologies.json';
   } else if (
+    locationPath === '/it-esaslari' ||
     locationPath === '/it-esaslari.html' ||
     locationPath === '/SeidExam/it-esaslari.html'
   ) {
