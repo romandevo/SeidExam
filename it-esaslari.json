@@ -1,0 +1,7405 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to create an empty list in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "[]"
+      },
+      {
+        "B": "list()"
+      },
+      {
+        "C": "empty_list()"
+      },
+      {
+        "D": "{}"
+      },
+      {
+        "E": "new_list()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you access the third element in a list with the variable my_list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "my_list[2]"
+      },
+      {
+        "B": "my_list[3]"
+      },
+      {
+        "C": "my_list(3)"
+      },
+      {
+        "D": "my_list.third()"
+      },
+      {
+        "E": "my_list.get(2)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to add an element to the end of a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "append()"
+      },
+      {
+        "B": "insert()"
+      },
+      {
+        "C": "add()"
+      },
+      {
+        "D": "extend()"
+      },
+      {
+        "E": "push()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will the following code output: len([1, 2, 3, 4])?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "4"
+      },
+      {
+        "B": "3"
+      },
+      {
+        "C": "2"
+      },
+      {
+        "D": "1"
+      },
+      {
+        "E": "5"
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you check if an element exists in a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "element in list"
+      },
+      {
+        "B": "list.has(element)"
+      },
+      {
+        "C": "list.exists(element)"
+      },
+      {
+        "D": "contains(element, list)"
+      },
+      {
+        "E": "list.contains(element)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the pop() method in Python lists?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Remove the last element"
+      },
+      {
+        "B": "Add an element to the end"
+      },
+      {
+        "C": "Remove the first element"
+      },
+      {
+        "D": "Retrieve an element by index"
+      },
+      {
+        "E": "Reverse the list"
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following methods is used to sort a list in-place?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "sort()"
+      },
+      {
+        "B": "sorted()"
+      },
+      {
+        "C": "order()"
+      },
+      {
+        "D": "arrange()"
+      },
+      {
+        "E": "arrange_in_place()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will the following code output: max([3, 7, 1, 9])?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "9"
+      },
+      {
+        "B": "7"
+      },
+      {
+        "C": "1"
+      },
+      {
+        "D": "3"
+      },
+      {
+        "E": "4"
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you copy the entire contents of one list to another in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "new_list = old_list.copy()"
+      },
+      {
+        "B": "new_list = old_list.clone()"
+      },
+      {
+        "C": "new_list = copy(old_list)"
+      },
+      {
+        "D": "new_list = old_list[:])"
+      },
+      {
+        "E": "new_list = copy_list(old_list)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to remove the first occurrence of a specific element from a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "remove()"
+      },
+      {
+        "B": "delete()"
+      },
+      {
+        "C": "discard()"
+      },
+      {
+        "D": "eliminate()"
+      },
+      {
+        "E": "exclude()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the index() method in Python list do?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Returns the index of the first occurrence of a specified element"
+      },
+      {
+        "B": "Adds an element to the list"
+      },
+      {
+        "C": "Returns the index of the last occurrence of a specified element"
+      },
+      {
+        "D": "Returns the total number of elements in the list"
+      },
+      {
+        "E": "Finds the index of the maximum element in the list"
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you reverse the order of elements in a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "list = list[::-1]"
+      },
+      {
+        "B": "reverse(list)"
+      },
+      {
+        "C": "list.reverse()"
+      },
+      {
+        "D": "flip(list)"
+      },
+      {
+        "E": "list.flip()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of min([8, 2, 5, 1, 7])?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "1"
+      },
+      {
+        "B": "2"
+      },
+      {
+        "C": "5"
+      },
+      {
+        "D": "7"
+      },
+      {
+        "E": "8"
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to insert an element at a specific index in a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "insert()"
+      },
+      {
+        "B": "add()"
+      },
+      {
+        "C": "append()"
+      },
+      {
+        "D": "attach()"
+      },
+      {
+        "E": "put()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the clear() method in Python lists?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Remove all elements from the list"
+      },
+      {
+        "B": "Remove the last element"
+      },
+      {
+        "C": "Remove a specific element"
+      },
+      {
+        "D": "Clear the list and set it to None"
+      },
+      {
+        "E": "Reverse the list"
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you find the number of occurrences of a specific element in a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "count()"
+      },
+      {
+        "B": "find()"
+      },
+      {
+        "C": "occurrences()"
+      },
+      {
+        "D": "get_count()"
+      },
+      {
+        "E": "element_count()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the difference between remove() and pop() methods in lists?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "pop() removes the last element, remove() removes a specific element"
+      },
+      {
+        "B": "Both remove elements, but pop() requires an element"
+      },
+      {
+        "C": "remove() removes the last element, pop() removes a specific element"
+      },
+      {
+        "D": "Both remove elements, but remove() requires an index"
+      },
+      {
+        "E": "There is no difference"
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you check if a list is empty?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if not list:"
+      },
+      {
+        "B": "if list == []:"
+      },
+      {
+        "C": "if len(list) == 0:"
+      },
+      {
+        "D": "if list.is_empty():"
+      },
+      {
+        "E": "if list.empty():"
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to extend a list by appending elements from another iterable?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "extend()"
+      },
+      {
+        "B": "append()"
+      },
+      {
+        "C": "add()"
+      },
+      {
+        "D": "merge()"
+      },
+      {
+        "E": "concat()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of sum([2, 4, 6, 8])?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "30"
+      },
+      {
+        "B": "20"
+      },
+      {
+        "C": "10"
+      },
+      {
+        "D": "40"
+      },
+      {
+        "E": "18"
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of sorted([3, 1, 4, 1, 5, 9, 2])?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "[1, 2, 3, 4, 5, 9]"
+      },
+      {
+        "B": "[9, 5, 4, 3, 2, 1, 1]"
+      },
+      {
+        "C": "[1, 1, 2, 3, 4, 5, 9]"
+      },
+      {
+        "D": "[1, 1, 2, 3, 4, 5, 9]"
+      },
+      {
+        "E": "[2, 4, 1, 9, 5, 3, 1]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will the following code output: my_list = [1, 2, 3]; my_list[2] = 4; print(my_list)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "[1, 2, 4]"
+      },
+      {
+        "B": "[1, 2, 3]"
+      },
+      {
+        "C": "[1, 4, 3]"
+      },
+      {
+        "D": "[1, 2, 3, 4]"
+      },
+      {
+        "E": "Error"
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you find the length of a list in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "len(list)"
+      },
+      {
+        "B": "count(list)"
+      },
+      {
+        "C": "length(list)"
+      },
+      {
+        "D": "size(list)"
+      },
+      {
+        "E": "list.length()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to remove and return an element from a specific index in a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "pop()"
+      },
+      {
+        "B": "remove_at()"
+      },
+      {
+        "C": "discard_at()"
+      },
+      {
+        "D": "delete()"
+      },
+      {
+        "E": "extract_at()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the count() method return if the specified element is not present in the list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "0"
+      },
+      {
+        "B": "-1"
+      },
+      {
+        "C": "None"
+      },
+      {
+        "D": "False"
+      },
+      {
+        "E": "Raises an error"
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you concatenate two lists in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "list1.extend(list2)"
+      },
+      {
+        "B": "concat(list1, list2)"
+      },
+      {
+        "C": "list1.add(list2)"
+      },
+      {
+        "D": "merge(list1, list2)"
+      },
+      {
+        "E": "list1 + list2"
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the list() constructor in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Convert an iterable to a list"
+      },
+      {
+        "B": "Create a new list"
+      },
+      {
+        "C": "Remove all elements from the list"
+      },
+      {
+        "D": "Reverse the order of elements"
+      },
+      {
+        "E": "Get the length of the list"
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to check if all elements in a list are true?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "all()"
+      },
+      {
+        "B": "every()"
+      },
+      {
+        "C": "complete()"
+      },
+      {
+        "D": "check_all()"
+      },
+      {
+        "E": "is_true()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the extend() method do in Python lists?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Adds elements from another iterable to the end of the list"
+      },
+      {
+        "B": "Adds an element to the end of the list"
+      },
+      {
+        "C": "Removes the last element from the list"
+      },
+      {
+        "D": "Adds an element at a specific index"
+      },
+      {
+        "E": "Reverses the order of elements"
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a shallow copy of a list in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "list.copy()"
+      },
+      {
+        "B": "list.shallow_copy()"
+      },
+      {
+        "C": "copy(list)"
+      },
+      {
+        "D": "shallow_copy(list)"
+      },
+      {
+        "E": "list.clone()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of my_list = [1, 2, 3]; my_list.append([4, 5]); print(my_list)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "[1, 2, 3, [4, 5]]"
+      },
+      {
+        "B": "[1, 2, 3, 4, 5]"
+      },
+      {
+        "C": "[1, 2, 3, 4, 5]"
+      },
+      {
+        "D": "[1, 2, 3, '4', '5']"
+      },
+      {
+        "E": "Error"
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you find the index of the last occurrence of a specific element in a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "rindex()"
+      },
+      {
+        "B": "find_last()"
+      },
+      {
+        "C": "last_index()"
+      },
+      {
+        "D": "reverse_index()"
+      },
+      {
+        "E": "index_last()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will the following code output: my_list = [1, 2, 3]; my_list.remove(2); print(my_list)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "[1, 3]"
+      },
+      {
+        "B": "[1, 2, 3]"
+      },
+      {
+        "C": "[1, 2]"
+      },
+      {
+        "D": "Error"
+      },
+      {
+        "E": "[2, 3]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to insert multiple elements at a specific index in a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "extend_at()"
+      },
+      {
+        "B": "insert_at()"
+      },
+      {
+        "C": "insert_multiple()"
+      },
+      {
+        "D": "add()"
+      },
+      {
+        "E": "put_multiple()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of my_list = [1, 2, 3, 4, 5]; my_list[1:4]?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "[2, 3, 4]"
+      },
+      {
+        "B": "[1, 2, 3, 4]"
+      },
+      {
+        "C": "[2, 3, 4, 5]"
+      },
+      {
+        "D": "[1, 2, 3]"
+      },
+      {
+        "E": "[2, 3, 4, 1]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to join elements of a list into a string?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "join()"
+      },
+      {
+        "B": "merge()"
+      },
+      {
+        "C": "concat()"
+      },
+      {
+        "D": "stringify()"
+      },
+      {
+        "E": "list_to_string()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will the following code output: my_list = [1, 2, 3]; my_list.extend([4, 5]); print(my_list)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "[1, 2, 3, 4, 5]"
+      },
+      {
+        "B": "[1, 2, 3, [4, 5]]"
+      },
+      {
+        "C": "[1, 2, 3, 4, 5]"
+      },
+      {
+        "D": "[1, 2, 3, '4', '5']"
+      },
+      {
+        "E": "Error"
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you remove all occurrences of a specific element from a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "remove(element, all=True)"
+      },
+      {
+        "B": "delete_all()"
+      },
+      {
+        "C": "remove_all()"
+      },
+      {
+        "D": "clear(element)"
+      },
+      {
+        "E": "list.remove_all(element)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the reverse() method do in Python lists?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Reverse the order of elements in the list"
+      },
+      {
+        "B": "Sort the list in descending order"
+      },
+      {
+        "C": "Create a reversed copy of the list"
+      },
+      {
+        "D": "Remove the last element"
+      },
+      {
+        "E": "Shuffle the elements randomly"
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you check if two lists are equal in content?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "list1 == list2"
+      },
+      {
+        "B": "list1.equals(list2)"
+      },
+      {
+        "C": "list1.is_equal(list2)"
+      },
+      {
+        "D": "compare(list1, list2)"
+      },
+      {
+        "E": "list1.content_equal(list2)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you open the Start Menu in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Windows key"
+      },
+      {
+        "B": "Alt + F4"
+      },
+      {
+        "C": "Ctrl + S"
+      },
+      {
+        "D": "Shift + Tab"
+      },
+      {
+        "E": "Ctrl + Alt + Del"
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which tool is used to manage installed programs in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Control Panel"
+      },
+      {
+        "B": "Device Manager"
+      },
+      {
+        "C": "Task Manager"
+      },
+      {
+        "D": "Windows Explorer"
+      },
+      {
+        "E": "Settings"
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the Action Center in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Display notifications and quick settings"
+      },
+      {
+        "B": "View system information"
+      },
+      {
+        "C": "Access frequently used apps"
+      },
+      {
+        "D": "Manage power settings"
+      },
+      {
+        "E": "Adjust screen resolution"
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you take a screenshot in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Windows key + Print Screen"
+      },
+      {
+        "B": "Ctrl + S"
+      },
+      {
+        "C": "Windows key + S"
+      },
+      {
+        "D": "Alt + Print Screen"
+      },
+      {
+        "E": "Ctrl + Alt + S"
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the default web browser in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Microsoft Edge"
+      },
+      {
+        "B": "Mozilla Firefox"
+      },
+      {
+        "C": "Google Chrome"
+      },
+      {
+        "D": "Internet Explorer"
+      },
+      {
+        "E": "Safari"
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you access the System Properties in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "This PC > Properties"
+      },
+      {
+        "B": "Control Panel > System"
+      },
+      {
+        "C": "Settings > System"
+      },
+      {
+        "D": "Taskbar > Properties"
+      },
+      {
+        "E": "Right-click on the desktop and select \"Properties\""
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which feature allows you to organize open windows on the desktop in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Snap Assist"
+      },
+      {
+        "B": "Task View"
+      },
+      {
+        "C": "Windows Ink"
+      },
+      {
+        "D": "Aero Peek"
+      },
+      {
+        "E": "Desktop Gadgets"
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the default file explorer in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "File Explorer"
+      },
+      {
+        "B": "Windows Explorer"
+      },
+      {
+        "C": "Finder"
+      },
+      {
+        "D": "My Computer"
+      },
+      {
+        "E": "Disk Management"
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you access the Settings app in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Windows key + I"
+      },
+      {
+        "B": "Control Panel > Settings"
+      },
+      {
+        "C": "Control Panel > System"
+      },
+      {
+        "D": "Windows key + X"
+      },
+      {
+        "E": "Taskbar > Settings"
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which security feature provides a biometric authentication option in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Windows Hello"
+      },
+      {
+        "B": "BitLocker"
+      },
+      {
+        "C": "Windows Firewall"
+      },
+      {
+        "D": "Windows Defender"
+      },
+      {
+        "E": "Credential Guard"
+      }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you search for files and applications in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Windows key + S"
+      },
+      {
+        "B": "Ctrl + Alt + Del"
+      },
+      {
+        "C": "Windows key + F"
+      },
+      {
+        "D": "Alt + Tab"
+      },
+      {
+        "E": "Ctrl + Shift + Esc"
+      }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of Windows Defender in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Antivirus protection"
+      },
+      {
+        "B": "Firewall management"
+      },
+      {
+        "C": "File backup"
+      },
+      {
+        "D": "Disk cleanup"
+      },
+      {
+        "E": "Network configuration"
+      }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a new folder in File Explorer in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Ctrl + Shift + N"
+      },
+      {
+        "B": "Ctrl + N"
+      },
+      {
+        "C": "Ctrl + C"
+      },
+      {
+        "D": "Ctrl + V"
+      },
+      {
+        "E": "Ctrl + Alt + F"
+      }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the Task Manager in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Manage running processes and applications"
+      },
+      {
+        "B": "Change desktop background"
+      },
+      {
+        "C": "Install new software"
+      },
+      {
+        "D": "Configure network settings"
+      },
+      {
+        "E": "Uninstall programs"
+      }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you check for Windows updates in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Settings > Update & Security"
+      },
+      {
+        "B": "Windows key + R, then type \"update\""
+      },
+      {
+        "C": "Windows key + U"
+      },
+      {
+        "D": "Control Panel > Windows Update"
+      },
+      {
+        "E": "Ctrl + Alt + U"
+      }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What feature allows you to view and organize open windows on multiple virtual desktops?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Task View"
+      },
+      {
+        "B": "Snap Assist"
+      },
+      {
+        "C": "Aero Peek"
+      },
+      {
+        "D": "Virtual Desktops"
+      },
+      {
+        "E": "Windows Ink"
+      }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you lock your computer quickly in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Windows key + L"
+      },
+      {
+        "B": "Ctrl + Alt + Del, then select \"Lock\""
+      },
+      {
+        "C": "Ctrl + Shift + L"
+      },
+      {
+        "D": "Windows key + U"
+      },
+      {
+        "E": "Alt + L"
+      }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which tool is used to manage connected devices and printers in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Devices and Printers"
+      },
+      {
+        "B": "Device Manager"
+      },
+      {
+        "C": "Print Management"
+      },
+      {
+        "D": "Control Panel > Devices"
+      },
+      {
+        "E": "Windows Explorer"
+      }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of OneDrive in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To backup and sync files to the cloud"
+      },
+      {
+        "B": "To manage wireless connections"
+      },
+      {
+        "C": "To control power settings"
+      },
+      {
+        "D": "To organize bookmarks"
+      },
+      {
+        "E": "To create virtual machines"
+      }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you uninstall a program in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "All of the above"
+      },
+      {
+        "B": "Settings > System > Apps"
+      },
+      {
+        "C": "Windows key + X, then select \"Programs and Features\""
+      },
+      {
+        "D": "Control Panel > Programs > Uninstall a program"
+      },
+      {
+        "E": "None of the above"
+      }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the desktop wallpaper in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Settings > Personalization > Background"
+      },
+      {
+        "B": "Control Panel > Appearance and Personalization"
+      },
+      {
+        "C": "Right-click on the desktop and select \"Change Wallpaper\""
+      },
+      {
+        "D": "Windows key + D"
+      },
+      {
+        "E": "Windows key + P"
+      }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the Recycle Bin in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Recover deleted files"
+      },
+      {
+        "B": "Permanently delete files"
+      },
+      {
+        "C": "Store temporary files"
+      },
+      {
+        "D": "Empty the hard drive"
+      },
+      {
+        "E": "Create a backup of files"
+      }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a shortcut to a program on the desktop in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Right-click on the desktop, select \"New,\" then \"Shortcut\""
+      },
+      {
+        "B": "Drag and drop the program from the Start Menu to the desktop"
+      },
+      {
+        "C": "Ctrl + Alt + Shift + Click on the program icon"
+      },
+      {
+        "D": "Settings > System > Desktop Shortcuts"
+      },
+      {
+        "E": "Windows key + S, then type \"shortcut\""
+      }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the Cortana virtual assistant in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Voice-controlled search and assistance"
+      },
+      {
+        "B": "System security"
+      },
+      {
+        "C": "File management"
+      },
+      {
+        "D": "Taskbar customization"
+      },
+      {
+        "E": "Disk cleanup"
+      }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you view a list of all installed programs on your computer in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Settings > System > Apps"
+      },
+      {
+        "B": "Control Panel > Programs > Uninstall a program"
+      },
+      {
+        "C": "Windows key + X, then select \"Programs and Features\""
+      },
+      {
+        "D": "Task Manager > Applications"
+      },
+      {
+        "E": "Windows Explorer > Programs"
+      }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which keyboard shortcut is used to cut selected text or files in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Ctrl + X"
+      },
+      {
+        "B": "Ctrl + C"
+      },
+      {
+        "C": "Ctrl + V"
+      },
+      {
+        "D": "Ctrl + Z"
+      },
+      {
+        "E": "Ctrl + A"
+      }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you access the Disk Cleanup utility in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Windows key + X, then select \"Disk Cleanup\""
+      },
+      {
+        "B": "Control Panel > System and Security > Administrative Tools"
+      },
+      {
+        "C": "Settings > System > Storage"
+      },
+      {
+        "D": "Control Panel > System > Disk Management"
+      },
+      {
+        "E": "Right-click on the hard drive in File Explorer and select \"Cleanup\""
+      }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the Windows Action Center in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Display system notifications"
+      },
+      {
+        "B": "Manage user accounts"
+      },
+      {
+        "C": "Control network settings"
+      },
+      {
+        "D": "Adjust screen brightness"
+      },
+      {
+        "E": "Customize desktop icons"
+      }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the date and time settings in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Settings > System > Date & Time"
+      },
+      {
+        "B": "Control Panel > Clock and Region"
+      },
+      {
+        "C": "Windows key + R, then type \"time\""
+      },
+      {
+        "D": "Taskbar > Date and Time settings"
+      },
+      {
+        "E": "All of the above"
+      }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which feature allows you to view and manage open windows by hovering over their taskbar icons?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Aero Peek"
+      },
+      {
+        "B": "Snap Assist"
+      },
+      {
+        "C": "Task View"
+      },
+      {
+        "D": "Jump Lists"
+      },
+      {
+        "E": "Quick Launch"
+      }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the default web browser in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Settings > System > Default apps"
+      },
+      {
+        "B": "Control Panel > Internet Options"
+      },
+      {
+        "C": "Windows key + R, then type \"browser\""
+      },
+      {
+        "D": "Windows key + B"
+      },
+      {
+        "E": "Settings > System > Apps"
+      }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which tool allows you to manage startup programs in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Task Manager"
+      },
+      {
+        "B": "Control Panel > System > Startup"
+      },
+      {
+        "C": "Settings > System > Apps > Startup"
+      },
+      {
+        "D": "System Configuration (msconfig)"
+      },
+      {
+        "E": "Windows Defender"
+      }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the Snipping Tool in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Take screenshots"
+      },
+      {
+        "B": "Manage system fonts"
+      },
+      {
+        "C": "Create shortcuts"
+      },
+      {
+        "D": "Backup files"
+      },
+      {
+        "E": "Measure network speed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the computer name in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Settings > System > Advanced system settings"
+      },
+      {
+        "B": "Control Panel > System > Computer Name"
+      },
+      {
+        "C": "System Properties > Computer Name"
+      },
+      {
+        "D": "Windows key + R, then type \"computer name\""
+      },
+      {
+        "E": "Settings > System > About"
+      }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the Windows Registry in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Store system settings and configurations"
+      },
+      {
+        "B": "Manage user accounts"
+      },
+      {
+        "C": "Uninstall programs"
+      },
+      {
+        "D": "Clear temporary files"
+      },
+      {
+        "E": "Encrypt files and folders"
+      }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a new user account in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Settings > Accounts > Family & other users"
+      },
+      {
+        "B": "Control Panel > User Accounts"
+      },
+      {
+        "C": "Windows key + X, then select \"Computer Management\""
+      },
+      {
+        "D": "Settings > System > About"
+      },
+      {
+        "E": "Ctrl + Alt + Del, then select \"New User\""
+      }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which feature allows you to restore your system to a previous state in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "System Restore"
+      },
+      {
+        "B": "Backup and Restore"
+      },
+      {
+        "C": "Windows Defender"
+      },
+      {
+        "D": "File History"
+      },
+      {
+        "E": "Windows Recovery Environment (WinRE)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you customize the taskbar in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "All of the above"
+      },
+      {
+        "B": "Settings > Personalization > Taskbar"
+      },
+      {
+        "C": "Control Panel > Appearance and Personalization"
+      },
+      {
+        "D": "Right-click on the taskbar and select \"Properties\""
+      },
+      {
+        "E": "None of the above"
+      }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the Hibernate option in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Save the current session to the hard drive and power off"
+      },
+      {
+        "B": "Shut down the computer completely"
+      },
+      {
+        "C": "Put the computer to sleep"
+      },
+      {
+        "D": "Restart the computer"
+      },
+      {
+        "E": "Adjust power settings"
+      }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you access the Taskbar settings in Windows 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Settings > Personalization > Taskbar"
+      },
+      {
+        "B": "Right-click on the taskbar and select \"Settings\""
+      },
+      {
+        "C": "Control Panel > Taskbar and Navigation"
+      },
+      {
+        "D": "Windows key + X, then select \"Taskbar settings\""
+      },
+      {
+        "E": "Taskbar > Properties"
+      }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a new row in an Excel spreadsheet?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Right-click on the row number and select \"Insert\""
+      },
+      {
+        "B": "Ctrl + R"
+      },
+      {
+        "C": "Ctrl + Shift + I"
+      },
+      {
+        "D": "Right-click on the column letter and select \"Insert\""
+      },
+      {
+        "E": "Alt + Insert"
+      }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What function is used to add up a range of cells in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SUM()"
+      },
+      {
+        "B": "TOTAL()"
+      },
+      {
+        "C": "ADD()"
+      },
+      {
+        "D": "RANGE()"
+      },
+      {
+        "E": "PLUS()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you freeze panes in Excel to keep certain rows or columns visible while scrolling?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Freeze Panes option under the View tab"
+      },
+      {
+        "B": "Ctrl + F"
+      },
+      {
+        "C": "Alt + F4"
+      },
+      {
+        "D": "Shift + F10"
+      },
+      {
+        "E": "Ctrl + Alt + F"
+      }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the keyboard shortcut to paste values only in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Ctrl + Shift + V"
+      },
+      {
+        "B": "Ctrl + Alt + V"
+      },
+      {
+        "C": "Ctrl + V"
+      },
+      {
+        "D": "Ctrl + C"
+      },
+      {
+        "E": "Ctrl + Alt + PCorrect Answer: c) Ctrl + Shift + V"
+      }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a chart in Excel 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Insert > Chart"
+      },
+      {
+        "B": "Format > Chart"
+      },
+      {
+        "C": "Chart > Create"
+      },
+      {
+        "D": "Data > Chart"
+      },
+      {
+        "E": "Tools > Chart Wizard"
+      }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the VLOOKUP function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Vertical lookup to find a value in a table"
+      },
+      {
+        "B": "Validate data entries"
+      },
+      {
+        "C": "View multiple sheets at once"
+      },
+      {
+        "D": "Verify spreadsheet integrity"
+      },
+      {
+        "E": "Visualize data using charts"
+      }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you apply a filter to a column in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Data > Filter"
+      },
+      {
+        "B": "Format > Filter"
+      },
+      {
+        "C": "Filter > Apply"
+      },
+      {
+        "D": "Ctrl + F"
+      },
+      {
+        "E": "View > Filter"
+      }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the CONCATENATE function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Combine two or more text strings into one"
+      },
+      {
+        "B": "Split text into columns"
+      },
+      {
+        "C": "Count the number of characters in a cell"
+      },
+      {
+        "D": "Capitalize the first letter of each word"
+      },
+      {
+        "E": "Convert text to numbers"
+      }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you format a cell as currency in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Right-click > Format Cells > Currency"
+      },
+      {
+        "B": "Format > Currency"
+      },
+      {
+        "C": "Home > Currency"
+      },
+      {
+        "D": "Ctrl + Shift + $"
+      },
+      {
+        "E": "Ctrl + $"
+      }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the COUNT function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Count the number of cells with numeric values"
+      },
+      {
+        "B": "Calculate the average of a range"
+      },
+      {
+        "C": "Count the total number of cells in a range"
+      },
+      {
+        "D": "Convert text to numbers"
+      },
+      {
+        "E": "Count the number of characters in a cell"
+      }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a pivot table in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Insert > Pivot Table"
+      },
+      {
+        "B": "Data > Pivot Table"
+      },
+      {
+        "C": "Pivot > Create Table"
+      },
+      {
+        "D": "Format > Pivot Table"
+      },
+      {
+        "E": "Pivot > Insert"
+      }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the function COUNTA() do in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Counts the number of cells in a range that are not empty"
+      },
+      {
+        "B": "Calculates the average of a range"
+      },
+      {
+        "C": "Counts the number of numeric values in a range"
+      },
+      {
+        "D": "Counts the number of characters in a cell"
+      },
+      {
+        "E": "Converts text to numbers"
+      }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you apply conditional formatting to a range of cells in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Conditional Formatting"
+      },
+      {
+        "B": "Format > Conditional Formatting"
+      },
+      {
+        "C": "Data > Conditional Formatting"
+      },
+      {
+        "D": "Ctrl + F"
+      },
+      {
+        "E": "Format > Format Painter"
+      }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What function is used to find the highest value in a range in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "MAX()"
+      },
+      {
+        "B": "HIGH()"
+      },
+      {
+        "C": "TOP()"
+      },
+      {
+        "D": "PEAK()"
+      },
+      {
+        "E": "HIGHEST()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you hide a column in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Right-click on the column letter and select \"Hide\""
+      },
+      {
+        "B": "Format > Hide"
+      },
+      {
+        "C": "View > Hide Column"
+      },
+      {
+        "D": "Ctrl + H"
+      },
+      {
+        "E": "Home > Hide"
+      }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the IF function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Perform a conditional calculation"
+      },
+      {
+        "B": "Display a message box"
+      },
+      {
+        "C": "Insert a new worksheet"
+      },
+      {
+        "D": "Freeze panes in a worksheet"
+      },
+      {
+        "E": "Apply a filter to data"
+      }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you merge cells in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Merge & Center"
+      },
+      {
+        "B": "Format > Merge Cells"
+      },
+      {
+        "C": "Ctrl + M"
+      },
+      {
+        "D": "Insert > Merge Cells"
+      },
+      {
+        "E": "Right-click > Merge Cells"
+      }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the formula =AVERAGE(B2:B10) do in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Averages the values in cells B2 to B10"
+      },
+      {
+        "B": "Calculates the total sum of cells B2 to B10"
+      },
+      {
+        "C": "Multiplies the values in cells B2 to B10"
+      },
+      {
+        "D": "Finds the maximum value in cells B2 to B10"
+      },
+      {
+        "E": "Converts text to numbers in cells B2 to B10"
+      }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you add a comment to a cell in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Right-click on the cell and select \"Add Comment\""
+      },
+      {
+        "B": "Insert > Comment"
+      },
+      {
+        "C": "Home > Add Comment"
+      },
+      {
+        "D": "Ctrl + C"
+      },
+      {
+        "E": "Alt + Shift + C"
+      }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the HLOOKUP function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Perform a horizontal lookup to find a value in a table"
+      },
+      {
+        "B": "Count the number of cells in a range"
+      },
+      {
+        "C": "Convert horizontal data to vertical"
+      },
+      {
+        "D": "Highlight cells based on a condition"
+      },
+      {
+        "E": "Calculate the square root of a number"
+      }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you protect a worksheet with a password in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Protect Sheet"
+      },
+      {
+        "B": "Data > Protect Worksheet"
+      },
+      {
+        "C": "Format > Protect Worksheet"
+      },
+      {
+        "D": "Ctrl + P"
+      },
+      {
+        "E": "Protect > Password"
+      }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the COUNTIF function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Count the number of cells that meet a specific condition"
+      },
+      {
+        "B": "Count the number of cells with text in a range"
+      },
+      {
+        "C": "Count the total number of cells in a range"
+      },
+      {
+        "D": "Count the number of cells with errors in a range"
+      },
+      {
+        "E": "Count the number of cells with dates in a range"
+      }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you quickly navigate to the last cell in a column or row with data in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Ctrl + End"
+      },
+      {
+        "B": "Ctrl + Home"
+      },
+      {
+        "C": "Home > Last Cell"
+      },
+      {
+        "D": "End > Last"
+      },
+      {
+        "E": "Alt + End"
+      }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the CONCAT() function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Combine two or more text strings into one"
+      },
+      {
+        "B": "Split text into columns"
+      },
+      {
+        "C": "Count the number of characters in a cell"
+      },
+      {
+        "D": "Create a hyperlink"
+      },
+      {
+        "E": "Convert text to numbers"
+      }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you remove duplicates from a column in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Data > Remove Duplicates"
+      },
+      {
+        "B": "Format > Remove Duplicates"
+      },
+      {
+        "C": "Home > Remove Duplicates"
+      },
+      {
+        "D": "Ctrl + D"
+      },
+      {
+        "E": "Edit > Remove Duplicates"
+      }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What function is used to find the lowest value in a range in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "MIN()"
+      },
+      {
+        "B": "LOW()"
+      },
+      {
+        "C": "SMALL()"
+      },
+      {
+        "D": "BOTTOM()"
+      },
+      {
+        "E": "LEAST()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a comment into a cell in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Review > Comment"
+      },
+      {
+        "B": "Home > Insert Comment"
+      },
+      {
+        "C": "Alt + C"
+      },
+      {
+        "D": "Right-click on the cell and select \"Insert Comment\""
+      },
+      {
+        "E": "Ctrl + Shift + C"
+      }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the TRANSPOSE function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Convert a range of data from horizontal to vertical or vice versa"
+      },
+      {
+        "B": "Swap the contents of two cells"
+      },
+      {
+        "C": "Rearrange the order of columns in a worksheet"
+      },
+      {
+        "D": "Perform a conditional calculation"
+      },
+      {
+        "E": "Insert a new row in a worksheet"
+      }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a drop-down list in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Data Validation > Data Validation"
+      },
+      {
+        "B": "Data > List"
+      },
+      {
+        "C": "Home > Dropdown List"
+      },
+      {
+        "D": "Format > Dropdown"
+      },
+      {
+        "E": "Insert > Dropdown"
+      }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the IFERROR function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Check for errors in a formula and return a custom value"
+      },
+      {
+        "B": "Sum the values in a range"
+      },
+      {
+        "C": "Count the number of cells with errors"
+      },
+      {
+        "D": "Insert an error message"
+      },
+      {
+        "E": "Calculate the average of a range"
+      }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you add a hyperlink from a cell in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Hyperlink"
+      },
+      {
+        "B": "Ctrl + Shift + H"
+      },
+      {
+        "C": "Format > Hyperlink > Remove"
+      },
+      {
+        "D": "Right-click > Delete Hyperlink"
+      },
+      {
+        "E": "Ctrl + Alt + R"
+      }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the function LEFT(A1, 3) do in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Returns the first 3 characters of the text in cell A1"
+      },
+      {
+        "B": "Returns the last 3 characters of the text in cell A1"
+      },
+      {
+        "C": "Counts the number of characters in cell A1"
+      },
+      {
+        "D": "Converts the text in cell A1 to uppercase"
+      },
+      {
+        "E": "Finds the third occurrence of a specific character in cell A1"
+      }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you format a cell as a date in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Right-click > Format Cells > Date"
+      },
+      {
+        "B": "Format > Date"
+      },
+      {
+        "C": "Home > Date"
+      },
+      {
+        "D": "Ctrl + Shift + D"
+      },
+      {
+        "E": "Ctrl + D"
+      }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the COUNTBLANK function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Count the number of blank cells in a range"
+      },
+      {
+        "B": "Calculate the average of non-blank cells in a range"
+      },
+      {
+        "C": "Sum the values in blank cells"
+      },
+      {
+        "D": "Insert a blank row"
+      },
+      {
+        "E": "Blank out the contents of a cell"
+      }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a 3D reference in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Use cell references from multiple worksheets"
+      },
+      {
+        "B": "Formulas > 3D Reference"
+      },
+      {
+        "C": "Alt + 3D"
+      },
+      {
+        "D": "Insert > 3D Reference"
+      },
+      {
+        "E": "Home > 3D Reference"
+      }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What function is used to find the position of a specific value in a range in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "FIND()"
+      },
+      {
+        "B": "LOCATE()"
+      },
+      {
+        "C": "POSITION()"
+      },
+      {
+        "D": "SEARCH()"
+      },
+      {
+        "E": "POSITIONOF()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a named range in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Formulas > Define Name"
+      },
+      {
+        "B": "Insert > Named Range"
+      },
+      {
+        "C": "Home > Define Name"
+      },
+      {
+        "D": "Name > Create"
+      },
+      {
+        "E": "Ctrl + Shift + N"
+      }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the TRIM function in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Remove leading and trailing spaces from a text string"
+      },
+      {
+        "B": "Calculate the square root of a number"
+      },
+      {
+        "C": "Insert a new row in a worksheet"
+      },
+      {
+        "D": "Change text to uppercase"
+      },
+      {
+        "E": "Split text into columns"
+      }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a new worksheet in Excel?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Insert > Worksheet"
+      },
+      {
+        "B": "Ctrl + N"
+      },
+      {
+        "C": "Insert > New Sheet"
+      },
+      {
+        "D": "Ctrl + Shift + W"
+      },
+      {
+        "E": "Alt + Shift + I"
+      }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the \"if\" statement in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To perform conditional execution"
+      },
+      {
+        "B": "To define a function"
+      },
+      {
+        "C": "To declare a variable"
+      },
+      {
+        "D": "To create a loop"
+      },
+      {
+        "E": "To print output to the console"
+      }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement to check if a variable x is equal to 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if x == 10:"
+      },
+      {
+        "B": "if x equals 10:"
+      },
+      {
+        "C": "if x = 10:"
+      },
+      {
+        "D": "if x => 10:"
+      },
+      {
+        "E": "if x != 10:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens if the condition in an \"if\" statement is False?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "The program skips the \"if\" block and continues with the next statement"
+      },
+      {
+        "B": "The program terminates"
+      },
+      {
+        "C": "An error occurs"
+      },
+      {
+        "D": "The program prints an error message"
+      },
+      {
+        "E": "The program enters an infinite loop"
+      }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which logical operator is used to combine multiple conditions in an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "AND"
+      },
+      {
+        "B": "OR"
+      },
+      {
+        "C": "NOT"
+      },
+      {
+        "D": "XOR"
+      },
+      {
+        "E": "NAND"
+      }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is an \"else\" statement used for in conjunction with an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To define an alternative block of code to be executed if the \"if\" condition is False"
+      },
+      {
+        "B": "To create a nested condition"
+      },
+      {
+        "C": "To exit the program"
+      },
+      {
+        "D": "To print a warning message"
+      },
+      {
+        "E": "To iterate over a sequence of values"
+      }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for an \"if\" statement in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if x == 5:"
+      },
+      {
+        "B": "if x = 5:"
+      },
+      {
+        "C": "if x equal 5:"
+      },
+      {
+        "D": "if x => 5:"
+      },
+      {
+        "E": "if x != 5:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement to check if a variable temperature is greater than 30 degrees Celsius?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if temperature > 30:"
+      },
+      {
+        "B": "if temperature == 30:"
+      },
+      {
+        "C": "if temperature => 30:"
+      },
+      {
+        "D": "if temperature equal 30:"
+      },
+      {
+        "E": "if temperature != 30:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the \"else\" statement in an \"if-else\" construct?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To define an alternative block of code to be executed if the \"if\" condition is True"
+      },
+      {
+        "B": "To create a nested condition"
+      },
+      {
+        "C": "To exit the program"
+      },
+      {
+        "D": "To print a warning message"
+      },
+      {
+        "E": "To iterate over a sequence of values"
+      }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you check if a number stored in a variable num is negative using an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if num < 0:"
+      },
+      {
+        "B": "if num != 0:"
+      },
+      {
+        "C": "if num > 0:"
+      },
+      {
+        "D": "if num is negative:"
+      },
+      {
+        "E": "if num == 0:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement that checks if a string text is not empty?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if text != \"\":"
+      },
+      {
+        "B": "if text not empty:"
+      },
+      {
+        "C": "if text == \"\":"
+      },
+      {
+        "D": "if text is not None:"
+      },
+      {
+        "E": "if text == None:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the \"pass\" keyword do in an \"if\" statement block?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Skips the entire \"if\" block and continues with the next statement"
+      },
+      {
+        "B": "Raises an exception"
+      },
+      {
+        "C": "Ends the program"
+      },
+      {
+        "D": "Prints a message to the console"
+      },
+      {
+        "E": "Terminates the loop"
+      }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement that checks if a number x is either 10 or 20?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if x in [10, 20]:"
+      },
+      {
+        "B": "if x is 10 or 20:"
+      },
+      {
+        "C": "if x == 10 and 20:"
+      },
+      {
+        "D": "if x == 10 or 20:"
+      },
+      {
+        "E": "if x not in [10, 20]:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you check if a string variable name contains the letter \"a\" using an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if \"a\" in name:"
+      },
+      {
+        "B": "if name.contains(\"a\"):"
+      },
+      {
+        "C": "if name == \"a\":"
+      },
+      {
+        "D": "if name.has(\"a\"):"
+      },
+      {
+        "E": "if name.index(\"a\"):"
+      }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the \"not\" keyword in an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To negate the condition"
+      },
+      {
+        "B": "To break out of a loop"
+      },
+      {
+        "C": "To check if a variable is None"
+      },
+      {
+        "D": "To skip the \"if\" block"
+      },
+      {
+        "E": "To concatenate strings"
+      }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you check if a number x is both greater than 5 and less than 10 using an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if 5 < x < 10:"
+      },
+      {
+        "B": "if x > 5 and x < 10:"
+      },
+      {
+        "C": "if x > 5 || x < 10:"
+      },
+      {
+        "D": "if x > 5 or x < 10:"
+      },
+      {
+        "E": "if x > 5 & x < 10:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of the following code snippet?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Greater than 10"
+      },
+      {
+        "B": "Less than 10"
+      },
+      {
+        "C": "Less than or equal to 10"
+      },
+      {
+        "D": "Greater than or equal to 10"
+      },
+      {
+        "E": "Equal to 10"
+      }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you check if a variable flag is False using an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if not flag:"
+      },
+      {
+        "B": "if flag is False:"
+      },
+      {
+        "C": "if flag == False:"
+      },
+      {
+        "D": "if flag not True:"
+      },
+      {
+        "E": "if flag != True:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the \"elif\" statement in an \"if-elif-else\" construct?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To define an alternative condition to be checked if the previous \"if\" or \"elif\" conditions are False"
+      },
+      {
+        "B": "To create a nested condition"
+      },
+      {
+        "C": "To exit the program"
+      },
+      {
+        "D": "To print a warning message"
+      },
+      {
+        "E": "To iterate over a sequence of values"
+      }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement to check if a list my_list is not empty?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if not my_list:"
+      },
+      {
+        "B": "if my_list not empty:"
+      },
+      {
+        "C": "if my_list == []:"
+      },
+      {
+        "D": "if len(my_list) > 0:"
+      },
+      {
+        "E": "if my_list is not None:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of the following code snippet?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Even"
+      },
+      {
+        "B": "Odd"
+      },
+      {
+        "C": "4"
+      },
+      {
+        "D": "8"
+      },
+      {
+        "E": "Error"
+      }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement to check if a variable value is of type int?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if type(value) == int:"
+      },
+      {
+        "B": "if value.type() == int:"
+      },
+      {
+        "C": "if value.isint():"
+      },
+      {
+        "D": "if value instanceof int:"
+      },
+      {
+        "E": "if typeof(value) == int:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the \"pass\" keyword do in an \"if\" statement block?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Skips the entire \"if\" block and continues with the next statement"
+      },
+      {
+        "B": "Raises an exception"
+      },
+      {
+        "C": "Ends the program"
+      },
+      {
+        "D": "Prints a message to the console"
+      },
+      {
+        "E": "Terminates the loop"
+      }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement to check if a string text starts with the letter \"P\"?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if text.startswith(\"P\"):"
+      },
+      {
+        "B": "if \"P\" == text[0]:"
+      },
+      {
+        "C": "if text[0] == \"P\":"
+      },
+      {
+        "D": "if text.first() == \"P\":"
+      },
+      {
+        "E": "if \"P\" in text:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the \"in\" keyword in an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Checks if a value is present in a list or other iterable"
+      },
+      {
+        "B": "Checks if a value is not present in a list"
+      },
+      {
+        "C": "Determines if a variable is an instance of a class"
+      },
+      {
+        "D": "Checks if a variable is None"
+      },
+      {
+        "E": "Compares two values for equality"
+      }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the \"pass\" keyword in an \"if\" block?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Executes a placeholder statement and does nothing"
+      },
+      {
+        "B": "Raises an exception"
+      },
+      {
+        "C": "Breaks out of the loop"
+      },
+      {
+        "D": "Prints a message to the console"
+      },
+      {
+        "E": "Terminates the program"
+      }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement to check if a character ch is a vowel (either 'a', 'e', 'i', 'o', or 'u')?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if ch in ['a', 'e', 'i', 'o', 'u']:"
+      },
+      {
+        "B": "if ch == 'a' or 'e' or 'i' or 'o' or 'u':"
+      },
+      {
+        "C": "if ch in 'aeiou':"
+      },
+      {
+        "D": "if ch == ['a', 'e', 'i', 'o', 'u']:"
+      },
+      {
+        "E": "if ch == 'vowel':"
+      }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the \"elif\" keyword stand for in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Else If"
+      },
+      {
+        "B": "Element List If"
+      },
+      {
+        "C": "End Loop If"
+      },
+      {
+        "D": "Error List If"
+      },
+      {
+        "E": "Equal Less If"
+      }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement to check if a string password is at least 8 characters long and contains both letters and numbers?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if len(password) >= 8 and password.isalnum():"
+      },
+      {
+        "B": "if len(password) >= 8 and password.isdigit() and password.isalpha():"
+      },
+      {
+        "C": "if len(password) >= 8 and password.isalpha() and password.isdigit():"
+      },
+      {
+        "D": "if len(password) >= 8 and password.isalpha() or password.isdigit():"
+      },
+      {
+        "E": "if len(password) >= 8 and password.isdigit() or password.isalpha():"
+      }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write an \"if\" statement to check if a variable x is equal to either 5 or 7?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if x == 5 or x == 7:"
+      },
+      {
+        "B": "if x is 5 or 7:"
+      },
+      {
+        "C": "if x == [5, 7]:"
+      },
+      {
+        "D": "if x in [5, 7]:"
+      },
+      {
+        "E": "if x != 5 and x != 7:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you check if a string text ends with the substring \"ing\" using an \"if\" statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "if text.endswith(\"ing\"):"
+      },
+      {
+        "B": "if text[-3:] == \"ing\":"
+      },
+      {
+        "C": "if \"ing\" in text.end():"
+      },
+      {
+        "D": "if text.ends(\"ing\"):"
+      },
+      {
+        "E": "if text.endsWith(\"ing\"):"
+      }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of the following code snippet?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Greater than 10"
+      },
+      {
+        "B": "Greater than 15"
+      },
+      {
+        "C": "Equal or less than 10"
+      },
+      {
+        "D": "Equal to 10"
+      },
+      {
+        "E": "No output"
+      }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the break statement do in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Skips the entire loop and continues with the next statement after the loop"
+      },
+      {
+        "B": "Skips the rest of the current iteration and continues with the next iteration of the loop"
+      },
+      {
+        "C": "Ends the entire program"
+      },
+      {
+        "D": "Clears the current loop and starts a new one"
+      },
+      {
+        "E": "Halts the execution of the current function"
+      }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How is the continue statement different from the break statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "continue skips the current iteration; break ends the loop"
+      },
+      {
+        "B": "continue ends the loop; break skips the current iteration"
+      },
+      {
+        "C": "Both continue and break end the loop"
+      },
+      {
+        "D": "Both continue and break skip the current iteration"
+      },
+      {
+        "E": "continue and break are interchangeable and have the same effect"
+      }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which type of loop are continue and break statements commonly used?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "while loop"
+      },
+      {
+        "B": "for loop"
+      },
+      {
+        "C": "if statement"
+      },
+      {
+        "D": "switch statement"
+      },
+      {
+        "E": "else statement"
+      }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the continue statement in a loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Skips the rest of the current iteration and continues with the next iteration of the loop"
+      },
+      {
+        "B": "Ends the loop"
+      },
+      {
+        "C": "Skips the entire loop and continues with the next statement after the loop"
+      },
+      {
+        "D": "Starts a new loop"
+      },
+      {
+        "E": "Halts the execution of the current function"
+      }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you use the break statement to exit a loop when a specific condition is met?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for i in range(10): if condition: break"
+      },
+      {
+        "B": "break if condition"
+      },
+      {
+        "C": "while not condition: break"
+      },
+      {
+        "D": "if condition: break"
+      },
+      {
+        "E": "break while condition"
+      }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In a while loop, how does the continue statement affect the loop's control flow?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Skips the rest of the current iteration and continues with the next iteration of the loop"
+      },
+      {
+        "B": "Ends the loop"
+      },
+      {
+        "C": "Skips the entire loop and continues with the next statement after the loop"
+      },
+      {
+        "D": "Starts a new loop"
+      },
+      {
+        "E": "Halts the execution of the current function"
+      }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens if a break statement is not inside any loop in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "It has no effect"
+      },
+      {
+        "B": "It raises an error"
+      },
+      {
+        "C": "It ends the entire program"
+      },
+      {
+        "D": "It skips the current iteration of the loop"
+      },
+      {
+        "E": "It creates a new loop"
+      }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In a nested loop structure, which loop does the break statement exit?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "The innermost loop"
+      },
+      {
+        "B": "The outermost loop"
+      },
+      {
+        "C": "Both inner and outer loops"
+      },
+      {
+        "D": "Neither inner nor outer loops"
+      },
+      {
+        "E": "It depends on the specific conditions"
+      }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you use the continue statement to skip the rest of the current iteration in a for loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "continue"
+      },
+      {
+        "B": "skip(iterable)"
+      },
+      {
+        "C": "continue(iterable)"
+      },
+      {
+        "D": "next(iterable)"
+      },
+      {
+        "E": "skip"
+      }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of using break in a loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To terminate the loop prematurely based on a condition"
+      },
+      {
+        "B": "To restart the loop from the beginning"
+      },
+      {
+        "C": "To end the entire program"
+      },
+      {
+        "D": "To skip the entire loop and continue with the next statement after the loop"
+      },
+      {
+        "E": "To skip the current iteration and move to the next"
+      }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the string \"Hello, World!\" to the console in Python?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(\"Hello, World!\")"
+      },
+      {
+        "B": "console.log(\"Hello, World!\")"
+      },
+      {
+        "C": "output(\"Hello, World!\")"
+      },
+      {
+        "D": "echo \"Hello, World!\""
+      },
+      {
+        "E": "show(\"Hello, World!\")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the end parameter in the print function?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Defines the separator between printed values"
+      },
+      {
+        "B": "Adds a newline character by default"
+      },
+      {
+        "C": "Sets the output format to hexadecimal"
+      },
+      {
+        "D": "Specifies the starting index of the string to print"
+      },
+      {
+        "E": "Ends the execution of the program"
+      }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the values of variables x and y with a space in between?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(x, y)"
+      },
+      {
+        "B": "print(x + \" \" + y)"
+      },
+      {
+        "C": "print(x & y)"
+      },
+      {
+        "D": "print(x; y)"
+      },
+      {
+        "E": "print(x \\ y)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the sep parameter in the print function control?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "The separator between printed values"
+      },
+      {
+        "B": "The starting index of the printed string"
+      },
+      {
+        "C": "The end character of the printed string"
+      },
+      {
+        "D": "The output format"
+      },
+      {
+        "E": "The number of spaces between printed values"
+      }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the value of a variable count followed by a colon and a space?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(count, \": \")"
+      },
+      {
+        "B": "print(count + \": \")"
+      },
+      {
+        "C": "print(count - \": \")"
+      },
+      {
+        "D": "print(count, \"; \")"
+      },
+      {
+        "E": "print(count \\ \": \")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the default value of the end parameter in the print function?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "A newline character"
+      },
+      {
+        "B": "A space character"
+      },
+      {
+        "C": "An empty string"
+      },
+      {
+        "D": "The value of None"
+      },
+      {
+        "E": "A tab character"
+      }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you prevent the automatic newline at the end of the print function in Python 3.x?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Set end to an empty string: print(\"Hello\", end='')"
+      },
+      {
+        "B": "Use new_line=False as an argument: print(\"Hello\", new_line=False)"
+      },
+      {
+        "C": "Add a backslash at the end: print(\"Hello\", \\)"
+      },
+      {
+        "D": "Set newline=False as an argument: print(\"Hello\", newline=False)"
+      },
+      {
+        "E": "Use print_raw(\"Hello\") instead"
+      }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the string \"Python\" three times, each on a new line?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(\"Python\\nPython\\nPython\")"
+      },
+      {
+        "B": "print(\"Python\") * 3"
+      },
+      {
+        "C": "print(\"Python\", 3)"
+      },
+      {
+        "D": "print(\"Python\" * 3)"
+      },
+      {
+        "E": "print(\"Python\", \"\\nPython\", \"\\nPython\")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the file parameter in the print function?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Specifies the file to write the output to"
+      },
+      {
+        "B": "Prints the file path along with the output"
+      },
+      {
+        "C": "Sets the file encoding"
+      },
+      {
+        "D": "Appends the output to the specified file"
+      },
+      {
+        "E": "Reads the output from the specified file"
+      }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the string \"Hello\" without a newline character at the end using the print function?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(\"Hello\", end='')"
+      },
+      {
+        "B": "print(\"Hello\", end='\\n')"
+      },
+      {
+        "C": "print(\"Hello\", newline=False)"
+      },
+      {
+        "D": "print(\"Hello\", \\n)"
+      },
+      {
+        "E": "print(\"Hello\", end='\\r')"
+      }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the *objects syntax in the print function allow you to do?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Takes a variable number of arguments and prints them all"
+      },
+      {
+        "B": "Prints all objects in the list sequentially"
+      },
+      {
+        "C": "Multiplies the output by the specified number"
+      },
+      {
+        "D": "Raises an error in the print function"
+      },
+      {
+        "E": "Separates the objects with a specified character"
+      }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the string \"Hello\" in uppercase letters?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(\"Hello\".upper())"
+      },
+      {
+        "B": "print(\"Hello\", case='upper')"
+      },
+      {
+        "C": "print(uppercase(\"Hello\"))"
+      },
+      {
+        "D": "print(\"Hello\", to_upper=True)"
+      },
+      {
+        "E": "print(\"Hello\" + upper())"
+      }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the integer num with leading zeros to make it a fixed width of 5 characters?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(f\"{num:05}\")"
+      },
+      {
+        "B": "print(num.zfill(5))"
+      },
+      {
+        "C": "print(format(num, '05'))"
+      },
+      {
+        "D": "print(num.padding(5))"
+      },
+      {
+        "E": "print(\"0\" * (5 - len(str(num))) + str(num))"
+      }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens if you use the print function with no arguments?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "It prints an empty line"
+      },
+      {
+        "B": "It raises an error"
+      },
+      {
+        "C": "It prints the string \"None\""
+      },
+      {
+        "D": "It prints the string \"null\""
+      },
+      {
+        "E": "It has no effect"
+      }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the values of variables a, b, and c with a comma separator?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(a, b, c, sep=',')"
+      },
+      {
+        "B": "print(a, b, c, separator=',')"
+      },
+      {
+        "C": "print(a, b, c; sep=','})"
+      },
+      {
+        "D": "print(a, b, c, comma=True)"
+      },
+      {
+        "E": "print(a, b, c, separate=True)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the character 'A' followed by a space, and then the character 'B'?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print('A' + ' ' + 'B')"
+      },
+      {
+        "B": "print('A', space(), 'B')"
+      },
+      {
+        "C": "print('A' space 'B')"
+      },
+      {
+        "D": "print('A', 'B', space=' '))"
+      },
+      {
+        "E": "print('A', 'B', separator=' ')"
+      }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print a raw string, for example, r\"\\n\"?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(r\"\\n\")"
+      },
+      {
+        "B": "print(raw(r\"\\n\"))"
+      },
+      {
+        "C": "print(\"r'\\n'\")"
+      },
+      {
+        "D": "print(escape(r\"\\n\"))"
+      },
+      {
+        "E": "print(raw=True, \"\\n\")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the file parameter in the print function?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Specifies the file to write the output to"
+      },
+      {
+        "B": "Prints the file path along with the output"
+      },
+      {
+        "C": "Sets the file encoding"
+      },
+      {
+        "D": "Appends the output to the specified file"
+      },
+      {
+        "E": "Reads the output from the specified file"
+      }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the end parameter in the print function?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Defines the separator between printed values"
+      },
+      {
+        "B": "Adds a newline character by default"
+      },
+      {
+        "C": "Sets the output format to hexadecimal"
+      },
+      {
+        "D": "Defines the separator between printed values"
+      },
+      {
+        "E": "Ends the execution of the program"
+      }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the values of variables a, b, and c with a comma separator?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(a, b, c, sep=',')"
+      },
+      {
+        "B": "print(a, b, c, separator=',')"
+      },
+      {
+        "C": "print(a, b, c; sep=','})"
+      },
+      {
+        "D": "print(a, b, c, comma=True)"
+      },
+      {
+        "E": "print(a, b, c, separate=True)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the sep parameter in the print function control?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "The separator between printed values"
+      },
+      {
+        "B": "The starting index of the printed string"
+      },
+      {
+        "C": "The end character of the printed string"
+      },
+      {
+        "D": "The output format"
+      },
+      {
+        "E": "The number of spaces between printed values"
+      }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you print the values of variables x and y with a space in between?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "print(x, y)"
+      },
+      {
+        "B": "print(x + \" \" + y)"
+      },
+      {
+        "C": "print(x & y)"
+      },
+      {
+        "D": "print(x; y)"
+      },
+      {
+        "E": "print(x \\ y)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the SQL SELECT statement do?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Retrieves data from a table"
+      },
+      {
+        "B": "Retrieves data from a table"
+      },
+      {
+        "C": "Deletes data from a table"
+      },
+      {
+        "D": "Updates data in a table"
+      },
+      {
+        "E": "Creates a new table"
+      }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select all columns from a table named employees?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT * FROM employees;"
+      },
+      {
+        "B": "SELECT ALL FROM employees;"
+      },
+      {
+        "C": "GET ALL COLUMNS FROM employees;"
+      },
+      {
+        "D": "SHOW COLUMNS FROM employees;"
+      },
+      {
+        "E": "PULL ALL FROM employees;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the DISTINCT keyword in a SELECT statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Retrieves only unique values from the specified columns"
+      },
+      {
+        "B": "Sorts the result set in descending order"
+      },
+      {
+        "C": "Performs a case-sensitive search"
+      },
+      {
+        "D": "Groups the results by a specified column"
+      },
+      {
+        "E": "Retrieves data from multiple tables"
+      }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select only the first 10 rows from a table named products?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT * FROM products LIMIT 10;"
+      },
+      {
+        "B": "SELECT TOP 10 * FROM products;"
+      },
+      {
+        "C": "SELECT FIRST 10 * FROM products;"
+      },
+      {
+        "D": "SELECT * FROM products WHERE rownum <= 10;"
+      },
+      {
+        "E": "LIMIT 10 SELECT * FROM products;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the WHERE clause in a SELECT statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Filters the rows based on a specified condition"
+      },
+      {
+        "B": "Specifies the columns to retrieve"
+      },
+      {
+        "C": "Orders the result set in ascending order"
+      },
+      {
+        "D": "Groups the results by a specified column"
+      },
+      {
+        "E": "Joins multiple tables"
+      }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns name and age from a table named students?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT name, age FROM students;"
+      },
+      {
+        "B": "SELECT COLUMN name, COLUMN age FROM students;"
+      },
+      {
+        "C": "PULL name, age FROM students;"
+      },
+      {
+        "D": "GET name, age FROM students;"
+      },
+      {
+        "E": "SHOW name, age FROM students;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the ORDER BY clause in a SELECT statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Sorts the result set based on one or more columns"
+      },
+      {
+        "B": "Filters the rows based on a specified condition"
+      },
+      {
+        "C": "Joins multiple tables"
+      },
+      {
+        "D": "Groups the results by a specified column"
+      },
+      {
+        "E": "Retrieves only unique values from the specified columns"
+      }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select all columns from a table named customers where the country is 'USA'?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT * FROM customers WHERE country = 'USA';"
+      },
+      {
+        "B": "SELECT ALL FROM customers WHERE country = 'USA';"
+      },
+      {
+        "C": "GET * FROM customers WHERE country = 'USA';"
+      },
+      {
+        "D": "PULL * FROM customers WHERE country = 'USA';"
+      },
+      {
+        "E": "SHOW * FROM customers WHERE country = 'USA';"
+      }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the average value of the column price from a table named products?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT AVG(price) FROM products;"
+      },
+      {
+        "B": "SELECT AVERAGE(price) FROM products;"
+      },
+      {
+        "C": "CALCULATE AVG(price) FROM products;"
+      },
+      {
+        "D": "GET AVG(price) FROM products;"
+      },
+      {
+        "E": "SHOW AVG(price) FROM products;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the GROUP BY clause in a SELECT statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Groups the results based on one or more columns"
+      },
+      {
+        "B": "Orders the result set in ascending order"
+      },
+      {
+        "C": "Retrieves only unique values from the specified columns"
+      },
+      {
+        "D": "Joins multiple tables"
+      },
+      {
+        "E": "Filters the rows based on a specified condition"
+      }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns name and salary from a table named employees where the salary is greater than 50000?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT name, salary FROM employees WHERE salary > 50000;"
+      },
+      {
+        "B": "SELECT COLUMN name, COLUMN salary FROM employees WHERE salary > 50000;"
+      },
+      {
+        "C": "PULL name, salary FROM employees WHERE salary > 50000;"
+      },
+      {
+        "D": "GET name, salary FROM employees WHERE salary > 50000;"
+      },
+      {
+        "E": "SHOW name, salary FROM employees WHERE salary > 50000;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the distinct values from the column category in a table named products?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT DISTINCT category FROM products;"
+      },
+      {
+        "B": "SELECT UNIQUE category FROM products;"
+      },
+      {
+        "C": "GET DISTINCT category FROM products;"
+      },
+      {
+        "D": "SHOW DISTINCT category FROM products;"
+      },
+      {
+        "E": "PULL DISTINCT category FROM products;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the HAVING clause in a SELECT statement?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Filters the rows based on a specified condition after grouping"
+      },
+      {
+        "B": "Groups the results based on one or more columns"
+      },
+      {
+        "C": "Orders the result set in ascending order"
+      },
+      {
+        "D": "Joins multiple tables"
+      },
+      {
+        "E": "Retrieves only unique values from the specified columns"
+      }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the first 5 rows from a table named orders sorted in descending order by the order_date column?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT * FROM orders ORDER BY order_date DESC LIMIT 5;"
+      },
+      {
+        "B": "SELECT TOP 5 * FROM orders ORDER BY order_date DESC;"
+      },
+      {
+        "C": "SELECT FIRST 5 * FROM orders ORDER BY order_date DESC;"
+      },
+      {
+        "D": "SELECT * FROM orders WHERE ROWNUM <= 5 ORDER BY order_date DESC;"
+      },
+      {
+        "E": "LIMIT 5 SELECT * FROM orders ORDER BY order_date DESC;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns product_id and the count of orders for each product from a table named order_details grouped by product_id?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT product_id, COUNT(*) FROM order_details GROUP BY product_id;"
+      },
+      {
+        "B": "SELECT product_id, TOTAL(orders) FROM order_details GROUP BY product_id;"
+      },
+      {
+        "C": "PULL product_id, COUNT(*) FROM order_details GROUP BY product_id;"
+      },
+      {
+        "D": "GET product_id, COUNT(*) FROM order_details GROUP BY product_id;"
+      },
+      {
+        "E": "SHOW product_id, COUNT(*) FROM order_details GROUP BY product_id;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns customer_id and the total revenue for each customer from a table named orders joined with a table named order_details?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT customer_id, SUM(total_price) FROM orders INNER JOIN order_details ON orders.order_id = order_details.order_id GROUP BY customer_id;"
+      },
+      {
+        "B": "SELECT customer_id, TOTAL(total_price) FROM orders JOIN order_details ON orders.order_id = order_details.order_id GROUP BY customer_id;"
+      },
+      {
+        "C": "PULL customer_id, SUM(total_price) FROM orders JOIN order_details ON orders.order_id = order_details.order_id GROUP BY customer_id;"
+      },
+      {
+        "D": "GET customer_id, SUM(total_price) FROM orders INNER JOIN order_details ON orders.order_id = order_details.order_id GROUP BY customer_id;"
+      },
+      {
+        "E": "SHOW customer_id, TOTAL(total_price) FROM orders JOIN order_details ON orders.order_id = order_details.order_id GROUP BY customer_id;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns employee_id and the average salary for each department from a table named employees grouped by department_id?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT employee_id, AVG(salary) FROM employees GROUP BY department_id;"
+      },
+      {
+        "B": "SELECT employee_id, AVERAGE(salary) FROM employees GROUP BY department_id;"
+      },
+      {
+        "C": "PULL employee_id, AVG(salary) FROM employees GROUP BY department_id;"
+      },
+      {
+        "D": "GET employee_id, AVG(salary) FROM employees GROUP BY department_id;"
+      },
+      {
+        "E": "SHOW employee_id, AVERAGE(salary) FROM employees GROUP BY department_id;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns product_id, category, and the maximum price for each category from a table named products?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT product_id, category, MAX(price) FROM products GROUP BY category;"
+      },
+      {
+        "B": "SELECT product_id, category, MAXIMUM(price) FROM products GROUP BY category;"
+      },
+      {
+        "C": "PULL product_id, category, MAX(price) FROM products GROUP BY category;"
+      },
+      {
+        "D": "GET product_id, category, MAX(price) FROM products GROUP BY category;"
+      },
+      {
+        "E": "SHOW product_id, category, MAXIMUM(price) FROM products GROUP BY category;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select all columns from a table named students where the age is between 18 and 25?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT * FROM students WHERE age BETWEEN 18 AND 25;"
+      },
+      {
+        "B": "SELECT ALL FROM students WHERE age BETWEEN 18 AND 25;"
+      },
+      {
+        "C": "GET * FROM students WHERE age BETWEEN 18 AND 25;"
+      },
+      {
+        "D": "PULL * FROM students WHERE age BETWEEN 18 AND 25;"
+      },
+      {
+        "E": "SHOW * FROM students WHERE age BETWEEN 18 AND 25;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns customer_id and order_date from a table named orders where the order_date is in the year 2022?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT customer_id, order_date FROM orders WHERE EXTRACT(YEAR FROM order_date) = 2022;"
+      },
+      {
+        "B": "SELECT customer_id, order_date FROM orders WHERE order_date LIKE '2022%';"
+      },
+      {
+        "C": "SELECT customer_id, order_date FROM orders WHERE YEAR(order_date) = 2022;"
+      },
+      {
+        "D": "SELECT customer_id, order_date FROM orders WHERE order_date BETWEEN '2022-01-01' AND '2022-12-31';"
+      },
+      {
+        "E": "SELECT customer_id, order_date FROM orders WHERE order_date = '2022';"
+      }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns product_id and quantity from a table named order_details where the quantity is not equal to 0?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT product_id, quantity FROM order_details WHERE quantity <> 0;"
+      },
+      {
+        "B": "SELECT product_id, quantity FROM order_details WHERE quantity != 0;"
+      },
+      {
+        "C": "SELECT product_id, quantity FROM order_details WHERE quantity NOT 0;"
+      },
+      {
+        "D": "SELECT product_id, quantity FROM order_details WHERE NOT quantity = 0;"
+      },
+      {
+        "E": "SELECT product_id, quantity FROM order_details WHERE quantity NOT EQUAL 0;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns employee_id and hire_date from a table named employees where the hire_date is later than January 1, 2020?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT employee_id, hire_date FROM employees WHERE hire_date > '2020-01-01';"
+      },
+      {
+        "B": "SELECT employee_id, hire_date FROM employees WHERE hire_date AFTER '2020-01-01';"
+      },
+      {
+        "C": "SELECT employee_id, hire_date FROM employees WHERE hire_date > DATE('2020-01-01');"
+      },
+      {
+        "D": "SELECT employee_id, hire_date FROM employees WHERE hire_date > TO_DATE('2020-01-01', 'YYYY-MM-DD');"
+      },
+      {
+        "E": "`SELECT employee_id, hire_date FROM employees WHERE hire"
+      }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns customer_id and order_date from a table named orders where the order_date is between '2022-01-01' and '2022-12-31'?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT customer_id, order_date FROM orders WHERE order_date BETWEEN '2022-01-01' AND '2022-12-31';"
+      },
+      {
+        "B": "SELECT customer_id, order_date FROM orders WHERE order_date > '2022-01-01' AND order_date < '2022-12-31';"
+      },
+      {
+        "C": "SELECT customer_id, order_date FROM orders WHERE order_date BETWEEN '2022-01-01' TO '2022-12-31';"
+      },
+      {
+        "D": "SELECT customer_id, order_date FROM orders WHERE order_date >= '2022-01-01' AND order_date <= '2022-12-31';"
+      },
+      {
+        "E": "SELECT customer_id, order_date FROM orders WHERE order_date IN ('2022-01-01', '2022-12-31');"
+      }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns product_id and price from a table named products where the price is in the range of 50 to 100?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT product_id, price FROM products WHERE price BETWEEN 50 AND 100;"
+      },
+      {
+        "B": "SELECT product_id, price FROM products WHERE price > 50 AND price < 100;"
+      },
+      {
+        "C": "SELECT product_id, price FROM products WHERE price BETWEEN 50 TO 100;"
+      },
+      {
+        "D": "SELECT product_id, price FROM products WHERE price >= 50 AND price <= 100;"
+      },
+      {
+        "E": "SELECT product_id, price FROM products WHERE price IN (50, 100);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns employee_id and salary from a table named employees where the salary is not null?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT employee_id, salary FROM employees WHERE salary IS NOT NULL;"
+      },
+      {
+        "B": "SELECT employee_id, salary FROM employees WHERE salary NOT NULL;"
+      },
+      {
+        "C": "SELECT employee_id, salary FROM employees WHERE salary <> NULL;"
+      },
+      {
+        "D": "SELECT employee_id, salary FROM employees WHERE salary EXISTS;"
+      },
+      {
+        "E": "SELECT employee_id, salary FROM employees WHERE salary IS NOT EMPTY;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns customer_id and order_date from a table named orders where the customer_id is either 'C001' or 'C002'?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT customer_id, order_date FROM orders WHERE customer_id IN ('C001', 'C002');"
+      },
+      {
+        "B": "SELECT customer_id, order_date FROM orders WHERE customer_id = 'C001' OR customer_id = 'C002';"
+      },
+      {
+        "C": "SELECT customer_id, order_date FROM orders WHERE customer_id = ANY ('C001', 'C002');"
+      },
+      {
+        "D": "SELECT customer_id, order_date FROM orders WHERE customer_id ONE OF ('C001', 'C002');"
+      },
+      {
+        "E": "SELECT customer_id, order_date FROM orders WHERE customer_id CONTAINS ('C001', 'C002');"
+      }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns product_id and quantity from a table named order_details where the quantity is greater than 10 and the product_id is not null?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT product_id, quantity FROM order_details WHERE quantity > 10 AND product_id IS NOT NULL;"
+      },
+      {
+        "B": "SELECT product_id, quantity FROM order_details WHERE quantity > 10 AND product_id <> NULL;"
+      },
+      {
+        "C": "SELECT product_id, quantity FROM order_details WHERE quantity > 10 AND product_id NOT NULL;"
+      },
+      {
+        "D": "SELECT product_id, quantity FROM order_details WHERE quantity > 10 AND product_id EXISTS;"
+      },
+      {
+        "E": "SELECT product_id, quantity FROM order_details WHERE quantity > 10 AND NOT product_id IS NULL;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns employee_id and hire_date from a table named employees where the hire_date is in the month of January?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT employee_id, hire_date FROM employees WHERE EXTRACT(MONTH FROM hire_date) = 1;"
+      },
+      {
+        "B": "SELECT employee_id, hire_date FROM employees WHERE hire_date LIKE '2022-01%';"
+      },
+      {
+        "C": "SELECT employee_id, hire_date FROM employees WHERE MONTH(hire_date) = 1;"
+      },
+      {
+        "D": "SELECT employee_id, hire_date FROM employees WHERE hire_date BETWEEN '2022-01-01' AND '2022-01-31';"
+      },
+      {
+        "E": "SELECT employee_id, hire_date FROM employees WHERE hire_date = '2022-01';"
+      }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns customer_id and the count of orders for each customer from a table named orders grouped by customer_id, but only for customers who have placed more than 5 orders?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT customer_id, COUNT(*) FROM orders GROUP BY customer_id HAVING COUNT(*) > 5;"
+      },
+      {
+        "B": "SELECT customer_id, TOTAL(orders) FROM orders GROUP BY customer_id HAVING TOTAL(orders) > 5;"
+      },
+      {
+        "C": "PULL customer_id, COUNT(*) FROM orders GROUP BY customer_id HAVING COUNT(*) > 5;"
+      },
+      {
+        "D": "GET customer_id, COUNT(*) FROM orders GROUP BY customer_id HAVING COUNT(*) > 5;"
+      },
+      {
+        "E": "SHOW customer_id, TOTAL(orders) FROM orders GROUP BY customer_id HAVING TOTAL(orders) > 5;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select the columns category and the average price for each category from a table named products where the average price is greater than 50?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "SELECT category, AVG(price) FROM products GROUP BY category HAVING AVG(price) > 50;"
+      },
+      {
+        "B": "SELECT category, AVERAGE(price) FROM products GROUP BY category HAVING AVERAGE(price) > 50;"
+      },
+      {
+        "C": "PULL category, AVG(price) FROM products GROUP BY category HAVING AVG(price) > 50;"
+      },
+      {
+        "D": "GET category, AVG(price) FROM products GROUP BY category HAVING AVG(price) > 50;"
+      },
+      {
+        "E": "SHOW category, AVERAGE(price) FROM products GROUP BY category HAVING AVERAGE(price) > 50;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a table named \"students\" with columns for \"student_id\" (integer), \"first_name\" (varchar2 with a maximum length of 50), and \"age\" (number)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE students (student_id INT, first_name VARCHAR2(50), age NUMBER);"
+      },
+      {
+        "B": "DEFINE TABLE students (student_id INT, first_name VARCHAR2(50), age NUMBER);"
+      },
+      {
+        "C": "NEW TABLE students (student_id INT, first_name VARCHAR2(50), age NUMBER);"
+      },
+      {
+        "D": "ADD TABLE students (student_id INT, first_name VARCHAR2(50), age NUMBER);"
+      },
+      {
+        "E": "INSERT INTO students (student_id, first_name, age) VALUES (...);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for creating a table named \"employees\" with columns \"emp_id\" (number), \"emp_name\" (varchar2 with a maximum length of 100), and \"salary\" (number)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE employees (emp_id NUMBER, emp_name VARCHAR2(100), salary NUMBER);"
+      },
+      {
+        "B": "DEFINE TABLE employees (emp_id NUMBER, emp_name VARCHAR2(100), salary NUMBER);"
+      },
+      {
+        "C": "NEW TABLE employees (emp_id NUMBER, emp_name VARCHAR2(100), salary NUMBER);"
+      },
+      {
+        "D": "ADD TABLE employees (emp_id NUMBER, emp_name VARCHAR2(100), salary NUMBER);"
+      },
+      {
+        "E": "INSERT INTO employees (emp_id, emp_name, salary) VALUES (...);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you define a primary key constraint on the \"student_id\" column when creating a table named \"students\"?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE students (student_id INT PRIMARY KEY, ...);"
+      },
+      {
+        "B": "DEFINE TABLE students (student_id INT PRIMARY KEY, ...);"
+      },
+      {
+        "C": "NEW TABLE students (student_id INT PRIMARY KEY, ...);"
+      },
+      {
+        "D": "ADD TABLE students (student_id INT PRIMARY KEY, ...);"
+      },
+      {
+        "E": "ALTER TABLE students ADD PRIMARY KEY (student_id);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for creating a table named \"books\" with columns \"book_id\" (number), \"title\" (varchar2 with a maximum length of 200), and \"author_id\" (number) as a foreign key referencing the \"authors\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE books (book_id NUMBER, title VARCHAR2(200), author_id NUMBER, FOREIGN KEY (author_id) REFERENCES authors(author_id));"
+      },
+      {
+        "B": "DEFINE TABLE books (book_id NUMBER, title VARCHAR2(200), author_id NUMBER, FOREIGN KEY (author_id) REFERENCES authors(author_id));"
+      },
+      {
+        "C": "NEW TABLE books (book_id NUMBER, title VARCHAR2(200), author_id NUMBER, FOREIGN KEY (author_id) REFERENCES authors(author_id));"
+      },
+      {
+        "D": "ADD TABLE books (book_id NUMBER, title VARCHAR2(200), author_id NUMBER, FOREIGN KEY (author_id) REFERENCES authors(author_id));"
+      },
+      {
+        "E": "ALTER TABLE books ADD CONSTRAINT fk_author FOREIGN KEY (author_id) REFERENCES authors(author_id);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you add a NOT NULL constraint to the \"email\" column in an existing table named \"users\"?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "ALTER TABLE users MODIFY email NOT NULL;"
+      },
+      {
+        "B": "UPDATE TABLE users SET email NOT NULL;"
+      },
+      {
+        "C": "MODIFY TABLE users ADD email NOT NULL;"
+      },
+      {
+        "D": "ADD CONSTRAINT users_email_nn NOT NULL (email);"
+      },
+      {
+        "E": "ALTER TABLE users ADD CONSTRAINT email_nn NOT NULL;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to specify a unique constraint on the \"department_name\" column when creating a table named \"departments\"?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE departments (department_name VARCHAR2(50) UNIQUE, ...);"
+      },
+      {
+        "B": "DEFINE TABLE departments (department_name VARCHAR2(50) UNIQUE, ...);"
+      },
+      {
+        "C": "NEW TABLE departments (department_name VARCHAR2(50) UNIQUE, ...);"
+      },
+      {
+        "D": "ADD TABLE departments (department_name VARCHAR2(50) UNIQUE, ...);"
+      },
+      {
+        "E": "ALTER TABLE departments ADD UNIQUE (department_name);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a table named \"orders\" with columns \"order_id\" (number), \"order_date\" (date), and \"customer_id\" (number), where \"customer_id\" is a foreign key referencing the \"customers\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE orders (order_id NUMBER, order_date DATE, customer_id NUMBER, FOREIGN KEY (customer_id) REFERENCES customers(customer_id));"
+      },
+      {
+        "B": "DEFINE TABLE orders (order_id NUMBER, order_date DATE, customer_id NUMBER, FOREIGN KEY (customer_id) REFERENCES customers(customer_id));"
+      },
+      {
+        "C": "NEW TABLE orders (order_id NUMBER, order_date DATE, customer_id NUMBER, FOREIGN KEY (customer_id) REFERENCES customers(customer_id));"
+      },
+      {
+        "D": "ADD TABLE orders (order_id NUMBER, order_date DATE, customer_id NUMBER, FOREIGN KEY (customer_id) REFERENCES customers(customer_id));"
+      },
+      {
+        "E": "ALTER TABLE orders ADD CONSTRAINT fk_customer FOREIGN KEY (customer_id) REFERENCES customers(customer_id);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for creating a table named \"products\" with columns \"product_id\" (number), \"product_name\" (varchar2 with a maximum length of 100), and \"price\" (number) with a default value of 0?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE products (product_id NUMBER, product_name VARCHAR2(100), price NUMBER DEFAULT 0);"
+      },
+      {
+        "B": "DEFINE TABLE products (product_id NUMBER, product_name VARCHAR2(100), price NUMBER DEFAULT 0);"
+      },
+      {
+        "C": "NEW TABLE products (product_id NUMBER, product_name VARCHAR2(100), price NUMBER DEFAULT 0);"
+      },
+      {
+        "D": "ADD TABLE products (product_id NUMBER, product_name VARCHAR2(100), price NUMBER DEFAULT 0);"
+      },
+      {
+        "E": "ALTER TABLE products ADD DEFAULT 0 FOR price;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you define a check constraint on the \"quantity\" column in a table named \"inventory\" to ensure that it is greater than or equal to 0?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE inventory (quantity NUMBER CHECK (quantity >= 0), ...);"
+      },
+      {
+        "B": "DEFINE TABLE inventory (quantity NUMBER CHECK (quantity >= 0), ...);"
+      },
+      {
+        "C": "NEW TABLE inventory (quantity NUMBER CHECK (quantity >= 0), ...);"
+      },
+      {
+        "D": "ADD TABLE inventory (quantity NUMBER CHECK (quantity >= 0), ...);"
+      },
+      {
+        "E": "ALTER TABLE inventory ADD CONSTRAINT check_quantity CHECK (quantity >= 0);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for creating a table named \"students\" with columns \"student_id\" (number) as the primary key, \"first_name\" (varchar2 with a maximum length of 50), and \"age\" (number)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "CREATE TABLE students (student_id NUMBER PRIMARY KEY, first_name VARCHAR2(50), age NUMBER);"
+      },
+      {
+        "B": "DEFINE TABLE students (student_id NUMBER PRIMARY KEY, first_name VARCHAR2(50), age NUMBER);"
+      },
+      {
+        "C": "NEW TABLE students (student_id NUMBER PRIMARY KEY, first_name VARCHAR2(50), age NUMBER);"
+      },
+      {
+        "D": "ADD TABLE students (student_id NUMBER PRIMARY KEY, first_name VARCHAR2(50), age NUMBER);"
+      },
+      {
+        "E": "ALTER TABLE students ADD CONSTRAINT pk_student_id PRIMARY KEY (student_id);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you update the \"salary\" column to 5000 for the employee with \"employee_id\" equal to 101 in the \"employees\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE employees SET salary = 5000 WHERE employee_id = 101;"
+      },
+      {
+        "B": "MODIFY employees SET salary = 5000 WHERE employee_id = 101;"
+      },
+      {
+        "C": "ALTER employees SET salary = 5000 WHERE employee_id = 101;"
+      },
+      {
+        "D": "CHANGE employees SET salary = 5000 WHERE employee_id = 101;"
+      },
+      {
+        "E": "INSERT INTO employees (employee_id, salary) VALUES (101, 5000);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for updating the \"quantity\" column to double its current value in the \"inventory\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE inventory SET quantity = quantity * 2;"
+      },
+      {
+        "B": "MODIFY inventory SET quantity = quantity * 2;"
+      },
+      {
+        "C": "ALTER inventory SET quantity = quantity * 2;"
+      },
+      {
+        "D": "CHANGE inventory SET quantity = quantity * 2;"
+      },
+      {
+        "E": "INSERT INTO inventory (quantity) VALUES (quantity * 2);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you update the \"discount\" column to 0.1 for all rows in the \"products\" table where the \"price\" is greater than 100?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE products SET discount = 0.1 WHERE price > 100;"
+      },
+      {
+        "B": "MODIFY products SET discount = 0.1 WHERE price > 100;"
+      },
+      {
+        "C": "ALTER products SET discount = 0.1 WHERE price > 100;"
+      },
+      {
+        "D": "CHANGE products SET discount = 0.1 WHERE price > 100;"
+      },
+      {
+        "E": "INSERT INTO products (discount) VALUES (0.1) WHERE price > 100;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to add 100 to the existing value of the \"quantity\" column in the \"inventory\" table for all rows?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE inventory SET quantity = quantity + 100;"
+      },
+      {
+        "B": "MODIFY inventory SET quantity = quantity + 100;"
+      },
+      {
+        "C": "ALTER inventory SET quantity = quantity + 100;"
+      },
+      {
+        "D": "CHANGE inventory SET quantity = quantity + 100;"
+      },
+      {
+        "E": "INSERT INTO inventory (quantity) VALUES (quantity + 100);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you update the \"status\" column to 'Inactive' for all rows in the \"customers\" table where the \"last_purchase_date\" is more than one year ago?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE customers SET status = 'Inactive' WHERE last_purchase_date < SYSDATE - 365;"
+      },
+      {
+        "B": "MODIFY customers SET status = 'Inactive' WHERE last_purchase_date < SYSDATE - 365;"
+      },
+      {
+        "C": "ALTER customers SET status = 'Inactive' WHERE last_purchase_date < SYSDATE - 365;"
+      },
+      {
+        "D": "CHANGE customers SET status = 'Inactive' WHERE last_purchase_date < SYSDATE - 365;"
+      },
+      {
+        "E": "INSERT INTO customers (status) VALUES ('Inactive') WHERE last_purchase_date < SYSDATE - 365;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for updating the \"due_date\" column to the current date for all rows in the \"invoices\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE invoices SET due_date = SYSDATE;"
+      },
+      {
+        "B": "MODIFY invoices SET due_date = SYSDATE;"
+      },
+      {
+        "C": "ALTER invoices SET due_date = SYSDATE;"
+      },
+      {
+        "D": "CHANGE invoices SET due_date = SYSDATE;"
+      },
+      {
+        "E": "INSERT INTO invoices (due_date) VALUES (SYSDATE);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you update the \"is_active\" column to 'Y' for the employee with \"employee_id\" equal to 201 and set all other employees to 'N' in the \"employees\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE employees SET is_active = CASE WHEN employee_id = 201 THEN 'Y' ELSE 'N' END;"
+      },
+      {
+        "B": "MODIFY employees SET is_active = CASE WHEN employee_id = 201 THEN 'Y' ELSE 'N' END;"
+      },
+      {
+        "C": "ALTER employees SET is_active = CASE WHEN employee_id = 201 THEN 'Y' ELSE 'N' END;"
+      },
+      {
+        "D": "CHANGE employees SET is_active = CASE WHEN employee_id = 201 THEN 'Y' ELSE 'N' END;"
+      },
+      {
+        "E": "INSERT INTO employees (employee_id, is_active) VALUES (201, 'Y') ON DUPLICATE KEY UPDATE is_active = 'Y';"
+      }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for updating the \"end_date\" column to NULL for all rows in the \"contracts\" table where the \"status\" is 'Expired'?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE contracts SET end_date = NULL WHERE status = 'Expired';"
+      },
+      {
+        "B": "MODIFY contracts SET end_date = NULL WHERE status = 'Expired';"
+      },
+      {
+        "C": "ALTER contracts SET end_date = NULL WHERE status = 'Expired';"
+      },
+      {
+        "D": "CHANGE contracts SET end_date = NULL WHERE status = 'Expired';"
+      },
+      {
+        "E": "INSERT INTO contracts (end_date) VALUES (NULL) WHERE status = 'Expired';"
+      }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you update the \"discount\" column to NULL for all rows in the \"products\" table where the \"stock_quantity\" is less than 10?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE products SET discount = NULL WHERE stock_quantity < 10;"
+      },
+      {
+        "B": "MODIFY products SET discount = NULL WHERE stock_quantity < 10;"
+      },
+      {
+        "C": "ALTER products SET discount = NULL WHERE stock_quantity < 10;"
+      },
+      {
+        "D": "CHANGE products SET discount = NULL WHERE stock_quantity < 10;"
+      },
+      {
+        "E": "INSERT INTO products (discount) VALUES (NULL) WHERE stock_quantity < 10;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for updating the \"status\" column to 'Completed' for all rows in the \"orders\" table where the \"order_date\" is before the current date?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "UPDATE orders SET status = 'Completed' WHERE order_date < SYSDATE;"
+      },
+      {
+        "B": "MODIFY orders SET status = 'Completed' WHERE order_date < SYSDATE;"
+      },
+      {
+        "C": "ALTER orders SET status = 'Completed' WHERE order_date < SYSDATE;"
+      },
+      {
+        "D": "CHANGE orders SET status = 'Completed' WHERE order_date < SYSDATE;"
+      },
+      {
+        "E": "INSERT INTO orders (status) VALUES ('Completed') WHERE order_date < SYSDATE;"
+      }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a new employee with \"employee_id\" 105, \"first_name\" 'John', \"last_name\" 'Doe', and \"salary\" 6000 into the \"employees\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO employees (employee_id, first_name, last_name, salary) VALUES (105, 'John', 'Doe', 6000);"
+      },
+      {
+        "B": "ADD INTO employees (employee_id, first_name, last_name, salary) VALUES (105, 'John', 'Doe', 6000);"
+      },
+      {
+        "C": "INSERT employees (employee_id, first_name, last_name, salary) VALUES (105, 'John', 'Doe', 6000);"
+      },
+      {
+        "D": "ADD employees (employee_id, first_name, last_name, salary) VALUES (105, 'John', 'Doe', 6000);"
+      },
+      {
+        "E": "UPDATE employees SET (employee_id, first_name, last_name, salary) = (105, 'John', 'Doe', 6000);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for inserting a new department with \"department_id\" 20 and \"department_name\" 'Marketing' into the \"departments\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO departments (department_id, department_name) VALUES (20, 'Marketing');"
+      },
+      {
+        "B": "ADD INTO departments (department_id, department_name) VALUES (20, 'Marketing');"
+      },
+      {
+        "C": "INSERT departments (department_id, department_name) VALUES (20, 'Marketing');"
+      },
+      {
+        "D": "ADD departments (department_id, department_name) VALUES (20, 'Marketing');"
+      },
+      {
+        "E": "UPDATE departments SET (department_id, department_name) = (20, 'Marketing');"
+      }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a new order with \"order_id\" 1001, \"order_date\" '2023-01-15', and \"customer_id\" 101 into the \"orders\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO orders (order_id, order_date, customer_id) VALUES (1001, '2023-01-15', 101);"
+      },
+      {
+        "B": "ADD INTO orders (order_id, order_date, customer_id) VALUES (1001, '2023-01-15', 101);"
+      },
+      {
+        "C": "INSERT orders (order_id, order_date, customer_id) VALUES (1001, '2023-01-15', 101);"
+      },
+      {
+        "D": "ADD orders (order_id, order_date, customer_id) VALUES (1001, '2023-01-15', 101);"
+      },
+      {
+        "E": "UPDATE orders SET (order_id, order_date, customer_id) = (1001, '2023-01-15', 101);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to insert a new product with \"product_id\" 500, \"product_name\" 'Laptop', and \"price\" 1200 into the \"products\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO products (product_id, product_name, price) VALUES (500, 'Laptop', 1200);"
+      },
+      {
+        "B": "ADD INTO products (product_id, product_name, price) VALUES (500, 'Laptop', 1200);"
+      },
+      {
+        "C": "INSERT products (product_id, product_name, price) VALUES (500, 'Laptop', 1200);"
+      },
+      {
+        "D": "ADD products (product_id, product_name, price) VALUES (500, 'Laptop', 1200);"
+      },
+      {
+        "E": "UPDATE products SET (product_id, product_name, price) = (500, 'Laptop', 1200);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a new employee with \"employee_id\" 110 and \"first_name\" 'Alice' into the \"employees\" table, leaving other columns as NULL or default?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO employees (employee_id, first_name) VALUES (110, 'Alice');"
+      },
+      {
+        "B": "ADD INTO employees (employee_id, first_name) VALUES (110, 'Alice');"
+      },
+      {
+        "C": "INSERT employees (employee_id, first_name) VALUES (110, 'Alice');"
+      },
+      {
+        "D": "ADD employees (employee_id, first_name) VALUES (110, 'Alice');"
+      },
+      {
+        "E": "UPDATE employees SET (employee_id, first_name) = (110, 'Alice');"
+      }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for inserting a new customer with \"customer_id\" 201 and \"customer_name\" 'Jane Doe' into the \"customers\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO customers (customer_id, customer_name) VALUES (201, 'Jane Doe');"
+      },
+      {
+        "B": "ADD INTO customers (customer_id, customer_name) VALUES (201, 'Jane Doe');"
+      },
+      {
+        "C": "INSERT customers (customer_id, customer_name) VALUES (201, 'Jane Doe');"
+      },
+      {
+        "D": "ADD customers (customer_id, customer_name) VALUES (201, 'Jane Doe');"
+      },
+      {
+        "E": "UPDATE customers SET (customer_id, customer_name) = (201, 'Jane Doe');"
+      }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a new invoice with \"invoice_id\" 5001, \"invoice_date\" '2023-02-01', and \"customer_id\" 102 into the \"invoices\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO invoices (invoice_id, invoice_date, customer_id) VALUES (5001, '2023-02-01', 102);"
+      },
+      {
+        "B": "ADD INTO invoices (invoice_id, invoice_date, customer_id) VALUES (5001, '2023-02-01', 102);"
+      },
+      {
+        "C": "INSERT invoices (invoice_id, invoice_date, customer_id) VALUES (5001, '2023-02-01', 102);"
+      },
+      {
+        "D": "ADD invoices (invoice_id, invoice_date, customer_id) VALUES (5001, '2023-02-01', 102);"
+      },
+      {
+        "E": "UPDATE invoices SET (invoice_id, invoice_date, customer_id) = (5001, '2023-02-01', 102);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for inserting a new employee with \"employee_id\" 115, \"first_name\" 'Bob', \"last_name\" 'Smith', \"salary\" 7000, and \"department_id\" 30 into the \"employees\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO employees (employee_id, first_name, last_name, salary, department_id) VALUES (115, 'Bob', 'Smith', 7000, 30);"
+      },
+      {
+        "B": "ADD INTO employees (employee_id, first_name, last_name, salary, department_id) VALUES (115, 'Bob', 'Smith', 7000, 30);"
+      },
+      {
+        "C": "INSERT employees (employee_id, first_name, last_name, salary, department_id) VALUES (115, 'Bob', 'Smith', 7000, 30);"
+      },
+      {
+        "D": "ADD employees (employee_id, first_name, last_name, salary, department_id) VALUES (115, 'Bob', 'Smith', 7000, 30);"
+      },
+      {
+        "E": "UPDATE employees SET (employee_id, first_name, last_name, salary, department_id) = (115, 'Bob', 'Smith', 7000, 30);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a new product with \"product_id\" 600, \"product_name\" 'Smartphone', \"price\" 800, and \"stock_quantity\" 50 into the \"products\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO products (product_id, product_name, price, stock_quantity) VALUES (600, 'Smartphone', 800, 50);"
+      },
+      {
+        "B": "ADD INTO products (product_id, product_name, price, stock_quantity) VALUES (600, 'Smartphone', 800, 50);"
+      },
+      {
+        "C": "INSERT products (product_id, product_name, price, stock_quantity) VALUES (600, 'Smartphone', 800, 50);"
+      },
+      {
+        "D": "ADD products (product_id, product_name, price, stock_quantity) VALUES (600, 'Smartphone', 800, 50);"
+      },
+      {
+        "E": "UPDATE products SET (product_id, product_name, price, stock_quantity) = (600, 'Smartphone', 800, 50);"
+      }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to insert a new department with \"department_id\" 40 and \"department_name\" 'Research' into the \"departments\" table?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "INSERT INTO departments (department_id, department_name) VALUES (40, 'Research');"
+      },
+      {
+        "B": "ADD INTO departments (department_id, department_name) VALUES (40, 'Research');"
+      },
+      {
+        "C": "INSERT departments (department_id, department_name) VALUES (40, 'Research');"
+      },
+      {
+        "D": "ADD departments (department_id, department_name) VALUES (40, 'Research');"
+      },
+      {
+        "E": "UPDATE departments SET (department_id, department_name) = (40, 'Research');"
+      }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the default file extension for a Microsoft Word 2019 document?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": ".docx"
+      },
+      {
+        "B": ".txt"
+      },
+      {
+        "C": ".xlsx"
+      },
+      {
+        "D": ".pdf"
+      },
+      {
+        "E": ".doc"
+      }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options for changing the font and font size in Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home"
+      },
+      {
+        "B": "Insert"
+      },
+      {
+        "C": "Page Layout"
+      },
+      {
+        "D": "References"
+      },
+      {
+        "E": "View"
+      }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a numbered list in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Click on the Numbering button"
+      },
+      {
+        "B": "Press Ctrl+N"
+      },
+      {
+        "C": "Click on the Bullets button"
+      },
+      {
+        "D": "Press Ctrl+L"
+      },
+      {
+        "E": "Click on the Align Left button"
+      }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which view in Microsoft Word 2019 allows you to see how your document will look when printed?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Print Layout"
+      },
+      {
+        "B": "Web Layout"
+      },
+      {
+        "C": "Outline"
+      },
+      {
+        "D": "Draft"
+      },
+      {
+        "E": "Full Screen Reading"
+      }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Save As' option in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Save the document with a new name or location"
+      },
+      {
+        "B": "Save the document in the cloud"
+      },
+      {
+        "C": "Save the document as a PDF"
+      },
+      {
+        "D": "Save the document as read-only"
+      },
+      {
+        "E": "Save the document with a different font"
+      }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you undo the last action in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Press Ctrl+Z"
+      },
+      {
+        "B": "Press Ctrl+C"
+      },
+      {
+        "C": "Press Ctrl+X"
+      },
+      {
+        "D": "Press Ctrl+V"
+      },
+      {
+        "E": "Press Ctrl+S"
+      }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Find' feature in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Search for a specific word or phrase"
+      },
+      {
+        "B": "Replace text in the document"
+      },
+      {
+        "C": "Format the text"
+      },
+      {
+        "D": "Change the font color"
+      },
+      {
+        "E": "Check the document for spelling errors"
+      }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you apply bold formatting to selected text in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Press Ctrl+B"
+      },
+      {
+        "B": "Press Ctrl+I"
+      },
+      {
+        "C": "Press Ctrl+U"
+      },
+      {
+        "D": "Press Ctrl+S"
+      },
+      {
+        "E": "Press Ctrl+X"
+      }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option allows you to change the page orientation to landscape in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Page Layout > Orientation"
+      },
+      {
+        "B": "Page Layout > Size"
+      },
+      {
+        "C": "Page Layout > Margins"
+      },
+      {
+        "D": "Home > Paragraph"
+      },
+      {
+        "E": "Insert > Page Break"
+      }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you insert a page break in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Press Ctrl+Enter"
+      },
+      {
+        "B": "Press Enter key"
+      },
+      {
+        "C": "Press Ctrl+P"
+      },
+      {
+        "D": "Press Alt+Enter"
+      },
+      {
+        "E": "Press Shift+Enter"
+      }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Header' in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Insert a page number"
+      },
+      {
+        "B": "Add a footer to the document"
+      },
+      {
+        "C": "Format the text in the document"
+      },
+      {
+        "D": "Insert a table"
+      },
+      {
+        "E": "Create a bulleted list"
+      }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you change the line spacing to double in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Paragraph > Line Spacing > Double"
+      },
+      {
+        "B": "Home > Paragraph > Line Spacing > 1.5"
+      },
+      {
+        "C": "Page Layout > Spacing > Double"
+      },
+      {
+        "D": "Page Layout > Paragraph > Double"
+      },
+      {
+        "E": "Format > Line Spacing > Double"
+      }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Table of Contents' feature in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Generate a list of headings and their page numbers"
+      },
+      {
+        "B": "Create a list of figures"
+      },
+      {
+        "C": "Insert a table into the document"
+      },
+      {
+        "D": "Check the document for spelling errors"
+      },
+      {
+        "E": "Add footnotes to the document"
+      }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you insert a hyperlink in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Hyperlink"
+      },
+      {
+        "B": "Insert > Link"
+      },
+      {
+        "C": "Page Layout > Hyperlink"
+      },
+      {
+        "D": "Format > Hyperlink"
+      },
+      {
+        "E": "Ctrl+H"
+      }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Mail Merge' feature in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Create personalized documents by combining a main document with a data source"
+      },
+      {
+        "B": "Merge multiple documents into one"
+      },
+      {
+        "C": "Send emails directly from Word"
+      },
+      {
+        "D": "Add a mailing address to the document"
+      },
+      {
+        "E": "Share the document on social media"
+      }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the page margins in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Page Layout > Margins"
+      },
+      {
+        "B": "Page Layout > Orientation"
+      },
+      {
+        "C": "Page Layout > Size"
+      },
+      {
+        "D": "Home > Paragraph"
+      },
+      {
+        "E": "Home > Font"
+      }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a page number in the footer of a document in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Insert > Header & Footer > Page Number"
+      },
+      {
+        "B": "Page Layout > Page Number"
+      },
+      {
+        "C": "Home > Page Number"
+      },
+      {
+        "D": "Format > Page Number"
+      },
+      {
+        "E": "Insert > Page Number"
+      }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you change the font color of selected text in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Font Color"
+      },
+      {
+        "B": "Page Layout > Font Color"
+      },
+      {
+        "C": "Format > Font Color"
+      },
+      {
+        "D": "Home > Bold"
+      },
+      {
+        "E": "Home > Italic"
+      }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Spell Check' feature in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Check for grammatical errors"
+      },
+      {
+        "B": "Change the font style"
+      },
+      {
+        "C": "Insert a table"
+      },
+      {
+        "D": "Add footnotes"
+      },
+      {
+        "E": "Insert a page break"
+      }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you insert a symbol or special character in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Insert > Symbol"
+      },
+      {
+        "B": "Home > Symbol"
+      },
+      {
+        "C": "Page Layout > Symbol"
+      },
+      {
+        "D": "Format > Symbol"
+      },
+      {
+        "E": "Ctrl+S"
+      }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Thesaurus' feature in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Find synonyms for selected words"
+      },
+      {
+        "B": "Insert footnotes"
+      },
+      {
+        "C": "Check for spelling errors"
+      },
+      {
+        "D": "Change font size"
+      },
+      {
+        "E": "Create a table of contents"
+      }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you align text to the right in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Align Right"
+      },
+      {
+        "B": "Home > Align Center"
+      },
+      {
+        "C": "Home > Align Left"
+      },
+      {
+        "D": "Home > Justify"
+      },
+      {
+        "E": "Format > Align Right"
+      }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Format Painter' in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Copy formatting from one place and apply it to another"
+      },
+      {
+        "B": "Change the document format"
+      },
+      {
+        "C": "Create a new document"
+      },
+      {
+        "D": "Change the font style"
+      },
+      {
+        "E": "Insert a hyperlink"
+      }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you insert a page break before a specific paragraph in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Page Layout > Breaks > Page"
+      },
+      {
+        "B": "Home > Paragraph > Page Break Before"
+      },
+      {
+        "C": "Format > Page Break"
+      },
+      {
+        "D": "Insert > Page Break"
+      },
+      {
+        "E": "Home > Insert > Page Break"
+      }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you remove formatting from selected text in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Home > Clear Formatting"
+      },
+      {
+        "B": "Home > Bold"
+      },
+      {
+        "C": "Home > Format Painter"
+      },
+      {
+        "D": "Format > Clear Formatting"
+      },
+      {
+        "E": "Format > Bold"
+      }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the document view to show two pages side by side in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "View > Side by Side"
+      },
+      {
+        "B": "View > Two Pages"
+      },
+      {
+        "C": "View > Page Layout"
+      },
+      {
+        "D": "View > Full Screen Reading"
+      },
+      {
+        "E": "View > Draft"
+      }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Quick Access Toolbar' in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Access frequently used commands with one click"
+      },
+      {
+        "B": "Change the font style"
+      },
+      {
+        "C": "Insert a table"
+      },
+      {
+        "D": "Apply bold formatting"
+      },
+      {
+        "E": "Insert a hyperlink"
+      }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can you insert a comment in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Review > New Comment"
+      },
+      {
+        "B": "Home > Comment"
+      },
+      {
+        "C": "Insert > Comment"
+      },
+      {
+        "D": "Format > Comment"
+      },
+      {
+        "E": "View > Comment"
+      }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the 'Footnote' feature in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Add a note at the bottom of the page"
+      },
+      {
+        "B": "Add a footer to the page"
+      },
+      {
+        "C": "Insert a page number"
+      },
+      {
+        "D": "Insert a comment in the document"
+      },
+      {
+        "E": "Create a bulleted list"
+      }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a new row into a table in Microsoft Word 2019?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Table > Insert > Row Above"
+      },
+      {
+        "B": "Table > Insert > Row Below"
+      },
+      {
+        "C": "Home > Insert > Row"
+      },
+      {
+        "D": "Format > Insert > Row"
+      },
+      {
+        "E": "Home > Table > Insert Row"
+      }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to write a for loop that iterates over a list of numbers?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for i in numbers:"
+      },
+      {
+        "B": "for i in range(numbers):"
+      },
+      {
+        "C": "foreach i in numbers:"
+      },
+      {
+        "D": "for i from 0 to len(numbers):"
+      },
+      {
+        "E": "for i = 0; i < len(numbers); i++:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a while loop that runs as long as a variable count is less than 5?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "while count < 5:"
+      },
+      {
+        "B": "until count >= 5:"
+      },
+      {
+        "C": "while count <= 5:"
+      },
+      {
+        "D": "until count > 5:"
+      },
+      {
+        "E": "while count != 5:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In a for loop, what function is used to get both the index and value from a list?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "enumerate()"
+      },
+      {
+        "B": "index()"
+      },
+      {
+        "C": "iteritems()"
+      },
+      {
+        "D": "items()"
+      },
+      {
+        "E": "get()"
+      }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the break statement in a loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To exit the loop immediately."
+      },
+      {
+        "B": "To skip the rest of the loop and continue with the next iteration."
+      },
+      {
+        "C": "To restart the loop from the beginning."
+      },
+      {
+        "D": "To jump to a specific iteration of the loop."
+      },
+      {
+        "E": "To increase the loop counter."
+      }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a while loop that runs forever until a specific condition is met inside the loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "while True:"
+      },
+      {
+        "B": "while until condition:"
+      },
+      {
+        "C": "while condition is not met:"
+      },
+      {
+        "D": "while False:"
+      },
+      {
+        "E": "loop while True:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range (3) function generate?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "A list [0, 1, 2]"
+      },
+      {
+        "B": "A list [1, 2, 3]"
+      },
+      {
+        "C": "A tuple (0, 1, 2)"
+      },
+      {
+        "D": "A tuple (1, 2, 3)"
+      },
+      {
+        "E": "A range object representing numbers 0 to 2 (inclusive)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you iterate over the keys of a dictionary using a for loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for key in dictionary.keys():"
+      },
+      {
+        "B": "for key in dictionary.key():"
+      },
+      {
+        "C": "for key in dictionary.items():"
+      },
+      {
+        "D": "for key in dictionary:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for a for loop that prints numbers from 1 to 5 (inclusive)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for i in range(1, 6):"
+      },
+      {
+        "B": "for i in range(5):"
+      },
+      {
+        "C": "for i in range(6):"
+      },
+      {
+        "D": "for i in 1 to 5:"
+      },
+      {
+        "E": "for i in 1 until 6:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a while loop that prints numbers from 0 to 4 (inclusive)?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "count = 0 \n while count < 5: \n print(count) \n count += 1" },
+      {
+        "B": "count = 1 \n while count <= 5: \n print(count) \n count += 1"
+      },
+      { "C": "count = 0 \n while count <= 4: \n print(count) \n count += 1" },
+      { "D": "count = 1 \n while count < 5: \n print(count) \n count += 1" },
+      { "E": "count = 0 \n while count < 4: \n print(count) \n count += 1" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to iterate over a string named `text` using a `for` loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "`for char in text:`"
+      },
+      {
+        "B": "`foreach char in text:`"
+      },
+      {
+        "C": "`for char from 0 to len(text):`"
+      },
+      {
+        "D": "`foreach char from 0 to len(text):`"
+      },
+      {
+        "E": "`for char = 0; char < len(text); char++:`"
+      }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a for loop to print the even numbers from 2 to 10 (inclusive)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for i in range(2, 11, 2):"
+      },
+      {
+        "B": "for i in range(2, 10):"
+      },
+      {
+        "C": "for i in range(2, 12, 2):"
+      },
+      {
+        "D": "for i in range(1, 11, 2):"
+      },
+      {
+        "E": "for i in range(1, 10, 2):"
+      }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the continue statement in a loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To skip the rest of the loop and continue with the next iteration."
+      },
+      {
+        "B": "To exit the loop immediately."
+      },
+      {
+        "C": "To restart the loop from the beginning."
+      },
+      {
+        "D": "To jump to a specific iteration of the loop."
+      },
+      {
+        "E": "To increase the loop counter."
+      }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a while loop that prints numbers from 5 to 1 (inclusive)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "count = 5 \n while count >= 1: \n print(count) \n count -= 1"
+      },
+      {
+        "B": "count = 1 \n while count <= 5: \n print(count) \n count += 1"
+      },
+      {
+        "C": "count = 5 \n while count > 0: \n print(count) \n count -= 1"
+      },
+      {
+        "D": "count = 1 \n while count < 5: \n print(count) \n count += 1"
+      },
+      {
+        "E": "count = 1 \n while count <= 4: \n print(count) \n count += 1"
+      }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of the following `for` loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "2, 4"
+      },
+      {
+        "B": "1, 3, 5"
+      },
+      {
+        "C": "1, 2, 3, 4, 5"
+      },
+      {
+        "D": "2, 4, 6"
+      },
+      {
+        "E": "1, 5"
+      }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for a for loop to iterate over the keys and values of a dictionary named my_dict?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for key, value in my_dict.items():"
+      },
+      {
+        "B": "for key, value in my_dict:"
+      },
+      {
+        "C": "for key, value in my_dict.keys(), my_dict.values():"
+      },
+      {
+        "D": "for key, value in enumerate(my_dict):"
+      },
+      {
+        "E": "for key in my_dict.keys(), for value in my_dict.values():"
+      }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a while loop to print the first 3 multiples of 4?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "count = 1 \n while count <= 3: \n print(count * 4) \n count += 1"
+      },
+      {
+        "B": "count = 0 \n while count < 4: \n print(count * 3) \n count += 1"
+      },
+      {
+        "C": "count = 1 \n while count < 4: \n print(count * 3) \n count += 1"
+      },
+      {
+        "D": "count = 1 \n while count <= 3: \n print(count * 3) \n count += 1"
+      },
+      {
+        "E": "count = 0 \n while count < 3: \n print(count * 4) \n count += 1"
+      }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the `range(2, 10, 2)` function generate?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "A list `[2, 4, 6, 8, 10]`"
+      },
+      {
+        "B": "A list `[2, 4, 8]`"
+      },
+      {
+        "C": "A tuple `(2, 4, 6, 8, 10)`"
+      },
+      {
+        "D": "A tuple `(2, 4, 8)`"
+      },
+      {
+        "E": "A range object representing numbers 2 to 9 (inclusive) in steps of 2"
+      }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to iterate over a string named `word` using a `for` loop and print each character in uppercase?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for char in word: \n print(char.upper())"
+      },
+      {
+        "B": "for char in word: \n print(upper(char))"
+      },
+      {
+        "C": "for char in word: \n print(char.upper)"
+      },
+      {
+        "D": "for char in word: \n print(upper(char))"
+      },
+      {
+        "E": "for char in word: \n print(char.upper)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of the following `while` loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "1, 4, 5"
+      },
+      {
+        "B": "1, 2, 3, 4, 5"
+      },
+      {
+        "C": "1, 2, 4, 5"
+      },
+      {
+        "D": "1, 3, 4, 5"
+      },
+      {
+        "E": "1, 2, 4"
+      }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for a for loop to iterate over a tuple named my_tuple?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for item in my_tuple:"
+      },
+      {
+        "B": "foreach item in my_tuple:"
+      },
+      {
+        "C": "for item from 0 to len(my_tuple):"
+      },
+      {
+        "D": "foreach item from 0 to len(my_tuple):"
+      },
+      {
+        "E": "for item = 0; item < len(my_tuple); item++:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for a for loop to iterate over a list of strings named fruits?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for fruit in fruits:"
+      },
+      {
+        "B": "foreach fruit in fruits:"
+      },
+      {
+        "C": "for fruit from 0 to len(fruits):"
+      },
+      {
+        "D": "foreach fruit from 0 to len(fruits):"
+      },
+      {
+        "E": "for fruit = 0; fruit < len(fruits); fruit++:"
+      }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a while loop to print the first 4 powers of 2?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "count = 0 \n while count < 4: \n print(2 ** count) \n count += 1"
+      },
+      {
+        "B": "count = 1 \n while count <= 4: \n print(2 ** count) \n count += 1"
+      },
+      {
+        "C": "count = 0 \n while count <= 4: \n print(2 ** count) \n count += 1"
+      },
+      {
+        "D": "count = 1 \n while count < 5: \n print(2 ** count) \n count += 1"
+      },
+      {
+        "E": "count = 0 \n while count < 5: \n print(2 ** count) \n count += 1"
+      }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of the following `for` loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "`RED, GREEN, BLUE`"
+      },
+      {
+        "B": "`Red, Green, Blue`"
+      },
+      {
+        "C": "`red, green, blue`"
+      },
+      {
+        "D": "`R, G, B`"
+      },
+      {
+        "E": "`Red, GREEN, blue`"
+      }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range(1, 10, 3) function generate?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "A list [1, 4, 7, 10]"
+      },
+      {
+        "B": "A list [1, 4, 7]"
+      },
+      {
+        "C": "A tuple (1, 4, 7, 10)"
+      },
+      {
+        "D": "A tuple (1, 4, 7)"
+      },
+      {
+        "E": "A range object representing numbers 1 to 9 (inclusive) in steps of 3"
+      }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the purpose of the pass statement in a loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "To indicate that nothing should happen and continue to the next iteration."
+      },
+      {
+        "B": "To skip the rest of the loop and continue with the next iteration."
+      },
+      {
+        "C": "To restart the loop from the beginning."
+      },
+      {
+        "D": "To exit the loop immediately."
+      },
+      {
+        "E": "To increase the loop counter."
+      }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a while loop that prints the first 5 positive even numbers?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "count = 0 \n while count < 5: \n print(count * 2 + 2) \n count += 1"
+      },
+      {
+        "B": "count = 1 \n while count <= 5: \n print(count * 2) \n count += 1"
+      },
+      {
+        "C": "count = 1 \n while count <= 10: \n if count % 2 == 0: \n print(count) \n count += 1"
+      },
+      {
+        "D": "count = 1 \n while count <= 5: \n print(count * 2 - 1) \n count += 1"
+      },
+      {
+        "E": "count = 0 \n while count <= 5: \n print(count * 2) \n count += 1"
+      }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for a `for` loop to iterate over a string named `sentence` and count the number of vowels (a, e, i, o, u)?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "vowel_count = 0 \n for char in sentence: \n if char.lower() in 'aeiou': \n vowel_count += 1"
+      },
+      {
+        "B": "vowel_count = 0 \n for char in sentence: \n if char in 'aeiou': \n vowel_count += 1"
+      },
+      {
+        "C": "vowel_count = 0 \n for char in sentence: \n if char.lower() in ['a', 'e', 'i', 'o', 'u']: \n vowel_count += 1"
+      },
+      {
+        "D": "vowel_count = 0 \n for char in sentence: \n if char in ['a', 'e', 'i', 'o', 'u']: \n vowel_count += 1"
+      },
+      {
+        "E": "vowel_count = 0 \n for char in sentence: \n if char in 'aeiou': \n vowel_count += 1"
+      }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output of the following `while` loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "0, 1, 2, 3, 4, Loop finished!"
+      },
+      {
+        "B": "1, 2, 3, 4, Loop finished!"
+      },
+      {
+        "C": "0, 1, 2, 3, 4"
+      },
+      {
+        "D": "1, 2, 3, 4"
+      },
+      {
+        "E": "Loop finished!"
+      }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you write a for loop to print the numbers from 5 to 1 (inclusive) in reverse order?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for i in range(5, 0, -1):"
+      },
+      {
+        "B": "for i in range(1, 6, -1):"
+      },
+      {
+        "C": "for i in range(5, 0):"
+      },
+      {
+        "D": "for i in range(1, 6):"
+      },
+      {
+        "E": "for i in range(0, 5, -1):"
+      }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct way to iterate over a list of lists named matrix using a nested for loop?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "for row in matrix: \n for element in row: print(element)"
+      },
+      {
+        "B": "for element in matrix: \n for row in element: \n print(row)"
+      },
+      {
+        "C": "for row in matrix: \n print(row)"
+      },
+      {
+        "D": "for element in matrix: \n print(element)"
+      },
+      {
+        "E": "for row, element in matrix: \n print(row, element)"
+      }
+    ]
+  },
+  {
+    "questionNumber": 401,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "number%2!=0 what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "odd" },
+      { "B": "78" },
+      { "C": "34" },
+      { "D": "12" },
+      { "E": "even" }
+    ]
+  },
+  {
+    "questionNumber": 402,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"apple\", \"banana\", \"cherry\"] What will be the output of print(len(thislist))?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "6" },
+      { "C": "8" },
+      { "D": "15" },
+      { "E": "no answer" }
+    ]
+  },
+  {
+    "questionNumber": 403,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"apple\", \"banana\", \"cherry\"] print(thislist[-1]) what will the response be?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "cherry" },
+      { "B": "apple" },
+      { "C": "no answer" },
+      { "D": "15" },
+      { "E": "banana" }
+    ]
+  },
+  {
+    "questionNumber": 404,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"apple\", \"banana\", \"cherry\", \"orange\"] what will be the result of print(thislist[:3])?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "['apple', 'banana', 'cherry']" },
+      { "B": "['banana', 8, 20, 36]" },
+      { "C": "There is no answer" },
+      { "D": "[57, 85, 58, 'apple']" },
+      { "E": "['apple', 'banana', 87]" }
+    ]
+  },
+  {
+    "questionNumber": 405,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"apple\", \"banana\", \"cherry\"] thislist[1] = \"blackcurrant\" print(thislist) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "['apple', 'blackcurrant', 'cherry']" },
+      { "B": "['apple', 77, 90, 'cherry']" },
+      { "C": "There is no answer" },
+      { "D": "['apple', 'banana', 'cherry']" },
+      { "E": "['apple', 'orange']" }
+    ]
+  },
+  {
+    "questionNumber": 406,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"apple\", \"banana\", \"cherry\"] thislist.append(\"orange\") print(thislist) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "['apple', 'banana', 'cherry', 'orange']" },
+      { "B": "['apple', 'banana', 'cherry']" },
+      { "C": "['apple', 'blackcurrant', 'cherry']" },
+      { "D": "['apple', 'orange', 9 , 8]" },
+      { "E": "[7, 'banana', 'cherry']" }
+    ]
+  },
+  {
+    "questionNumber": 407,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"apple\"] number = [3,6] thislist.extend(number) print(thislist) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "['apple', 3, 6]" },
+      { "B": "['apple', 'blackcurrant']" },
+      { "C": "['apple', 'orange']" },
+      { "D": "['apple', 6, 9, 2]" },
+      { "E": "['apple', 'orange', 8]" }
+    ]
+  },
+  {
+    "questionNumber": 408,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [100, 50, 65, 82, 23] thislist.sort() print(thislist) what will the response be?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "[23, 50, 65, 82, 100]" },
+      { "B": "[32, 50, 20, 18, 400]" },
+      { "C": "['apple', 'orange', 8]" },
+      { "D": "[32, 50, 20, 18, 400]" },
+      { "E": "There is no answer" }
+    ]
+  },
+  {
+    "questionNumber": 409,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"apple\", \"banana\", \"cherry\"] mylist = thislist.copy() What is the result of print(mylist)?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "['apple', 'banana', 'cherry']" },
+      { "B": "[32, 50, 90, 18, 400]" },
+      { "C": "['apple', 'orange', 7]" },
+      { "D": "[32, 50, 20, 18, 800]" },
+      { "E": "There is no answer" }
+    ]
+  },
+  {
+    "questionNumber": 410,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "list1 = ['a', 'b', 'c'] list2 = [1, 2, 3] list3 = list1 + list2 print(list3) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "['a', 'b', 'c', 1, 2, 3]" },
+      { "B": "['apple', 'banana']" },
+      { "C": "['apple', 'orange']" },
+      { "D": "['cherry', 6, 9, 2]" },
+      { "E": "['apple', 'orange', 8]" }
+    ]
+  },
+  {
+    "questionNumber": 411,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = 200 b = 33 if b > a: print(a+b) else: print(a-b) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "167" },
+      { "B": "77" },
+      { "C": "88" },
+      { "D": "99" },
+      { "E": "no answer" }
+    ]
+  },
+  {
+    "questionNumber": 412,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "cars = ['Ford', 'Volvo', 'BMW'] x = cars[0] What is the answer to print(x)?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "Ford" },
+      { "B": "Volvo" },
+      { "C": "BMW" },
+      { "D": "Mercedes" },
+      { "E": "no answer" }
+    ]
+  },
+  {
+    "questionNumber": 413,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = min(5, 10, 25) y = max(5, 10, 25) print(x) print(y) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "5, 25" },
+      { "B": "8, 17" },
+      { "C": "6, 10" },
+      { "D": "9, 13" },
+      { "E": "no answer" }
+    ]
+  },
+  {
+    "questionNumber": 414,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = 66 b = 36 if b == a: print(a-b) else: print(a+b) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "102" },
+      { "B": "160" },
+      { "C": "190" },
+      { "D": "167" },
+      { "E": "133" }
+    ]
+  },
+  {
+    "questionNumber": 415,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = 88 y = 44 c=x/y if c>2: print(5+8) else: print(12-6) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "21" },
+      { "C": "43" },
+      { "D": "25" },
+      { "E": "22" }
+    ]
+  },
+  {
+    "questionNumber": 416,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = 62 b = 30 c = a % b if c == 2: print(a-b) else: print(a+b) what is the answer?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "32" },
+      { "B": "57" },
+      { "C": "48" },
+      { "D": "67" },
+      { "E": "14" }
+    ]
+  },
+  {
+    "questionNumber": 417,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "mylist = ['paper', 'scissors', 'rock'] print(mylist[-2]) what will the response be?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "scissors" },
+      { "B": "apple" },
+      { "C": "no answer" },
+      { "D": "rock" },
+      { "E": "paper" }
+    ]
+  },
+  {
+    "questionNumber": 418,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = ['paper', 'scissors', 'rock'] what will be the result of print(thislist[0:3])?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "['paper', 'scissors', 'rock']" },
+      { "B": "['apple', 'banana', 'cherry']" },
+      { "C": "['apple', 'banana', 'scissors']" },
+      { "D": "[12, 24, 'scissors', 'rock']" },
+      { "E": "[37, 58, 'rock', 46, 14]" }
+    ]
+  },
+  {
+    "questionNumber": 419,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If we apply the upper method to the word informatics, how will it be written?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "INFORMATICS" },
+      { "B": "informatics" },
+      { "C": "Informatics" },
+      { "D": "INFORMAtics" },
+      { "E": "InfoRmatics" }
+    ]
+  },
+  {
+    "questionNumber": 420,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If we apply the lower method to the word my friends, how will it be written?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "my friends" },
+      { "B": "My fRiends" },
+      { "C": "my FRIENDS" },
+      { "D": "MY FRIENDS" },
+      { "E": "MY friends" }
+    ]
+  },
+  {
+    "questionNumber": 421,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If we apply the capitalize method to the word brother, how will it be written?",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "Brother" },
+      { "B": "brothER" },
+      { "C": "brOTher" },
+      { "D": "BROTheR" },
+      { "E": "bROther" }
+    ]
+  },
+  {
+    "questionNumber": 422,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = '12' b = '13' a = a + b b = b + a print('a+b')",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "a+b" },
+      { "B": "70" },
+      { "C": "36" },
+      { "D": "22" },
+      { "E": "75" }
+    ]
+  },
+  {
+    "questionNumber": 423,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = '17' y = '16' x = x + y y = y + x print(x + y)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "1716161716" },
+      { "B": "2455372089" },
+      { "C": "4352789009" },
+      { "D": "0908975432" },
+      { "E": "2345543909" }
+    ]
+  },
+  {
+    "questionNumber": 424,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "d = '17' e = 'hello' d = d + e e = e + d print('d+e')",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "d+e" },
+      { "B": "x+c" },
+      { "C": "t+t" },
+      { "D": "45" },
+      { "E": "57" }
+    ]
+  },
+  {
+    "questionNumber": 425,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "b = 8 c = b * 6 x = c + 5 print(x)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "53" },
+      { "B": "a+a" },
+      { "C": "80" },
+      { "D": "90" },
+      { "E": "20" }
+    ]
+  },
+  {
+    "questionNumber": 426,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to create a table? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "create table" },
+      { "B": "drop table" },
+      { "C": "delete from" },
+      { "D": "insert into" },
+      { "E": "update table" }
+    ]
+  },
+  {
+    "questionNumber": 427,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to delete a table? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "drop table" },
+      { "B": "create table" },
+      { "C": "delete from" },
+      { "D": "insert into" },
+      { "E": "update table" }
+    ]
+  },
+  {
+    "questionNumber": 428,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to insert data into a table? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "insert into" },
+      { "B": "create table" },
+      { "C": "delete from" },
+      { "D": "drop table" },
+      { "E": "update table" }
+    ]
+  },
+  {
+    "questionNumber": 429,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to delete data from a table? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "delete from" },
+      { "B": "create table" },
+      { "C": "insert into" },
+      { "D": "drop table" },
+      { "E": "update table" }
+    ]
+  },
+  {
+    "questionNumber": 430,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to change data in a table? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "update table" },
+      { "B": "create table" },
+      { "C": "insert into" },
+      { "D": "drop table" },
+      { "E": "delete from" }
+    ]
+  },
+  {
+    "questionNumber": 431,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to quickly delete data from a table? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "truncate" },
+      { "B": "create table" },
+      { "C": "insert into" },
+      { "D": "drop table" },
+      { "E": "delete from" }
+    ]
+  },
+  {
+    "questionNumber": 432,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What function can be used to count salaries? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "count(*)" },
+      { "B": "sum(salary)" },
+      { "C": "avg(salary)" },
+      { "D": "max(salary)" },
+      { "E": "min(salary)" }
+    ]
+  },
+  {
+    "questionNumber": 433,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can find the minimum salary? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "min(salary)" },
+      { "B": "sum(salary)" },
+      { "C": "avg(salary)" },
+      { "D": "max(salary)" },
+      { "E": "count(*)" }
+    ]
+  },
+  {
+    "questionNumber": 434,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can find the highest salary? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "max(salary)" },
+      { "B": "sum(salary)" },
+      { "C": "avg(salary)" },
+      { "D": "min(salary)" },
+      { "E": "count(*)" }
+    ]
+  },
+  {
+    "questionNumber": 435,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function finds the average of salaries? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "avg(salary)" },
+      { "B": "sum(salary)" },
+      { "C": "max(salary)" },
+      { "D": "min(salary)" },
+      { "E": "count(*)" }
+    ]
+  },
+  {
+    "questionNumber": 436,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the database query language? (SQL)",
+    "correctAnwser": "A",
+    "answers": [
+      { "A": "SQL" },
+      { "B": "Python" },
+      { "C": "C++" },
+      { "D": "Pascal" },
+      { "E": "Java" }
+    ]
+  }
+]

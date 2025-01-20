@@ -23,6 +23,11 @@ function getEndpoint(locationPath) {
     locationPath === '/SeidExam/information-technologies.html'
   ) {
     endpoint = './information-technologies.json';
+  } else if (
+    locationPath === '/it-esaslari.html' ||
+    locationPath === '/SeidExam/it-esaslari.html'
+  ) {
+    endpoint = './it-esaslari.json';
   }
 
   return endpoint;
@@ -187,6 +192,13 @@ function addCheckAnswersListener(questions) {
 
       if (!selectedButton) {
         unansweredCount++;
+
+        // Highlight the correct answer for unanswered questions
+        answerButtons.forEach(button => {
+          if (button.getAttribute('data-correct') === 'true') {
+            button.classList.add('should-select');
+          }
+        });
       } else if (selectedButton.getAttribute('data-correct') === 'true') {
         correctCount++;
         selectedButton.classList.remove('active');
