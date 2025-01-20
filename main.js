@@ -225,11 +225,11 @@ function addCheckAnswersListener(questions) {
       totalPoint = correctCount * 2 + incorrectCount * -1;
 
       if (0 < totalPoint && totalPoint < 17) {
-        pointMessage = 'Kəsildin, moyka';
+        pointMessage = 'Kəsildin...';
       } else if (totalPoint <= 0) {
-        pointMessage = 'Başı';
+        pointMessage = 'Kəsildin...';
       } else {
-        pointMessage = 'Ə yaxşı';
+        pointMessage = 'Keçdin, təbriklər!';
       }
     }
 
