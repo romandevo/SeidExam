@@ -31,6 +31,12 @@ function getEndpoint(locationPath) {
     locationPath === '/SeidExam/it-esaslari.html'
   ) {
     endpoint = './it-esaslari.json';
+  } else if (
+    locationPath === '/az-dili' ||
+    locationPath === '/az-dili.html' ||
+    locationPath === '/SeidExam/az-dili.html'
+  ) {
+    endpoint = './az-dili.json';
   }
 
   return endpoint;
@@ -166,6 +172,33 @@ document
     }
     document.body.style.overflow = ''; // Restore scrolling
   });
+
+document
+  .getElementById('exampleModalLong')
+  .addEventListener('hidden.bs.modal', () => {
+    document.body.classList.remove('modal-open'); // Remove the modal-open class
+    const backdrop = document.querySelector('.modal-backdrop');
+    if (backdrop) {
+      backdrop.remove(); // Remove any remaining backdrop
+    }
+    document.body.style.overflow = ''; // Restore scrolling
+  });
+
+document.getElementById('checkAnswersBtn').addEventListener('click', () => {
+  // Assuming the modal with id "exampleModalCenter" corresponds to the "Scrolling long content"
+  const modal = new bootstrap.Modal(
+    document.getElementById('exampleModalCenter')
+  );
+  modal.show();
+});
+
+document.getElementById('doneExam').addEventListener('click', () => {
+  // Assuming the modal with id "exampleModalCenter" corresponds to the "Scrolling long content"
+  const modal = new bootstrap.Modal(
+    document.getElementById('exampleModalLong')
+  );
+  modal.show();
+});
 
 // Function to add listener for "Check Answers" button
 function addCheckAnswersListener(questions) {
