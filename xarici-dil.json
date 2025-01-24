@@ -6762,19 +6762,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Central Processing Unit"
+        "A": "Central Processing Unit"
       },
       {
-        "b": "Computer Processing Unit"
+        "B": "Computer Processing Unit"
       },
       {
-        "c": "Central Peripheral Unit"
+        "C": "Central Peripheral Unit"
       },
       {
-        "d": "Core Processing Unit"
+        "D": "Core Processing Unit"
       },
       {
-        "e": "Central Power Unit"
+        "E": "Central Power Unit"
       }
     ]
   },
@@ -6785,19 +6785,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Internet Protocol"
+        "A": "Internet Protocol"
       },
       {
-        "b": "Information Protocol"
+        "B": "Information Protocol"
       },
       {
-        "c": "Integrated Protocol"
+        "C": "Integrated Protocol"
       },
       {
-        "d": "Interface Protocol"
+        "D": "Interface Protocol"
       },
       {
-        "e": "Internet Provider"
+        "E": "Internet Provider"
       }
     ]
   },
@@ -6808,19 +6808,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Graphics Processing Unit"
+        "A": "Graphics Processing Unit"
       },
       {
-        "b": "General Processing Unit"
+        "B": "General Processing Unit"
       },
       {
-        "c": "Gaming Processing Unit"
+        "C": "Gaming Processing Unit"
       },
       {
-        "d": "Grouped Processing Unit"
+        "D": "Grouped Processing Unit"
       },
       {
-        "e": "Graphics Peripheral Unit"
+        "E": "Graphics Peripheral Unit"
       }
     ]
   },
@@ -6831,19 +6831,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Redundant Array of Independent Disks"
+        "A": "Redundant Array of Independent Disks"
       },
       {
-        "b": "Random Access of Internal Drives"
+        "B": "Random Access of Internal Drives"
       },
       {
-        "c": "Rapid Access to Integrated Data"
+        "C": "Rapid Access to Integrated Data"
       },
       {
-        "d": "Remote Array of Input Devices"
+        "D": "Remote Array of Input Devices"
       },
       {
-        "e": "Read-After-Input Disk"
+        "E": "Read-After-Input Disk"
       }
     ]
   },
@@ -6854,19 +6854,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Malware"
+        "A": "Malware"
       },
       {
-        "b": "Freeware"
+        "B": "Freeware"
       },
       {
-        "c": "Shareware"
+        "C": "Shareware"
       },
       {
-        "d": "Open Source Software"
+        "D": "Open Source Software"
       },
       {
-        "e": "Spyware"
+        "E": "Spyware"
       }
     ]
   },
@@ -6877,19 +6877,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "on"
+        "A": "on"
       },
       {
-        "b": "in"
+        "B": "in"
       },
       {
-        "c": "under"
+        "C": "under"
       },
       {
-        "d": "beside"
+        "D": "beside"
       },
       {
-        "e": "amid"
+        "E": "amid"
       }
     ]
   },
@@ -6900,19 +6900,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "throughout"
+        "A": "throughout"
       },
       {
-        "b": "on"
+        "B": "on"
       },
       {
-        "c": "under"
+        "C": "under"
       },
       {
-        "d": "beside"
+        "D": "beside"
       },
       {
-        "e": "in"
+        "E": "in"
       }
     ]
   },
@@ -6923,19 +6923,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "between"
+        "A": "between"
       },
       {
-        "b": "beside"
+        "B": "beside"
       },
       {
-        "c": "in"
+        "C": "in"
       },
       {
-        "d": "on"
+        "D": "on"
       },
       {
-        "e": "beneath"
+        "E": "beneath"
       }
     ]
   },
@@ -6946,19 +6946,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "under"
+        "A": "under"
       },
       {
-        "b": "on"
+        "B": "on"
       },
       {
-        "c": "beside"
+        "C": "beside"
       },
       {
-        "d": "between"
+        "D": "between"
       },
       {
-        "e": "within"
+        "E": "within"
       }
     ]
   },
@@ -6969,19 +6969,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "on"
+        "A": "on"
       },
       {
-        "b": "in"
+        "B": "in"
       },
       {
-        "c": "under"
+        "C": "under"
       },
       {
-        "d": "between"
+        "D": "between"
       },
       {
-        "e": "amidst"
+        "E": "amidst"
       }
     ]
   },
@@ -6992,19 +6992,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "beside"
+        "A": "beside"
       },
       {
-        "b": "to"
+        "B": "to"
       },
       {
-        "c": "in"
+        "C": "in"
       },
       {
-        "d": "on"
+        "D": "on"
       },
       {
-        "e": "from"
+        "E": "from"
       }
     ]
   },
@@ -7015,19 +7015,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Do"
+        "A": "Do"
       },
       {
-        "b": "Make"
+        "B": "Make"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Making"
+        "D": "Making"
       },
       {
-        "e": "Does"
+        "E": "Does"
       }
     ]
   },
@@ -7038,19 +7038,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Do"
+        "A": "Do"
       },
       {
-        "b": "Make"
+        "B": "Make"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Doing"
+        "D": "Doing"
       },
       {
-        "e": "Makes"
+        "E": "Makes"
       }
     ]
   },
@@ -7061,19 +7061,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Make"
+        "A": "Make"
       },
       {
-        "b": "Do"
+        "B": "Do"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Doing"
+        "D": "Doing"
       },
       {
-        "e": "Makes"
+        "E": "Makes"
       }
     ]
   },
@@ -7084,19 +7084,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Make"
+        "A": "Make"
       },
       {
-        "b": "Do"
+        "B": "Do"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Doing"
+        "D": "Doing"
       },
       {
-        "e": "Makes"
+        "E": "Makes"
       }
     ]
   },
@@ -7107,19 +7107,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Make"
+        "A": "Make"
       },
       {
-        "b": "Do"
+        "B": "Do"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Doing"
+        "D": "Doing"
       },
       {
-        "e": "Makes"
+        "E": "Makes"
       }
     ]
   },
@@ -7130,19 +7130,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Make"
+        "A": "Make"
       },
       {
-        "b": "Do"
+        "B": "Do"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Doing"
+        "D": "Doing"
       },
       {
-        "e": "Makes"
+        "E": "Makes"
       }
     ]
   },
@@ -7153,19 +7153,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Do"
+        "A": "Do"
       },
       {
-        "b": "Make"
+        "B": "Make"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Doing"
+        "D": "Doing"
       },
       {
-        "e": "Makes"
+        "E": "Makes"
       }
     ]
   },
@@ -7176,19 +7176,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Do"
+        "A": "Do"
       },
       {
-        "b": "Make"
+        "B": "Make"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Doing"
+        "D": "Doing"
       },
       {
-        "e": "Makes"
+        "E": "Makes"
       }
     ]
   },
@@ -7199,19 +7199,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "Do"
+        "A": "Do"
       },
       {
-        "b": "Make"
+        "B": "Make"
       },
       {
-        "c": "Did"
+        "C": "Did"
       },
       {
-        "d": "Doing"
+        "D": "Doing"
       },
       {
-        "e": "Makes"
+        "E": "Makes"
       }
     ]
   },
@@ -7222,19 +7222,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "set aside"
+        "A": "set aside"
       },
       {
-        "b": "set back"
+        "B": "set back"
       },
       {
-        "c": "set off"
+        "C": "set off"
       },
       {
-        "d": "set in"
+        "D": "set in"
       },
       {
-        "e": "set up"
+        "E": "set up"
       }
     ]
   },
@@ -7245,19 +7245,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "set about"
+        "A": "set about"
       },
       {
-        "b": "set back"
+        "B": "set back"
       },
       {
-        "c": "set in"
+        "C": "set in"
       },
       {
-        "d": "set off"
+        "D": "set off"
       },
       {
-        "e": "set up"
+        "E": "set up"
       }
     ]
   },
@@ -7268,19 +7268,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "set aside"
+        "A": "set aside"
       },
       {
-        "b": "set about"
+        "B": "set about"
       },
       {
-        "c": "set up"
+        "C": "set up"
       },
       {
-        "d": "set off"
+        "D": "set off"
       },
       {
-        "e": "set in"
+        "E": "set in"
       }
     ]
   },
@@ -7291,19 +7291,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "set off"
+        "A": "set off"
       },
       {
-        "b": "set in"
+        "B": "set in"
       },
       {
-        "c": "set up"
+        "C": "set up"
       },
       {
-        "d": "set about"
+        "D": "set about"
       },
       {
-        "e": "set aside"
+        "E": "set aside"
       }
     ]
   },
@@ -7314,19 +7314,19 @@
     "correctAnwser": "A",
     "answers": [
       {
-        "a": "set up"
+        "A": "set up"
       },
       {
-        "b": "set off"
+        "B": "set off"
       },
       {
-        "c": "set about"
+        "C": "set about"
       },
       {
-        "d": "set aside"
+        "D": "set aside"
       },
       {
-        "e": "set in"
+        "E": "set in"
       }
     ]
   }
