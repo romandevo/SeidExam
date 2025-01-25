@@ -1,0 +1,78 @@
+.footer {
+  background-color: rgb(40, 46, 46);
+}
+.modal-body p {
+  color: black;
+  margin-top: 5px;
+}
+.modal-body button {
+  margin-bottom: 5px;
+}
+h5.modal-title {
+  color: black;
+}
+.selected-correct {
+  background-color: #218838;
+  color: #ffffff;
+  border-color: #1e7e34;
+}
+.selected-correct:hover {
+  background-color: #218838;
+  color: #ffffff;
+  border-color: #1e7e34;
+}
+.selected-correct:active {
+  background-color: #218838;
+  color: #ffffff;
+  border-color: #1e7e34;
+}
+.selected-correct:focus {
+  background-color: #218838;
+  color: #ffffff;
+  border-color: #1e7e34;
+}
+.selected-wrong {
+  background-color: #c82333;
+  color: #ffffff;
+  border-color: #bd2130;
+}
+.selected-wrong:hover {
+  background-color: #c82333;
+  color: #ffffff;
+  border-color: #bd2130;
+}
+.selected-wrong:active {
+  background-color: #c82333;
+  color: #ffffff;
+  border-color: #bd2130;
+}
+.selected-wrong:focus {
+  background-color: #c82333;
+  color: #ffffff;
+  border-color: #bd2130;
+}
+.should-select {
+  color: #28a745;
+}
+.should-select:hover {
+  color: #28a745;
+}
+.should-select:active {
+  color: #28a745;
+}
+.should-select:focus {
+  color: #28a745;
+}
+.active {
+  background-color: #2e3334ab !important;
+  border-color: #2e3334ab !important;
+}
+.error-highlight mark {
+  background-color: #ffe6e6; /* Hafif kırmızı arka plan */
+  color: #cc00006f; /* Koyu kırmızı metin */
+  /* border: 1px solid #cc0000; Kenarlık */
+  padding: 0.5rem 0.75rem; /* İç boşluk */
+  border-radius: 0.25rem; /* Hafif yuvarlak köşeler */
+  display: inline-block; /* Blok içeriği düzenli görünür */
+  font-weight: bold; /* Vurgulu metin */
+}

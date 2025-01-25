@@ -1,0 +1,48 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Müəyyən bir nəticəyə, məqsədə çatmağa, müəyyən edilmiş mənbələr və müddətlərə, unikal məhsul və ya xidmət yaratmağa yönəlmiş bir fəaliyyətdir?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Layihə"
+      },
+      {
+        "B": "Ekologiya"
+      },
+      {
+        "C": "Tədqiqat"
+      },
+      {
+        "D": "Logistika"
+      },
+      {
+        "E": "Kommunikasiya"
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Layihənin təqdimatında vacib elementlərdən biri deyil?",
+    "correctAnwser": "A",
+    "answers": [
+      {
+        "A": "Layihənin planlaşdırılması"
+      },
+      {
+        "B": "Layihənin məzmunu"
+      },
+      {
+        "C": "Layihənin məqsədi"
+      },
+      {
+        "D": "Layihə riskləri"
+      },
+      {
+        "E": "Layihənin aktuallığı"
+      }
+    ]
+  }
+]
