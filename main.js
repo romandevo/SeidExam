@@ -104,9 +104,9 @@ function populateMainQuestions(data) {
 
     // Apply spacing based on the length of the number
     if (questionNumber.length === 1) {
-      button.innerHTML = `&nbsp;&nbsp;${questionNumber}&nbsp;&nbsp;`;
+      button.innerHTML = `&#160;&#160;${questionNumber}&#160;&#160;`;
     } else if (questionNumber.length === 2) {
-      button.innerHTML = `&nbsp;${questionNumber}&nbsp;`;
+      button.innerHTML = `&#160;${questionNumber}&#160;`;
     } else {
       button.textContent = questionNumber; // Default case for longer numbers
     }
