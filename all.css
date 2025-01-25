@@ -1,3 +1,9 @@
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  word-spacing: 0;
+}
 .footer {
   background-color: rgb(40, 46, 46);
 }
