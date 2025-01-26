@@ -944,8 +944,8 @@
   },
   {
     "questionNumber": 72,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Verilmiş mətn əməli yazının hansı növünə aiddir? Mən, Filoloji fakültənin IV kurs tələbəsi Qasımova Gülnar Əli qızı, rəfiqəm Əliyeva Sona İslam qızından oxumaq üçün “Dəli Kür” əsərini aldım.",
+    "questionUp": "Verilmiş mətn əməli yazının hansı növünə aiddir?",
+    "questionDown": "Mən, Filoloji fakültənin IV kurs tələbəsi Qasımova Gülnar Əli qızı, rəfiqəm Əliyeva Sona İslam qızından oxumaq üçün “Dəli Kür” əsərini aldım.",
     "correctAnwser": "A",
     "answers": [
       { "A": "Qəbz" },
@@ -1156,8 +1156,8 @@
   },
   {
     "questionNumber": 88,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Azəriqazbank əhalinin nəzərinə çatdırır ki, əmanətlərə verilən orta illik gəlir 10 faizdən 30 faizə qaldırılmışdır. Azəriqazbank. Verilmiş nümunənin hansı əməli yazı növünə aid olduğunu göstərin:",
+    "questionUp": "Azəriqazbank əhalinin nəzərinə çatdırır ki, əmanətlərə verilən orta illik gəlir 10 faizdən 30 faizə qaldırılmışdır. Azəriqazbank.",
+    "questionDown": "Verilmiş nümunənin hansı əməli yazı növünə aid olduğunu göstərin:",
     "correctAnwser": "A",
     "answers": [
       { "A": "Bildiriş" },
@@ -1195,8 +1195,8 @@
   },
   {
     "questionNumber": 91,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Azərbaycan Respublikasının dövlət dili Azərbaycan Respublikası Konstitusiyasının 21-ci maddəsinin 1-ci hissəsinə müvafiq olaraq Azərbaycan dilidir. Dövlət dilini bilmək hər bir Azərbaycan Respublikası vətəndaşının borcudur. Mətn hansı üsluba aiddir?",
+    "questionUp": "Azərbaycan Respublikasının dövlət dili Azərbaycan Respublikası Konstitusiyasının 21-ci maddəsinin 1-ci hissəsinə müvafiq olaraq Azərbaycan dilidir. Dövlət dilini bilmək hər bir Azərbaycan Respublikası vətəndaşının borcudur.",
+    "questionDown": "Mətn hansı üsluba aiddir?",
     "correctAnwser": "A",
     "answers": [
       { "A": "Rəsmi" },
@@ -1273,8 +1273,8 @@
   },
   {
     "questionNumber": 97,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "....... nitqə yiyələnmək üçün qrammatikanın qaydalarını bilməkdən əlavə, ədəbi dilin digər normalarına da riayət etmək lazımdır. Nöqtələrin yerinə hansı söz qoyulmalıdır?",
+    "questionUp": "....... nitqə yiyələnmək üçün qrammatikanın qaydalarını bilməkdən əlavə, ədəbi dilin digər normalarına da riayət etmək lazımdır.",
+    "questionDown": "Nöqtələrin yerinə hansı söz qoyulmalıdır?",
     "correctAnwser": "A",
     "answers": [
       { "A": "Düzgün" },
@@ -1624,8 +1624,8 @@
   },
   {
     "questionNumber": 124,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Tezisin məzmun sxem ardıcıllığını göstərin",
+    "questionUp": "Tezisin məzmun sxem ardıcıllığını göstərin",
+    "questionDown": "1. problemi bildirin; \n 2. tapıntınızdan sonra onunla nəyi əldə edilə biləcəyini söyləyin.; \n 3. problemin və onu həll etməyin əhəmiyyətini söyləyin.; \n 4. tapdığınız həll yolu ilə nəyə nail olmağın mümkünlüyünü söyləyin;",
     "correctAnwser": "A",
     "answers": [
       { "A": "1,3,4,2" },
@@ -2220,8 +2220,8 @@
   },
   {
     "questionNumber": 170,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Yazılışı ilə tələffüzü fərqlənməyən sözlərin cərgəsini göstərin: Bağban, yeni, küçə",
+    "questionUp": "Yazılışı ilə tələffüzü fərqlənməyən sözlərin cərgəsini göstərin:",
+    "questionDown": "Bağban, yeni, küçə",
     "correctAnwser": "A",
     "answers": [
       { "A": "Tənbəl, müəllim, təbiət" },
@@ -2429,8 +2429,8 @@
   },
   {
     "questionNumber": 186,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Nümunədə işlənmiş bədii təsvir vasitələrini göstərin:\nYaşıl köynəyini geyinir meşə,\nYaxama quş kimi qonur bənövşə.\n1.Epitet; 2.Təşbeh; 3. Metafor; 4.Simvol; 5. Bədii təzad",
+    "questionUp": "Nümunədə işlənmiş bədii təsvir vasitələrini göstərin:\nYaşıl köynəyini geyinir meşə,\nYaxama quş kimi qonur bənövşə.",
+    "questionDown": "1.Epitet; 2.Təşbeh; 3. Metafor; 4.Simvol; 5. Bədii təzad",
     "correctAnwser": "A",
     "answers": [
       { "A": "2, 3" },
@@ -2468,8 +2468,8 @@
   },
   {
     "questionNumber": 189,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Bu bədii ifadə vasitəsinin daha kəskin forması “təriz”, yaxud “sarkazm” adlanır. Söhbət bədii ifadə vasitələrinin hansı növündən gedir?",
+    "questionUp": "Bu bədii ifadə vasitəsinin daha kəskin forması “təriz”, yaxud “sarkazm” adlanır.",
+    "questionDown": "Söhbət bədii ifadə vasitələrinin hansı növündən gedir?",
     "correctAnwser": "A",
     "answers": [
       { "A": "Kinayə" },
@@ -2481,8 +2481,8 @@
   },
   {
     "questionNumber": 190,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Nümunədə hansı bədii təsvir və ifadə vasitəsi işlənmişdir?\nAparın, aparın onu zindana,\nGöz dağı çəkdirin Azərbaycana.",
+    "questionUp": "Nümunədə hansı bədii təsvir və ifadə vasitəsi işlənmişdir?",
+    "questionDown": "Aparın, aparın onu zindana,\nGöz dağı çəkdirin Azərbaycana.",
     "correctAnwser": "A",
     "answers": [
       { "A": "Anafora, metonimiya" },
@@ -2550,8 +2550,8 @@
   },
   {
     "questionNumber": 195,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Meşələr! Meşələr! Doğrudan da siz\nYayda da, qışda da bir baharsınız.\nNümunədəki “Meşələr! Meşələr!” sözləri hansı bədii ifadə vasitəsidir?",
+    "questionUp": "Meşələr! Meşələr! Doğrudan da siz\nYayda da, qışda da bir baharsınız.",
+    "questionDown": "Nümunədəki “Meşələr! Meşələr!” sözləri hansı bədii ifadə vasitəsidir?",
     "correctAnwser": "A",
     "answers": [
       { "A": "Anafora" },
@@ -2758,8 +2758,8 @@
   },
   {
     "questionNumber": 211,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Verilmiş cümlə hansı üslubdadır? “Nitqin ifadəliliyi dedikdə ən məqsədəuyğun, üslub baxımından ən uğurlu olan dil vasitələrini tapıb işlətmək başa düşülür”",
+    "questionUp": "Verilmiş cümlə hansı üslubdadır?",
+    "questionDown": "“Nitqin ifadəliliyi dedikdə ən məqsədəuyğun, üslub baxımından ən uğurlu olan dil vasitələrini tapıb işlətmək başa düşülür”",
     "correctAnwser": "A",
     "answers": [
       { "A": "Elmi" },
@@ -2823,8 +2823,8 @@
   },
   {
     "questionNumber": 216,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Bədii üslubun ən az təsir göstərdiyi üslublar hansılardır? 1. Elmi, 2. Publisistik, 3. Rəsmi-işgüzar, 4. Məişət",
+    "questionUp": "Bədii üslubun ən az təsir göstərdiyi üslublar hansılardır?",
+    "questionDown": "1. Elmi, 2. Publisistik, 3. Rəsmi-işgüzar, 4. Məişət",
     "correctAnwser": "A",
     "answers": [
       { "A": "1,3" },
@@ -2856,16 +2856,18 @@
       { "A": "fərdi nitq ünsürlərinin, obrazlı söz və ifadələrin işlənməsi" },
       { "B": "fikrin olduqca yığcam əhatə olunması" },
       { "C": "lüğət tərkibinin yığcamlığı" },
-      { "D": "sintaksisin məhdudluğu" },
       {
-        "E": "arxaik leksikanın və sintaktik konstruksiyaların uzun müddət mühafizə olunması"
+        "D": "sintaksisin məhdudluğu arxaik leksikanın və sintaktik konstruksiyaların uzun müddət mühafizə olunması"
+      },
+      {
+        "E": ""
       }
     ]
   },
   {
     "questionNumber": 219,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Bunlardan ikisi daha çox elmi üslub üçün əlamətdardır: 1. Məcazilik, 2. Obrazlılıq , 3. Mürəkkəb cümlə tiplərindən daha çox istifadə, 4. Bədii təsvir və ifadə vasitələrindən istifadə,  5. Termin sıxlığı, 6. Dialektizm və loru sözlərin işlənməsi.",
+    "questionUp": "Bunlardan ikisi daha çox elmi üslub üçün əlamətdardır:",
+    "questionDown": "1. Məcazilik, 2. Obrazlılıq , 3. Mürəkkəb cümlə tiplərindən daha çox istifadə, 4. Bədii təsvir və ifadə vasitələrindən istifadə,  5. Termin sıxlığı, 6. Dialektizm və loru sözlərin işlənməsi.",
     "correctAnwser": "A",
     "answers": [
       { "A": "3, 5" },
@@ -2890,8 +2892,8 @@
   },
   {
     "questionNumber": 221,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Bu əlamətlər hansı üslubda özünü göstərir? 1. xalq danışıq dilinə aid sözlərdən daha çox istifadə 2. dialoji nitq formasının daha çox işlədilməsi 3. bağlayıcı məzmununun daha çox intonasiya ilə çatdırılması 4. yarımçıq cümlələrin işlədilməsi",
+    "questionUp": "Bu əlamətlər hansı üslubda özünü göstərir?",
+    "questionDown": "1. xalq danışıq dilinə aid sözlərdən daha çox istifadə; \n 2. dialoji nitq formasının daha çox işlədilməsi; \n 3. bağlayıcı məzmununun daha çox intonasiya ilə çatdırılması; \n 4. yarımçıq cümlələrin işlədilməsi;",
     "correctAnwser": "A",
     "answers": [
       { "A": "məişət" },
@@ -2942,8 +2944,8 @@
   },
   {
     "questionNumber": 225,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Mətn hansı üslubdadır? “Dillərin qohumluq prinsipindən başqa, bir də tipoloji bölgüsü var. Bu bölgüdə dildəki sözlərin morfoloji quruluşu əsas götürülür.”",
+    "questionUp": "Mətn hansı üslubdadır?",
+    "questionDown": "“Dillərin qohumluq prinsipindən başqa, bir də tipoloji bölgüsü var. Bu bölgüdə dildəki sözlərin morfoloji quruluşu əsas götürülür.”",
     "correctAnwser": "A",
     "answers": [
       { "A": "elmi" },
@@ -4677,8 +4679,8 @@
   },
   {
     "questionNumber": 368,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Nitq etiketlərindən ibarət məntiqi ardıcıllığı davam etdirin. Allah amanında! Xudahafiz! Görüşənədək! .................",
+    "questionUp": "Nitq etiketlərindən ibarət məntiqi ardıcıllığı davam etdirin.",
+    "questionDown": "Allah amanında! Xudahafiz! Görüşənədək! .................",
     "correctAnwser": "A",
     "answers": [
       { "A": "Yaxşı yol!" },
@@ -4754,8 +4756,8 @@
   },
   {
     "questionNumber": 373,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Fərqləndirici durğu işarələrini seçin: 1.Nöqtə; 2.Mötərizə; 3.Dırnaq; 4.Sual işarəsi",
+    "questionUp": "Fərqləndirici durğu işarələrini seçin:",
+    "questionDown": "1.Nöqtə; 2.Mötərizə; 3.Dırnaq; 4.Sual işarəsi",
     "correctAnwser": "A",
     "answers": [
       { "A": "2,3" },
@@ -4803,8 +4805,8 @@
   },
   {
     "questionNumber": 376,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Nə zaman tire işarəsi qoyular?\n1.Həmcins üzvlərdən sonra ümumiləşdirici söz gəldikdə;\n2.Sözləri sətirdən sətrə keçirdikdə;\n3.Eyni sözün təkrarı ilə əmələ gələn mürəkkəb sözlərdə;\n4.Dialoqlarda;\n5.Vasitəsiz nitqli cümlədən sonra müəllifin sözü gəldikdə",
+    "questionUp": "Nə zaman tire işarəsi qoyular?",
+    "questionDown": "1.Həmcins üzvlərdən sonra ümumiləşdirici söz gəldikdə;\n2.Sözləri sətirdən sətrə keçirdikdə;\n3.Eyni sözün təkrarı ilə əmələ gələn mürəkkəb sözlərdə;\n4.Dialoqlarda;\n5.Vasitəsiz nitqli cümlədən sonra müəllifin sözü gəldikdə",
     "correctAnwser": "A",
     "answers": [
       { "A": "1,4,5" },
@@ -4816,8 +4818,8 @@
   },
   {
     "questionNumber": 377,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Bu durğu işarələrindən hansılar həmcins üzvlərlə əlaqədar işlədilə bilir?\n1.Vergül; 2.Tire; 3.Qoşa nöqtə;\n4.Nida işarəsi; 5.Mötərizə; 6.Üç nöqtə",
+    "questionUp": "Bu durğu işarələrindən hansılar həmcins üzvlərlə əlaqədar işlədilə bilir?",
+    "questionDown": "1.Vergül; \n 2.Tire; \n 3.Qoşa nöqtə; \n 4.Nida işarəsi; \n 5.Mötərizə; \n 6.Üç nöqtə;",
     "correctAnwser": "A",
     "answers": [
       { "A": "1,2,3" },
@@ -4846,8 +4848,8 @@
   },
   {
     "questionNumber": 379,
-    "questionUp": "Düzgün cavabı seçin.",
-    "questionDown": "Qoşa nöqtə işarəsi qoyulur:\n1. Dialoqlarda müəllif nitqindən sonra;\n2.Həmcins üzvlər sırasında;\n3. Vasitəsiz nitqli cümlələrdə;\n4. Sıra sayları Roma rəqəmləri ilə yazıldıqda",
+    "questionUp": "Qoşa nöqtə işarəsi qoyulur:",
+    "questionDown": "1. Dialoqlarda müəllif nitqindən sonra; \n 2.Həmcins üzvlər sırasında; \n 3. Vasitəsiz nitqli cümlələrdə; \n 4. Sıra sayları Roma rəqəmləri ilə yazıldıqda;",
     "correctAnwser": "A",
     "answers": [
       { "A": "1,3" },
