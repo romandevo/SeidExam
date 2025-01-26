@@ -3,7 +3,7 @@
     "questionNumber": 1,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is considered the first calculating way?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Fingers"
@@ -26,7 +26,7 @@
     "questionNumber": 2,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the first calculating tool?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Abacus"
@@ -49,7 +49,7 @@
     "questionNumber": 3,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What tool was first used as a calculating device?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Abacus"
@@ -72,7 +72,7 @@
     "questionNumber": 4,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What was the first computing device called in history?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Abacus"
@@ -95,7 +95,7 @@
     "questionNumber": 5,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the meaning of the word computer?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Calculator"
@@ -118,7 +118,7 @@
     "questionNumber": 6,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Abacus?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Calculation tool"
@@ -141,7 +141,7 @@
     "questionNumber": 7,
     "questionUp": "Choose the correct variant.",
     "questionDown": "When is the date of the first conception of the computer?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Early 19th century"
@@ -164,7 +164,7 @@
     "questionNumber": 8,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In which year was the first electronic computer produced?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1946"
@@ -187,7 +187,7 @@
     "questionNumber": 9,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In which year was the first personal computer for MS-DOS (Microsoft Disk Operating System) introduced?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1981"
@@ -210,7 +210,7 @@
     "questionNumber": 10,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which company introduced the first microprocessor?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Intel"
@@ -233,7 +233,7 @@
     "questionNumber": 11,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Altair 8800 is the first small-sized computer created for traditional personal use. On what date was it introduced?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1975"
@@ -256,7 +256,7 @@
     "questionNumber": 12,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What was the name of the first computers?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "ENIAC"
@@ -279,7 +279,7 @@
     "questionNumber": 13,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does \"FORTRAN\", one of the largest programming languages in computing, mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Translating Formula"
@@ -302,7 +302,7 @@
     "questionNumber": 14,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What concept is\" Moore's Law \" related to?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Computer sector development"
@@ -325,7 +325,7 @@
     "questionNumber": 15,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does\u201d RAM \" mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Random-Access Memory"
@@ -348,7 +348,7 @@
     "questionNumber": 16,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is currently the most widely used programming language in the world according to statistics?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Python"
@@ -371,7 +371,7 @@
     "questionNumber": 17,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does\" Bit \" mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Binary Digit"
@@ -394,7 +394,7 @@
     "questionNumber": 18,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the company that introduced the first operating system?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "IBM"
@@ -417,7 +417,7 @@
     "questionNumber": 19,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How big was the first computer and what is its name?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "ENIAC, close to 10 tons"
@@ -440,7 +440,7 @@
     "questionNumber": 20,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In the\" Binary \" reasoning system, what do 1 and 0 represent?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Zero and one"
@@ -463,7 +463,7 @@
     "questionNumber": 21,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Who created the Pascaline machine?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "B.Pascal"
@@ -486,7 +486,7 @@
     "questionNumber": 22,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In which year was the Leibnis machine created?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1694"
@@ -509,7 +509,7 @@
     "questionNumber": 23,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In which year was the analytical machine created?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1830"
@@ -532,7 +532,7 @@
     "questionNumber": 24,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Who created the analytical machine?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Bebbic"
@@ -555,7 +555,7 @@
     "questionNumber": 25,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Who designed the software part of the analytical machine?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "The Island"
@@ -578,7 +578,7 @@
     "questionNumber": 26,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What was the Turing machine used for in its time?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "For reconnaissance during the war"
@@ -601,7 +601,7 @@
     "questionNumber": 27,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What parts does an arbitrary computer consist of according to the architecture of John Fon Neiman?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Central and perifec parts"
@@ -624,7 +624,7 @@
     "questionNumber": 28,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How was the first electronic computing machine called?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "ENIAC"
@@ -647,7 +647,7 @@
     "questionNumber": 29,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What term is the technical equipment of an individual computer?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Hardware"
@@ -670,7 +670,7 @@
     "questionNumber": 30,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Who first proposed ECM's modern architecture?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "John Fon Neyman"
@@ -693,7 +693,7 @@
     "questionNumber": 31,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How was the first ECM called?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "ENIAC"
@@ -716,7 +716,7 @@
     "questionNumber": 32,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In what generation of ECM did the first programs appear?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "In the II generation"
@@ -739,7 +739,7 @@
     "questionNumber": 33,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the original meaning of the English word \u201ccomputer\u201d?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "electronic apparatus"
@@ -762,7 +762,7 @@
     "questionNumber": 34,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the concept of \u201cECM generation \" mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "all types and models of ECMs built on the same principles"
@@ -785,7 +785,7 @@
     "questionNumber": 35,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How many computers are divided by generation?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "5"
@@ -808,7 +808,7 @@
     "questionNumber": 36,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What years do 1st generation computers cover?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1950-1959"
@@ -831,7 +831,7 @@
     "questionNumber": 37,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What was the element base of 1st generation computers?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Electronic lamps"
@@ -854,7 +854,7 @@
     "questionNumber": 38,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which years do 2nd generation computers cover?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1955-1967"
@@ -877,7 +877,7 @@
     "questionNumber": 39,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What was the element base of 2nd generation computers?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Transistors"
@@ -900,7 +900,7 @@
     "questionNumber": 40,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What years do 3rd generation computers cover?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1964-1975"
@@ -923,7 +923,7 @@
     "questionNumber": 41,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What was the element base of 3rd generation computers?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Microcircuits"
@@ -946,7 +946,7 @@
     "questionNumber": 42,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What years do 4th generation computers cover?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1974-1976"
@@ -969,7 +969,7 @@
     "questionNumber": 43,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What was the element base of 4th generation computers?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Large integrated circuits"
@@ -992,7 +992,7 @@
     "questionNumber": 44,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What years do 5th generation computers cover?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "2023-2050"
@@ -1015,7 +1015,7 @@
     "questionNumber": 45,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What was the element base of 5th generation computers?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Nanotechnology"
@@ -1038,7 +1038,7 @@
     "questionNumber": 46,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does\" IT \" mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Information Technology"
@@ -1061,7 +1061,7 @@
     "questionNumber": 47,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is RAM?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Random Access Memory"
@@ -1084,7 +1084,7 @@
     "questionNumber": 48,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For what purpose is DNS used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Domain Name System"
@@ -1104,7 +1104,7 @@
     "questionNumber": 49,
     "questionUp": "Choose the correct variant.",
     "questionDown": "An IP address is a unique address of some device over the World Wide Web. What does IP mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Internet Protocol"
@@ -1127,7 +1127,7 @@
     "questionNumber": 50,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For what purpose is the Firewall used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Meeting network threats"
@@ -1150,7 +1150,7 @@
     "questionNumber": 51,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does URL mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Universal Resource Locator"
@@ -1173,7 +1173,7 @@
     "questionNumber": 52,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is a VPN?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Virtual Private Network"
@@ -1196,7 +1196,7 @@
     "questionNumber": 53,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is HTML?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "HyperText Markup Language"
@@ -1219,7 +1219,7 @@
     "questionNumber": 54,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For what purpose is SQL used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Collaborate with the database"
@@ -1242,7 +1242,7 @@
     "questionNumber": 55,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does CPU mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Central Processing Unit"
@@ -1265,7 +1265,7 @@
     "questionNumber": 56,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which programming language does JavaScript belong to?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "ECMAScript"
@@ -1288,7 +1288,7 @@
     "questionNumber": 57,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For what purpose are QR codes used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Delivery and access to information"
@@ -1311,7 +1311,7 @@
     "questionNumber": 58,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For which devices is the SD card mainly used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Phones and cameras"
@@ -1334,7 +1334,7 @@
     "questionNumber": 59,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does LAN mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Local Area Network"
@@ -1357,7 +1357,7 @@
     "questionNumber": 60,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For what purpose is HTML5 used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Adding more independent and functional features for mobile and web applications"
@@ -1377,7 +1377,7 @@
     "questionNumber": 61,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Docker?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Container Platform"
@@ -1400,7 +1400,7 @@
     "questionNumber": 62,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"VPN\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Virtual Personal Network"
@@ -1423,7 +1423,7 @@
     "questionNumber": 63,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"Cloud Computing\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Store and manage data over the Internet"
@@ -1446,7 +1446,7 @@
     "questionNumber": 64,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For what purpose is\" Firewall \" used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Meeting network threats"
@@ -1469,7 +1469,7 @@
     "questionNumber": 65,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is\" Encryption \" used for?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Encrypting data and sending it securely"
@@ -1492,7 +1492,7 @@
     "questionNumber": 66,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does\" BIOS \" mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Basic Input / Output System"
@@ -1515,7 +1515,7 @@
     "questionNumber": 67,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What danger does\" SQL Injection \" describe?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Tactics used to intervene in the system"
@@ -1538,7 +1538,7 @@
     "questionNumber": 68,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does\" Big Data \" Mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Analysis, processingof very large data"
@@ -1561,7 +1561,7 @@
     "questionNumber": 69,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For what purpose is\" Cybersecurity \" used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Security and security of the internet"
@@ -1584,7 +1584,7 @@
     "questionNumber": 70,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"Open Source Software\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Open source software"
@@ -1607,7 +1607,7 @@
     "questionNumber": 71,
     "questionUp": "Choose the correct variant.",
     "questionDown": "For which purpose is\" Blockchain \" used?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Ensuring security for crypto-currencies"
@@ -1630,7 +1630,7 @@
     "questionNumber": 72,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is\" Algorithm\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Action steps"
@@ -1653,7 +1653,7 @@
     "questionNumber": 73,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does \"Artificial Intelligence\" (AI) mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Artificial Intelligence"
@@ -1676,7 +1676,7 @@
     "questionNumber": 74,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What threat does\" Cyberbullying \" cover?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Showing pressure to people via the Internet"
@@ -1699,7 +1699,7 @@
     "questionNumber": 75,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"Data Mining\" used for?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Searching for hidden connections between data"
@@ -1722,7 +1722,7 @@
     "questionNumber": 76,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What industry is computer aided design (CAD) widely used in?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "production and engineering"
@@ -1745,7 +1745,7 @@
     "questionNumber": 77,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main purpose of geographic information systems (GIS)?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Mapping and location-based analysis"
@@ -1768,7 +1768,7 @@
     "questionNumber": 78,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which of the following is the application of Information Technology in healthcare?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Keeping patient records"
@@ -1791,7 +1791,7 @@
     "questionNumber": 79,
     "questionUp": "Choose the correct variant.",
     "questionDown": "what area of Information Technology do e-learning platforms and online courses belong to?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Education"
@@ -1814,7 +1814,7 @@
     "questionNumber": 80,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does enterprise resource planning software (ERP) help organizations?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "business processes"
@@ -1837,7 +1837,7 @@
     "questionNumber": 81,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What area of application involves the use of Information Technology for analyzing and interpreting large data arrays for making business decisions?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Business analytics"
@@ -1860,7 +1860,7 @@
     "questionNumber": 82,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What role does information technology play in the field of transport?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "traffic control and navigation"
@@ -1883,7 +1883,7 @@
     "questionNumber": 83,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Customer Relationship Management (CRM) software used for?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "management of interactions with customers"
@@ -1906,7 +1906,7 @@
     "questionNumber": 84,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which sector uses information technology for inventory management, supply chain optimization and order processing?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "retail sales"
@@ -1929,7 +1929,7 @@
     "questionNumber": 85,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What role does information technology play in finance?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "financial analysis"
@@ -1952,7 +1952,7 @@
     "questionNumber": 86,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How is information technology generally applied in the field of marketing?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Managing social Media"
@@ -1975,7 +1975,7 @@
     "questionNumber": 87,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What area of application involves the use of information technology to model the Real environment?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "virtual reality"
@@ -1998,7 +1998,7 @@
     "questionNumber": 88,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main application of content management systems (CMS) in Information Technology?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "creating and managing a website"
@@ -2021,7 +2021,7 @@
     "questionNumber": 89,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What contributions does Information Technology make to the agricultural sector?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "precision farming and data analysis"
@@ -2044,7 +2044,7 @@
     "questionNumber": 90,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"biometrics\" refer to in the context of security?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "use of biological data for identification"
@@ -2067,7 +2067,7 @@
     "questionNumber": 91,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How is information technology applied in the entertainment industry?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "video streaming, games and content creation"
@@ -2090,7 +2090,7 @@
     "questionNumber": 92,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Human Resource Management Systems (HRMS) in organizations?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Personnel Selection M"
@@ -2110,7 +2110,7 @@
     "questionNumber": 93,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How does Information Technology contribute to environmental monitoring?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Pollution tracking"
@@ -2133,7 +2133,7 @@
     "questionNumber": 94,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How is information technology used in research and development?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Scientific modeling"
@@ -2156,7 +2156,7 @@
     "questionNumber": 95,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the role of Information Technology in smart cities?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "improve life in cities with data-driven solutions"
@@ -2179,7 +2179,7 @@
     "questionNumber": 96,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What contributions does Information Technology make to the field of Education?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "e-Learning platforms"
@@ -2202,7 +2202,7 @@
     "questionNumber": 97,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main purpose of the supply chain management program (SCM)?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "production and distribution of goods"
@@ -2225,7 +2225,7 @@
     "questionNumber": 98,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How is information technology applied in the field of sports?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "sports analytics"
@@ -2248,7 +2248,7 @@
     "questionNumber": 99,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main role of unified communication (UC) systems in the field of communications?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "integration of different communication channels"
@@ -2271,7 +2271,7 @@
     "questionNumber": 100,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What contributions does Information Technology make to journalism?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "digital publications and creation tools"
@@ -2294,7 +2294,7 @@
     "questionNumber": 101,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the role of business process management software (BPM)?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "integration of business processes"
@@ -2317,7 +2317,7 @@
     "questionNumber": 102,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How does Information Technology contribute to the development of Art and design?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "graphic design software"
@@ -2340,7 +2340,7 @@
     "questionNumber": 103,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How is information technology applied in the legal field?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "legal research"
@@ -2363,7 +2363,7 @@
     "questionNumber": 104,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of document management systems (DMS)?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "electronic Organization of documents"
@@ -2386,7 +2386,7 @@
     "questionNumber": 105,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What contribution does Information Technology make to the field of activity of non-profit organizations?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "online fundraising platforms"
@@ -2409,7 +2409,7 @@
     "questionNumber": 106,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main purpose of using project management software in IT projects?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "for managing resources and tasks"
@@ -2432,7 +2432,7 @@
     "questionNumber": 107,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which of the following flexible project management tools are widely used in IT projects?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "JIRA"
@@ -2455,7 +2455,7 @@
     "questionNumber": 108,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main advantage of using control tools in managing IT projects?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "controlling changes in source code"
@@ -2478,7 +2478,7 @@
     "questionNumber": 109,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What Project Management Software is known for its task and Project Management visual boards and cards?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Trello"
@@ -2501,7 +2501,7 @@
     "questionNumber": 110,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the abbreviation \"PMO\" mean in the context of IT project management?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Project Management Office"
@@ -2524,7 +2524,7 @@
     "questionNumber": 111,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which of the following collaborative software development platforms includes project management features?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "GitHub"
@@ -2547,7 +2547,7 @@
     "questionNumber": 112,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does \"SDLC\" mean in the context of IT project management?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "life cycle of software development"
@@ -2570,7 +2570,7 @@
     "questionNumber": 113,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the Gantt diagram in project management?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "visualization of the timeline of tasks"
@@ -2593,7 +2593,7 @@
     "questionNumber": 114,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main function of error tracking system in IT project management?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "monitoring and managing software flaws"
@@ -2616,7 +2616,7 @@
     "questionNumber": 115,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What Project Management methodology is often associated with tools like Microsoft Project and Primavera?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Waterfall"
@@ -2639,7 +2639,7 @@
     "questionNumber": 116,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What tool is commonly used for collaborative documentation and project management that allows teams to create, share, and collaborate on documents?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Confluence"
@@ -2662,7 +2662,7 @@
     "questionNumber": 117,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What collaboration tool is integrated with the various project management tools that allow teams to interact in real time through channels and direct messages?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Slack"
@@ -2685,7 +2685,7 @@
     "questionNumber": 118,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What tool is commonly used to control version in software development projects that allow teams to track changes and collaborate on code?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Git"
@@ -2708,7 +2708,7 @@
     "questionNumber": 119,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main function of Kanban board in its management?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "workflow and task visualization"
@@ -2731,7 +2731,7 @@
     "questionNumber": 120,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which project management tool is known for its focus on simplicity and usability, using boards, lists and cards to manage tasks?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Trello"
@@ -2754,7 +2754,7 @@
     "questionNumber": 121,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is ClickUp?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Project management, productivity tool"
@@ -2777,7 +2777,7 @@
     "questionNumber": 122,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"task\" in ClickUp?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "the unit of work that needs to be done"
@@ -2800,7 +2800,7 @@
     "questionNumber": 123,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What function in ClickUp allows you to create a list of tasks that need to be performed?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "see the list"
@@ -2823,7 +2823,7 @@
     "questionNumber": 124,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"space\" in ClickUp?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "custom workspace for teams or projects"
@@ -2846,7 +2846,7 @@
     "questionNumber": 125,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which feature in ClickUp provides a visual representation of Project time frames and dependencies?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Gantt diagram"
@@ -2869,7 +2869,7 @@
     "questionNumber": 126,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"custom field\" used for in ClickUp?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "adding user information to tasks"
@@ -2892,7 +2892,7 @@
     "questionNumber": 127,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you assign deadlines and tasks to team members in Clickup?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "in task details or settings"
@@ -2915,7 +2915,7 @@
     "questionNumber": 128,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the \"time tracking\" function in ClickUp allow you to do?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "keep track of the time spent on tasks and projects"
@@ -2938,7 +2938,7 @@
     "questionNumber": 129,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the ClickUp \"tracking goals\" function?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "tracking progress towards specific goals and key results"
@@ -2961,7 +2961,7 @@
     "questionNumber": 130,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does Click-Up focus on first when it comes to team collaboration?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "task management, productivity"
@@ -2984,7 +2984,7 @@
     "questionNumber": 131,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the ClickUp feature that allows you to view tasks, documents and other elements in the form of cards that you can scroll through on a virtual board?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Do not look at the board"
@@ -3007,7 +3007,7 @@
     "questionNumber": 132,
     "questionUp": "Choose the correct variant.",
     "questionDown": "ClickUp offers integration with various third-party tools and services. Which of the following tools is not an example of a tool that can be integrated with ClickUp?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Photoshop"
@@ -3030,7 +3030,7 @@
     "questionNumber": 133,
     "questionUp": "Choose the correct variant.",
     "questionDown": "ClickUp offers connectivity with various tools and services. Which of the following tools is not an example of a tool that can be linked to ClickUp?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Instagram"
@@ -3053,7 +3053,7 @@
     "questionNumber": 134,
     "questionUp": "Choose the correct variant.",
     "questionDown": "ClickUp provides the ability to set task priorities. What are the common priority levels in ClickUp?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "High, Medium, Low"
@@ -3076,7 +3076,7 @@
     "questionNumber": 135,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"folder\" used for in ClickUp?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "classification and organization of lists and spaces"
@@ -3099,7 +3099,7 @@
     "questionNumber": 136,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which ClickUp feature allows you to plan and track things over time, allocate resources, and manage dependencies?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Gantt diagram"
@@ -3122,7 +3122,7 @@
     "questionNumber": 137,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What interactive view is usually used to view tasks and events in calendar format?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Look at the calendar"
@@ -3145,7 +3145,7 @@
     "questionNumber": 138,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the ClickUp feature that provides real-time communication and collaboration within tasks and documents?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "comments and notes"
@@ -3168,7 +3168,7 @@
     "questionNumber": 139,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you access ClickUp's \"time tracking\" function to record the time spent on the task?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "by pressing the time tracking button"
@@ -3191,7 +3191,7 @@
     "questionNumber": 140,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the ClickUp\" templates \" feature allow you to do?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "record task workflows"
@@ -3214,7 +3214,7 @@
     "questionNumber": 141,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main purpose of ClickUp with its special features and looks?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Allowing it to adapt to workflows"
@@ -3237,7 +3237,7 @@
     "questionNumber": 142,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Trello mainly used for?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "management of tasks and projects"
@@ -3260,7 +3260,7 @@
     "questionNumber": 143,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is a \"bulletin board\" in Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "organizational structure for lists, cards"
@@ -3283,7 +3283,7 @@
     "questionNumber": 144,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What are the main building blocks of the organization in Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "boards and cards"
@@ -3306,7 +3306,7 @@
     "questionNumber": 145,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How does Trello present tasks on the bulletin board?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "in the form of stickers"
@@ -3329,7 +3329,7 @@
     "questionNumber": 146,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the name of the task set on the Trello bulletin board?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "list"
@@ -3352,7 +3352,7 @@
     "questionNumber": 147,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What feature in Trello allows you to add more details to a task or card, including descriptions, checklists, and deadlines?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "comments"
@@ -3375,7 +3375,7 @@
     "questionNumber": 148,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Trello allows you to set labels of different colors for cards. What is the main purpose of labels?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to indicate the priority or category of the card"
@@ -3398,7 +3398,7 @@
     "questionNumber": 149,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What feature in Trello allows you to add files and attachments to cards?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "add-ons"
@@ -3421,7 +3421,7 @@
     "questionNumber": 150,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which organization is responsible for the development and maintenance of Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Atlassian"
@@ -3444,7 +3444,7 @@
     "questionNumber": 151,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does Trello focus on first when it comes to managing tasks and projects?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "collaboration and simplicity"
@@ -3467,7 +3467,7 @@
     "questionNumber": 152,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the name of the Trello board used as a template to create new boards with predefined lists and cards?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "template"
@@ -3490,7 +3490,7 @@
     "questionNumber": 153,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What function in Trello allows you to assign tasks to certain team members?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "participants"
@@ -3513,7 +3513,7 @@
     "questionNumber": 154,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main advantage of using bonuses in Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "automation of repetitive tasks"
@@ -3536,7 +3536,7 @@
     "questionNumber": 155,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Trello supports integration with various third-party tools. Which of the following tools is an example of a tool that can be integrated with Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Google Docs"
@@ -3559,7 +3559,7 @@
     "questionNumber": 156,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the Trello feature that allows you to create custom fields for storing additional information on cards?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "special areas"
@@ -3579,7 +3579,7 @@
     "questionNumber": 157,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you move a card between lists in Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "drag and drop technique"
@@ -3602,7 +3602,7 @@
     "questionNumber": 158,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the \"Butler\" function in Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "automate repetitive workflows"
@@ -3625,7 +3625,7 @@
     "questionNumber": 159,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Trello provides different types of boards, including a calendar view. What is the main purpose of looking at the calendar?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "viewing the deadlines of the cards in the calendar"
@@ -3648,7 +3648,7 @@
     "questionNumber": 160,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is called a task or card that serves as a placeholder for a larger task or project in Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Sub-task"
@@ -3671,7 +3671,7 @@
     "questionNumber": 161,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main advantage of using the Trello mobile app?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "access Trello from anywhere on your mobile device"
@@ -3694,7 +3694,7 @@
     "questionNumber": 162,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the \"Archive\" function in Trello allow you to do?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "save the cards for later use"
@@ -3717,7 +3717,7 @@
     "questionNumber": 163,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term\" Kanban \" mean in the context of Project Management and Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "visual work management system"
@@ -3740,7 +3740,7 @@
     "questionNumber": 164,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does Trello mainly use \"shortcuts\" for?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "determining the priority or category of Cards"
@@ -3763,7 +3763,7 @@
     "questionNumber": 165,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the Trello feature that allows you to create lists inside the card to keep track of small tasks or subtasks?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "checklists"
@@ -3786,7 +3786,7 @@
     "questionNumber": 166,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Why does Trello use \"bot Butler\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "automate daily tasks"
@@ -3809,7 +3809,7 @@
     "questionNumber": 167,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main advantage of using Trello's \"aging cards\" function?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to visually display Old, less active cards"
@@ -3832,7 +3832,7 @@
     "questionNumber": 168,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Trello allows you to set payment deadlines for cards and receive notifications. What is the term of an expired card?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "overdue card"
@@ -3855,7 +3855,7 @@
     "questionNumber": 169,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the feature called in Trello that allows you to link cards together to show dependencies or relationships between tasks?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "closing cards"
@@ -3878,7 +3878,7 @@
     "questionNumber": 170,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Trello integrates with many other applications and services. Which of the following is not the usual integration with Trello?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Facebook"
@@ -3901,7 +3901,7 @@
     "questionNumber": 171,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Jira mainly used for?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "a": "project management"
@@ -3924,7 +3924,7 @@
     "questionNumber": 172,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the \"problem\" in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "all of the above"
@@ -3947,7 +3947,7 @@
     "questionNumber": 173,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is \"workflow\" in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "a": "set of predefined States and transitions"
@@ -3970,7 +3970,7 @@
     "questionNumber": 174,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the \"epic\" type of problem in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "a": "to group related questions together"
@@ -3993,7 +3993,7 @@
     "questionNumber": 175,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the Jira \"board\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "a": "for the organization and visual appearance of problems"
@@ -4016,7 +4016,7 @@
     "questionNumber": 176,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the initial state of the problem in a typical Jira workflow?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "For execution"
@@ -4039,7 +4039,7 @@
     "questionNumber": 177,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of \"switching\" in the Jira workflow?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "a": "transfer the problem from one status to another"
@@ -4062,7 +4062,7 @@
     "questionNumber": 178,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"permission\" refer to in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "the final state of the problem"
@@ -4085,7 +4085,7 @@
     "questionNumber": 179,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Jira's \"failed\" work?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "for the maintenance of unresolved problems"
@@ -4108,7 +4108,7 @@
     "questionNumber": 180,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is a \"sub-task\" in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "smaller task that helps solve the bigger problem"
@@ -4131,7 +4131,7 @@
     "questionNumber": 181,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Jira's role as \"administrator\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "a": "to manage users"
@@ -4154,7 +4154,7 @@
     "questionNumber": 182,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which of the following types of projects does not belong to Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Waterfall"
@@ -4177,7 +4177,7 @@
     "questionNumber": 183,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the meaning of Jira \"filter\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to find and display a set of certain problems"
@@ -4200,7 +4200,7 @@
     "questionNumber": 184,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Jira \"components\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "a": "group similar problems together"
@@ -4223,7 +4223,7 @@
     "questionNumber": 185,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"permit history\" mean in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "date of closure of the problem"
@@ -4246,7 +4246,7 @@
     "questionNumber": 186,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Jira \"sprints\" in Agile projects?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "monitoring and managing work for a certain period of time"
@@ -4269,7 +4269,7 @@
     "questionNumber": 187,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Jira \"combustion diagram\" used for?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to visualize the amount of work remaining in the sprint"
@@ -4292,7 +4292,7 @@
     "questionNumber": 188,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the Jira \"authorization scheme\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "control whose problems and editing"
@@ -4315,7 +4315,7 @@
     "questionNumber": 189,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Jira \"scoreboard\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "set of predefined reports and tools"
@@ -4338,7 +4338,7 @@
     "questionNumber": 190,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Jira's \"problem Protection Scheme\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to see and control specific problems"
@@ -4361,7 +4361,7 @@
     "questionNumber": 191,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Jira \"filters\" in reports?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to find and display a set of certain problems"
@@ -4384,7 +4384,7 @@
     "questionNumber": 192,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Jira \"speed diagram\" used for in Agile projects?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to visualize the amount of work remaining in the sprint"
@@ -4407,7 +4407,7 @@
     "questionNumber": 193,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"Epic Burning\" mean in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "progress of tasks within Epic over time"
@@ -4430,7 +4430,7 @@
     "questionNumber": 194,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the \"gadget\" on the dashboard in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "predefined reports and set of features"
@@ -4453,7 +4453,7 @@
     "questionNumber": 195,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Jira \"Service Desk\" in terms of reporting?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "track and report customer service inquiries"
@@ -4476,7 +4476,7 @@
     "questionNumber": 196,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the recommended way to manage large projects in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "use a combination of projects and boards"
@@ -4499,7 +4499,7 @@
     "questionNumber": 197,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Jira \"permission assistant\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "for analysis of problems and user permissions"
@@ -4522,7 +4522,7 @@
     "questionNumber": 198,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the advantage of using \"mass transactions\" in Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to automate repetitive tasks"
@@ -4545,7 +4545,7 @@
     "questionNumber": 199,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the meaning of Jira's \"time tracking\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to track the time spent on completing tasks"
@@ -4568,7 +4568,7 @@
     "questionNumber": 200,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Why is it important to constantly update Jira?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to access new features and improvements"
@@ -4591,7 +4591,7 @@
     "questionNumber": 201,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Git?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "version control system"
@@ -4614,7 +4614,7 @@
     "questionNumber": 202,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What command is used to clone a repository from GitHub to your local computer?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "git clone"
@@ -4637,7 +4637,7 @@
     "questionNumber": 203,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the file in Git ?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "for it to track files or folders in git"
@@ -4660,7 +4660,7 @@
     "questionNumber": 204,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What command is used to check the status of your changes in the Git repository?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "git status"
@@ -4683,7 +4683,7 @@
     "questionNumber": 205,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the extract query on GitHub?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to request changes from co-authors"
@@ -4706,7 +4706,7 @@
     "questionNumber": 206,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main purpose of Git?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "collaborate in code development"
@@ -4729,7 +4729,7 @@
     "questionNumber": 207,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which git command is used to create a new branch?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "git branch"
@@ -4752,7 +4752,7 @@
     "questionNumber": 208,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"fork\" mean in the context of GitHub?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to create a duplicate copy of the repository"
@@ -4775,7 +4775,7 @@
     "questionNumber": 209,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" Git pull \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "download changes from remote repository"
@@ -4798,7 +4798,7 @@
     "questionNumber": 210,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the Git command to make intermediate changes before fixing them?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "git add"
@@ -4821,7 +4821,7 @@
     "questionNumber": 211,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which git command is used to view the history of repository liabilities?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "git log"
@@ -4844,7 +4844,7 @@
     "questionNumber": 212,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the Git combination?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "combining changes from different branches"
@@ -4867,7 +4867,7 @@
     "questionNumber": 213,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"repository\" refer to in Git?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "container for project files and version date"
@@ -4890,7 +4890,7 @@
     "questionNumber": 214,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" Git push \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "sync local changes to remote repository"
@@ -4913,7 +4913,7 @@
     "questionNumber": 215,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How to undo changes to Your Work folder and return to the last fixation?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "reset git"
@@ -4936,7 +4936,7 @@
     "questionNumber": 216,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the goal of the\" Git branch-d \" team?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "remove the branch"
@@ -4959,7 +4959,7 @@
     "questionNumber": 217,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which git command is used to indicate changes between two obligations?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "git difference"
@@ -4982,7 +4982,7 @@
     "questionNumber": 218,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" Git remote \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "List all deleted repositories"
@@ -5005,7 +5005,7 @@
     "questionNumber": 219,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which git command is used to create a new repository?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "git init"
@@ -5028,7 +5028,7 @@
     "questionNumber": 220,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" Git fetch \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "download changes from remote repository"
@@ -5051,7 +5051,7 @@
     "questionNumber": 221,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which git command is used to rename the file?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Git rename"
@@ -5074,7 +5074,7 @@
     "questionNumber": 222,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"extract query\" mean on GitHub?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to demand changes from employees"
@@ -5097,7 +5097,7 @@
     "questionNumber": 223,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" go cherry-pick \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "apply changes from one branch to another"
@@ -5120,7 +5120,7 @@
     "questionNumber": 224,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" Git log \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "show history of repository liabilities"
@@ -5143,7 +5143,7 @@
     "questionNumber": 225,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" Git tag \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "marking the dots in the git story as important"
@@ -5166,7 +5166,7 @@
     "questionNumber": 226,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"Git repository\" mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "container for project files and version date"
@@ -5189,7 +5189,7 @@
     "questionNumber": 227,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you check which git branch you are currently in?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "git status"
@@ -5212,7 +5212,7 @@
     "questionNumber": 228,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"Git pull\" mean?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "downloads changes from remote repository"
@@ -5235,7 +5235,7 @@
     "questionNumber": 229,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"Origin\" generally refer to in Git",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "remote repository where the project was created"
@@ -5258,7 +5258,7 @@
     "questionNumber": 230,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" git rebase \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to rewrite the history of obligations"
@@ -5281,7 +5281,7 @@
     "questionNumber": 231,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the\" Git stash \" command?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to temporarily save changes without stabilizing"
@@ -5304,7 +5304,7 @@
     "questionNumber": 232,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is Figma mainly used for?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Graphic Design"
@@ -5327,7 +5327,7 @@
     "questionNumber": 233,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What tool is used to draw shapes, lines and contours in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "tool\"pencil\""
@@ -5350,7 +5350,7 @@
     "questionNumber": 234,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the \"Layers\" panel for in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "managing design elements and organizing them"
@@ -5373,7 +5373,7 @@
     "questionNumber": 235,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can multiple users collaborate in real time on a Figma design file?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "using the\" share \" function and providing access"
@@ -5396,7 +5396,7 @@
     "questionNumber": 236,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the Figma function called for creating interactive prototypes?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "prototype mode"
@@ -5419,7 +5419,7 @@
     "questionNumber": 237,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the mounting panel in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "virtual canvas for organizing design elements"
@@ -5442,7 +5442,7 @@
     "questionNumber": 238,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of Figma components?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "create consistent design elements"
@@ -5465,7 +5465,7 @@
     "questionNumber": 239,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What can you achieve with Figma plugins?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "add additional design elements and functionality"
@@ -5488,7 +5488,7 @@
     "questionNumber": 240,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What keyboard shortcut is used in Figma to duplicate the selected layer or group?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Cmd + C, Cmd + V"
@@ -5511,7 +5511,7 @@
     "questionNumber": 241,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you export Figma design to different file formats?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "all of the above"
@@ -5534,7 +5534,7 @@
     "questionNumber": 242,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of restrictions in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to determine how design elements react to a change in screen size"
@@ -5557,7 +5557,7 @@
     "questionNumber": 243,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you enable layout grid in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "use the\" View \"menu and select\" Network"
@@ -5580,7 +5580,7 @@
     "questionNumber": 244,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"line height\" refer to in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "interval between lines of text"
@@ -5603,7 +5603,7 @@
     "questionNumber": 245,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you view the version history of a Figma file?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Use the\" File \"menu and select\" Version History"
@@ -5626,7 +5626,7 @@
     "questionNumber": 246,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the presentation mode in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "displaying the design in full screen mode"
@@ -5649,7 +5649,7 @@
     "questionNumber": 247,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the advantage of using color styles in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "creating reusable color palettes"
@@ -5672,7 +5672,7 @@
     "questionNumber": 248,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you create a mask in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "select the layers to be masked, right-click and select \" highlighted mask"
@@ -5695,7 +5695,7 @@
     "questionNumber": 249,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What allows logical operations in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "merge or remove shapes"
@@ -5718,7 +5718,7 @@
     "questionNumber": 250,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of automatic tuning in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "change the size of the layers proportionally"
@@ -5741,7 +5741,7 @@
     "questionNumber": 251,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which of the following restrictions is acceptable in Figma?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "all"
@@ -5764,7 +5764,7 @@
     "questionNumber": 252,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the main programming language supported by Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "C#"
@@ -5787,7 +5787,7 @@
     "questionNumber": 253,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What version control systems does Visual Studio integrate with?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "all"
@@ -5810,7 +5810,7 @@
     "questionNumber": 254,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the default file extension for the Visual Studio solution?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": ".sln"
@@ -5833,7 +5833,7 @@
     "questionNumber": 255,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What window in Visual Studio allows you to manage links and packages for the project?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Package Manager Console"
@@ -5856,7 +5856,7 @@
     "questionNumber": 256,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the Immediate window in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to execute commands during debug"
@@ -5879,7 +5879,7 @@
     "questionNumber": 257,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What key combination is used to start debugging in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "F5"
@@ -5902,7 +5902,7 @@
     "questionNumber": 258,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is IntelliSense in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "completion of code and recommendations"
@@ -5925,7 +5925,7 @@
     "questionNumber": 259,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you add a new class to a project in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "right click on the project, select Add > new class"
@@ -5948,7 +5948,7 @@
     "questionNumber": 260,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What tool is used to profile and analyze performance in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Performance Explorer"
@@ -5971,7 +5971,7 @@
     "questionNumber": 272,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you check if two variables are equal in value and type?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "x = = y"
@@ -5994,7 +5994,7 @@
     "questionNumber": 273,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the correct syntax for multiline interpretation in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "\"'comment\""
@@ -6017,7 +6017,7 @@
     "questionNumber": 274,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the range () function return in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "intermediate"
@@ -6040,7 +6040,7 @@
     "questionNumber": 275,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How to convert a string to lowercase in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "str.lower()"
@@ -6063,7 +6063,7 @@
     "questionNumber": 276,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the module (%) operator in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "residue in Section"
@@ -6086,7 +6086,7 @@
     "questionNumber": 277,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What keyword is used to exit the loop prematurely in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "break"
@@ -6109,7 +6109,7 @@
     "questionNumber": 278,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result of 2 ** 3 in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "8"
@@ -6132,7 +6132,7 @@
     "questionNumber": 279,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you check a variable type in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "type()"
@@ -6155,7 +6155,7 @@
     "questionNumber": 280,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the append() method in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "add item to list"
@@ -6178,7 +6178,7 @@
     "questionNumber": 281,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the Continue operator do in a loop in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "it skips the rest of the code"
@@ -6201,7 +6201,7 @@
     "questionNumber": 282,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do I remove the last item from a list in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "list.pop()"
@@ -6224,7 +6224,7 @@
     "questionNumber": 283,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the strip() method in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "remove the start and end spaces from the line"
@@ -6247,7 +6247,7 @@
     "questionNumber": 284,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you check string length in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "len()"
@@ -6270,7 +6270,7 @@
     "questionNumber": 285,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which operator is used to upgrade to force in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "**"
@@ -6293,7 +6293,7 @@
     "questionNumber": 286,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you check if a number is an even number in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Number % 2= = 0"
@@ -6316,7 +6316,7 @@
     "questionNumber": 287,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the sorted() function in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Sorting by list or tuple"
@@ -6339,7 +6339,7 @@
     "questionNumber": 288,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the map() function in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "apply function for each element in iterable"
@@ -6362,7 +6362,7 @@
     "questionNumber": 289,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How to close a file after opening Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "file.close()"
@@ -6385,7 +6385,7 @@
     "questionNumber": 290,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the elif keyword in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "represents\" else if \" and is used for multiple conditions"
@@ -6408,7 +6408,7 @@
     "questionNumber": 291,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is an exponential operator in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "**"
@@ -6431,7 +6431,7 @@
     "questionNumber": 292,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which operator is used for integer partitioning in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "//"
@@ -6454,7 +6454,7 @@
     "questionNumber": 293,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the % operator do in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "calculation by module (balance)"
@@ -6477,7 +6477,7 @@
     "questionNumber": 294,
     "questionUp": "Choose the correct variant.",
     "questionDown": "If two values are not equal in Python, how do you compare?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "!="
@@ -6500,7 +6500,7 @@
     "questionNumber": 295,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result 5 + 3 * 2 in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "13"
@@ -6523,7 +6523,7 @@
     "questionNumber": 296,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What operator is used to concatenate strings in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "+"
@@ -6546,7 +6546,7 @@
     "questionNumber": 297,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is a 10/3 result in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "3.33"
@@ -6569,7 +6569,7 @@
     "questionNumber": 298,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result of 5 ** 2 in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "25"
@@ -6592,7 +6592,7 @@
     "questionNumber": 299,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which operator is used for a greater or equal value in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": ">="
@@ -6615,7 +6615,7 @@
     "questionNumber": 300,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the / / operator do in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "full section"
@@ -6638,7 +6638,7 @@
     "questionNumber": 301,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result of 15% 4 in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "1"
@@ -6661,7 +6661,7 @@
     "questionNumber": 302,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is a 12/5 result in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "2.5"
@@ -6684,7 +6684,7 @@
     "questionNumber": 401,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the toolbar in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "providing a list of available controls"
@@ -6707,7 +6707,7 @@
     "questionNumber": 402,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What file configuration options does a Visual Studio project contain?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "app.config"
@@ -6730,7 +6730,7 @@
     "questionNumber": 403,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the standard layout for Visual Studio IDE?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "default layout"
@@ -6753,7 +6753,7 @@
     "questionNumber": 404,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you change the name of a variable in an entire project in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Refactoring > rename"
@@ -6776,7 +6776,7 @@
     "questionNumber": 405,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which window allows you to see and manage breakpoints in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "breakpoint"
@@ -6799,7 +6799,7 @@
     "questionNumber": 406,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the error List window in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "to display alerts and messages"
@@ -6822,7 +6822,7 @@
     "questionNumber": 407,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you navigate to a specific line of code in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Ctrl + G"
@@ -6845,7 +6845,7 @@
     "questionNumber": 408,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which project template is suitable for creating a window Forms application?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "windowapplication (. Net Framework)"
@@ -6868,7 +6868,7 @@
     "questionNumber": 409,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of the task list window in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "for task management during project development"
@@ -6891,7 +6891,7 @@
     "questionNumber": 410,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How can you customize the Jaric build link in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Project > link"
@@ -6914,7 +6914,7 @@
     "questionNumber": 411,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What key combination is used to interpret or not interpret a block of code in Visual Studio?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Ctrl + /"
@@ -6937,7 +6937,7 @@
     "questionNumber": 412,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which Variable is correct?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Hello"
@@ -6960,7 +6960,7 @@
     "questionNumber": 413,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which Variable is correct?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Number4"
@@ -6983,7 +6983,7 @@
     "questionNumber": 414,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which Variable is correct?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Apple4"
@@ -7006,7 +7006,7 @@
     "questionNumber": 415,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which Variable is correct?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Banana7"
@@ -7029,7 +7029,7 @@
     "questionNumber": 416,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which variable is correct?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Little5"
@@ -7052,7 +7052,7 @@
     "questionNumber": 417,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which Variable is correct?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Nice3"
@@ -7075,7 +7075,7 @@
     "questionNumber": 418,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which Variable is correct?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Butterfly6"
@@ -7098,7 +7098,7 @@
     "questionNumber": 419,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which variable is wrong?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "5ball"
@@ -7121,7 +7121,7 @@
     "questionNumber": 420,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which variable is wrong?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "2variable"
@@ -7144,7 +7144,7 @@
     "questionNumber": 421,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which variable is wrong?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "5flower"
@@ -7167,7 +7167,7 @@
     "questionNumber": 422,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What are the basic data types used in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "All"
@@ -7190,7 +7190,7 @@
     "questionNumber": 423,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How to write a conditional expression in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "if x == 5:"
@@ -7213,7 +7213,7 @@
     "questionNumber": 424,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How many times does a while loop run in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Depending on the specified condition"
@@ -7236,7 +7236,7 @@
     "questionNumber": 425,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How to define a function in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "def my_function():"
@@ -7259,7 +7259,7 @@
     "questionNumber": 426,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which command is used to import a module in Python?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "import"
@@ -7282,7 +7282,7 @@
     "questionNumber": 501,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the first step in the information process?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Collection"
@@ -7305,7 +7305,7 @@
     "questionNumber": 502,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In information processing, what does \"data input\" refer to?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Capturing raw data for processing"
@@ -7328,7 +7328,7 @@
     "questionNumber": 503,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the primary purpose of data storage in an information process?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Preserving data for future use"
@@ -7351,7 +7351,7 @@
     "questionNumber": 504,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the term \"data processing\" mean in the context of information systems?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Converting raw data into meaningful information"
@@ -7374,7 +7374,7 @@
     "questionNumber": 505,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What role does \"information distribution\" play in the information process?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Delivering processed information to end users"
@@ -7397,7 +7397,7 @@
     "questionNumber": 506,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the goal of the \"analysis\" step in information processing?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Identifying trends and insights from data"
@@ -7420,7 +7420,7 @@
     "questionNumber": 507,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the purpose of feedback in an information process?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "To improve system efficiency and accuracy"
@@ -7443,7 +7443,7 @@
     "questionNumber": 508,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does \"data retrieval\" involve in an information system?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Accessing stored data for further use"
@@ -7466,7 +7466,7 @@
     "questionNumber": 509,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which of the following best describes an \"information system\"?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "A set of components for collecting, processing, and distributing information"
@@ -7489,7 +7489,7 @@
     "questionNumber": 510,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does \"data validation\" ensure in information processes?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Accuracy and quality of data being processed"
@@ -7512,7 +7512,7 @@
     "questionNumber": 511,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is an example of data transformation in information processes?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Converting raw numbers into graphs and reports"
@@ -7535,7 +7535,7 @@
     "questionNumber": 512,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the significance of metadata in information processes?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Providing information about other data"
@@ -7558,7 +7558,7 @@
     "questionNumber": 513,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the primary output of an information process?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Meaningful information for decision-making"
@@ -7581,7 +7581,7 @@
     "questionNumber": 514,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which phase ensures data security within an information process?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Encryption"
@@ -7604,7 +7604,7 @@
     "questionNumber": 515,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does \"real-time processing\" mean in information systems?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Processing data immediately as it is received"
@@ -7627,7 +7627,7 @@
     "questionNumber": 601,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How does information technology benefit education?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Enhances learning through digital tools and resources"
@@ -7650,7 +7650,7 @@
     "questionNumber": 602,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is one common application of IT in engineering?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Computer-aided design (CAD) for creating models"
@@ -7673,7 +7673,7 @@
     "questionNumber": 603,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How is IT utilized in medicine?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Managing patient records and diagnostics electronically"
@@ -7696,7 +7696,7 @@
     "questionNumber": 604,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is one benefit of IT in project management?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Facilitates real-time collaboration and task tracking"
@@ -7719,7 +7719,7 @@
     "questionNumber": 605,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is an example of IT improving access to education?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Online learning platforms and virtual classrooms"
@@ -7742,7 +7742,7 @@
     "questionNumber": 606,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What role does IT play in modern engineering design?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Automating and optimizing design processes"
@@ -7765,7 +7765,7 @@
     "questionNumber": 607,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How does IT support diagnosis in healthcare?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Using medical imaging and AI-based diagnostics"
@@ -7788,7 +7788,7 @@
     "questionNumber": 608,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is a key feature of project management software?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Centralized task management and scheduling"
@@ -7811,7 +7811,7 @@
     "questionNumber": 609,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is one way IT makes education more inclusive?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Enabling personalized learning for diverse needs"
@@ -7834,7 +7834,7 @@
     "questionNumber": 610,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does IT enable in engineering simulations?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Testing models under realistic conditions digitally"
@@ -7857,7 +7857,7 @@
     "questionNumber": 611,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the benefit of telemedicine in healthcare?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Providing remote consultation and care to patients"
@@ -7880,7 +7880,7 @@
     "questionNumber": 612,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is an advantage of IT in project risk management?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Identifying and mitigating risks using data analytics"
@@ -7903,7 +7903,7 @@
     "questionNumber": 613,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How does IT assist in delivering medical education?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Through virtual simulations and online training platforms"
@@ -7926,7 +7926,7 @@
     "questionNumber": 614,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the primary advantage of IT in construction project management?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Enhancing communication between teams and stakeholders"
@@ -7949,7 +7949,7 @@
     "questionNumber": 615,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the impact of IT in education analytics?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Identifying student performance trends using data"

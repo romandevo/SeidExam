@@ -3,7 +3,7 @@
     "questionNumber": 1,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Müəyyən bir nəticəyə, məqsədə çatmağa, müəyyən edilmiş mənbələr və müddətlərə, unikal məhsul və ya xidmət yaratmağa yönəlmiş bir fəaliyyətdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Layihə" },
       { "B": "Ekologiya" },
@@ -16,7 +16,7 @@
     "questionNumber": 2,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Layihənin təqdimatında vacib elementlərdən biri deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Layihənin planlaşdırılması" },
       { "B": "Layihənin məzmunu" },
@@ -29,7 +29,7 @@
     "questionNumber": 3,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Layihə təqdimatında ən vacib neçə element olmalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "9" },
       { "B": "7" },
@@ -42,7 +42,7 @@
     "questionNumber": 4,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Layihə təqdimatı ümumi qəbul edilmiş formasına görə hansı proqramda hazırlanmalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Power Point" },
       { "B": "Paint" },
@@ -55,7 +55,7 @@
     "questionNumber": 5,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təqdimat nitqinin prinsipləri sırasına daxil deyil",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Aktuallıq prinsipi" },
       { "B": "Kəskinlik prinsipi" },
@@ -68,7 +68,7 @@
     "questionNumber": 6,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təqdimat nitqinin neçə prinsipi var?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5" },
       { "B": "4" },
@@ -81,7 +81,7 @@
     "questionNumber": 7,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təqdimatın bütün mikrotemləri əsas mövzuya tabe olmalıdır. Bu təqdimat nitqinin hansı prinsipidir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ardıcıllıq" },
       { "B": "Diqqət" },
@@ -94,7 +94,7 @@
     "questionNumber": 8,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təqdimatda tamaşaçılar tərəfindən təklif olunan bir nəticə, hərəkətə çağırış və tövsiyyələr olmalıdır. Deyilən fikir təqdimat nitqinin hansı prinsipinə aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Effektivlik" },
       { "B": "Gücləndirmə" },
@@ -107,7 +107,7 @@
     "questionNumber": 9,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təqdimata diqqəti artırmaq üçün neçə üsuldan istifadə olunur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "6" },
       { "B": "7" },
@@ -120,7 +120,7 @@
     "questionNumber": 10,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təqdimatda vacib və ya maraqlı bir fikri və detalların mesajını gecikdirmək nə deməkdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Avans" },
       { "B": "Ödəniş" },
@@ -133,7 +133,7 @@
     "questionNumber": 11,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı fikir səhvdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Təqdimatda yumor istifadəsi yalnışdır." },
       { "B": "Monoton duyğusuz bir təqdimat diqqəti cəlb etmir." },
@@ -146,7 +146,7 @@
     "questionNumber": 12,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tövsiyə olunan təqdimatın həcmi nə qədər olmalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "10 slayd" },
       { "B": "20 slayd" },
@@ -159,7 +159,7 @@
     "questionNumber": 13,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Uyğunluğu tamamlayın. Bir fikir = bir slayd Bir slayd = ?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1 dəqiqə" },
       { "B": "5 dəqiqə" },
@@ -172,7 +172,7 @@
     "questionNumber": 14,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "E-poçtun üstünlüklərinə aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Məktubun surətlərini bir neçə alıcıya dərhal göndərə bilmək" },
       { "B": "Elektron poçt mesajının bir kağız sənədindən az rəsmi olması" },
@@ -189,7 +189,7 @@
     "questionNumber": 15,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bir çox şirkətdə e-poçtun işlənməsi üçün vahid korporativ standart mövcuddur. Bu necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Elektron dizayn" },
       { "B": "Elektron poçt" },
@@ -202,7 +202,7 @@
     "questionNumber": 16,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Sadalananlardan hansı elektron poçtun quruluşuna daxil deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Aktuallıq" },
       { "B": "Başlıq" },
@@ -215,7 +215,7 @@
     "questionNumber": 17,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elektron poçtun quruluşu üzrə sıranı tamamla Mövzu-Başlıq-Müraciət - ?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Məqsəd" },
       { "B": "Vida" },
@@ -228,7 +228,7 @@
     "questionNumber": 18,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı sahə doldurulmazsa məktub spam kimi qəbul edilə bilər?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Mövzu" },
       { "B": "Ünvan" },
@@ -241,7 +241,7 @@
     "questionNumber": 19,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bir məktub eyni anda bir neçə alıcıya göndərilərsə, ünvanlar arasında hansı durğu işarəsi qoyulmalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Vergül" },
       { "B": "Nöqtə" },
@@ -254,7 +254,7 @@
     "questionNumber": 20,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İlk elektron poçtun göndərilməsi nə zaman həyata keçirilmişdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1971-ci ildə" },
       { "B": "1951-ci ildə" },
@@ -267,7 +267,7 @@
     "questionNumber": 21,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İlk elektron poçtun göndərilməsi hansı işlərlə bağlı həyata keçirilmişdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hərbi" },
       { "B": "Siyasi" },
@@ -280,7 +280,7 @@
     "questionNumber": 22,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İlk e-mailimdə nə yazdığımı mən də xatırlamıram. Yalnız aralarında bir metr məsafə ola iki kompüter arasında həyata keçirilən fayl transferi idi. Bu fikirlər kimə məxsusdur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "R. Tomlinson" },
       { "B": "D. Counz" },
@@ -293,7 +293,7 @@
     "questionNumber": 23,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məktubun göndərildiyi ünvanla abonentin adını ayıran nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "@" },
       { "B": "&" },
@@ -306,7 +306,7 @@
     "questionNumber": 24,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Serverin məktubu köçürəcəyi şəxsi kataloq nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Abonent" },
       { "B": "SMTP" },
@@ -319,7 +319,7 @@
     "questionNumber": 25,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elektron imza ilə bağlı deyilənlərdən hansı doğru deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Həmişə eyni imza istifadə etməyə bilərsiniz" },
       { "B": "Elektron imza 5-6 sətirdən çox olmamalıdır" },
@@ -332,7 +332,7 @@
     "questionNumber": 26,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elektron imza neçə sətirdən çox olmamalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5-6" },
       { "B": "4-5" },
@@ -345,7 +345,7 @@
     "questionNumber": 27,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dəstin ümumi qaydalarına daxil deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Elektron rabitəni hər iki tərəf tamamlaya bilər" },
       { "B": "Məktubda həmişə mövzunu göstərmək vacibdir" },
@@ -360,7 +360,7 @@
     "questionNumber": 28,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bunlardan hansı poçt serveri deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "SAFARİ" },
       { "B": "YAHOO" },
@@ -373,7 +373,7 @@
     "questionNumber": 29,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elektron ünvanla işləyərkən istifadə olunan protokollar hansılardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "SMTP və POP3" },
       { "B": "MAİL.RU" },
@@ -386,7 +386,7 @@
     "questionNumber": 30,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elektron poçtu doldurarkən mütləq doldurulmalı olan sahələrdın biridir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Kimə" },
       { "B": "Vida" },
@@ -399,7 +399,7 @@
     "questionNumber": 31,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elektron imza tərtibi ilə bağlı uyğunluğu tamamlayın: Sətir-ən çox 5,6 İşarə sayı-ən çox ?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "70" },
       { "B": "120" },
@@ -412,7 +412,7 @@
     "questionNumber": 32,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Monoloji nitq nə deməkdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Fikrin bir nəfər tərəfindən geniş və ya müxtəsər ifadəsi" },
       { "B": "İki və daha artlq şəxsin bir-biri ilə müzakirəsi" },
@@ -425,7 +425,7 @@
     "questionNumber": 33,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Mikrodialoq nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bir necə nəfərin qısa mükaliməsi" },
       { "B": "Tək şəxsin monoloqu" },
@@ -438,7 +438,7 @@
     "questionNumber": 34,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Makrodialoq nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bütövlükdə bədii əsərlərin qurluşunu əhatə edir" },
       { "B": "Ayrı-ayrı kiçik həcmli əsərləri əhatə edir" },
@@ -451,7 +451,7 @@
     "questionNumber": 35,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Yazılı və şifahi ədəbi dil arasındakı fərqli cəhətlərdən biri səhv verilmişdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Yazılı ədəbi dil müəyyən vasitə olmadan fikri gələcək nəslə çatdıra bilmir, şifahi ədəbi dil isə bu funksiyanı yerinə yetirə bilir."
@@ -474,7 +474,7 @@
     "questionNumber": 36,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Quruluş sxeminə görə monoloji nitqin növlərindən biri səhv verilmişdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Mütaliə" },
       { "B": "Çıxış" },
@@ -487,7 +487,7 @@
     "questionNumber": 37,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Kommunikasiya prosesinin hansı formaları var?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Yazılı və şifahi" },
       { "B": "İctimai-siyasi" },
@@ -500,7 +500,7 @@
     "questionNumber": 38,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri monoloji nitqin forması deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Funksional" },
       { "B": "Təsviri" },
@@ -513,7 +513,7 @@
     "questionNumber": 39,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Professorun auditoriyada oxuduğu mühazirə nitqin hansı növünə aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Şifahi" },
       { "B": "Bədii" },
@@ -526,7 +526,7 @@
     "questionNumber": 40,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri dialoji nitqin forması deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Xarici və daxili dialoq" },
       { "B": "Monoloji dialoq" },
@@ -539,7 +539,7 @@
     "questionNumber": 41,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Mühazirə natiqliyin hansı təzahür formalarından biridir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Akademik natiqlik" },
       { "B": "Məhkəmə natiqliyi" },
@@ -552,7 +552,7 @@
     "questionNumber": 42,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məruzə deyiləndə nə başa düşülür?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bir mövzu haqqında əvvəldən hazırlanıb söylənilən nitq" },
       { "B": "İnsanın öz-özünə fikirləşməsi, danışması prosesi" },
@@ -565,7 +565,7 @@
     "questionNumber": 43,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Daxili nitq nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Tələffüz edilməyən, səssiz nitq" },
       { "B": "Rəsmi və ictimai tədbirlərdə söylənən nitq" },
@@ -578,7 +578,7 @@
     "questionNumber": 44,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aktiv nitq nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Kommunikatorun nitqi" },
       { "B": "Dinləyicinin nitqi" },
@@ -591,7 +591,7 @@
     "questionNumber": 45,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təşkil olunmamış, bədahətən söylənən nitq necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Spontan" },
       { "B": "İnterpretasiya" },
@@ -604,7 +604,7 @@
     "questionNumber": 46,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Passiv nitq hansıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Dinləyicinin nitqi" },
       { "B": "Söyləyicinin nitqi" },
@@ -617,7 +617,7 @@
     "questionNumber": 47,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Spontan nitq nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bədahətən söylənən nitq" },
       { "B": "Təşkil olunmuş nitq" },
@@ -630,7 +630,7 @@
     "questionNumber": 48,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Yazının başlıca xüsusiyyəti hansıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Qalıcı və sənəd xarakterli olması" },
       { "B": "Nitqin inkişafını artırması" },
@@ -643,7 +643,7 @@
     "questionNumber": 49,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Şifahi nitqin ifadə vasitələri hansılardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Səs və söz" },
       { "B": "Hərf və yazı" },
@@ -656,7 +656,7 @@
     "questionNumber": 50,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Yazılı nitqin ifadə vasitələri hansılardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hərf və yazı" },
       { "B": "Natiqin çıxışı" },
@@ -669,7 +669,7 @@
     "questionNumber": 51,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Akademik nitqin növləri hansılardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Monoloji və dialoji" },
       { "B": "Məişət-ədəbi" },
@@ -682,7 +682,7 @@
     "questionNumber": 52,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dialoji nitqin neçə forması var?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5" },
       { "B": "3" },
@@ -695,7 +695,7 @@
     "questionNumber": 53,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tələb olunan sözlərin, ifadələrin cümlədə məntiq, məna və məzmun baxımdan yerində işlənməsi kommunikasiyada nitqə verilən hansı tələbdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Dəqiqlik" },
       { "B": "Düzgünlük" },
@@ -708,7 +708,7 @@
     "questionNumber": 54,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Fonetik, leksik, qrammatik qayda-qanunlara əməl olunması nitqə verilən hansı tələbdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Düzgünlük" },
       { "B": "Münasiblik" },
@@ -721,7 +721,7 @@
     "questionNumber": 55,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqin zənginliyinin başlıca meyarı nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Geniş söz ehtiyatına malik olmaq" },
       { "B": "Düzgün yazı qaydası" },
@@ -734,7 +734,7 @@
     "questionNumber": 56,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqin uyğun, uğurlu, effektli, yardıcı olması kommunikasiyada nitqə verilən hansı tələbdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İfadəlilik" },
       { "B": "Təmizlik" },
@@ -747,7 +747,7 @@
     "questionNumber": 57,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqin orijinallığı necə başa düşülməlidir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin özünəməxsusluğu" },
       { "B": "Nitqin elmiliyi" },
@@ -760,7 +760,7 @@
     "questionNumber": 58,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri nitqin təmizliyinə aid edilə bilməz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Danışılacaq materialı əvvəlcədən hazırlamaq" },
       { "B": "Məhəlli sözlərə, şivələrə yol verməmək" },
@@ -773,7 +773,7 @@
     "questionNumber": 59,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı mədəni nitqin tələbi deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Dialekt və loru sözlərdən istifadə etmək" },
       { "B": "Nitqdə əcnəbi sözlərə yol verməmək" },
@@ -786,7 +786,7 @@
     "questionNumber": 60,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqin ifadəliliyini yaradan vasitələr hansılardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Zərbi-məsələlər, aforizmlər" },
       { "B": "Kütləvi informasiya vasitələri" },
@@ -799,7 +799,7 @@
     "questionNumber": 61,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri nitqin zənginliyini təmin edən amil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sadəlik" },
       { "B": "Sinonimlik" },
@@ -812,7 +812,7 @@
     "questionNumber": 62,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bədii üslubda kobud səslənsə də, fikri daha aydın ifadə etmək məqsədilə məcazi mənada işlədilən bəsit və adi danışıq söz və ifadələri necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Loru sözlər" },
       { "B": "Jarqonlar" },
@@ -825,7 +825,7 @@
     "questionNumber": 63,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Fikrin ifadəsi zamanı lazımi söz tapmadıqda işlədilən, adını sən de, canım sənə desin, zaddı, adı nədir, şeydir və s., mətnlə əlaqəsi olmayan yersiz söz və ifadələr necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Tüfeyli sözlər" },
       { "B": "Dədə-baba sözlər" },
@@ -838,7 +838,7 @@
     "questionNumber": 64,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqdə qaba, kobud və qeyri-ədəbi, söyüş səciyyəli sözlər nə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Vulqar sözlər" },
       { "B": "Alınma sözlər" },
@@ -851,7 +851,7 @@
     "questionNumber": 65,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Müəyyən ərazi ilə hüdudlanmış yerli əhalinin ümumxalq dili nə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Dialekt sözlər" },
       { "B": "Loru sözlər" },
@@ -864,7 +864,7 @@
     "questionNumber": 66,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqin münasibliyini şərtləndirən amillər içərisində aşağıdakılardan biri səhvdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Dialekt və jarqonların cümlədə istifadəsi" },
       { "B": "Mövzunun məzmununa uyğun dil materialının seçilməsi" },
@@ -881,7 +881,7 @@
     "questionNumber": 67,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Müəyyən təbəqənin və ya məhdud bir qrupun işlətdiyi, öz aralarında danışığın mahiyyətini digərlərindən gizli saxladıqları, başqalarının başa düşmədiyi şərti söz və ya ifadələr nə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Arqo" },
       { "B": "Jarqon" },
@@ -894,7 +894,7 @@
     "questionNumber": 68,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tabu və evfemizmlərdən nə zaman istifadə olunur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqdə münasiblik yaratmaq üçün" },
       { "B": "Nitqdə zənginlik yaratmaq üçün" },
@@ -907,7 +907,7 @@
     "questionNumber": 69,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı nitqdə jest və mimikadan daha çox istifadə olunur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Şifahi nitqdə" },
       { "B": "Yazılı nitqdə" },
@@ -920,7 +920,7 @@
     "questionNumber": 70,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Daxili nitq nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Tələffüz olunmayan səssiz nitqdir" },
       { "B": "Səsli nitqdir" },
@@ -933,7 +933,7 @@
     "questionNumber": 71,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Yanlış fikri seçin:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Üslubiyyatın ritorika ilə heç bir əlaqəsi yoxdur" },
       { "B": "Nitq fərdi-psixi, dil isə ictimai hadisədir" },
@@ -946,7 +946,7 @@
     "questionNumber": 72,
     "questionUp": "Verilmiş mətn əməli yazının hansı növünə aiddir?",
     "questionDown": "Mən, Filoloji fakültənin IV kurs tələbəsi Qasımova Gülnar Əli qızı, rəfiqəm Əliyeva Sona İslam qızından oxumaq üçün “Dəli Kür” əsərini aldım.",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Qəbz" },
       { "B": "Fərman" },
@@ -959,7 +959,7 @@
     "questionNumber": 73,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri rəsmi üslubun qədim növünün adıdır:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Fərman" },
       { "B": "Xasiyyətnamə" },
@@ -972,7 +972,7 @@
     "questionNumber": 74,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bir məlumatı müzakirə etdikdən sonra müəyyən nəticəyə gəlmək, qərar vermək əməli yazının hansı növünə aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Fərman" },
       { "B": "Arayış" },
@@ -985,7 +985,7 @@
     "questionNumber": 75,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Әrizә yazarkәn lazım olan qaydalardan biri sәhvdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ərizәyә möhür vurulmalıdır" },
       { "B": "Әrizәnin mәzmunu qısa, faktlar isә konkret olmalıdır" },
@@ -1002,7 +1002,7 @@
     "questionNumber": 76,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Fərman haqqındakı fikirlərdən biri səhvdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Yerli icra orqanlarının təsdiq etdiyi sənəd" },
       { "B": "Prezidentin öz səlahiyyətləri daxilində qəbul etdiyi akt" },
@@ -1015,7 +1015,7 @@
     "questionNumber": 77,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Fərman hansı üslubun növü hesab olunur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Rəsmi" },
       { "B": "Məişət" },
@@ -1028,7 +1028,7 @@
     "questionNumber": 78,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Fərman sözü farsca hansı mənanı daşıyır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "“Buyurmaq, əmr etmək”" },
       { "B": "“Soz vermək, yaratmaq”" },
@@ -1041,7 +1041,7 @@
     "questionNumber": 79,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Fərmanın strukturuna aşağıdakılardan biri aid deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nazirlər kabinetinin qərarı" },
       { "B": "Dövlətin gerbi, sənəd növünün adı" },
@@ -1054,7 +1054,7 @@
     "questionNumber": 80,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycanın birinci Konstitusiyası Ümumazərbaycan Sovetlər qurultayında nə zaman qəbul edilmişdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1921-ci il mayın 19-da" },
       { "B": "1925-ci il martın 19-da" },
@@ -1067,7 +1067,7 @@
     "questionNumber": 81,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycan Respublikasının Konstitusiya Günü hansı tarixdə qeyd olunur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "12 noyabr" },
       { "B": "8 noyabr" },
@@ -1080,7 +1080,7 @@
     "questionNumber": 82,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycanın yeni Konstitusiyası neçə bölmə, neçə fəsil və neçə maddədən ibrətdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5 bölmə, 12 fəsil və 158 maddədən" },
       { "B": "8 bölmə, 16 fəsil və 158 maddədən" },
@@ -1093,7 +1093,7 @@
     "questionNumber": 83,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycan Respublikasının Konstitusiya günü hansı tarixdə və kimin sərəncamı ilə təsdiq edildi?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1996-cı il fevralın 6-da Ulu Öndər Heydər Əliyev tərəfindən" },
       { "B": "1998-ci il noyabrın 12-də Nazirlər Kabineti tərəfindən" },
@@ -1106,7 +1106,7 @@
     "questionNumber": 84,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Rəsmi dövlət sənədləri hansılardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Konstitusiya, fərman, sərəncam, qanun" },
       { "B": "Müqavilə, saziş, ərizə, bildiriş" },
@@ -1119,7 +1119,7 @@
     "questionNumber": 85,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məzmununa görə müqavilənin hansı növləri var?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sülh, əmək, ticarət" },
       { "B": "Geniş, saziş, əmr" },
@@ -1132,7 +1132,7 @@
     "questionNumber": 86,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "..., əsasən, idarə, təşkilat və müəssisələrdə qəbahət edənə həmin qəbahəti bir daha təkrar etməməsi üçün verilən yazılı və şifahi göstəriş deməkdir.",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Xəbərdarlıq" },
       { "B": "Ərizə" },
@@ -1145,7 +1145,7 @@
     "questionNumber": 87,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bu ifadələrdən birini ərizəyə dərkənar kimi vermək olmaz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Fikirləşilsin" },
       { "B": "Müzakirə edilsin" },
@@ -1158,7 +1158,7 @@
     "questionNumber": 88,
     "questionUp": "Azəriqazbank əhalinin nəzərinə çatdırır ki, əmanətlərə verilən orta illik gəlir 10 faizdən 30 faizə qaldırılmışdır. Azəriqazbank.",
     "questionDown": "Verilmiş nümunənin hansı əməli yazı növünə aid olduğunu göstərin:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bildiriş" },
       { "B": "Elan" },
@@ -1171,7 +1171,7 @@
     "questionNumber": 89,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Rəsmi sənədlərin xüsusiyyətlərinə aid deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Fikrin ikimənalılığı" },
       { "B": "Dilin maksimum mükəmməlliyi" },
@@ -1184,7 +1184,7 @@
     "questionNumber": 90,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Konstitusiya sözünün hərfi mənası nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "“Qurmaq, yaratmaq, əsasını qoymaq”" },
       { "B": "“Təkan vermək, istifadə etmək”" },
@@ -1197,7 +1197,7 @@
     "questionNumber": 91,
     "questionUp": "Azərbaycan Respublikasının dövlət dili Azərbaycan Respublikası Konstitusiyasının 21-ci maddəsinin 1-ci hissəsinə müvafiq olaraq Azərbaycan dilidir. Dövlət dilini bilmək hər bir Azərbaycan Respublikası vətəndaşının borcudur.",
     "questionDown": "Mətn hansı üsluba aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Rəsmi" },
       { "B": "Bədii" },
@@ -1210,7 +1210,7 @@
     "questionNumber": 92,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Rəsmi dövlət sənədinin aşağıdakı növlərindən hansıları dövlət başçısı-prezident imzalayır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Fərman, sərəncam" },
       { "B": "Fərman, raport" },
@@ -1223,7 +1223,7 @@
     "questionNumber": 93,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Sərəncamlar məzmunca neçə yerə bölünür?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "4" },
@@ -1236,7 +1236,7 @@
     "questionNumber": 94,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Sözün çoxsa əgər, çalış az olsun, Yüz sözün yerində bir kəlmə qalsın (Nizami) – şairin bu beytində nitqə verilən hansı tələbi görə bilirik?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin zənginliyini" },
       { "B": "Nitqin yığcamlığını" },
@@ -1249,7 +1249,7 @@
     "questionNumber": 95,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitq mədəniyyətinin hamı üçün vacib olan əsas şərti nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin düzgünlüyü" },
       { "B": "Nitqin hərəkətliliyi" },
@@ -1262,7 +1262,7 @@
     "questionNumber": 96,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqdə məhəlli dialektlərə və yerli şivələrə məxsus danışıq tərzinə yol verilirsə, mədəni nitqin hansı tələbi pozulur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Təmizliyi" },
       { "B": "Səlisliyi" },
@@ -1275,7 +1275,7 @@
     "questionNumber": 97,
     "questionUp": "....... nitqə yiyələnmək üçün qrammatikanın qaydalarını bilməkdən əlavə, ədəbi dilin digər normalarına da riayət etmək lazımdır.",
     "questionDown": "Nöqtələrin yerinə hansı söz qoyulmalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Düzgün" },
       { "B": "Zəngin" },
@@ -1288,7 +1288,7 @@
     "questionNumber": 98,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı terminlər rəsmi üslubun terminləri sırasına daxil deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Deduksiya, induksiya" },
       { "B": "Bəyannamə, bəyanat" },
@@ -1301,7 +1301,7 @@
     "questionNumber": 99,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tərcümeyi-hal sözünün mənası deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Həyatın axını" },
       { "B": "Geri çevirmə" },
@@ -1314,7 +1314,7 @@
     "questionNumber": 100,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "CV hazırlayarkən hansı məlumatlara diqqət yetirilmir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Xarici görünüş" },
       { "B": "Təhsil" },
@@ -1327,7 +1327,7 @@
     "questionNumber": 101,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Ərizə sözünün neçə mənası var?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "3" },
@@ -1340,7 +1340,7 @@
     "questionNumber": 102,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İzahat sözünün mənası:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Şərh etmək" },
       { "B": "Əmr etmək" },
@@ -1353,7 +1353,7 @@
     "questionNumber": 103,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Əmr sözünün mənası:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hökm" },
       { "B": "Xahiş" },
@@ -1366,7 +1366,7 @@
     "questionNumber": 104,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nizamnamə nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hüquqi akt" },
       { "B": "Vergi" },
@@ -1379,7 +1379,7 @@
     "questionNumber": 105,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təşəbbüs məktubları neçə qrupa bölünür?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "3" },
@@ -1392,7 +1392,7 @@
     "questionNumber": 106,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Cavab tələb edən məktub deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Xəbərdarlıq məktubu" },
       { "B": "Sorğu məktubu" },
@@ -1405,7 +1405,7 @@
     "questionNumber": 107,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Cavab tələb etməyən məktub deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sorğu məktubu" },
       { "B": "Xatırlatma məktubu" },
@@ -1418,7 +1418,7 @@
     "questionNumber": 108,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Töhmət hansı mənanı verir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Məzəmmət" },
       { "B": "Öhdəsinə götürmə" },
@@ -1431,7 +1431,7 @@
     "questionNumber": 109,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Vəkalətnamə nə üçün verilir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Qiymətli əşyanı almaq vəya istifadə etmək üçün" },
       { "B": "Qiymətli əşyaya zamin olmaq üçün" },
@@ -1444,7 +1444,7 @@
     "questionNumber": 110,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Müqavilənin növü deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Pretenziya müqaviləsi" },
       { "B": "Sülh müqaviləsi" },
@@ -1457,7 +1457,7 @@
     "questionNumber": 111,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Arayış hansı məqsədlə verilmir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Şəxsi irəli çəkmək məqsədi ilə" },
       { "B": "Şəxsin kimliyi təsdiq etmək" },
@@ -1470,7 +1470,7 @@
     "questionNumber": 112,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bildiriş xarakterli yazı forması deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Qaimə" },
       { "B": "Anons" },
@@ -1483,7 +1483,7 @@
     "questionNumber": 113,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İşgüzar məktublar üzərində qeyd edilir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Şirkətin emblemi" },
@@ -1496,7 +1496,7 @@
     "questionNumber": 114,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Akt məzmununa görə neçə növə bölünür?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "4" },
       { "B": "6" },
@@ -1509,7 +1509,7 @@
     "questionNumber": 115,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məzmununa görə aktın növü deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hesabat aktı" },
       { "B": "Cinayət aktı" },
@@ -1522,7 +1522,7 @@
     "questionNumber": 116,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Borcluya qarşıya tələb:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Pretenziya" },
       { "B": "Qəbz" },
@@ -1535,7 +1535,7 @@
     "questionNumber": 117,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Xəbərdarlıq nə üçün edilir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Qəbahətın təkrar edilməməsi üçün" },
       { "B": "Borcun qaytarılması üçün" },
@@ -1548,7 +1548,7 @@
     "questionNumber": 118,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Akademik yazının növləri hansılardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "hamısı" },
       { "B": "tezis" },
@@ -1561,7 +1561,7 @@
     "questionNumber": 119,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Akademik yazı növü deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "sərəncam" },
       { "B": "tezis" },
@@ -1574,7 +1574,7 @@
     "questionNumber": 120,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tezisin əsas funksiyası nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "nəyi kəşf etdiyimizi göstərmək" },
       { "B": "tədqiqat metodunu göstərmək" },
@@ -1587,7 +1587,7 @@
     "questionNumber": 121,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elmi tezis yazarkən aşağıdakılardan hansına ehtiyac yoxdur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "heç biri." },
       { "B": "sxem" },
@@ -1600,7 +1600,7 @@
     "questionNumber": 122,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Xülasə neçə paraqrafdan ibarət olmalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "bir" },
       { "B": "iki" },
@@ -1613,7 +1613,7 @@
     "questionNumber": 123,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Xülasə neçə sözü keçməməlidir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "100-250" },
       { "B": "50-100" },
@@ -1626,7 +1626,7 @@
     "questionNumber": 124,
     "questionUp": "Tezisin məzmun sxem ardıcıllığını göstərin",
     "questionDown": "1. problemi bildirin; \n 2. tapıntınızdan sonra onunla nəyi əldə edilə biləcəyini söyləyin.; \n 3. problemin və onu həll etməyin əhəmiyyətini söyləyin.; \n 4. tapdığınız həll yolu ilə nəyə nail olmağın mümkünlüyünü söyləyin;",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1,3,4,2" },
       { "B": "1,2,3,4" },
@@ -1638,7 +1638,7 @@
     "questionNumber": 125,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tezis neçə sözdən ibarət olur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "100-500" },
       { "B": "500-1000" },
@@ -1650,7 +1650,7 @@
     "questionNumber": 126,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "‘Girişdə’ tədqiqat işinin hansı hissələri göstərilir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "hamısı" },
       { "B": "məqsəd" },
@@ -1663,7 +1663,7 @@
     "questionNumber": 127,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tədqiqat metodunda nələr açıqlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "aparılmış təcrübə və nəticə" },
       { "B": "elmi yenilik" },
@@ -1676,7 +1676,7 @@
     "questionNumber": 128,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tezislə məqalənin fərqi nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "həcmi" },
       { "B": "nəticəsi" },
@@ -1689,7 +1689,7 @@
     "questionNumber": 129,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məqalənin həcmi neçə səhifə olur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5-25" },
       { "B": "10-30" },
@@ -1702,7 +1702,7 @@
     "questionNumber": 130,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məqalənin həcmi neçə sözdən çox olmamalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "7000 sözdən çox olmamalıdır" },
       { "B": "5000 sözdən çox olmamalıdır" },
@@ -1715,7 +1715,7 @@
     "questionNumber": 131,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elmi dərəcə almaq üçün tərtib edilən elmi tədqiqat əsəri hansıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "dissertasiya" },
       { "B": "məqalə" },
@@ -1728,7 +1728,7 @@
     "questionNumber": 132,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dissertasiyanın həcmi neçə səhifə olur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "120-250" },
       { "B": "60-250" },
@@ -1741,7 +1741,7 @@
     "questionNumber": 133,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elmi dərəcə və elmi adları verən yeganə qurum hansıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ali Attestasiya Kommisyası" },
       { "B": "Nazirlər kabineti" },
@@ -1754,7 +1754,7 @@
     "questionNumber": 134,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Avtoreferat sözünün mənası nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "bildirmək" },
       { "B": "əmr edirəm" },
@@ -1767,7 +1767,7 @@
     "questionNumber": 135,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Monoğrafiya sözünün mənası nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "yazıram" },
       { "B": "yenilik" },
@@ -1780,7 +1780,7 @@
     "questionNumber": 136,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Mədəniyyətlərarası ünsiyyət fənni harda yaradılmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "ABŞ" },
       { "B": "Kanada" },
@@ -1793,7 +1793,7 @@
     "questionNumber": 137,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "ABŞ höküməti tərəfindən xaricdə xidmət haqqında akt nə vaxt qəbul edilib?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1946" },
       { "B": "1954" },
@@ -1806,7 +1806,7 @@
     "questionNumber": 138,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Mədəniyyətlər arası münasibət neçə tipdə təzahür edir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "3" },
       { "B": "4" },
@@ -1819,7 +1819,7 @@
     "questionNumber": 139,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Beynəlxalq iş etiketinin əsas xüsusiyyəti hansıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Şifahi olmayan davranış fərqi" },
       { "B": "Əyləncə  fərqi" },
@@ -1832,7 +1832,7 @@
     "questionNumber": 140,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Yaponlar özü haqqında danışarkən necə işarə edirlər?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Burnuna" },
       { "B": "Sinəsinə" },
@@ -1845,7 +1845,7 @@
     "questionNumber": 141,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bir amerikalı üçün şəxsi ünsiyyət sahəsi neçə sm-dir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "60" },
       { "B": "75" },
@@ -1858,7 +1858,7 @@
     "questionNumber": 142,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İngilislər hansı tonda danışmağa üstünlük verir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sakit tonda" },
       { "B": "Ucadan" },
@@ -1871,7 +1871,7 @@
     "questionNumber": 143,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Əl sıxma harda qəbul edilmir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Yaponyada" },
       { "B": "Fransada" },
@@ -1884,7 +1884,7 @@
     "questionNumber": 144,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Yazılı materiallar nə üçün öncədən tərcüməçiyə təqdim edilməlidir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Terminləri izah etmək üçün" },
       { "B": "Tərəfdaşların reaksiyasını nəzərə almaq üçün" },
@@ -1897,7 +1897,7 @@
     "questionNumber": 145,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Zaman puldur” ifadəsinin müəllifi olan Franklin hansı xalqa mənsubdur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "ABŞ" },
       { "B": "Fransa" },
@@ -1910,7 +1910,7 @@
     "questionNumber": 146,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İşgüzar üslubun formalaşma prosesi neçənci əsrdən başlamışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "XVI" },
       { "B": "XVII" },
@@ -1923,7 +1923,7 @@
     "questionNumber": 147,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Xidməti sənədlər nəyi əks etdirir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İdarənin fəaliyyətini" },
       { "B": "Sənədin sürətini" },
@@ -1936,7 +1936,7 @@
     "questionNumber": 148,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı üslubun lüğət tərkibi yığcam, sintaksisi məhduddur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Rəsmi-işguzar" },
       { "B": "Məişət" },
@@ -1949,7 +1949,7 @@
     "questionNumber": 149,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı üslubun şifahi forması olmur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Rəsmi-işguzar" },
       { "B": "Bədii" },
@@ -1962,7 +1962,7 @@
     "questionNumber": 150,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycanın beynəlxalq aləmdə imicinin yüksəlməsində nəyin olduqca mühim əhəmiyyəti var?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İşguzar yazışmaların" },
       { "B": "Sənədlərin" },
@@ -1975,7 +1975,7 @@
     "questionNumber": 151,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycanda işguzar üslubun inkişafı nə vaxt zəifləmişdi?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sovet dövründə" },
       { "B": "Müstəqillik dövründə" },
@@ -1988,7 +1988,7 @@
     "questionNumber": 152,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dilçilər tərəfindən işguzar üslub hansı formalarda adlandırılır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "İşguzar üslub" },
@@ -2001,7 +2001,7 @@
     "questionNumber": 153,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dil və nitq normaları harada öyrədilir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "hamısında" },
       { "B": "məktəbdə" },
@@ -2014,7 +2014,7 @@
     "questionNumber": 154,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan dilinin izahlı lüğətində” norma neçə mənada qeyd edilir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2 mənada" },
       { "B": "5 mənada" },
@@ -2027,7 +2027,7 @@
     "questionNumber": 155,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Norma konkret tarixi dövrdə kollektiv tərəfindən qəbulu etiraf olunan, üslublar arasında müvafiq şəkildə paylanan və onları təmin edən dil faktlarının müəyyən qanun dairəsində cəmləşən təzahürüdür”-fikrinin müəllifini göstərin:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "T.Hacıyev" },
       { "B": "Ə.Dəmirçizadə" },
@@ -2040,7 +2040,7 @@
     "questionNumber": 156,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Tarixilik normanın, bir tərəfdən, gələcəyə meylində, o biri tərəfdən, keçmişə bağlanmasındadır ”-fikrinin müəllifini göstərin:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "T.Hacıyev" },
       { "B": "A.Babayev" },
@@ -2053,7 +2053,7 @@
     "questionNumber": 157,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dilin şüurlu normalaşmasının uğurluğu hansı şərtlərə əməl olunmasından asılıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "hamısından" },
       { "B": "normalaşanın ədəbi dilin sabitləşməsinə təsir göstərmə imkanı" },
@@ -2066,7 +2066,7 @@
     "questionNumber": 158,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Normanın şüurlu sistemə salınması prosesində neçə cəhət bir-biri ilə qarşılıqlı əlaqələndirilməlidir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "3 cəhət" },
       { "B": "6 cəhət" },
@@ -2079,7 +2079,7 @@
     "questionNumber": 159,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dilin neçə forması var?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2 forması" },
       { "B": "5 forması" },
@@ -2092,7 +2092,7 @@
     "questionNumber": 160,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Verilən xüsusiyyətlərdən hansına görə orfoqrafiya qaydaları başqa qayda və normalardan fərqlənir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "hamısına" },
       { "B": "ümumxalq sorğusuna əsaslanır" },
@@ -2105,7 +2105,7 @@
     "questionNumber": 161,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Orfoepiya normalarını müəyyənləşdirərkən hansı prinsiplərə əsaslanmaq lazımdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "hamısına" },
       { "B": "tələffüzün asanlığı" },
@@ -2118,7 +2118,7 @@
     "questionNumber": 162,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Fonetik hadisənin, əsasən, neçə növü vardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5" },
       { "B": "7" },
@@ -2131,7 +2131,7 @@
     "questionNumber": 163,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tələffüz zamanı proteza hadisəsinin olduğu sözlərin cərgəsini göstərin:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "zəif, poema, Nailə, müdafiə" },
       { "B": "musiqi, Mirzə, qırmızı, kağız" },
@@ -2144,7 +2144,7 @@
     "questionNumber": 164,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı fonetik hadisə bu sözlərin – yarpaq, pəhriz, məşhur, kirpik – hər birinə aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Metateza" },
       { "B": "Eliziya" },
@@ -2157,7 +2157,7 @@
     "questionNumber": 165,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı fonetik hadisə sait səsin ixtisara düşməsi ilə bağlı olduğu üçün onu bəzən sait düşümü də adlandırırlar?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Eliziya" },
       { "B": "Proteza" },
@@ -2170,7 +2170,7 @@
     "questionNumber": 166,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Eyni və ya yaxın məxrəcdə olan iki səsdən biri digərinə təsir edərək, onu öz məxrəcindən uzaqlaşdırır – bu fonetik hadisə necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Dissimilyasiya" },
       { "B": "Proteza" },
@@ -2183,7 +2183,7 @@
     "questionNumber": 167,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Verilənlərdən hansı fonetik hadisənin növlərindən olan yerdəyişmənin digər adıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Metateza" },
       { "B": "Eliziya" },
@@ -2196,7 +2196,7 @@
     "questionNumber": 168,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Səsdüşümü fonetik hadisəsinin digər adı necədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Eliziya" },
       { "B": "Metateza" },
@@ -2209,7 +2209,7 @@
     "questionNumber": 169,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "kəsərli-kəsərri, yerli-yerri, manatlıq-manatdığ, ismətli-ismətdi – sözləri hansı fonetik hadisənin hansı növünə aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Assimilyasiya" },
       { "B": "Metateza" },
@@ -2222,7 +2222,7 @@
     "questionNumber": 170,
     "questionUp": "Yazılışı ilə tələffüzü fərqlənməyən sözlərin cərgəsini göstərin:",
     "questionDown": "Bağban, yeni, küçə",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Tənbəl, müəllim, təbiət" },
       { "B": "Otaq, gözgü, zəif" },
@@ -2234,7 +2234,7 @@
     "questionNumber": 171,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Onomastik normalara aiddir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Heç biri" },
@@ -2247,7 +2247,7 @@
     "questionNumber": 172,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Ədəbi dil normalarına görə sözyaratma hansı yolla əmələ gəlir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Heç biri" },
@@ -2260,7 +2260,7 @@
     "questionNumber": 173,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Funksional üslubların yaranmasında və formalaşmasında hansı amillər xüsusi təsir göstərir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Milli ənənə" },
@@ -2273,7 +2273,7 @@
     "questionNumber": 174,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dilçilikdə funksional üslublardan bəhs edən sahə necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Funksional üslubiyyat" },
       { "B": "Funksional ədəbiyyat" },
@@ -2286,7 +2286,7 @@
     "questionNumber": 175,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "XX əsrin II yarısında funksional üslubların hansı növləri vardı?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Bədii üslub" },
@@ -2299,7 +2299,7 @@
     "questionNumber": 176,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Verilənlərdən hansı rəsmi ədəbi danışıq üslubuna aid deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ailə-məişət danışıq üslubu" },
       { "B": "Mühazirə üslubu" },
@@ -2312,7 +2312,7 @@
     "questionNumber": 177,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Verilənlərdən hansı qeyri-rəsmi ədəbi danışıq üslubuna aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İctimai-kütləvi danışıq üslubu" },
       { "B": "Televiziya üslubu" },
@@ -2325,7 +2325,7 @@
     "questionNumber": 178,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Verilənlərdən hansı Rəsmi ədəbi danışıq üslubuna aid deyil?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İctimai-kütləvi danışıq üslubu" },
       { "B": "Mühazirə üslubu" },
@@ -2338,7 +2338,7 @@
     "questionNumber": 179,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Verilənlərdən hansı Qeyri-rəsmi ədəbi danışıq üslubuna aiddir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ailə-məişət danışıq üslubu" },
       { "B": "Televiziya üslubu" },
@@ -2351,7 +2351,7 @@
     "questionNumber": 180,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Fikrin bədii ifadə və təsvir vasitələri ilə ifadə olunmasına ədəbi dilin funksional ... deyilir – nöqtələrin yerinə hansı üslubun adı yazılmalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bədii üslubu" },
       { "B": "Epistolyar üslubu" },
@@ -2364,7 +2364,7 @@
     "questionNumber": 181,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bədii üslubun hansı janrları var?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Heç biri" },
@@ -2377,7 +2377,7 @@
     "questionNumber": 182,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Ədəbi dilin funksional bədii üslubunun neçə mikroüslubu vardır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "6" },
@@ -2390,7 +2390,7 @@
     "questionNumber": 183,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Ağır söz, yuxulu torpaq, dərin zəka, şirin yuxu – sözləri bədii ifadə mənasına görə nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Epitet" },
       { "B": "Metafora" },
@@ -2403,7 +2403,7 @@
     "questionNumber": 184,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Litota nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Kiçiltmək, əhəmiyyətsizləşdirmək" },
       { "B": "Eyni sözün, ifadənin təkrar olunması" },
@@ -2418,7 +2418,7 @@
     "questionNumber": 185,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İ.Şıxlının “Dəli Kür” əsərinin adı bədii təsvir vasitəsi kimi nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Epitet" },
       { "B": "Metafor" },
@@ -2431,7 +2431,7 @@
     "questionNumber": 186,
     "questionUp": "Nümunədə işlənmiş bədii təsvir vasitələrini göstərin:\nYaşıl köynəyini geyinir meşə,\nYaxama quş kimi qonur bənövşə.",
     "questionDown": "1.Epitet; 2.Təşbeh; 3. Metafor; 4.Simvol; 5. Bədii təzad",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2, 3" },
       { "B": "3, 5" },
@@ -2444,7 +2444,7 @@
     "questionNumber": 187,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Anafora” hansı bədii ifadə vasitəsinin bir növü sayılır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Təkririn" },
       { "B": "Kinayənin" },
@@ -2457,7 +2457,7 @@
     "questionNumber": 188,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məcazın bir növüdür. Hansısa bir sözlə müəyyən fikrin üstüörtülü şəkildə ifadə olunmasına xidmət edir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Simvol" },
       { "B": "Epitet" },
@@ -2470,7 +2470,7 @@
     "questionNumber": 189,
     "questionUp": "Bu bədii ifadə vasitəsinin daha kəskin forması “təriz”, yaxud “sarkazm” adlanır.",
     "questionDown": "Söhbət bədii ifadə vasitələrinin hansı növündən gedir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Kinayə" },
       { "B": "Mübaliğə" },
@@ -2483,7 +2483,7 @@
     "questionNumber": 190,
     "questionUp": "Nümunədə hansı bədii təsvir və ifadə vasitəsi işlənmişdir?",
     "questionDown": "Aparın, aparın onu zindana,\nGöz dağı çəkdirin Azərbaycana.",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Anafora, metonimiya" },
       { "B": "Epitet, kinayə" },
@@ -2496,7 +2496,7 @@
     "questionNumber": 191,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Daş qəlbli insanları neylərdin, ilahi?\nBizdə bu soyuq qanları neylərdin, ilahi?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Epitet" },
       { "B": "Təşbeh" },
@@ -2509,7 +2509,7 @@
     "questionNumber": 192,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Simvol nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bir sözlə müəyyən fikrin üstüörtülü şəkildə ifadə olunmasıdır." },
       { "B": "Bir əlamətin bütöv bir anlayışı əvəz etməsidir." },
@@ -2526,7 +2526,7 @@
     "questionNumber": 193,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Köçürmə” mənasını ifadə edən bu bədii təsvir vasitəsinin ikinci adı istiarədir. Söhbət məcazın hansı növündən gedir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Metafor" },
       { "B": "Təşbeh" },
@@ -2539,7 +2539,7 @@
     "questionNumber": 194,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bunlardan biri əks anlayışların, vəziyyətlərin qarşılaşdırılması yolu ilə yaranır:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Təzad" },
       { "B": "Metonimiya" },
@@ -2552,7 +2552,7 @@
     "questionNumber": 195,
     "questionUp": "Meşələr! Meşələr! Doğrudan da siz\nYayda da, qışda da bir baharsınız.",
     "questionDown": "Nümunədəki “Meşələr! Meşələr!” sözləri hansı bədii ifadə vasitəsidir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Anafora" },
       { "B": "Metonimiya" },
@@ -2565,7 +2565,7 @@
     "questionNumber": 196,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Verilən nümunədə işarələnmiş sözün yerində “şəhər” sözü işlənərsə, hansı bədii təsvir vasitəsi alınar?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Metonimiya" },
       { "B": "İnversiya" },
@@ -2578,7 +2578,7 @@
     "questionNumber": 197,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Funksional üslubları yaranma tarixinə görə neçə yerə ayırmaq olar?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "4" },
@@ -2591,7 +2591,7 @@
     "questionNumber": 198,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Yazıya qədərki dövrlərdə hansı funksional üslublar olmuşdur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Heç biri" },
@@ -2604,7 +2604,7 @@
     "questionNumber": 199,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bunlardan hansı yazıya qədərki dövrlərdə olan funksional üslublara aid edilmir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Publisistik üslub" },
       { "B": "Hamısı" },
@@ -2617,7 +2617,7 @@
     "questionNumber": 200,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycan ədəbi dilinin publisistik üslubu nə zamandan fəaliyyətə başlayır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "XIX əsrin 70-ci illərindən" },
       { "B": "XVI əsrin 80-ci illərindən" },
@@ -2630,7 +2630,7 @@
     "questionNumber": 201,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İctimai və siyasi məsələlərin geniş xalq kütləsinin anlayacağı şəkildə izah edilməsi ədəbi dilin ... funksional üslubu adlanır – nöqtələrin yerinə hansı üslubun adı yazılmalıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Publisistik funksional üslubu" },
       { "B": "Rəsmi funksional üslubu" },
@@ -2643,7 +2643,7 @@
     "questionNumber": 202,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Oçerk; felyeton; intervü; reportaj – hansı üslubun janrlarıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Publisistik" },
       { "B": "Rəsmi" },
@@ -2656,7 +2656,7 @@
     "questionNumber": 203,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Elmi üslub hansı sahəni əhatə edir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısını" },
       { "B": "Dərslik" },
@@ -2669,7 +2669,7 @@
     "questionNumber": 204,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İşgüzar dil, dəftərxana dili, rəsmi-sənəd üslubu adı ilə tanınan bu üslub necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Rəsmi üslub" },
       { "B": "Publisistik üslub" },
@@ -2682,7 +2682,7 @@
     "questionNumber": 205,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Rəsmi-işgüzar üslubun dilinə aid edilmir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Obrazlılıq" },
       { "B": "Dəqiqlik" },
@@ -2695,7 +2695,7 @@
     "questionNumber": 206,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Epistolyar mətnlərin (məktubların) tərkibi, əsasən, neçə komponentdən ibarət olur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Üç" },
       { "B": "Altı" },
@@ -2708,7 +2708,7 @@
     "questionNumber": 207,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Funksional üslublardan hansı yalnız yazılı formada olur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Epistolyar üslub" },
       { "B": "Bədii üslub" },
@@ -2721,7 +2721,7 @@
     "questionNumber": 208,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məktubların növlərinə aiddir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Ailə-məişət məktubları" },
@@ -2734,7 +2734,7 @@
     "questionNumber": 209,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Canlı xalq danışıq dilinin sərbəstliyi hansı üslubda daha çox təzahür edir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Məişət üslubunda" },
       { "B": "Elmi üslubda" },
@@ -2747,7 +2747,7 @@
     "questionNumber": 210,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycan ədəbi dili tarixində həmişə aparıcı olmuş funksional üslub:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bədii" },
       { "B": "Elmi" },
@@ -2760,7 +2760,7 @@
     "questionNumber": 211,
     "questionUp": "Verilmiş cümlə hansı üslubdadır?",
     "questionDown": "“Nitqin ifadəliliyi dedikdə ən məqsədəuyğun, üslub baxımından ən uğurlu olan dil vasitələrini tapıb işlətmək başa düşülür”",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Elmi" },
       { "B": "Məişət" },
@@ -2773,7 +2773,7 @@
     "questionNumber": 212,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bunlardan biri bədii üsluba aid əlamət deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Termin sıxlığı" },
       { "B": "Məcazilik" },
@@ -2786,7 +2786,7 @@
     "questionNumber": 213,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Daha çox elmi üsluba aid cəhətlər:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Dəqiqlik, konkretlik, məntiqilik, ardıcıllıq" },
       { "B": "Obrazlılıq, emosionallıq" },
@@ -2799,7 +2799,7 @@
     "questionNumber": 214,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Sərbəst səciyyə daşısa da, məhəlli səciyyə daşımır, dialektüstü nitq formasıdır:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Məişət üslubu" },
       { "B": "Bədii üslub" },
@@ -2812,7 +2812,7 @@
     "questionNumber": 215,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Normanın yeniləşməsi, ümumxalq dili vahidlərinin ədəbi dilə gəlişi hansı üslubdan başlayır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bədii" },
       { "B": "Elmi" },
@@ -2825,7 +2825,7 @@
     "questionNumber": 216,
     "questionUp": "Bədii üslubun ən az təsir göstərdiyi üslublar hansılardır?",
     "questionDown": "1. Elmi, 2. Publisistik, 3. Rəsmi-işgüzar, 4. Məişət",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1,3" },
       { "B": "2, 4" },
@@ -2838,7 +2838,7 @@
     "questionNumber": 217,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aşağıdakılardan biri məişət üslubunun əlamətlərindən sayıla bilməz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "daha çox bütöv cümlələrdən istifadə" },
       { "B": "intonasiya, jest-hərəkət-mimika" },
@@ -2851,7 +2851,7 @@
     "questionNumber": 218,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri rəsmi-işgüzar üslub üçün əlamətdar deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "fərdi nitq ünsürlərinin, obrazlı söz və ifadələrin işlənməsi" },
       { "B": "fikrin olduqca yığcam əhatə olunması" },
@@ -2868,7 +2868,7 @@
     "questionNumber": 219,
     "questionUp": "Bunlardan ikisi daha çox elmi üslub üçün əlamətdardır:",
     "questionDown": "1. Məcazilik, 2. Obrazlılıq , 3. Mürəkkəb cümlə tiplərindən daha çox istifadə, 4. Bədii təsvir və ifadə vasitələrindən istifadə,  5. Termin sıxlığı, 6. Dialektizm və loru sözlərin işlənməsi.",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "3, 5" },
       { "B": "1, 6" },
@@ -2881,7 +2881,7 @@
     "questionNumber": 220,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı xüsusiyyət bədii üsluba aid edilə bilməz?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Təkmənalı sözlər üstünlük təşkil edir." },
       { "B": "Məcazlardan geniş istifadə olunur." },
@@ -2894,7 +2894,7 @@
     "questionNumber": 221,
     "questionUp": "Bu əlamətlər hansı üslubda özünü göstərir?",
     "questionDown": "1. xalq danışıq dilinə aid sözlərdən daha çox istifadə; \n 2. dialoji nitq formasının daha çox işlədilməsi; \n 3. bağlayıcı məzmununun daha çox intonasiya ilə çatdırılması; \n 4. yarımçıq cümlələrin işlədilməsi;",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "məişət" },
       { "B": "elmi" },
@@ -2907,7 +2907,7 @@
     "questionNumber": 222,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Bu üslublardan birinin əvəzinə “mətbuat dili” ifadəsi də işlətmək mümkündür:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "publisistik" },
       { "B": "rəsmi-işgüzar" },
@@ -2920,7 +2920,7 @@
     "questionNumber": 223,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Məişət üslubu ilə ən çox təmasda olan üslub:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "bədii" },
       { "B": "elmi" },
@@ -2933,7 +2933,7 @@
     "questionNumber": 224,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Rəsmi sənədlərin dili üçün nə əsas şərt sayılmır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Fərdi nitq ünsürləri" },
       { "B": "hüquq məzmununa malik olması" },
@@ -2946,7 +2946,7 @@
     "questionNumber": 225,
     "questionUp": "Mətn hansı üslubdadır?",
     "questionDown": "“Dillərin qohumluq prinsipindən başqa, bir də tipoloji bölgüsü var. Bu bölgüdə dildəki sözlərin morfoloji quruluşu əsas götürülür.”",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "elmi" },
       { "B": "bədii" },
@@ -2959,7 +2959,7 @@
     "questionNumber": 226,
     "questionUp": "Verilənlərdən hansı rəsmi-işgüzar üslubun növlərindən biri olan diplomatik üsluba aid olan ümumi cizgilərə aid edilir?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Heç biri" },
@@ -2972,7 +2972,7 @@
     "questionNumber": 227,
     "questionUp": "Danışıqlar və vizitlərin yekun sənədlərinə aiddir:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Heç biri" },
@@ -2985,7 +2985,7 @@
     "questionNumber": 228,
     "questionUp": "Funksional üslubların birində fərdi üslub əlaməti, demək olar ki, görünmür:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "rəsmi-işgüzar üslubun" },
       { "B": "bədii üslubun" },
@@ -2998,7 +2998,7 @@
     "questionNumber": 229,
     "questionUp": "İşgüzar sənədlər hansı xüsusiyyəti ilə rəsmi sənədlərdən fərqlənir?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "xüsusi dövlət əhəmiyyəti daşımaması ilə" },
       {
@@ -3013,7 +3013,7 @@
     "questionNumber": 230,
     "questionUp": "Verilənlərdən hansı əməli yazılar üçün səciyyəvidir?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hamısı" },
       { "B": "Hər bir məsələ aydın və qısa izah edilməlidir." },
@@ -3026,7 +3026,7 @@
     "questionNumber": 231,
     "questionUp": "Elmi auditoriya üçün nəzərdə tutulmuş rəsmi və kifayət qədər qeyri-adi bir yazı tərzi hansıdır?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Akademik yazı" },
       { "B": "Bədii yazı" },
@@ -3039,7 +3039,7 @@
     "questionNumber": 232,
     "questionUp": "Akademik yazının növlərinə aid deyil",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Bülleten" },
       { "B": "Məqalə" },
@@ -3052,7 +3052,7 @@
     "questionNumber": 233,
     "questionUp": "Hansı fikir doğru deyil?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Qeyri-akademik yazı emosional ola bilməz" },
       { "B": "Akademik yazının strukturu standartdır" },
@@ -3069,7 +3069,7 @@
     "questionNumber": 234,
     "questionUp": "Akademik yazının strukturuna aid deyil",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Metod" },
       { "B": "Titul vərəqi" },
@@ -3082,7 +3082,7 @@
     "questionNumber": 235,
     "questionUp": "Elmi yazı işindəki əsas fikir və tapıntıları çatdıran hissə necə adlanır?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Xülasə" },
       { "B": "Titul vərəqi" },
@@ -3095,7 +3095,7 @@
     "questionNumber": 236,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Əsas hissədə təhlil olunan fikirlər hansı hissədə ümumiləşdirilir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nəticə" },
       { "B": "Giriş" },
@@ -3108,7 +3108,7 @@
     "questionNumber": 237,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tədqiqatın məqsədi və obyekti akademik yazının hansı hissəsində öz əksini tapır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Giriş" },
       { "B": "Xülasə" },
@@ -3121,7 +3121,7 @@
     "questionNumber": 238,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tezisin yekunu olub, akademik işin bütün məqamlarını qısa şəkildə göstərən akademik yazı növü hansıdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Xülasə" },
       { "B": "Tezis" },
@@ -3134,7 +3134,7 @@
     "questionNumber": 239,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İnternetdə axtarış üçün əsas vasitə sayılır. Mətnin əsas məğzini özündə əks etdirir. Bu nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Açar söz" },
       { "B": "Metod" },
@@ -3147,7 +3147,7 @@
     "questionNumber": 240,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Planlanan tədqiqat işinin, dərslik, monoqrafiyanın kim tərəfindən, harada, nə vaxt aparılacağı və qısa məzmunu barədə məlumatları əks etdirən sənəd adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Annotasiya" },
       { "B": "Xülasə" },
@@ -3160,7 +3160,7 @@
     "questionNumber": 241,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Başqasının əsərini öz əsəri kimi vermə necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Plagiat" },
       { "B": "Metod" },
@@ -3173,7 +3173,7 @@
     "questionNumber": 242,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri akademik yazı növüdür.",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Monoqrafiya" },
       { "B": "Müqavilə" },
@@ -3186,7 +3186,7 @@
     "questionNumber": 243,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Ali məktəblərdə ixtisas müəllimlərinin rəhbərliyi altında tədris planına uyğun görülən müstəqil elmi-metodik iş necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Kurs işi" },
       { "B": "Akademik tezis" },
@@ -3199,7 +3199,7 @@
     "questionNumber": 244,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri referatın funksiyaları sırasında deyil.",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ekspressiv" },
       { "B": "Informativ" },
@@ -3212,7 +3212,7 @@
     "questionNumber": 245,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təhsilin bakalavriat səviyyəsində Tədris planını tam yerinə yetirməkdə olan tələbənin IV kursun əvvəlində kafedranın birindən mövzu götürməsi hansı akademik yazı növü sayılır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Buraxılış işi" },
       { "B": "Kurs işi" },
@@ -3225,7 +3225,7 @@
     "questionNumber": 246,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Annotasiyanın strukturuna aid olmayanı göstərin.",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İxtisas və qrup nömrəsi" },
       { "B": "Müəllifin adı və soyadı" },
@@ -3238,7 +3238,7 @@
     "questionNumber": 247,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Referatın struktur ardıcıllığını tamamlayın: Titul vərəqi- Mündəricat - ?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Giriş" },
       { "B": "Əlavə" },
@@ -3251,7 +3251,7 @@
     "questionNumber": 248,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Referatın mövzusunun açılışını təqdim edən hissə necə adlanır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Əsas hissə" },
       { "B": "Mündəricat" },
@@ -3264,7 +3264,7 @@
     "questionNumber": 249,
     "questionUp": "Buraxılış işinin tərtib qaydaları üçün ardıcıllığı tamamlayın.",
     "questionDown": "Nəticə və təkliflər - ?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İstifadə olunmuş ədəbiyyat" },
       { "B": "Mündəricat" },
@@ -3277,7 +3277,7 @@
     "questionNumber": 250,
     "questionUp": "Hər hansı məsələ ilə bağlı, bir və ya bir neçə kitab, monoqrafiya, yaxud da ilkin mənbələr əsasında qısa və dəqiq icmal məzmununu əks etdirən yazı növü necə adlanır?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Referat" },
       { "B": "Monoqrafiya" },
@@ -3290,7 +3290,7 @@
     "questionNumber": 251,
     "questionUp": "Buraxılış işi yazılarkən sətrlərarası interval nə qədər olmalıdır?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1,5" },
       { "B": "1" },
@@ -3303,7 +3303,7 @@
     "questionNumber": 252,
     "questionUp": "Elmi mətnin son hissəsi necə adlanır?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nəticə" },
       { "B": "Giriş" },
@@ -3316,7 +3316,7 @@
     "questionNumber": 253,
     "questionUp": "Tədqiqat metodunun göstərildiyi hissə hansıdır?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Giriş" },
       { "B": "Xülasə" },
@@ -3329,7 +3329,7 @@
     "questionNumber": 254,
     "questionUp": "Hansı terminin əsas mənası “oğurlanmış” deməkdir?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Plagiat" },
       { "B": "Xülasə" },
@@ -3342,7 +3342,7 @@
     "questionNumber": 255,
     "questionUp": "Referatın neçə funksiyası vardır?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5" },
       { "B": "4" },
@@ -3355,7 +3355,7 @@
     "questionNumber": 256,
     "questionUp": "Buraxılış işinin hazırlanma ardıcıllığında mövzunun seçilməsi mərhələsindən sonra hansı mərhələ gəlir?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Mövzuya dair elmi faktların toplanması" },
       { "B": "Əldə olunan informasiyanın təhlili" },
@@ -3368,7 +3368,7 @@
     "questionNumber": 257,
     "questionUp": "Bakalavriat səviyyəsi tələbələrinin Yekun Dövlət Attestasiya formalarından biridir.",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Buraxılış işi" },
       { "B": "Məqalə" },
@@ -3381,7 +3381,7 @@
     "questionNumber": 258,
     "questionUp": "Akademik yazı növlərindən biri deyil.",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Etimadnamə" },
       { "B": "Buraxılış işi" },
@@ -3394,7 +3394,7 @@
     "questionNumber": 259,
     "questionUp": "Yazıdakı fəsillər və onlara aid hissələr, yazının hansı hissəsində göstərilir?",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Mündəricat" },
       { "B": "Xülasə" },
@@ -3407,7 +3407,7 @@
     "questionNumber": 260,
     "questionUp": "Biri Akademik yazıdır:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Monoqrafiya" },
       { "B": "Tərcümeyi-hal" },
@@ -3420,7 +3420,7 @@
     "questionNumber": 261,
     "questionUp": "İşgüzar kommunikasiyanın əsas funksiyalarına daxildir:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İnformasiyavericilik" },
       { "B": "Qeyri-verbal kommunikasiya" },
@@ -3433,7 +3433,7 @@
     "questionNumber": 262,
     "questionUp": "İşgüzar kommunikasiyanın əsas funksiyalarına daxildir:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Interaktivlik" },
       { "B": "Nitqin münasibliyi" },
@@ -3446,7 +3446,7 @@
     "questionNumber": 263,
     "questionUp": "İşgüzar kommunikasiyanın əsas funksiyalarına daxildir:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Perspektivlik" },
       { "B": "Nitqin məntiqiliyi" },
@@ -3459,7 +3459,7 @@
     "questionNumber": 264,
     "questionUp": "Kommunikasiya şərti olaraq neçə mərhələyə bölünür:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5" },
       { "B": "2" },
@@ -3472,7 +3472,7 @@
     "questionNumber": 265,
     "questionUp": "Kommunikasiyanın mərhələlərinə daxildir:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İnformasiya mübadiləsinin başlanğıcı" },
       { "B": "Quruluş sxeminə görə nitqin növləri: mühazirə, məruzə, çıxış" },
@@ -3485,7 +3485,7 @@
     "questionNumber": 266,
     "questionUp": "Kommunikasiyanın mərhələlərinə daxildir:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İdeyaların söz, simvol, məlumatlarla təcəssümü" },
       { "B": "Perspektivlik, informasiyavericilik" },
@@ -3498,7 +3498,7 @@
     "questionNumber": 267,
     "questionUp": "Kommunikasiyanın mərhələlərinə daxildir:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İnformasiyanın seçilmiş rabitə vasitəsilə ötürülməsi" },
       { "B": "Nitqin münasibliyi, zənginliyi" },
@@ -3511,7 +3511,7 @@
     "questionNumber": 268,
     "questionUp": "Kommunikasiyanın mərhələlərinə daxildir:",
     "questionDown": "",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İnformasiyanın verbal və qeyri-verbal formada qəbul edilməsi" },
       { "B": "Perspektivlik, informasiyavericilik, interaktivlik" },
@@ -3526,7 +3526,7 @@
     "questionNumber": 269,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Kommunikasiyanın mərhələlərinə daxildir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Əks-əlaqə mərhələsi kimi informasiyanı qəbul edənin ona cavabı" },
       {
@@ -3541,7 +3541,7 @@
     "questionNumber": 270,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Kommunikasiyanın mərhələlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sualvermə, söhbətəqoşulma, cavabvermə" },
       { "B": "İnformasiya mübadiləsinin başlanğıcı" },
@@ -3554,7 +3554,7 @@
     "questionNumber": 271,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Kommunikasiyanın mərhələlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ədəbi dilin rəsmi funksional istifadə dairəsi" },
       { "B": "İdeyaların söz, simvol, məlumatlarla təcəssümü" },
@@ -3567,7 +3567,7 @@
     "questionNumber": 272,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Kommunikasiyanın mərhələlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Fonetik, leksik və qrammatik normalar" },
       { "B": "İdeyaların söz, simvol, məlumatlarla təcəssümü" },
@@ -3580,7 +3580,7 @@
     "questionNumber": 273,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Kommunikasiyanın mərhələlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Perspektivlik, informasiyavericilik, interaktivlik" },
       { "B": "İdeyaların söz, simvol, məlumatlarla təcəssümü" },
@@ -3593,7 +3593,7 @@
     "questionNumber": 274,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Kommunikasiyanın mərhələlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin düzgünlüyü, dəqiqliyi, aydınlığı, səlisliyi" },
       { "B": "İdeyaların söz, simvol, məlumatlarla təcəssümü" },
@@ -3606,7 +3606,7 @@
     "questionNumber": 275,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitq etiketlərinin növlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Söhbətəqoşulma" },
       { "B": "Müraciət, təbrik" },
@@ -3619,7 +3619,7 @@
     "questionNumber": 276,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitq etiketlərinin növlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin düzgünlüyü" },
       { "B": "Alqışlar və qarğışlar" },
@@ -3632,7 +3632,7 @@
     "questionNumber": 277,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitq etiketlərinin növlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin ifadəliliyi" },
       { "B": "Görüşmə və ayrılma" },
@@ -3645,7 +3645,7 @@
     "questionNumber": 278,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitq etiketlərinin növlərinə daxildir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Görüşmə və ayrılma" },
       { "B": "Dialoji və monoloji nitq" },
@@ -3658,7 +3658,7 @@
     "questionNumber": 279,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Müsahibin nitqinə nə zaman müdaxilə oluna bilməz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Mətləblə heç bir əlaqəsi olmayan bir şeyi soruşmaq məqsədilə" },
       { "B": "Danışan bəhs etdiyi məsələdən uzaqlaşdıqda" },
@@ -3673,7 +3673,7 @@
     "questionNumber": 280,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Müsahibin nitqinə nə zaman müdaxilə oluna bilməz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Deyilmiş və hamıya aydın olan məsələ barədə sual vermək məqsədilə"
@@ -3690,7 +3690,7 @@
     "questionNumber": 281,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Diskussiya zamanı dialoqun səmərəli keçməsi üçün tələb olunan xüsusiyyətlərə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Kommunikasiyanın həm şifahi, həm də yazılı formasından istifadə edilməsi"
@@ -3705,7 +3705,7 @@
     "questionNumber": 282,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Diskussiya zamanı dialoqun səmərəli keçməsi üçün tələb olunan xüsusiyyətlərə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Nitqə verilən bütün tələblər və normaların pozulmamasına mütləq şəkildə riayət olunmalıdır"
@@ -3726,7 +3726,7 @@
     "questionNumber": 283,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı ünsiyyət prosesində əlaqələr ikitərəflidir-dialoqludur:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İşgüzar kommunikasiya" },
       { "B": "Kommunikasiya" },
@@ -3739,7 +3739,7 @@
     "questionNumber": 284,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan dilində işgüzar və akademik kommunikasiya” fənninin məqsədinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Qohum dillərin fonetik, leksik və qrammatik quruluşunu öyrənmək"
@@ -3760,7 +3760,7 @@
     "questionNumber": 285,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan dilində işgüzar və akademik kommunikasiya” fənninin məqsədinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Şifahi xalq ədəbiyyatı nümunələrini öyrənmək, şivələri araşdırmaq"
@@ -3783,7 +3783,7 @@
     "questionNumber": 286,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "YUNESKO-nun təşəbbüsü ilə 2000-ci ilin 21 fevralından etibarən hər il qeyd edilir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Beynəlxalq ana dili günü" },
       { "B": "İşgüzar kommunikasiya günü" },
@@ -3796,7 +3796,7 @@
     "questionNumber": 287,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "YUNESKO-nun təşəbbüsü ilə .....etibarən hər il “Beynəlxalq ana dili günü” qeyd edilir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2000-ci il 21 fevral" },
       { "B": "2001-ci il 18 iyun" },
@@ -3809,7 +3809,7 @@
     "questionNumber": 288,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı qurumun təşəbbüsü ilə 2000-ci ilin 21 fevralından etibarən hər il “Beynəlxalq ana dili günü” qeyd edilir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "YUNESKO" },
       { "B": "Canlı Dillər İnstitutu" },
@@ -3822,7 +3822,7 @@
     "questionNumber": 289,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "BMT Baş Assambleyası 2008-ci ili elan etmişdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Beynəlxalq Dillər İli" },
       { "B": "Azərbaycan əlifbası və Azərbaycan dili günü" },
@@ -3835,7 +3835,7 @@
     "questionNumber": 290,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "BMT Baş Assambleyası neçənci ili Beynəlxalq Dillər İli elan etmişdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2008-ci ili" },
       { "B": "2001-ci ili" },
@@ -3848,7 +3848,7 @@
     "questionNumber": 291,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı qurum 2008-ci ili Beynəlxalq Dillər İli elan etmişdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "BMT Baş Assambleyası" },
       { "B": "YUNESKO" },
@@ -3861,7 +3861,7 @@
     "questionNumber": 292,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Dövlət dilinin tətbiqi işinin təkmilləşdirilməsi haqqında” Fərman Ümummili Lider Heydər Əliyev tərəfindən nə zaman imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "18 iyun 2001-ci il" },
       { "B": "21 fevral 2000-ci il" },
@@ -3874,7 +3874,7 @@
     "questionNumber": 293,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan əlifbası və Azərbaycan Dili Gününün qeyd edilməsi haqqında” fərman Ümummili Lider Heydər Əliyev tərəfindən nə zaman imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "9 avqust 2001-ci il" },
       { "B": "30 sentyabr 2002-ci il" },
@@ -3887,7 +3887,7 @@
     "questionNumber": 294,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan Respublikasında dövlət dili haqqında” Qanun Ümummili Lider Heydər Əliyev tərəfindən nə zaman qəbul edilmişdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "30 sentyabr 2002-ci il" },
       { "B": "12 noyabr 1995-ci il" },
@@ -3900,7 +3900,7 @@
     "questionNumber": 295,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan Respublikasında Dövlət Dili haqqında” Qanunun tətbiq edilməsi barədə” fərman Ümummili Lider Heydər Əliyev tərəfindən nə zaman imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2 yanvar 2003-cü il" },
       { "B": "18 iyun 2001-ci il" },
@@ -3913,7 +3913,7 @@
     "questionNumber": 296,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Azərbaycan Respublikasının Konstitusiyası referendum yolu ilə nə zaman qəbul edilmişdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "12 noyabr 1995-ci il" },
       { "B": "21 fevral 2000-ci il" },
@@ -3926,7 +3926,7 @@
     "questionNumber": 297,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "9 avqust 2001-ci tarixində Ümummili Lider Heydər Əliyev tərəfindən hansı fərman imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "“Azərbaycan əlifbası və Azərbaycan Dili Gününün qeyd edilməsi haqqında”"
@@ -3943,7 +3943,7 @@
     "questionNumber": 298,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "18 iyun 2001-ci il tarixində Ümummili Lider Heydər Əliyev tərəfindən hansı fərman imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "“Dövlət dilinin tətbiqi işinin təkmilləşdirilməsi haqqında”" },
       {
@@ -3960,7 +3960,7 @@
     "questionNumber": 299,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "12 yanvar 2004-cü il tarixində Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev tərəfindən hansı sərəncam imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "“Azərbaycan dilində latın qrafikası ilə kütləvi nəşrlərin həyata keçirilməsi haqqında”"
@@ -3981,7 +3981,7 @@
     "questionNumber": 300,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "30 sentyabr 2002-ci il tarixində Ümummili Lider Heydər Əliyev tərəfindən hansı qanun qəbul edilmişdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "“Azərbaycan Respublikasında dövlət dili haqqında”" },
       { "B": "“Dövlət dilinin tətbiqi işinin təkmilləşdirilməsi haqqında”" },
@@ -3996,7 +3996,7 @@
     "questionNumber": 301,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "12 yanvar 2004-cü il tarixində Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev tərəfindən hansı sərəncam imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "“Azərbaycan Milli Ensiklopediyasının nəşri haqqında”" },
       {
@@ -4015,7 +4015,7 @@
     "questionNumber": 302,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "2013-cü il 9 aprel tarixində Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev tərəfindən hansı sərəncam imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "“Azərbaycan dilinin qloballaşma şəraitində zamanın tələblərinə uyğun istifadəsinə və ölkədə dilçiliyin inkişafına dair Dövlət Proqramı”nın təsdiq edilməsi haqqında”"
@@ -4036,7 +4036,7 @@
     "questionNumber": 303,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "2018-ci il 17 iyul tarixində Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev tərəfindən hansı sərəncam imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "“Azərbaycan dilinin elektron məkanda daha geniş istifadəsinin təmin edilməsi ilə bağlı bir sıra tədbirlər haqqında”"
@@ -4057,7 +4057,7 @@
     "questionNumber": 304,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "1 noyabr 2018-ci il tarixində Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev tərəfindən hansı sərəncam imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "“Azərbaycan dilinin saflığının qorunması və dövlət dilindən istifadənin daha da təkmilləşdirilməsi ilə bağlı tədbirlər haqqında”"
@@ -4078,7 +4078,7 @@
     "questionNumber": 305,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan dilinin saflığının qorunması və dövlət dilindən istifadənin daha da təkmilləşdirilməsi ilə bağlı tədbirlər haqqında” Sərəncam Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev tərəfindən nə zaman imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1 noyabr 2018-ci il" },
       { "B": "9 avqust 2001-ci il" },
@@ -4091,7 +4091,7 @@
     "questionNumber": 306,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan Milli Ensiklopediyasının nəşri haqqında” Sərəncam Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev tərəfindən nə zaman imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "12 yanvar 2004-cü il" },
       { "B": "9 avqust 2001-ci il" },
@@ -4104,7 +4104,7 @@
     "questionNumber": 307,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Azərbaycan dilinin elektron məkanda daha geniş istifadəsinin təmin edilməsi ilə bağlı bir sıra tədbirlər haqqında” Sərəncam Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev tərəfindən nə zaman imzalanmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "17 iyul 2018-ci il" },
       { "B": "12 yanvar 2004-cü il" },
@@ -4117,7 +4117,7 @@
     "questionNumber": 308,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“İnkişaf etmiş zəngin dil mədəniyyətinə sahib olan xalq əyilməzdir, ölməzdir, böyük gələcəyə malikdir” sözlərinin müəllifi kimdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Heydər Əliyev" },
       { "B": "Mustafa Kamal Atatürk" },
@@ -4130,7 +4130,7 @@
     "questionNumber": 309,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Ritorika sözü hansı mənanı ifadə edir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Natiqlik sənəti" },
       { "B": "Xalq ədəbiyyatı" },
@@ -4143,7 +4143,7 @@
     "questionNumber": 310,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "E.ə.VII-IV əsrlərdə fəaliyyət göstərən yunan natiqlik məktəbinin yetirmələrinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nəsrəddin Tusi" },
       { "B": "Aristotel" },
@@ -4156,7 +4156,7 @@
     "questionNumber": 311,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "E.ə.VII-IV əsrlərdə fəaliyyət göstərən yunan natiqlik məktəbinin yetirmələrinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Firdovsi" },
       { "B": "Kvintilian" },
@@ -4169,7 +4169,7 @@
     "questionNumber": 312,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aristotel natiqlik sənətinin elmi əsasları barədə hansı əsəri yazmışdır?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ritorika" },
       { "B": "Poetika" },
@@ -4182,7 +4182,7 @@
     "questionNumber": 313,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aristotelin e.ə. 335-ci ildə yazdığı “Ritorika” adlı əsərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Hər bir afinalının məhkəmədə öz hüququnu müdafiə etməyi bacarması"
@@ -4197,7 +4197,7 @@
     "questionNumber": 314,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aristotelin e.ə. 335-ci ildə yazdığı “Ritorika” adlı əsərinə daxildir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin texnikası, vasitələri və priyomları" },
       { "B": "Nitqin dəqiqliyi, məntiqiliyi" },
@@ -4210,7 +4210,7 @@
     "questionNumber": 315,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aristotelin e.ə. 335-ci ildə yazdığı “Ritorika” adlı əsərinə daxildir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Natiq üçün lazım olan şəxsi keyfiyyət və qabiliyyət" },
       { "B": "Ədəbi dil norması və izahlı lüğətlər" },
@@ -4223,7 +4223,7 @@
     "questionNumber": 316,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aristotelin e.ə. 335-ci ildə yazdığı “Ritorika” adlı əsərinə daxildir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin tərtibi prinsipi" },
       { "B": "Ədəbi dil norması və izahlı lüğətlər" },
@@ -4236,7 +4236,7 @@
     "questionNumber": 317,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aristotelin xüsusi olaraq qeyd etdiyi natiqin məharətinin əsas cəhətlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Kommunikasiyanın yazılı və şifahi formaları" },
       { "B": "Materialın icadı və onun hazırlanması." },
@@ -4253,7 +4253,7 @@
     "questionNumber": 318,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Qədim Yunanıstanda natiqlik sənətinin inkişafına güclü təsir göstərən Solon qanunlarına daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Natiq nitqinin quruluşu, ifadəlilik vasitələri və s. geniş şəkildə izah edilmişdir"
@@ -4274,7 +4274,7 @@
     "questionNumber": 319,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Qədim Yunanıstanda natiqlik sənətinin inkişafına güclü təsir göstərən səbəblərdən biri hesab olunur:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Solon qanunları" },
       { "B": "Aristotelin “Ritorika”əsəri" },
@@ -4287,7 +4287,7 @@
     "questionNumber": 320,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Qədim Yunanıstanda fəaliyyət göstərən görkəmli loqoqraf-natiqlərə aid edilmir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Siseron" },
       { "B": "Hiperid" },
@@ -4300,7 +4300,7 @@
     "questionNumber": 321,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Demosfenə görə natiqlik sənətində əməl olunmalı tələblərə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Hüquqi təhsil alaraq muzdla nitqin tərtibi" },
       { "B": "Materialın toplanması." },
@@ -4313,7 +4313,7 @@
     "questionNumber": 322,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Roma natiqlik məktəbinin yetişdirməsi olmamışdır:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Demosfen" },
       { "B": "Antoni Mark" },
@@ -4326,7 +4326,7 @@
     "questionNumber": 323,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Roma natiqlik məktəbinin yetişdirməsi Mark Fabiy Kvintilian hansı əsərin müəllifidir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "“Natiqlik təhsili”adlı 12 kitabdan ibarət əsər" },
       { "B": "“Ritorika” əsəri" },
@@ -4339,7 +4339,7 @@
     "questionNumber": 324,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "“Şair doğulurlar, natiq isə olurlar. Natiqlik sənətinə isə təlimin köməyi ilə yiyələnmək mümkündür” sözləri kimə məxsusdur?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Mark Fabiy Kvintilian" },
       { "B": "Antoni Mark" },
@@ -4352,7 +4352,7 @@
     "questionNumber": 325,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Şərqdə öz əsərlərində sözə yüksək qiymət vermiş şair və filosoflara daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Demosfen" },
       { "B": "Firdovsi" },
@@ -4365,7 +4365,7 @@
     "questionNumber": 326,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqin sosial baxımdan yerinə yetirdiyi funksiyadan asılı olaraq müəyyənləşən formalarına daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "İşgüzar natiqlik" },
       { "B": "Dini-məscid(kilsə) nitqi" },
@@ -4378,7 +4378,7 @@
     "questionNumber": 327,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Akademik natiqliyin səciyyəvi xüsusiyyətlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Bədii təsvir və ifadə vasitələrindən geniş şəkildə istifadə edilir"
@@ -4395,7 +4395,7 @@
     "questionNumber": 328,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Akademik natiqliyin səciyyəvi xüsusiyyətlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Dialektizm və varvarizmlərdən istifadə oluna bilər" },
       { "B": "Mövzunun əvvəlcədən dinləyicilərə məlum olmasıdır" },
@@ -4410,7 +4410,7 @@
     "questionNumber": 329,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitq hazırlığının əsas mərhələlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Materialın icadı və onun hazırlanması" },
       { "B": "Nitqin məqsədlərinin müəyyən edilməsi" },
@@ -4423,7 +4423,7 @@
     "questionNumber": 330,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitq hazırlığının əsas mərhələlərinə daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Natiq üçün lazım olan şəxsi keyfiyyət və qabiliyyət" },
       { "B": "Nitqin planının tərtib edilməsi" },
@@ -4436,7 +4436,7 @@
     "questionNumber": 331,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Natiqlərin nitqi tamamlamaq üçün daha tez-tez istifadə etdiyi metodlara daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Nitqin monotonluğu" },
       { "B": "Çağırış, yaxud müraciət" },
@@ -4449,7 +4449,7 @@
     "questionNumber": 332,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Natiqlərin nitqi tamamlamaq üçün daha tez-tez istifadə etdiyi metodlara daxil deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Epitet, metafora" },
       { "B": "Sitat" },
@@ -4462,7 +4462,7 @@
     "questionNumber": 344,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Daxili nitqi səciyyələndirən xüsusiyyətlərə daxil deyildir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Başqaları ilə ünsiyyətə, informasiya mübadiləsinə yönəlmiş olub, eşidilən, görülən və tələffüz edilən nitqdir"
@@ -4481,7 +4481,7 @@
     "questionNumber": 356,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Şifahi və yazılı nitq arasında göstərilən fərqli xüsusiyyətlər sırasında verilə bilməz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Yazılı ədəbi dildə yarımçıq cümlələrə, qısa replikalara, şifahi ədəbi dildə isə bütöv, mürəkkəb cümlələrə daha geniş yer verilir"
@@ -4504,7 +4504,7 @@
     "questionNumber": 357,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Dialoji nitq haqqında verilən fikirlərdən biri səhvdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Dialoji nitqdə ikitərəfin-danışanın müsahibi ilə əks əlaqəsi olmur"
@@ -4521,7 +4521,7 @@
     "questionNumber": 358,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Monoloji nitqlə dialoji nitq arasında verilən fərqlərdən biri səhvdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Monoloji nitq iki və daha artıq şəxs arasında gedən söhbət, dialoji nitq isə öz-özünə müraciətlə söylənilən nitqdir"
@@ -4544,7 +4544,7 @@
     "questionNumber": 359,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Spontan nitq nədir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Xüsusi hazırlıq olmadan, təşkil olunmamış, bədahətən, sərbəst söylənilən nitq"
@@ -4563,7 +4563,7 @@
     "questionNumber": 360,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri monoloji nitqin növləri sırasında verilə bilməz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Müzakirə" },
       { "B": "Mühazirə" },
@@ -4576,7 +4576,7 @@
     "questionNumber": 361,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Göstərilənlərdən biri yazılı nitqə aid deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Yazılı nitqin yaranma tarixi qrafikanın yaranmasından əvvəlki dövrlə əlaqəlidir"
@@ -4593,7 +4593,7 @@
     "questionNumber": 362,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Göstərilənlərdən biri yazılı nitqə aid deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ani şəkildə deyilir" },
       { "B": "Düşünülərək nisbətən aşağı sürətlə yazılır" },
@@ -4606,7 +4606,7 @@
     "questionNumber": 363,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Nitqin hansı formasında insan daha sərbəstdir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Daxili" },
       { "B": "Zahiri" },
@@ -4619,7 +4619,7 @@
     "questionNumber": 364,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İnsan öz-özü ilə ünsiyyətə girir, öz hərəkətləri haqqında özü ilə müzakirə aparır. Söhbət nitqin hansı formasından gedir?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Daxili nitq" },
       { "B": "Monoloji nitq" },
@@ -4632,7 +4632,7 @@
     "questionNumber": 365,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aşağıda göstərilən etiketlərdən biri nitq etiketlərinə aid ola bilməz:",
-    "correctAnwser": "D",
+    "correctAnswer": "D",
     "answers": [
       { "A": "Cavab etiketləri" },
       { "B": "Ayrılma etiketləri" },
@@ -4645,7 +4645,7 @@
     "questionNumber": 366,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Müraciət formaları haqqında deyilən fikirlərdən biri səhvdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Nitq prosesində mühəndis, fermer, dekan kimi adlar təklikdə müraciət forması kimi işlədilir."
@@ -4668,7 +4668,7 @@
     "questionNumber": 367,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri qeyri-rəsmi müraciət etiketidir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Qadası" },
       { "B": "Xanım" },
@@ -4681,7 +4681,7 @@
     "questionNumber": 368,
     "questionUp": "Nitq etiketlərindən ibarət məntiqi ardıcıllığı davam etdirin.",
     "questionDown": "Allah amanında! Xudahafiz! Görüşənədək! .................",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Yaxşı yol!" },
       { "B": "Sağlığınıza qismət olsun!" },
@@ -4694,7 +4694,7 @@
     "questionNumber": 369,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Sadalanan xüsusiyyətlərdən biri ünsiyyət prosesində natiqin xarici görünüşünə xas xüsusiyyət deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Natiqin çıxış zamanı vulqar geyiminə yol verilə bilər" },
       { "B": "Natiqin geyimi auditoriyaya uyğun olmalıdır" },
@@ -4709,7 +4709,7 @@
     "questionNumber": 370,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Müsahibin nitqinə hansı hallarda müdaxilə etmək olmaz?",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Müsahib mövzu ilə bağlı yeni faktlar, məlumatlar danışdıqda" },
       {
@@ -4724,7 +4724,7 @@
     "questionNumber": 371,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Diskussiya zamanı dialoqun tələb olunan qaydada səmərəli keçməsi üçün tələb olunan xüsusiyyətlərə aid edilə bilməz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Mövqeyinin səhv olduğu sübut edilmiş tərəf opponentinin haqlı olduğunu etiraf etməyə də bilər"
@@ -4745,7 +4745,7 @@
     "questionNumber": 372,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Biri ayırıcı durğu işarələrinə aid deyil:",
-    "correctAnwser": "B",
+    "correctAnswer": "B",
     "answers": [
       { "A": "Mötərizə" },
       { "B": "Nöqtə" },
@@ -4758,7 +4758,7 @@
     "questionNumber": 373,
     "questionUp": "Fərqləndirici durğu işarələrini seçin:",
     "questionDown": "1.Nöqtə; 2.Mötərizə; 3.Dırnaq; 4.Sual işarəsi",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2,3" },
       { "B": "1,4" },
@@ -4771,7 +4771,7 @@
     "questionNumber": 374,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Aşağıdakı durğu işarələri haqqında verilən fikirlərdən biri səhvdir:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Nöqtə-adi intonasiya ilə deyilən, hər hansı fikrin və ya məlumatın bitdiyini göstərən cümlələrin sonunda qoyulur, fərqləndirici funksiya daşıyır"
@@ -4794,7 +4794,7 @@
     "questionNumber": 375,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Hansı cümlədə 'o' əvəzliyindən sonra vergül qoyula bilər?",
-    "correctAnwser": "D",
+    "correctAnswer": "D",
     "answers": [
       { "A": "O işə məsuliyyətlə yanaşır" },
       { "B": "O oxuyur" },
@@ -4807,7 +4807,7 @@
     "questionNumber": 376,
     "questionUp": "Nə zaman tire işarəsi qoyular?",
     "questionDown": "1.Həmcins üzvlərdən sonra ümumiləşdirici söz gəldikdə;\n2.Sözləri sətirdən sətrə keçirdikdə;\n3.Eyni sözün təkrarı ilə əmələ gələn mürəkkəb sözlərdə;\n4.Dialoqlarda;\n5.Vasitəsiz nitqli cümlədən sonra müəllifin sözü gəldikdə",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1,4,5" },
       { "B": "1,2,3" },
@@ -4820,7 +4820,7 @@
     "questionNumber": 377,
     "questionUp": "Bu durğu işarələrindən hansılar həmcins üzvlərlə əlaqədar işlədilə bilir?",
     "questionDown": "1.Vergül; \n 2.Tire; \n 3.Qoşa nöqtə; \n 4.Nida işarəsi; \n 5.Mötərizə; \n 6.Üç nöqtə;",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1,2,3" },
       { "B": "2,3,4" },
@@ -4833,7 +4833,7 @@
     "questionNumber": 378,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Durğu işarələri və punktuasiyanı bir-birindən ayrıran fərqli cəhətlər sırasında verilə bilməz:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Durğu işarələri punktuasiyaya nisbətdə ümumi anlayışdır" },
       { "B": "Punktuasiya durğu işarələri ilə müqayisədə ümumi anlayışdır" },
@@ -4850,7 +4850,7 @@
     "questionNumber": 379,
     "questionUp": "Qoşa nöqtə işarəsi qoyulur:",
     "questionDown": "1. Dialoqlarda müəllif nitqindən sonra; \n 2.Həmcins üzvlər sırasında; \n 3. Vasitəsiz nitqli cümlələrdə; \n 4. Sıra sayları Roma rəqəmləri ilə yazıldıqda;",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1,3" },
       { "B": "2,3" },
@@ -4863,7 +4863,7 @@
     "questionNumber": 380,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Təhsil alan gənclərin elmi-tədqiqat işinə cəlb olunması zamanı formalaşdırılan xüsusiyyətlərdən biri yanlışdır:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Həvəs" },
       { "B": "Bacarıq" },
@@ -4876,7 +4876,7 @@
     "questionNumber": 381,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Akademik kommunikasiyanın yaradıcılıq fəaliyyəti nəticəsində tələbənin qazandıqlarına aid deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Alim kimi yetişir" },
       { "B": "Özünü kəşf edir" },
@@ -4889,7 +4889,7 @@
     "questionNumber": 382,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tələbələrin elmi tədqiqat aparması mərhələlərinə aid deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Tədqiqatçılıq bacarığına yiyələnir" },
       { "B": "Sərbəst mühakimə aparır" },
@@ -4902,7 +4902,7 @@
     "questionNumber": 383,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "İnteraktiv təlimdə tələbələrlə iş zamanı əldə edilən üstünlüklərə aid deyil:",
-    "correctAnwser": "A",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ənənəvi metodlardan istifadə edir" },
       { "B": "Təfəkkürü inkişaf edir" },

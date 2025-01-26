@@ -156,7 +156,7 @@ function displayQuestions(questions) {
               const key = labels[answerIndex]; // Use fixed label for the current answer
               const value = Object.values(answer)[0]; // Get the answer text
               const isCorrect =
-                Object.keys(answer)[0] === question.correctAnwser; // Check if it's the correct answer
+                Object.keys(answer)[0] === question.correctAnswer; // Check if it's the correct answer
               return `
               <button type="button" class="list-group-item list-group-item-action" 
                       data-question="${index}" 
