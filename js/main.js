@@ -8,46 +8,51 @@ let isChecked = false; // Flag to track if "Check" has been clicked
 // Get the current location
 const currentLocation = window.location.pathname;
 
-console.log('Pathname:', currentLocation); // Pathname (relative path)
-
 // Function to determine the endpoint
 function getEndpoint(locationPath) {
   let endpoint;
 
   if (
-    locationPath === '/xarici-dil' ||
-    locationPath === '/xarici-dil.html' ||
-    locationPath === '/SeidExam/xarici-dil.html'
+    locationPath === '/exams/xarici-dil' ||
+    locationPath === '/exams/xarici-dil.html' ||
+    locationPath === '/SeidExam/exams/xarici-dil.html'
   ) {
     endpoint = './xarici-dil.json';
   } else if (
-    locationPath === '/information-technologies' ||
-    locationPath === '/information-technologies.html' ||
-    locationPath === '/SeidExam/information-technologies.html'
+    locationPath === '/exams/information-technologies' ||
+    locationPath === '/exams/information-technologies.html' ||
+    locationPath === '/SeidExam/exams/information-technologies.html'
   ) {
     endpoint = './information-technologies.json';
   } else if (
-    locationPath === '/it-esaslari' ||
-    locationPath === '/it-esaslari.html' ||
-    locationPath === '/SeidExam/it-esaslari.html'
+    locationPath === '/exams/it-esaslari' ||
+    locationPath === '/exams/it-esaslari.html' ||
+    locationPath === '/SeidExam/exmas/it-esaslari.html'
   ) {
     endpoint = './it-esaslari.json';
   } else if (
-    locationPath === '/az-dili' ||
-    locationPath === '/az-dili.html' ||
-    locationPath === '/SeidExam/az-dili.html'
+    locationPath === '/exams/az-dili' ||
+    locationPath === '/exams/az-dili.html' ||
+    locationPath === '/SeidExam/exams/az-dili.html'
   ) {
     endpoint = './az-dili.json';
+  } else if (
+    locationPath === '/exams/mathematical-analysis' ||
+    locationPath === '/exams/mathematical-analysis.html' ||
+    locationPath === '/SeidExam/exams/mathematical-analysis.html'
+  ) {
+    endpoint = './mathematical-analysis.json';
   }
 
-  return endpoint;
+  return `https://raw.githubusercontent.com/animeroman/SeidExam/data/refs/heads/main/${endpoint}`;
+  // return endpoint;
 }
 
 // Pass the pathname to the function and store the result
 const endpoint = getEndpoint(currentLocation);
 
-// Log the endpoint to verify the result
-console.log('Endpoint:', endpoint);
+console.log(`Current Location: ${currentLocation}`);
+console.log(`Endpoint: ${endpoint}`);
 
 const key = `questionStatuses-${currentLocation}`;
 let questionStatuses = JSON.parse(localStorage.getItem(key)) || {};
@@ -148,7 +153,6 @@ function displayQuestions(questions) {
     const questionHtml = `
       <div class="question-block">
         <h5 class="card-title">${index + 1}. ${question.questionUp}</h5>
-        ${wrongMark}
         <p class="card-text">${question.questionDown}</p>
         <div class="list-group">
           ${shuffledAnswers
@@ -175,6 +179,9 @@ function displayQuestions(questions) {
     `;
     cardContainer.innerHTML += questionHtml;
   });
+
+  // Trigger MathJax to render the equations
+  MathJax.typeset();
 }
 
 // Function to display question statuses in #main-questions
