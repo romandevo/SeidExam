@@ -44,7 +44,7 @@ function getEndpoint(locationPath) {
     endpoint = './mathematical-analysis.json';
   }
 
-  return `https://raw.githubusercontent.com/animeroman/SeidExam/data/refs/heads/main/${endpoint}`;
+  return `https://raw.githubusercontent.com/animeroman/SeidExam/refs/heads/main/data/${endpoint}`;
   // return endpoint;
 }
 
