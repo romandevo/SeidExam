@@ -42,9 +42,15 @@ function getEndpoint(locationPath) {
     locationPath === '/SeidExam/exams/mathematical-analysis.html'
   ) {
     endpoint = './mathematical-analysis.json';
+  } else if (
+    locationPath === '/exams/idman' ||
+    locationPath === '/exams/idman.html' ||
+    locationPath === '/SeidExam/exams/idman.html'
+  ) {
+    endpoint = './idman.json';
   }
 
-  return `https://raw.githubusercontent.com/animeroman/SeidExam/refs/heads/main/data/${endpoint}`;
+  return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
   // return endpoint;
 }
 
