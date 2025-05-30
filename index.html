@@ -12,6 +12,10 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+    />
     <style>
       body {
         background-color: #1d1d1d;
@@ -35,13 +39,27 @@
         font-weight: bold;
         font-size: 1.2rem;
       }
-      .schedule-title {
-        flex-grow: 1;
-        margin-left: 15px;
+
+      /* Line + Button container */
+      .divider-line-container {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        justify-content: center;
+        flex-wrap: wrap;
       }
-      .schedule-episode {
-        color: #ccc;
-        font-size: 0.9rem;
+
+      .divider-line {
+        flex-grow: 1;
+        height: 1px;
+        background-color: #888;
+        opacity: 0.5;
+        min-width: 50px;
+      }
+
+      .toggle-btn {
+        white-space: nowrap;
       }
     </style>
   </head>
@@ -49,27 +67,124 @@
     <div class="container py-5">
       <h1 class="text-center mb-4">Səid's Exams</h1>
 
-      <a href="exams/it-esaslari.html" class="schedule-item">
-        <span class="schedule-time">IT Əsasları - 1</span>
-      </a>
-      <a href="exams/xarici-dil.html" class="schedule-item">
-        <span class="schedule-time"
-          >Xarici dildə işgüzar akademik kommunikasiya 1</span
+      <!-- Line + Button Combo -->
+      <div class="divider-line-container">
+        <button
+          class="btn btn-outline-light toggle-btn"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#S1-P1"
+          aria-expanded="false"
+          aria-controls="S1-P1"
         >
-      </a>
-      <a href="exams/information-technologies.html" class="schedule-item">
-        <span class="schedule-time"
-          >Application of information technologies in the specially</span
+          S1-P1 (5 Exams)
+        </button>
+        <div class="divider-line"></div>
+      </div>
+
+      <!-- Collapsible Exam List -->
+      <div class="collapse" id="S1-P1">
+        <!-- removed "show" class -->
+        <a href="exams/it-esaslari.html" class="schedule-item">
+          <span class="schedule-time">IT Əsasları - 1</span>
+        </a>
+        <a href="exams/xarici-dil.html" class="schedule-item">
+          <span class="schedule-time"
+            >Xarici dildə işgüzar akademik kommunikasiya 1</span
+          >
+        </a>
+        <a href="exams/information-technologies.html" class="schedule-item">
+          <span class="schedule-time"
+            >Application of information technologies in the specially</span
+          >
+        </a>
+        <a href="exams/az-dili.html" class="schedule-item">
+          <span class="schedule-time"
+            >Azərbaycan Dilində İşgüzar və Akademik Kommunikasiya (ADIAK)</span
+          >
+        </a>
+        <a href="exams/mathematical-analysis.html" class="schedule-item">
+          <span class="schedule-time">Mathematical Analysis</span>
+          <span class="schedule-episode">Unfinished</span>
+        </a>
+      </div>
+
+      <div class="divider-line-container">
+        <button
+          class="btn btn-outline-light toggle-btn"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#S1-P2"
+          aria-expanded="false"
+          aria-controls="S1-P2"
         >
-      </a>
-      <a href="exams/az-dili.html" class="schedule-item">
-        <span class="schedule-time"
-          >Azərbaycan Dilində İşgüzar və Akademik Kommunikasiya (ADIAK)</span
+          S1-P2 (7 Exams)
+        </button>
+        <div class="divider-line"></div>
+      </div>
+
+      <div class="collapse" id="S1-P2">
+        <!-- removed "show" class -->
+        <a
+          href="exams/.."
+          class="schedule-item"
+          style="pointer-events: none; color: gray; text-decoration: none"
         >
-      </a>
-      <a href="exams/mathematical-analysis.html" class="schedule-item">
-        <span class="schedule-time">Mathematical analysis</span>
-      </a>
+          <span class="schedule-time">IT Əsasları - 2</span>
+
+          <span class="schedule-episode">Locked</span>
+        </a>
+        <a
+          href="exams/.."
+          class="schedule-item"
+          style="pointer-events: none; color: gray; text-decoration: none"
+        >
+          <span class="schedule-time"
+            >Xarici dildə işgüzar akademik kommunikasiya 2</span
+          >
+          <span class="schedule-episode">Locked</span>
+        </a>
+        <a
+          href="exams/.."
+          class="schedule-item"
+          style="pointer-events: none; color: gray; text-decoration: none"
+        >
+          <span class="schedule-time">Fizika</span>
+          <span class="schedule-episode">Locked</span>
+        </a>
+        <a
+          href="exams/.."
+          class="schedule-item"
+          style="pointer-events: none; color: gray; text-decoration: none"
+        >
+          <span class="schedule-time">Programlaşdırmanın Əsasları</span>
+          <span class="schedule-episode">Locked</span>
+        </a>
+        <a
+          href="exams/.."
+          class="schedule-item"
+          style="pointer-events: none; color: gray; text-decoration: none"
+        >
+          <span class="schedule-time">Xətti Cəbr</span>
+          <span class="schedule-episode">Locked</span>
+        </a>
+        <a
+          href="exams/.."
+          class="schedule-item"
+          style="pointer-events: none; color: gray; text-decoration: none"
+        >
+          <span class="schedule-time">Diferensial Tənliklər</span>
+          <span class="schedule-episode">Locked</span>
+        </a>
+        <a
+          href="exams/.."
+          class="schedule-item"
+          style="pointer-events: none; color: gray; text-decoration: none"
+        >
+          <span class="schedule-time">Instrumental və Tətbiqi Programlar</span>
+          <span class="schedule-episode">Locked</span>
+        </a>
+      </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
