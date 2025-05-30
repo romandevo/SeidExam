@@ -1,0 +1,5219 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "“To jump.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Leap" },
+      { "B": "Steep" },
+      { "C": "Poured" },
+      { "D": "Sign up" },
+      { "E": "Chase" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "“With a gradient that rises or falls very quickly.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Steep" },
+      { "B": "Leap" },
+      { "C": "Provide" },
+      { "D": "Sign up" },
+      { "E": "Chase" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“Made a liquid flow from a container.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Poured" },
+      { "B": "Steep" },
+      { "C": "Leap" },
+      { "D": "Raise" },
+      { "E": "Chase" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“To join a course, an organization or an event.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sign up" },
+      { "B": "Sleep" },
+      { "C": "Poured" },
+      { "D": "Leap" },
+      { "E": "Dismiss" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“To run after someone or something so you can catch them.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Chase" },
+      { "B": "Reduce" },
+      { "C": "Purchase" },
+      { "D": "Sign up" },
+      { "E": "Leap" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“Rose high in the sky.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Soared" },
+      { "B": "Tied" },
+      { "C": "Reduce" },
+      { "D": "Horns" },
+      { "E": "Relieve" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“Fastened by pulling two ends together.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Tied" },
+      { "B": "Soared" },
+      { "C": "Dousing" },
+      { "D": "Horns" },
+      { "E": "Relieve" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“Covering someone or something with a liquid.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dousing" },
+      { "B": "Tied" },
+      { "C": "Soared" },
+      { "D": "Horns" },
+      { "E": "Relieve" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“Two hard pointed parts that grow on the heads of some animals.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Horns" },
+      { "B": "Give up" },
+      { "C": "Dousing" },
+      { "D": "Crown" },
+      { "E": "Relieve" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“To make an unpleasant situation better.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Relieve" },
+      { "B": "Tied" },
+      { "C": "Dousing" },
+      { "D": "Horns" },
+      { "E": "Soared" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“The feeling that someone is important and that you should be polite to them.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Respect" },
+      { "B": "Concussion" },
+      { "C": "Elderly" },
+      { "D": "Protests" },
+      { "E": "Herd" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“A head injury that makes people lose consciousness.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Concussion" },
+      { "B": "Respect" },
+      { "C": "Backache" },
+      { "D": "Protests" },
+      { "E": "Herd" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“Old.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Elderly" },
+      { "B": "Concussion" },
+      { "C": "Respect" },
+      { "D": "Protests" },
+      { "E": "Herd" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“Actions that show that people are against something.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Protests" },
+      { "B": "Concussion" },
+      { "C": "Welcome" },
+      { "D": "Respect" },
+      { "E": "Herd" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Match the definitions with an appropriate word.",
+    "questionDown": "“A group of animals that live and eat together.“",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Herd" },
+      { "B": "Concussion" },
+      { "C": "Elderly" },
+      { "D": "Protests" },
+      { "E": "Respect" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“Could you ___ some water into my glass, please?”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Pour" },
+      { "B": "Ask" },
+      { "C": "Return" },
+      { "D": "Leap" },
+      { "E": "Respect" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“Only one goat on our farm has got big ___ and he’s not dangerous.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Horns" },
+      { "B": "Pour" },
+      { "C": "Concussion" },
+      { "D": "Leap" },
+      { "E": "Respect" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“The little boy fell off his bicycle and hit his head. He had ___ and his parents took him to hospital.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Concussion" },
+      { "B": "Horns" },
+      { "C": "Pour" },
+      { "D": "Leap" },
+      { "E": "Respect" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“There isn’t a bridge but the river is very narrow. We can ___ from one side to the other.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Leap" },
+      { "B": "Suggest" },
+      { "C": "Find" },
+      { "D": "Pour" },
+      { "E": "Respect" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“Children should always show ___ to older people and speak politely to them.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Respect" },
+      { "B": "Destroy" },
+      { "C": "Answer" },
+      { "D": "Leap" },
+      { "E": "Pour" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“On safari we saw a ___ of elephants drinking water at a lake.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Herd" },
+      { "B": "Soared" },
+      { "C": "Elderly" },
+      { "D": "Steep" },
+      { "E": "Signed up" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“I threw the paper plane into the sky and it ___ high into the air.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Soared" },
+      { "B": "Herd" },
+      { "C": "Happen" },
+      { "D": "Steep" },
+      { "E": "Signed up" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“A lot of ___ people find it difficult to move around.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Elderly" },
+      { "B": "Soared" },
+      { "C": "Herd" },
+      { "D": "Steep" },
+      { "E": "Signed up" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“It took me thirty minutes to cycle up the ___ hill and five to cycle down the other side!”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Steep" },
+      { "B": "Disaster" },
+      { "C": "Reduce" },
+      { "D": "Herd" },
+      { "E": "Signed up" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“He wants to study Arabic so he has ___ for a course at the Arab Studies school.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Signed up" },
+      { "B": "Soared" },
+      { "C": "Damage" },
+      { "D": "Steep" },
+      { "E": "Herd" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“These tablets ___ the pain of headaches and soon stop them.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Relieve" },
+      { "B": "Douse" },
+      { "C": "Chases" },
+      { "D": "Tied" },
+      { "E": "Protest" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“The firemen had to ___ the fire with water for three hours before they could control it.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Douse" },
+      { "B": "Relieve" },
+      { "C": "Chases" },
+      { "D": "Tied" },
+      { "E": "Protest" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“Our dog always ___ cats but he never catches them!”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Chases" },
+      { "B": "Douse" },
+      { "C": "Relieve" },
+      { "D": "Tied" },
+      { "E": "Protest" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“The laces on his trainers were unfastened so he ___ them together.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Tied" },
+      { "B": "Douse" },
+      { "C": "Chases" },
+      { "D": "Relieve" },
+      { "E": "Protest" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "“The people don’t want a new road and they’ve organized a ___ against it in the city centre.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Protest" },
+      { "B": "Douse" },
+      { "C": "Chases" },
+      { "D": "Tied" },
+      { "E": "Relieve" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Complete this sentence with the correct forms of the verb.",
+    "questionDown": "\u201cWe\u2019re ___ that shop and not buying anything from there. The owner was really rude to my mum.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Boycotting"
+      },
+      {
+        "B": "Censored"
+      },
+      {
+        "C": "Allow"
+      },
+      {
+        "D": "Exiled"
+      },
+      {
+        "E": "Authorized"
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Complete this sentence with the correct forms of the verb.",
+    "questionDown": "\u201cThe education department said there is some violence in the film and they have ___ parts of it.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Censored"
+      },
+      {
+        "B": "Boycotting"
+      },
+      {
+        "C": "Allow"
+      },
+      {
+        "D": "Exiled"
+      },
+      {
+        "E": "Authorized"
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Complete this sentence with the correct forms of the verb.",
+    "questionDown": "\u201cMy parents only ___ me to watch TV at the weekends.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Allow"
+      },
+      {
+        "B": "Censored"
+      },
+      {
+        "C": "Boycotting"
+      },
+      {
+        "D": "Exiled"
+      },
+      {
+        "E": "Authorized"
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Complete this sentence with the correct forms of the verb.",
+    "questionDown": "\u201cThe British ___ the French leader Napoleon to a small island in the Atlantic Ocean.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Exiled"
+      },
+      {
+        "B": "Censored"
+      },
+      {
+        "C": "Allow"
+      },
+      {
+        "D": "Boycotting"
+      },
+      {
+        "E": "Authorized"
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Complete this sentence with the correct forms of the verb.",
+    "questionDown": "\u201cThe government has ___ the building of a new hospital. Work will start next month.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Authorized"
+      },
+      {
+        "B": "Censored"
+      },
+      {
+        "C": "Allow"
+      },
+      {
+        "D": "Exiled"
+      },
+      {
+        "E": "Boycotting"
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Complete this sentence with the correct forms of the verb.",
+    "questionDown": "\u201cYou can\u2019t smoke in the library. The town hall has ___ smoking in public buildings.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Prohibited"
+      },
+      {
+        "B": "Censored"
+      },
+      {
+        "C": "Allow"
+      },
+      {
+        "D": "Exiled"
+      },
+      {
+        "E": "Authorized"
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Choose the correct time expressions.",
+    "questionDown": "\u201cThere\u2019s a fire \u2013 please leave the building ___.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Immediately"
+      },
+      {
+        "B": "Last year"
+      },
+      {
+        "C": "As"
+      },
+      {
+        "D": "Until"
+      },
+      {
+        "E": "In the end"
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Choose the correct time expressions.",
+    "questionDown": "\u201cThe police arrested her because ___ she\u2019d stolen a mobile phone.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "A week earlier"
+      },
+      {
+        "B": "Immediately"
+      },
+      {
+        "C": "As"
+      },
+      {
+        "D": "At first"
+      },
+      {
+        "E": "In the end"
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Choose the correct time expressions.",
+    "questionDown": "\u201cSomebody attacked him ___ he has walking through the park.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "As"
+      },
+      {
+        "B": "A week earlier"
+      },
+      {
+        "C": "Immediately"
+      },
+      {
+        "D": "At first"
+      },
+      {
+        "E": "In the end"
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Choose the correct time expressions.",
+    "questionDown": "\u201cThe witness identified the criminal ___ she saw him.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "As soon as"
+      },
+      {
+        "B": "Carefully"
+      },
+      {
+        "C": "Immediately"
+      },
+      {
+        "D": "At first"
+      },
+      {
+        "E": "In the end"
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cThe place where you are going.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Destination"
+      },
+      {
+        "B": "Pilots"
+      },
+      {
+        "C": "Cargo"
+      },
+      {
+        "D": "Route"
+      },
+      {
+        "E": "Retired"
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cPeople who help to guide ships.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Pilots"
+      },
+      {
+        "B": "Destination"
+      },
+      {
+        "C": "Cargo"
+      },
+      {
+        "D": "Route"
+      },
+      {
+        "E": "Retired"
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cThe goods that a ship carries.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Cargo"
+      },
+      {
+        "B": "Pilots"
+      },
+      {
+        "C": "Destination"
+      },
+      {
+        "D": "Route"
+      },
+      {
+        "E": "Retired"
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cThe way from one place to another.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Route"
+      },
+      {
+        "B": "Pilots"
+      },
+      {
+        "C": "Cargo"
+      },
+      {
+        "D": "Destination"
+      },
+      {
+        "E": "Retired"
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cFinished working for life.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Retired"
+      },
+      {
+        "B": "Pilots"
+      },
+      {
+        "C": "Cargo"
+      },
+      {
+        "D": "Route"
+      },
+      {
+        "E": "Destination"
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cThe study of religion.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Theology"
+      },
+      {
+        "B": "Pilgrimage"
+      },
+      {
+        "C": "Caravan"
+      },
+      {
+        "D": "Contemporaries"
+      },
+      {
+        "E": "Merchants"
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cA journey to holy place.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Pilgrimage"
+      },
+      {
+        "B": "Theology"
+      },
+      {
+        "C": "Caravan"
+      },
+      {
+        "D": "Contemporaries"
+      },
+      {
+        "E": "Merchants"
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cA group of people and animals travelling together, especially across a desert.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Caravan"
+      },
+      {
+        "B": "Pilgrimage"
+      },
+      {
+        "C": "Theology"
+      },
+      {
+        "D": "Contemporaries"
+      },
+      {
+        "E": "Merchants"
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cPeople who were alive at the same time.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Contemporaries"
+      },
+      {
+        "B": "Pilgrimage"
+      },
+      {
+        "C": "Caravan"
+      },
+      {
+        "D": "Theology"
+      },
+      {
+        "E": "Merchants"
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cPeople who buy and sell goods.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Merchants"
+      },
+      {
+        "B": "Pilgrimage"
+      },
+      {
+        "C": "Caravan"
+      },
+      {
+        "D": "Contemporaries"
+      },
+      {
+        "E": "Theology"
+      }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cLeft forever.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Abandoned"
+      },
+      {
+        "B": "Coast"
+      },
+      {
+        "C": "Shipwrecks"
+      },
+      {
+        "D": "Ambassador"
+      },
+      {
+        "E": "Inspired"
+      }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cThe land next to the sea.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Coast"
+      },
+      {
+        "B": "Abandoned"
+      },
+      {
+        "C": "Shipwrecks"
+      },
+      {
+        "D": "Ambassador"
+      },
+      {
+        "E": "Inspired"
+      }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cAccidents at sea that destroy ships.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Shipwrecks"
+      },
+      {
+        "B": "Coast"
+      },
+      {
+        "C": "Abandoned"
+      },
+      {
+        "D": "Ambassador"
+      },
+      {
+        "E": "Inspired"
+      }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cSomeone who represents their country.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Ambassador"
+      },
+      {
+        "B": "Coast"
+      },
+      {
+        "C": "Shipwrecks"
+      },
+      {
+        "D": "Abandoned"
+      },
+      {
+        "E": "Inspired"
+      }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Match the definition with an appropriate word.",
+    "questionDown": "\u201cGive somebody the confidence to do something.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Inspired"
+      },
+      {
+        "B": "Coast"
+      },
+      {
+        "C": "Shipwrecks"
+      },
+      {
+        "D": "Ambassador"
+      },
+      {
+        "E": "Abandoned"
+      }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Complete these sentences with correct form of the words:",
+    "questionDown": "The _____ came up the beach and hit the coastal resort hard. It _____ into trees and buildings and it didn\u2019t leave anything standing. It _____ everything and _____ the town, covering the land in water.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "tidal wave, smashed, flattened, flooded"
+      },
+      {
+        "B": "evacuate, devastate, chunk, plunge"
+      },
+      {
+        "C": "collapse, havoc, landslide, flood"
+      },
+      {
+        "D": "havoc, unleashed, devastated, plunged"
+      },
+      {
+        "E": "flood, evacuated, chunk, collapse"
+      }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Complete these sentences with correct form of the words:",
+    "questionDown": "It was a very hot summer and the town hall sent a _____ to local people about possible forest fires. Unfortunately, there was a big fire and they decided to _____ everybody that lived near the forest and move them to a safer place. However, there was a lot of confusion and all the cars on the roads caused _____ for the fire brigade.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "warning, evacuate, havoc"
+      },
+      {
+        "B": "erupt, flood, flatten"
+      },
+      {
+        "C": "unleashing, plunge, flood"
+      },
+      {
+        "D": "devastating, smash, erupt"
+      },
+      {
+        "E": "chunk, catastrophe, collapse"
+      }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Complete these sentences with correct form of the words:",
+    "questionDown": "When the volcano Krakatoa in Indonesia _____ in 1883 it caused terrible damage. It _____ five tsunamis that _____ local towns. It was a _____ that killed thousands of people and destroyed thousands of homes.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "erupted, unleashed, devastated, catastrophe"
+      },
+      {
+        "B": "smashed, flattened, chunk, plunge"
+      },
+      {
+        "C": "plunged, smash, warning, tidal wave"
+      },
+      {
+        "D": "flooded, flattened, havoc, chunk"
+      },
+      {
+        "E": "plunged, collapse, warning, havoc"
+      }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "There was a storm and a big _____ of wood fell off a tree and hit a man on the head. He _____ but he soon got up again, although he was badly cut.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "chunk, collapsed"
+      },
+      {
+        "B": "plung, devastated"
+      },
+      {
+        "C": "catastrophe, smashed"
+      },
+      {
+        "D": "havoc, flooded"
+      },
+      {
+        "E": "tidal wave, flattened"
+      }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Complete this sentence with the correct form of the word.",
+    "questionDown": "First, a big rock at the top of the hill _____ 500 metres and fell onto a car. Fortunately, nobody was hurt. More rocks started falling and then suddenly everything moved. It was a _____!",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "plunged, landslide"
+      },
+      {
+        "B": "smashed, flooded"
+      },
+      {
+        "C": "tidal wave, flattened"
+      },
+      {
+        "D": "evacuate, unleashed"
+      },
+      {
+        "E": "warning, devastate"
+      }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "To move people from a place because it isn\u2019t safe.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "evacuate"
+      },
+      {
+        "B": "devastate"
+      },
+      {
+        "C": "Flood"
+      },
+      {
+        "D": "plunged"
+      },
+      {
+        "E": "smash"
+      }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "To make something flat.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "flatten"
+      },
+      {
+        "B": "warning"
+      },
+      {
+        "C": "collaps"
+      },
+      {
+        "D": "flood"
+      },
+      {
+        "E": "havoc"
+      }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Explodes and throws out fire and rocks.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "erupts"
+      },
+      {
+        "B": "plunged"
+      },
+      {
+        "C": "tridal wave"
+      },
+      {
+        "D": "smash"
+      },
+      {
+        "E": "collaps"
+      }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "To destroy or damage something badly.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "devastate"
+      },
+      {
+        "B": "flood"
+      },
+      {
+        "C": "havoc"
+      },
+      {
+        "D": "catastrophe"
+      },
+      {
+        "E": "warning"
+      }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "To cause something that has a very dangerous effect.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "unleash"
+      },
+      {
+        "B": "flood"
+      },
+      {
+        "C": "warning"
+      },
+      {
+        "D": "collaps"
+      },
+      {
+        "E": "landslide"
+      }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "A large piece of something.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "chunk"
+      },
+      {
+        "B": "havoc"
+      },
+      {
+        "C": "flatten"
+      },
+      {
+        "D": "collaps"
+      },
+      {
+        "E": "evacuate"
+      }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "To hit something with a lot of force.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "smash"
+      },
+      {
+        "B": "erupts"
+      },
+      {
+        "C": "unleash"
+      },
+      {
+        "D": "havoc"
+      },
+      {
+        "E": "flatten"
+      }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "When rocks suddenly fall down the side of a mountain.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "landslide"
+      },
+      {
+        "B": "flood"
+      },
+      {
+        "C": "devastate"
+      },
+      {
+        "D": "unleash"
+      },
+      {
+        "E": "erupts"
+      }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "To cover and fill a place with water.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "flood"
+      },
+      {
+        "B": "erupts"
+      },
+      {
+        "C": "flatten"
+      },
+      {
+        "D": "havoc"
+      },
+      {
+        "E": "warning"
+      }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "A disaster that causes a lot of damage and suffering.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "havoc"
+      },
+      {
+        "B": "smash"
+      },
+      {
+        "C": "chunk"
+      },
+      {
+        "D": "devastate"
+      },
+      {
+        "E": "landslide"
+      }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Fell quickly from a high place.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "plunged"
+      },
+      {
+        "B": "collaps"
+      },
+      {
+        "C": "havoc"
+      },
+      {
+        "D": "erupts"
+      },
+      {
+        "E": "evacuate"
+      }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Something telling people about possible danger.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "warning"
+      },
+      {
+        "B": "catastrophe"
+      },
+      {
+        "C": "unleash"
+      },
+      {
+        "D": "flatten"
+      },
+      {
+        "E": "havoc"
+      }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "To suddenly fall down.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "collaps"
+      },
+      {
+        "B": "smash"
+      },
+      {
+        "C": "chunk"
+      },
+      {
+        "D": "devastate"
+      },
+      {
+        "E": "havoc"
+      }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "A very large moving part of sea water that destroys the coast.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "tidal wave"
+      },
+      {
+        "B": "landslide"
+      },
+      {
+        "C": "unleash"
+      },
+      {
+        "D": "chunk"
+      },
+      {
+        "E": "smash"
+      }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "A situation when there is a lot of confusion and damage.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "catastrophe"
+      },
+      {
+        "B": "havoc"
+      },
+      {
+        "C": "flood"
+      },
+      {
+        "D": "unleash"
+      },
+      {
+        "E": "Devastate"
+      }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Complete the sentences, using the verbs below.",
+    "questionDown": "Please____your dirty football kit in hot water before putting it in the washing machine.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "soak"
+      },
+      {
+        "B": "water"
+      },
+      {
+        "C": "dribble"
+      },
+      {
+        "D": "dripp"
+      },
+      {
+        "E": "squirt"
+      }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Complete the sentences, using the verbs below.",
+    "questionDown": "That glass of water is very full. Don\u2019t ____ it !",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "spill"
+      },
+      {
+        "B": "splash"
+      },
+      {
+        "C": "dripp"
+      },
+      {
+        "D": "dribble"
+      },
+      {
+        "E": "soak"
+      }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Complete the sentences, using the verbs below.",
+    "questionDown": "We need water to _______the dry fields so we can grow food.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "irrigate"
+      },
+      {
+        "B": "spill"
+      },
+      {
+        "C": "dripp"
+      },
+      {
+        "D": "water"
+      },
+      {
+        "E": "Splash"
+      }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Complete the sentences, using the verbs below.",
+    "questionDown": "I\u2019ve turned off the tap but water continues to ___ from it. Can you repair it?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "drip"
+      },
+      {
+        "B": "dribble"
+      },
+      {
+        "C": "soak"
+      },
+      {
+        "D": "spill"
+      },
+      {
+        "E": "irrigate"
+      }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Complete the sentences, using the verbs below.",
+    "questionDown": "Children, don\u2019t _____ when you\u2019re in the bath. I don\u2019t want water all over the bathroom floor!",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "splash"
+      },
+      {
+        "B": "irrigate"
+      },
+      {
+        "C": "spill"
+      },
+      {
+        "D": "squirt"
+      },
+      {
+        "E": "water"
+      }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Complete the sentences, using the verbs below.",
+    "questionDown": "You only need to ______ this plant once a week.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "water"
+      },
+      {
+        "B": "splash"
+      },
+      {
+        "C": "dripp"
+      },
+      {
+        "D": "soak"
+      },
+      {
+        "E": "spill"
+      }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Complete the sentences, using the verbs below.",
+    "questionDown": "She accidently squeezed the carton and the juice _______ out all over the table.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "squirt"
+      },
+      {
+        "B": "spill"
+      },
+      {
+        "C": "dripp"
+      },
+      {
+        "D": "dribble"
+      },
+      {
+        "E": "irrigate"
+      }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Complete the sentences, using the verbs below.",
+    "questionDown": "“You should be careful when you’re drinking milk. Look, you’ve _____ milk down your top!”",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "dribble"
+      },
+      {
+        "B": "spill"
+      },
+      {
+        "C": "splash"
+      },
+      {
+        "D": "soak"
+      },
+      {
+        "E": "Irrigate"
+      }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "A delayed punishment a person will only receive if they do something bad or illegal again during a certain period of time.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "suspended sentence"
+      },
+      {
+        "B": "tip-off"
+      },
+      {
+        "C": "traced"
+      },
+      {
+        "D": "chaos"
+      },
+      {
+        "E": "halt"
+      }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Money someone receives for helping to find someone or something.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "reward"
+      },
+      {
+        "B": "investigation"
+      },
+      {
+        "C": "clues"
+      },
+      {
+        "D": "guilty"
+      },
+      {
+        "E": "vital"
+      }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Suddenly stopped working.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "crashed"
+      },
+      {
+        "B": "halt"
+      },
+      {
+        "C": "traced"
+      },
+      {
+        "D": "charged"
+      },
+      {
+        "E": "clues"
+      }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "A situation when something stops moving or happening.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "halt"
+      },
+      {
+        "B": "chaos"
+      },
+      {
+        "C": "traced"
+      },
+      {
+        "D": "clues"
+      },
+      {
+        "E": "charged"
+      }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "An examination in court to decide if somebody is guilty of a crime.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "trial"
+      },
+      {
+        "B": "chaos"
+      },
+      {
+        "C": "tip-off"
+      },
+      {
+        "D": "clues"
+      },
+      {
+        "E": "halt"
+      }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Took someone to police station.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "arrested"
+      },
+      {
+        "B": "crashed"
+      },
+      {
+        "C": "reward"
+      },
+      {
+        "D": "chaos"
+      },
+      {
+        "E": "clues"
+      }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "A situation when everything is disorganized and confused.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "chaos"
+      },
+      {
+        "B": "halt"
+      },
+      {
+        "C": "crashed"
+      },
+      {
+        "D": "reward"
+      },
+      {
+        "E": "trial"
+      }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Very important.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "vital"
+      },
+      {
+        "B": "halt"
+      },
+      {
+        "C": "chaos"
+      },
+      {
+        "D": "clues"
+      },
+      {
+        "E": "crashed"
+      }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Secret information that you give to someone.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "tip-off"
+      },
+      {
+        "B": "halt"
+      },
+      {
+        "C": "reward"
+      },
+      {
+        "D": "chaos"
+      },
+      {
+        "E": "clues"
+      }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "A process to find out who or what caused something.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "investigation"
+      },
+      {
+        "B": "arrested"
+      },
+      {
+        "C": "released"
+      },
+      {
+        "D": "charged"
+      },
+      {
+        "E": "reward"
+      }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Found something or someone you were looking for.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "traced"
+      },
+      {
+        "B": "crashed"
+      },
+      {
+        "C": "reward"
+      },
+      {
+        "D": "clues"
+      },
+      {
+        "E": "vital"
+      }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Pieces of information that help someone in an investigation.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "clues"
+      },
+      {
+        "B": "guilty"
+      },
+      {
+        "C": "reward"
+      },
+      {
+        "D": "tip-off"
+      },
+      {
+        "E": "investigation"
+      }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Accused someone of doing something bad or illegal.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Charged"
+      },
+      {
+        "B": "halt"
+      },
+      {
+        "C": "crashed"
+      },
+      {
+        "D": "traced"
+      },
+      {
+        "E": "arrested"
+      }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Being responsible for doing something bad or illegal.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "guilty"
+      },
+      {
+        "B": "clues"
+      },
+      {
+        "C": "chaos"
+      },
+      {
+        "D": "traced"
+      },
+      {
+        "E": "halt"
+      }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Match with the appropriate word.",
+    "questionDown": "Let something spread in a particular place.",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "released"
+      },
+      {
+        "B": "clues"
+      },
+      {
+        "C": "traced"
+      },
+      {
+        "D": "trial"
+      },
+      {
+        "E": "chaos"
+      }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Match the verbs with the definitions.",
+    "questionDown": "“to refuse to buy goods from a particular company or to take part in a particular event.”",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Boycott"
+      },
+      {
+        "B": "Allow"
+      },
+      {
+        "C": "Prohibit"
+      },
+      {
+        "D": "Authorize"
+      },
+      {
+        "E": "Censor"
+      }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Match the verbs with the definitions.",
+    "questionDown": "“To make someone live in another country, usually for political reasons.”",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Exile"
+      },
+      {
+        "B": "Allow"
+      },
+      {
+        "C": "Prohibit"
+      },
+      {
+        "D": "Authorize"
+      },
+      {
+        "E": "Censor"
+      }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "Match the verbs with the definitions.",
+    "questionDown": "\u201cTo give official permission to do or have something.\u201d",
+    "correctAnswer": "D",
+    "answers": [
+      {
+        "A": "Allow"
+      },
+      {
+        "B": "Exile"
+      },
+      {
+        "C": "Prohibit"
+      },
+      {
+        "D": "Authorize"
+      },
+      {
+        "E": "Censor"
+      }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Match the verbs with the definitions.",
+    "questionDown": "\u201cTo remove the parts of a book or film for moral, political or religious reasons.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Censor"
+      },
+      {
+        "B": "Exile"
+      },
+      {
+        "C": "Prohibit"
+      },
+      {
+        "D": "Authorize"
+      },
+      {
+        "E": "Allow"
+      }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Match the verbs with the definitions.",
+    "questionDown": "\u201cTo stop people doing something.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Prohibit"
+      },
+      {
+        "B": "Exile"
+      },
+      {
+        "C": "Allow"
+      },
+      {
+        "D": "Authorize"
+      },
+      {
+        "E": "Censor"
+      }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Complete the sentences with the prepositions.",
+    "questionDown": "\u201cThey talk ___ bullfighting in Spain but in fact it is a man waiting ___ a bull to run at him.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "About, for"
+      },
+      {
+        "B": "Of, with"
+      },
+      {
+        "C": "In, around"
+      },
+      {
+        "D": "To, from"
+      },
+      {
+        "E": "Around, around"
+      }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Complete the sentences with the prepositions.",
+    "questionDown": "\u201cHowever, camel fighting in the ancient city of Ephesus consists ___ one camel fighting ___ another.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Of, with"
+      },
+      {
+        "B": "About, for"
+      },
+      {
+        "C": "In, around"
+      },
+      {
+        "D": "To, from"
+      },
+      {
+        "E": "Around, around"
+      }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Complete the sentences with the prepositions.",
+    "questionDown": "\u201cThe day before the fights, the camel owners participate ___ a festival.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "In"
+      },
+      {
+        "B": "With"
+      },
+      {
+        "C": "To"
+      },
+      {
+        "D": "For"
+      },
+      {
+        "E": "Of"
+      }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Complete the sentences with the prepositions.",
+    "questionDown": "\u201cThe next day thousands of people crowd ___ to watch the fights.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Around"
+      },
+      {
+        "B": "From"
+      },
+      {
+        "C": "With"
+      },
+      {
+        "D": "For"
+      },
+      {
+        "E": "About"
+      }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Complete the sentences with the prepositions.",
+    "questionDown": "\u201cHowever, the fights are not very violent and there are very few injuries ___ the camels: they just push each other.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "To"
+      },
+      {
+        "B": "For"
+      },
+      {
+        "C": "In"
+      },
+      {
+        "D": "Of"
+      },
+      {
+        "E": "With"
+      }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Complete the sentences with the prepositions.",
+    "questionDown": "\u201cAlthough, when a camel escapes ___ the fight and runs at the crowd, it can be very dangerous!\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "From"
+      },
+      {
+        "B": "With"
+      },
+      {
+        "C": "About"
+      },
+      {
+        "D": "Around"
+      },
+      {
+        "E": "For"
+      }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cTo make a copy of something.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Reproduce"
+      },
+      {
+        "B": "Marble"
+      },
+      {
+        "C": "Environment"
+      },
+      {
+        "D": "Cure"
+      },
+      {
+        "E": "Nightmare"
+      }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cA small coloured glass ball that children play games with.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Marble"
+      },
+      {
+        "B": "Reproduce"
+      },
+      {
+        "C": "Environment"
+      },
+      {
+        "D": "Cure"
+      },
+      {
+        "E": "Nightmare"
+      }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cThe place and conditions that people live and work in.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Environment"
+      },
+      {
+        "B": "Marble"
+      },
+      {
+        "C": "Reproduce"
+      },
+      {
+        "D": "Cure"
+      },
+      {
+        "E": "Nightmare"
+      }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cTo make an illness end.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Cure"
+      },
+      {
+        "B": "Marble"
+      },
+      {
+        "C": "Environment"
+      },
+      {
+        "D": "Reproduce"
+      },
+      {
+        "E": "Nightmare"
+      }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cA bad dream.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Nightmare"
+      },
+      {
+        "B": "Marble"
+      },
+      {
+        "C": "Environment"
+      },
+      {
+        "D": "Cure"
+      },
+      {
+        "E": "Reproduce"
+      }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cSomething that you can\u2019t see.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Invisible"
+      },
+      {
+        "B": "Injects"
+      },
+      {
+        "C": "Size"
+      },
+      {
+        "D": "Virus"
+      },
+      {
+        "E": "Shrinks"
+      }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cPuts a drug or medicine into someone\u2019s body.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Injects"
+      },
+      {
+        "B": "Invisible"
+      },
+      {
+        "C": "Size"
+      },
+      {
+        "D": "Virus"
+      },
+      {
+        "E": "Shrinks"
+      }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cHow big or small something is.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Size"
+      },
+      {
+        "B": "Injects"
+      },
+      {
+        "C": "Invisible"
+      },
+      {
+        "D": "Virus"
+      },
+      {
+        "E": "Shrinks"
+      }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cA very small living thing that can enter your body and cause disease.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Virus"
+      },
+      {
+        "B": "Injects"
+      },
+      {
+        "C": "Size"
+      },
+      {
+        "D": "Invisible"
+      },
+      {
+        "E": "Shrinks"
+      }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cMakes something become smaller.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Shrinks"
+      },
+      {
+        "B": "Injects"
+      },
+      {
+        "C": "Size"
+      },
+      {
+        "D": "Virus"
+      },
+      {
+        "E": "Invisible"
+      }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cA vehicle that can travel under water.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Submarine"
+      },
+      {
+        "B": "Entire"
+      },
+      {
+        "C": "Organs"
+      },
+      {
+        "D": "Consume"
+      },
+      {
+        "E": "Predictions"
+      }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cWhole or complete.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Entire"
+      },
+      {
+        "B": "Submarine"
+      },
+      {
+        "C": "Organs"
+      },
+      {
+        "D": "Consume"
+      },
+      {
+        "E": "Predictions"
+      }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cParts of the body, such as the heart or brain, that do a particular job.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Organs"
+      },
+      {
+        "B": "Entire"
+      },
+      {
+        "C": "Submarine"
+      },
+      {
+        "D": "Consume"
+      },
+      {
+        "E": "Predictions"
+      }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cTo use something such as energy, materials or food.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Consume"
+      },
+      {
+        "B": "Entire"
+      },
+      {
+        "C": "Organs"
+      },
+      {
+        "D": "Submarine"
+      },
+      {
+        "E": "Predictions"
+      }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Match the definitions with appropriate word.",
+    "questionDown": "\u201cStatements about what you think will happen in the future.\u201d",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Predictions"
+      },
+      {
+        "B": "Entire"
+      },
+      {
+        "C": "Organs"
+      },
+      {
+        "D": "Consume"
+      },
+      {
+        "E": "Submarine"
+      }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Complete these sentences with the correct form of words.",
+    "questionDown": "“Sailors in a ___ live and work in a very small space under the sea for long periods of time. It's a very difficult ___ to be in.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Submarine, environment" },
+      { "B": "Virus, inject, cures" },
+      { "C": "Prediction, reproduce, organs" },
+      { "D": "Nightmare, shrink, size" },
+      { "E": "Consumed, entire" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Complete these sentences with the correct form of words.",
+    "questionDown": "“I’ve had this ___ for a week now. I feel really tired and ill. The doctor is going to ___ me in my arm with a different medicine today. I hope it ___ me and that I can go back to work.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Virus, inject, cures" },
+      { "B": "Submarine, environment" },
+      { "C": "Prediction, reproduce, organs" },
+      { "D": "Nightmare, shrink, size" },
+      { "E": "Consumed, entire" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Complete these sentences with the correct form of words.",
+    "questionDown": "“Did you read that ___ in the newspaper about what scientists will do in the future? It said they will ___ new hearts and brains in laboratories and then give these new ___ to people that are ill. It's incredible!”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Prediction, reproduce, organs" },
+      { "B": "Virus, inject, cures" },
+      { "C": "Submarine, environment" },
+      { "D": "Nightmare, shrink, size" },
+      { "E": "Consumed, entire" }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Complete these sentences with the correct form of words.",
+    "questionDown": "“I had this terrible ___ last night! I thought that I was in an enormous washing machine and that I was going to ___! When the washing machine stopped I was the ___ of a small mouse! I was really glad to wake up!”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Nightmare, shrink, size" },
+      { "B": "Virus, inject, cures" },
+      { "C": "Prediction, reproduce, organs" },
+      { "D": "Submarine, environment" },
+      { "E": "Consumed, entire" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Complete these sentences with the correct form of words.",
+    "questionDown": "“They were really hungry after the match. They ___ the ___ meal in five minutes! They didn’t leave anything on their plates.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Consumed, entire" },
+      { "B": "Virus, inject, cures" },
+      { "C": "Prediction, reproduce, organs" },
+      { "D": "Nightmare, shrink, size" },
+      { "E": "Submarine, environment" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Complete these sentences with the correct form of words.",
+    "questionDown": "“Most of my ___ have lines of colour through the middle of them. However, I’ve got some that you can hardly see because they are just made of glass. They're almost ___ and I often win games with them.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Marbles, invisible" },
+      { "B": "Virus, inject, cures" },
+      { "C": "Prediction, reproduce, organs" },
+      { "D": "Nightmare, shrink, size" },
+      { "E": "Consumed, entire" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Choose the correct verbs.",
+    "questionDown": "“I’m not surprised it doesn’t work. You haven’t ___!”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Plugged it in" },
+      { "B": "Saved" },
+      { "C": "Reboot" },
+      { "D": "Rewind" },
+      { "E": "Charge" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Choose the correct verbs.",
+    "questionDown": "“On no! The computer’s crashed and I haven’t ___ my file.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Saved" },
+      { "B": "Plugged it in" },
+      { "C": "Reboot" },
+      { "D": "Rewind" },
+      { "E": "Charge" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Choose the correct verbs.",
+    "questionDown": "“You often have to ___ your computer after updating the software.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Reboot" },
+      { "B": "Saved" },
+      { "C": "Plugged it in" },
+      { "D": "Rewind" },
+      { "E": "Charge" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Choose the correct verbs.",
+    "questionDown": "“Can you ___ the camcorder? I'd like to see that bit again.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Rewind" },
+      { "B": "Saved" },
+      { "C": "Reboot" },
+      { "D": "Plugged it in" },
+      { "E": "Charge" }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Choose the correct verbs.",
+    "questionDown": "“You should ___ the battery for eight hours before using the mobile phone for the first time.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Charge" },
+      { "B": "Saved" },
+      { "C": "Reboot" },
+      { "D": "Rewind" },
+      { "E": "Plugged it in" }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Choose the correct verbs.",
+    "questionDown": "“That old adding machine wasn’t electronic so you didn’t have to ___.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Switch it on" },
+      { "B": "Saved" },
+      { "C": "Reboot" },
+      { "D": "Rewind" },
+      { "E": "Charge" }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Complete the texts with the correct form of the words.",
+    "questionDown": "“The ship sailed from Port Said with a ___ of fresh fruit. It's ___ was London docks. When it arrived, a ___ guided the ship safely into port.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Cargo, destination, pilot" },
+      { "B": "Theology, inspired" },
+      { "C": "Shipwreck, coast, route" },
+      { "D": "Pilgrimage, caravan" },
+      { "E": "Retired, abandoned" }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Complete the texts with the correct form of the words.",
+    "questionDown": "“The study of ___ has become very popular, and has ___ many students to think deeply about religious issues.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Theology, inspired" },
+      { "B": "Cargo, destination, pilot" },
+      { "C": "Shipwreck, coast, route" },
+      { "D": "Pilgrimage, caravan" },
+      { "E": "Retired, abandoned" }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Complete the texts with the correct form of the words.",
+    "questionDown": "“More than 250 migrant workers died in a ___ off the ___ of Libya in 2009. The ship was on a ___ bound for Italy.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Shipwreck, coast, route" },
+      { "B": "Theology, inspired" },
+      { "C": "Cargo, destination, pilot" },
+      { "D": "Pilgrimage, caravan" },
+      { "E": "Retired, abandoned" }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Complete the texts with the correct form of the words.",
+    "questionDown": "“Mansa Musa, the emperor of Mali, made a famous ___ to Makkah in 1324. His impressive ___ consisted of 600 men, thousands of slaves and 80 camels, each carrying 300 pounds of gold!”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Pilgrimage, caravan" },
+      { "B": "Theology, inspired" },
+      { "C": "Shipwreck, coast, route" },
+      { "D": "Cargo, destination, pilot" },
+      { "E": "Retired, abandoned" }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Complete the texts with the correct form of the words.",
+    "questionDown": "“Christopher Columbus and his ___ knew that the Earth was round, even though some people at that time still believed that the world was flat.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Contemporaries" },
+      { "B": "Merchant" },
+      { "C": "Ambassador" },
+      { "D": "Theology" },
+      { "E": "Destination" }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Complete the texts with the correct form of the words.",
+    "questionDown": "“‘The ___ of Venice’ is a popular play by Shakespeare.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Merchant" },
+      { "B": "Contemporaries" },
+      { "C": "Ambassador" },
+      { "D": "Theology" },
+      { "E": "Destination" }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Complete the texts with the correct form of the words.",
+    "questionDown": "“The role of a modern ___ is to represent his or her own country and at the same time maintain good diplomatic relations with another country.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ambassador" },
+      { "B": "Merchant" },
+      { "C": "Contemporaries" },
+      { "D": "Theology" },
+      { "E": "Destination" }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Complete the texts with the correct form of the words.",
+    "questionDown": "“When the mayor ___, the plans to build a local airport were ___. Many people had protested against it and the new mayor preferred to use the money for a new sports complex.”",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Retired, abandoned" },
+      { "B": "Theology, inspired" },
+      { "C": "Shipwreck, coast, route" },
+      { "D": "Pilgrimage, caravan" },
+      { "E": "Cargo, destination, pilot" }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If I ________ more money, I would travel the world.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "had" },
+      { "B": "have" },
+      { "C": "will have" },
+      { "D": "having" },
+      { "E": "has" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "She ________ a doctor if she had studied medicine.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would be" },
+      { "B": "will be" },
+      { "C": "is" },
+      { "D": "was" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If it ________ tomorrow, we would stay indoors.",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "rains" },
+      { "B": "will rain" },
+      { "C": "rained" },
+      { "D": "raining" },
+      { "E": "is raining" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "They ________ the game if they practiced more.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would win" },
+      { "B": "win" },
+      { "C": "will win" },
+      { "D": "winning" },
+      { "E": "won" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "I ________ you if I had your phone number.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would call" },
+      { "B": "call" },
+      { "C": "will call" },
+      { "D": "calling" },
+      { "E": "calls" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "He ________ late if he didn’t leave now.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would be" },
+      { "B": "is" },
+      { "C": "will be" },
+      { "D": "being" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If she ________ more time, she would finish the project.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "had" },
+      { "B": "have" },
+      { "C": "will have" },
+      { "D": "having" },
+      { "E": "has" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "We ________ the movie if we didn’t have other plans.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would watch" },
+      { "B": "watch" },
+      { "C": "will watch" },
+      { "D": "watching" },
+      { "E": "watched" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If you ________ hard, you would pass the exam.",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "study" },
+      { "B": "studied" },
+      { "C": "will study" },
+      { "D": "studying" },
+      { "E": "studies" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "She ________ happier if she traveled more.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would be" },
+      { "B": "is" },
+      { "C": "will be" },
+      { "D": "being" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If he ________ more time, he would help us.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "had" },
+      { "B": "has" },
+      { "C": "will have" },
+      { "D": "having" },
+      { "E": "have" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "They ________ if they knew the truth.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would leave" },
+      { "B": "leave" },
+      { "C": "will leave" },
+      { "D": "leaving" },
+      { "E": "left" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If it ________ cold, I would wear a jacket.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "were" },
+      { "B": "is" },
+      { "C": "will be" },
+      { "D": "being" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "He ________ if he had the chance.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would travel" },
+      { "B": "travels" },
+      { "C": "will travel" },
+      { "D": "traveling" },
+      { "E": "travel" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If she ________ more time, she would visit her grandparents.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "had" },
+      { "B": "has" },
+      { "C": "will have" },
+      { "D": "having" },
+      { "E": "have" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "We ________ to the beach if it wasn’t raining.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would go" },
+      { "B": "go" },
+      { "C": "will go" },
+      { "D": "going" },
+      { "E": "went" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If you ________ me, I would forgive you.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "apologized" },
+      { "B": "apologize" },
+      { "C": "will apologize" },
+      { "D": "apologizing" },
+      { "E": "apologizes" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "They ________ happier if they lived closer to nature.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would be" },
+      { "B": "are" },
+      { "C": "will be" },
+      { "D": "being" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If he ________ a car, he would drive to work.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "had" },
+      { "B": "has" },
+      { "C": "will have" },
+      { "D": "having" },
+      { "E": "have" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "She ________ the job if she had more experience.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would get" },
+      { "B": "get" },
+      { "C": "will get" },
+      { "D": "getting" },
+      { "E": "gets" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If it ________ sunny, we would go for a picnic.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "were" },
+      { "B": "is" },
+      { "C": "will be" },
+      { "D": "being" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "He ________ to the party if he were invited.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would come" },
+      { "B": "comes" },
+      { "C": "will come" },
+      { "D": "coming" },
+      { "E": "come" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If she ________ more money, she would buy a new house.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "had" },
+      { "B": "has" },
+      { "C": "will have" },
+      { "D": "having" },
+      { "E": "have" }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "They ________ the match if they trained harder.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would win" },
+      { "B": "win" },
+      { "C": "will win" },
+      { "D": "winning" },
+      { "E": "won" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If you ________ me, I would help you.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "asked" },
+      { "B": "ask" },
+      { "C": "will ask" },
+      { "D": "asking" },
+      { "E": "asks" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "She ________ healthier if she ate more vegetables.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would be" },
+      { "B": "is" },
+      { "C": "will be" },
+      { "D": "being" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If he ________ the opportunity, he would take it.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "had" },
+      { "B": "has" },
+      { "C": "will have" },
+      { "D": "having" },
+      { "E": "have" }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "We ________ the play if we had tickets.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would see" },
+      { "B": "see" },
+      { "C": "will see" },
+      { "D": "seeing" },
+      { "E": "saw" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "If it ________ dark, we would turn on the lights.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "were" },
+      { "B": "is" },
+      { "C": "will be" },
+      { "D": "being" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Choose the correct verb form.",
+    "questionDown": "He ________ in a different country if he had the chance.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "would live" },
+      { "B": "lives" },
+      { "C": "will live" },
+      { "D": "living" },
+      { "E": "live" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ forget to call your mother.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must" },
+      { "C": "needn't" },
+      { "D": "must to" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "He ________ eat junk food because it is harmful for your health.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must" },
+      { "C": "needn't" },
+      { "D": "should" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ smoke in the hospital.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must" },
+      { "C": "needn't" },
+      { "D": "have to" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "We ________ worry about it. It's not important.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "needn't" },
+      { "B": "must" },
+      { "C": "must" },
+      { "D": "shouuld" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "She ________ finish the report by tomorrow because it is important.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "can’t" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "Children ________ play in the street.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must to" },
+      { "C": "doesn’t" },
+      { "D": "shouldn't" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ be late for the meeting.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must" },
+      { "C": "needn't" },
+      { "D": "has to" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ lock the door when you leave.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "cann’t" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "We ________ buy milk. We have plenty at home.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "needn't" },
+      { "B": "must" },
+      { "C": "must" },
+      { "D": "should" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "He ________ drink and drive.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must" },
+      { "C": "needn't" },
+      { "D": "will be able to" },
+      { "E": "could to" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ apologize for your mistake.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "can to" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "We ________ forget to buy tickets for the concert.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn’t" },
+      { "B": "must" },
+      { "C": "need" },
+      { "D": "should" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "She ________ worry about the test. She studied well.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "needn't" },
+      { "B": "must" },
+      { "C": "must to" },
+      { "D": "should to" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ take your umbrella. It's going to rain.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "can’t" }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "They ________ forget to send the invitation.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must" },
+      { "C": "need" },
+      { "D": "has to" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ wait here. I'll be right back.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "has to" },
+      { "C": "is able to" },
+      { "D": "can to" },
+      { "E": "could to" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "He ________ be at the airport by 5 pm.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "must to" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ worry about me. I can take care of myself.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "needn't" },
+      { "B": "must" },
+      { "C": "must" },
+      { "D": "should" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "We ________ forget to turn off the lights before leaving.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn’t" },
+      { "B": "must" },
+      { "C": "need" },
+      { "D": "should" },
+      { "E": "has to" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "She ________ be careful while crossing the road.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "can’t" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ eat all your vegetables because they are healthy.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "can’t" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "He ________ forget to take his medicine.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must" },
+      { "C": "need" },
+      { "D": "shouldn" },
+      { "E": "have to" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "We ________ finish the project today.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "She ________ be at the meeting by 9 am.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't" },
+      { "C": "needn't" },
+      { "D": "shouldn't" },
+      { "E": "haven’t to" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ leave your personal belongings on the table.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn’t" },
+      { "B": "must" },
+      { "C": "need" },
+      { "D": "should" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "They ________ forget to feed the cat.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn't" },
+      { "B": "must" },
+      { "C": "needn't" },
+      { "D": "should" },
+      { "E": "has to" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ call me if you don’t have any questions.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "needn't" },
+      { "B": "must" },
+      { "C": "may" },
+      { "D": "should" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "He ________ worry about the results. He did his best.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "needn't" },
+      { "B": "haven’t to" },
+      { "C": "must" },
+      { "D": "should" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "We ________ forget to buy a gift for her birthday.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mustn’t" },
+      { "B": "must" },
+      { "C": "needn't" },
+      { "D": "should" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Choose the correct modal verb.",
+    "questionDown": "You ________ be at the station by 6 pm.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "must" },
+      { "B": "mustn't to" },
+      { "C": "needn't" },
+      { "D": "haven’t to" },
+      { "E": "can" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "I ________ call you later.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ travel to Paris next month.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is going to" },
+      { "B": "will" },
+      { "C": "has" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ buy a new car next year.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He ________ study for the exam tomorrow.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is going to" },
+      { "B": "have" },
+      { "C": "has" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We ________ visit our grandparents this weekend.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ finish your project on time.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ go on vacation next summer.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "are going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He ________ meet his friends after work.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We ________ have dinner at that restaurant tonight.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "are going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ need an umbrella. It's going to rain.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "are going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ write a book someday.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ move to a new house next year.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He ________ start his own business.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We ________ go shopping this afternoon.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ need to study harder.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "are going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ travel around the world one day.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ start a family in a few years.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He ________ become a doctor.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We ________ watch a movie tonight.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "are going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ be late for the meeting.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "are going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ learn to play the guitar.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ visit their relatives next weekend.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He ________ travel by train.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We ________ have a party on Friday.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ meet interesting people in college.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "are going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ become a famous artist.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ buy a new computer.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He ________ take up a new hobby.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will" },
+      { "B": "is going to" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "We ________ go to the beach next summer.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are going to" },
+      { "B": "will" },
+      { "C": "have" },
+      { "D": "am" },
+      { "E": "was" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If it ________, I will go for a walk.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "rains" },
+      { "B": "will rain" },
+      { "C": "raining" },
+      { "D": "rain" },
+      { "E": "is raining" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ the exam if she studies.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will pass" },
+      { "B": "passes" },
+      { "C": "pass" },
+      { "D": "passing" },
+      { "E": "passed" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If you ________ hard, you will succeed.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "work" },
+      { "B": "will work" },
+      { "C": "working" },
+      { "D": "worked" },
+      { "E": "works" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He ________ the game if he practices.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will win" },
+      { "B": "wins" },
+      { "C": "win" },
+      { "D": "winning" },
+      { "E": "won" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If she ________ early, she will catch the bus.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "leaves" },
+      { "B": "will leave" },
+      { "C": "leaving" },
+      { "D": "left" },
+      { "E": "leaves" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ to the party if they are invited.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will go" },
+      { "B": "go" },
+      { "C": "going" },
+      { "D": "goes" },
+      { "E": "went" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If it ________ cold, we will wear jackets.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is" },
+      { "B": "will be" },
+      { "C": "being" },
+      { "D": "was" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ tired if you don’t sleep enough.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will feel" },
+      { "B": "feel" },
+      { "C": "feeling" },
+      { "D": "felt" },
+      { "E": "feels" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ the book if she has time.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will read" },
+      { "B": "reads" },
+      { "C": "reading" },
+      { "D": "read" },
+      { "E": "readed" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If he ________ hard, he will get good grades.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "studies" },
+      { "B": "will study" },
+      { "C": "studying" },
+      { "D": "studied" },
+      { "E": "study" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ to the beach if it’s sunny.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will go" },
+      { "B": "go" },
+      { "C": "going" },
+      { "D": "goes" },
+      { "E": "went" }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If she ________ the train, she will be late.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "misses" },
+      { "B": "will miss" },
+      { "C": "missing" },
+      { "D": "missed" },
+      { "E": "miss" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "He ________ the job if he impresses the interviewer.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will get" },
+      { "B": "gets" },
+      { "C": "getting" },
+      { "D": "got" },
+      { "E": "get" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If you ________ early, you will get a good seat.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "arrive" },
+      { "B": "will arrive" },
+      { "C": "arriving" },
+      { "D": "arrived" },
+      { "E": "arrives" }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ if she eats too much.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will be sick" },
+      { "B": "is sick" },
+      { "C": "being sick" },
+      { "D": "was sick" },
+      { "E": "be sick" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ happy if they win the game.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will be" },
+      { "B": "are" },
+      { "C": "being" },
+      { "D": "was" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If it ________ dark, we will turn on the lights.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "gets" },
+      { "B": "will get" },
+      { "C": "getting" },
+      { "D": "got" },
+      { "E": "get" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ your friends if you call them.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will see" },
+      { "B": "see" },
+      { "C": "seeing" },
+      { "D": "saw" },
+      { "E": "sees" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If he ________ early, he will catch the train.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "leaves" },
+      { "B": "will leave" },
+      { "C": "leaving" },
+      { "D": "left" },
+      { "E": "leaves" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ if she practices every day.",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "improves" },
+      { "B": "will improve" },
+      { "C": "improving" },
+      { "D": "improved" },
+      { "E": "improve" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ the match if they play well.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will win" },
+      { "B": "win" },
+      { "C": "winning" },
+      { "D": "wins" },
+      { "E": "won" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If it ________ hot, we will go swimming.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is" },
+      { "B": "will be" },
+      { "C": "being" },
+      { "D": "was" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ the answer if you think about it.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will find" },
+      { "B": "find" },
+      { "C": "finding" },
+      { "D": "found" },
+      { "E": "finds" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ to the concert if she gets tickets.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will go" },
+      { "B": "goes" },
+      { "C": "going" },
+      { "D": "go" },
+      { "E": "went" }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If he ________ the bus, he will be late.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "misses" },
+      { "B": "will miss" },
+      { "C": "missing" },
+      { "D": "missed" },
+      { "E": "miss" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "They ________ if they study for the test.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will pass" },
+      { "B": "pass" },
+      { "C": "passing" },
+      { "D": "passed" },
+      { "E": "passes" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If it ________ cold, we will light the fire.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is" },
+      { "B": "will be" },
+      { "C": "being" },
+      { "D": "was" },
+      { "E": "be" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "She ________ the movie if it’s interesting.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will watch" },
+      { "B": "watches" },
+      { "C": "watching" },
+      { "D": "watched" },
+      { "E": "watch" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "You ________ hungry if you don’t eat breakfast.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "will feel" },
+      { "B": "feel" },
+      { "C": "feeling" },
+      { "D": "felt" },
+      { "E": "feels" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If they ________ on time, the movie will start.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "arrive" },
+      { "B": "will arrive" },
+      { "C": "arriving" },
+      { "D": "arrived" },
+      { "E": "arrives" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ than her sister.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "taller" },
+      { "B": "more tall" },
+      { "C": "tallest" },
+      { "D": "more taller" },
+      { "E": "tall" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This book is ________ than the one I read yesterday.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "better" },
+      { "B": "good" },
+      { "C": "best" },
+      { "D": "gooder" },
+      { "E": "betterest" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ runner in the team.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the fastest" },
+      { "B": "fast" },
+      { "C": "faster" },
+      { "D": "most fast" },
+      { "E": "fasted" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ singer among all.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the best" },
+      { "B": "better" },
+      { "C": "good" },
+      { "D": "best" },
+      { "E": "betterest" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "It is ________ to take the bus than to walk.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "faster" },
+      { "B": "more fast" },
+      { "C": "fastest" },
+      { "D": "more faster" },
+      { "E": "fast" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This movie is ________ than the one I watched last week.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "more interesting" },
+      { "B": "interesting" },
+      { "C": "most interesting" },
+      { "D": "interestinger" },
+      { "E": "interested" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ student in the class.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the smartest" },
+      { "B": "smarter" },
+      { "C": "smart" },
+      { "D": "most smart" },
+      { "E": "smartest" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This is ________ cake I have ever tasted.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most delicious" },
+      { "B": "delicious" },
+      { "C": "more delicious" },
+      { "D": "deliciouser" },
+      { "E": "most delicious" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ in her class.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the youngest" },
+      { "B": "younger" },
+      { "C": "young" },
+      { "D": "most young" },
+      { "E": "younged" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This is ________ painting I've ever seen.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most beautiful" },
+      { "B": "beautiful" },
+      { "C": "more beautiful" },
+      { "D": "beautifuller" },
+      { "E": "most beautifulest" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ than his brother.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "older" },
+      { "B": "more old" },
+      { "C": "oldest" },
+      { "D": "more older" },
+      { "E": "old" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This city is ________ than the one I visited last year.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "bigger" },
+      { "B": "more big" },
+      { "C": "biggest" },
+      { "D": "more bigger" },
+      { "E": "big" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ student in her school.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most talented" },
+      { "B": "talented" },
+      { "C": "more talented" },
+      { "D": "talenteder" },
+      { "E": "most talented" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "That was ________ movie I've seen.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the worst" },
+      { "B": "worse" },
+      { "C": "bad" },
+      { "D": "worst" },
+      { "E": "more bad" }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This dress is ________ than the one she wore yesterday.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "prettier" },
+      { "B": "pretty" },
+      { "C": "prettiest" },
+      { "D": "more pretty" },
+      { "E": "prettiest" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ player on the team.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the best" },
+      { "B": "better" },
+      { "C": "good" },
+      { "D": "best" },
+      { "E": "betterest" }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ person I know.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the kindest" },
+      { "B": "kind" },
+      { "C": "kinder" },
+      { "D": "most kind" },
+      { "E": "kinded" }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This cake is ________ than the one I baked.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "tastier" },
+      { "B": "tasty" },
+      { "C": "tastiest" },
+      { "D": "more tasty" },
+      { "E": "tastier" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ than his classmates.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "more popular" },
+      { "B": "popular" },
+      { "C": "most popular" },
+      { "D": "popularer" },
+      { "E": "popularly" }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This is ________ restaurant in town.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most famous" },
+      { "B": "famous" },
+      { "C": "more famous" },
+      { "D": "famouser" },
+      { "E": "most famous" }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ than her friends.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "happier" },
+      { "B": "happy" },
+      { "C": "happiest" },
+      { "D": "more happy" },
+      { "E": "happyer" }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This movie is ________ than the one I saw.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "scarier" },
+      { "B": "scary" },
+      { "C": "scariest" },
+      { "D": "more scary" },
+      { "E": "scariest" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ player in the league.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the worst" },
+      { "B": "worse" },
+      { "C": "bad" },
+      { "D": "worst" },
+      { "E": "more bad" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This is ________ dessert I've ever tasted.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the sweetest" },
+      { "B": "sweet" },
+      { "C": "sweeter" },
+      { "D": "more sweet" },
+      { "E": "sweetest" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ person I've ever met.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most interesting" },
+      { "B": "interesting" },
+      { "C": "more interesting" },
+      { "D": "interestinger" },
+      { "E": "most interesting" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ than his brother.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "taller" },
+      { "B": "more tall" },
+      { "C": "tallest" },
+      { "D": "more taller" },
+      { "E": "tall" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This city is ________ than New York.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "smaller" },
+      { "B": "more small" },
+      { "C": "smallest" },
+      { "D": "more smaller" },
+      { "E": "small" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ than her sister.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "smarter" },
+      { "B": "smart" },
+      { "C": "smartest" },
+      { "D": "more smart" },
+      { "E": "smarted" }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This is ________ play I've ever seen.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most boring" },
+      { "B": "boring" },
+      { "C": "more boring" },
+      { "D": "bore" },
+      { "E": "most boring" }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ student in his class.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most diligent" },
+      { "B": "diligent" },
+      { "C": "more diligent" },
+      { "D": "diligentest" },
+      { "E": "most diligent" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ artist in the gallery.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most creative" },
+      { "B": "creative" },
+      { "C": "more creative" },
+      { "D": "creativest" },
+      { "E": "most creative" }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This is ________ movie I've watched.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the longest" },
+      { "B": "long" },
+      { "C": "longer" },
+      { "D": "more long" },
+      { "E": "longed" }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ man I've ever met.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the richest" },
+      { "B": "rich" },
+      { "C": "richer" },
+      { "D": "more rich" },
+      { "E": "riched" }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "This dessert is ________ than the one I had yesterday.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sweeter" },
+      { "B": "sweet" },
+      { "C": "sweetest" },
+      { "D": "more sweet" },
+      { "E": "sweeted" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "She is ________ woman I know.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the most successful" },
+      { "B": "successful" },
+      { "C": "more successful" },
+      { "D": "successfulest" },
+      { "E": "most successful" }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "Choose the correct degrees of adjectives.",
+    "questionDown": "He is ________ than his friend.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "more handsome" },
+      { "B": "handsome" },
+      { "C": "handsomer" },
+      { "D": "handsum" },
+      { "E": "most handsome" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The book ________ by many people.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was read" },
+      { "B": "read" },
+      { "C": "reads" },
+      { "D": "is reading" },
+      { "E": "has read" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The cake ________ by Mary.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was baked" },
+      { "B": "bakes" },
+      { "C": "is baking" },
+      { "D": "baked" },
+      { "E": "has baked" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The letter ________ yesterday.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was sent" },
+      { "B": "sends" },
+      { "C": "is sending" },
+      { "D": "sent" },
+      { "E": "has sent" }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The house ________ by the builders.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was built" },
+      { "B": "builds" },
+      { "C": "is building" },
+      { "D": "built" },
+      { "E": "has built" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The movie ________ by millions of people.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was watched" },
+      { "B": "watches" },
+      { "C": "is watching" },
+      { "D": "watched" },
+      { "E": "has watched" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The door ________ open.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was left" },
+      { "B": "leaves" },
+      { "C": "is leaving" },
+      { "D": "left" },
+      { "E": "has left" }
+    ]
+  },
+  {
+    "questionNumber": 306,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The song ________ by a famous singer.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was sung" },
+      { "B": "sings" },
+      { "C": "is singing" },
+      { "D": "sang" },
+      { "E": "has sung" }
+    ]
+  },
+  {
+    "questionNumber": 307,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The car ________ by my brother.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was driven" },
+      { "B": "drives" },
+      { "C": "is driving" },
+      { "D": "drove" },
+      { "E": "has driven" }
+    ]
+  },
+  {
+    "questionNumber": 308,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The painting ________ in the 19th century.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was painted" },
+      { "B": "paints" },
+      { "C": "is painting" },
+      { "D": "painted" },
+      { "E": "has painted" }
+    ]
+  },
+  {
+    "questionNumber": 309,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The dishes ________ by the restaurant staff.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "were washed" },
+      { "B": "wash" },
+      { "C": "is washing" },
+      { "D": "washed" },
+      { "E": "has washed" }
+    ]
+  },
+  {
+    "questionNumber": 310,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The trophy ________ to the winner.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was awarded" },
+      { "B": "awards" },
+      { "C": "is awarding" },
+      { "D": "awarded" },
+      { "E": "has awarded" }
+    ]
+  },
+  {
+    "questionNumber": 311,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The question ________ by the teacher.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was asked" },
+      { "B": "asks" },
+      { "C": "is asking" },
+      { "D": "asked" },
+      { "E": "has asked" }
+    ]
+  },
+  {
+    "questionNumber": 312,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The computer ________ yesterday.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was repaired" },
+      { "B": "repairs" },
+      { "C": "is repairing" },
+      { "D": "repaired" },
+      { "E": "has repaired" }
+    ]
+  },
+  {
+    "questionNumber": 313,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The poem ________ beautifully.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was written" },
+      { "B": "writes" },
+      { "C": "is writing" },
+      { "D": "wrote" },
+      { "E": "has written" }
+    ]
+  },
+  {
+    "questionNumber": 314,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The vegetables ________ fresh daily.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "are delivered" },
+      { "B": "deliver" },
+      { "C": "is delivering" },
+      { "D": "delivered" },
+      { "E": "has delivered" }
+    ]
+  },
+  {
+    "questionNumber": 315,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The message ________ by Sarah.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was sent" },
+      { "B": "sends" },
+      { "C": "is sending" },
+      { "D": "sent" },
+      { "E": "has sent" }
+    ]
+  },
+  {
+    "questionNumber": 316,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The decision ________ by the committee.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was made" },
+      { "B": "makes" },
+      { "C": "is making" },
+      { "D": "made" },
+      { "E": "has made" }
+    ]
+  },
+  {
+    "questionNumber": 317,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The mistake ________ by me.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was made" },
+      { "B": "makes" },
+      { "C": "is making" },
+      { "D": "made" },
+      { "E": "has made" }
+    ]
+  },
+  {
+    "questionNumber": 318,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The news ________ by everyone.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was heard" },
+      { "B": "hears" },
+      { "C": "is hearing" },
+      { "D": "heard" },
+      { "E": "has heard" }
+    ]
+  },
+  {
+    "questionNumber": 319,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The document ________ by the lawyer.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "was reviewed" },
+      { "B": "reviews" },
+      { "C": "is reviewing" },
+      { "D": "reviewed" },
+      { "E": "has reviewed" }
+    ]
+  },
+  {
+    "questionNumber": 320,
+    "questionUp": "Which term refers to a graphical user interface that allows users to interact with a computer?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "GUI" },
+      { "B": "API" },
+      { "C": "CLI" },
+      { "D": "HTML" },
+      { "E": "CSS" }
+    ]
+  },
+  {
+    "questionNumber": 321,
+    "questionUp": "What is the term for a software program that displays web pages?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Browser" },
+      { "B": "Firewall" },
+      { "C": "Server" },
+      { "D": "Database" },
+      { "E": "Protocol" }
+    ]
+  },
+  {
+    "questionNumber": 322,
+    "questionUp": "What is the main circuit board of a computer called?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Motherboard" },
+      { "B": "CPU" },
+      { "C": "RAM" },
+      { "D": "SSD" },
+      { "E": "GPU" }
+    ]
+  },
+  {
+    "questionNumber": 323,
+    "questionUp": "What does LAN stand for?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Local Area Network" },
+      { "B": "Large Area Network" },
+      { "C": "Limited Access Node" },
+      { "D": "Longitudinal Application Network" },
+      { "E": "Localized Access Node" }
+    ]
+  },
+  {
+    "questionNumber": 324,
+    "questionUp": "What does RAM stand for?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Random Access Memory" },
+      { "B": "Read And Modify" },
+      { "C": "Rapid Application Module" },
+      { "D": "Real-time Access Mode" },
+      { "E": "Random Algorithmic Memory" }
+    ]
+  },
+  {
+    "questionNumber": 325,
+    "questionUp": "What does CSS stand for?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Cascading Style Sheets" },
+      { "B": "Computer Style System" },
+      { "C": "Centralized Style Service" },
+      { "D": "Computed Style Script" },
+      { "E": "Creative Style Selector" }
+    ]
+  },
+  {
+    "questionNumber": 326,
+    "questionUp": "What does HTML stand for?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "HyperText Markup Language" },
+      { "B": "High-Level Markup Language" },
+      { "C": "Hyperlink Text Management" },
+      { "D": "Home Tool Markup Language" },
+      { "E": "HyperText Media Language" }
+    ]
+  },
+  {
+    "questionNumber": 327,
+    "questionUp": "Which of the following is an example of an input device?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Keyboard" },
+      { "B": "Monitor" },
+      { "C": "Printer" },
+      { "D": "Speaker" },
+      { "E": "External Hard Drive" }
+    ]
+  },
+  {
+    "questionNumber": 328,
+    "questionUp": "Which input device allows users to move the cursor on the screen?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Mouse" },
+      { "B": "Keyboard" },
+      { "C": "Scanner" },
+      { "D": "Webcam" },
+      { "E": "Microphone" }
+    ]
+  },
+  {
+    "questionNumber": 329,
+    "questionUp": "Which input device is used to input commands and text into a computer?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Keyboard" },
+      { "B": "Mouse" },
+      { "C": "Joystick" },
+      { "D": "Scanner" },
+      { "E": "Touchscreen" }
+    ]
+  }
+]
