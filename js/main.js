@@ -1,5 +1,4 @@
 'use strict';
-import { updateQuestionDisplay } from '../js/number-changer';
 
 const cardContainer = document.querySelector('.card-body');
 const mainQuestionsContainer = document.getElementById('main-questions');
@@ -178,7 +177,7 @@ function displayQuestions(questions) {
             })
             .join('')}
         </div>
-        <div class="card-text text-end fs-6 display-6 text-white-50 question-number">
+        <div class="card-text text-end fs-6 display-6 text-white-50">
           ${question.questionNumber}
         </div>
         <hr />
@@ -189,9 +188,6 @@ function displayQuestions(questions) {
 
   // Trigger MathJax to render the equations
   MathJax.typeset();
-
-  // Update number display
-  updateQuestionDisplay(); // <- Call this AFTER rendering the elements
 }
 
 // Function to display question statuses in #main-questions
