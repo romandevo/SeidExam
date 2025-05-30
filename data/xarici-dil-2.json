@@ -5088,8 +5088,8 @@
   },
   {
     "questionNumber": 320,
-    "questionUp": "Which term refers to a graphical user interface that allows users to interact with a computer?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which term refers to a graphical user interface that allows users to interact with a computer?",
     "correctAnswer": "A",
     "answers": [
       { "A": "GUI" },
@@ -5101,8 +5101,8 @@
   },
   {
     "questionNumber": 321,
-    "questionUp": "What is the term for a software program that displays web pages?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the term for a software program that displays web pages?",
     "correctAnswer": "A",
     "answers": [
       { "A": "Browser" },
@@ -5114,8 +5114,8 @@
   },
   {
     "questionNumber": 322,
-    "questionUp": "What is the main circuit board of a computer called?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main circuit board of a computer called?",
     "correctAnswer": "A",
     "answers": [
       { "A": "Motherboard" },
@@ -5127,8 +5127,8 @@
   },
   {
     "questionNumber": 323,
-    "questionUp": "What does LAN stand for?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does LAN stand for?",
     "correctAnswer": "A",
     "answers": [
       { "A": "Local Area Network" },
@@ -5140,8 +5140,8 @@
   },
   {
     "questionNumber": 324,
-    "questionUp": "What does RAM stand for?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does RAM stand for?",
     "correctAnswer": "A",
     "answers": [
       { "A": "Random Access Memory" },
@@ -5153,8 +5153,8 @@
   },
   {
     "questionNumber": 325,
-    "questionUp": "What does CSS stand for?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does CSS stand for?",
     "correctAnswer": "A",
     "answers": [
       { "A": "Cascading Style Sheets" },
@@ -5166,8 +5166,8 @@
   },
   {
     "questionNumber": 326,
-    "questionUp": "What does HTML stand for?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does HTML stand for?",
     "correctAnswer": "A",
     "answers": [
       { "A": "HyperText Markup Language" },
@@ -5179,8 +5179,8 @@
   },
   {
     "questionNumber": 327,
-    "questionUp": "Which of the following is an example of an input device?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is an example of an input device?",
     "correctAnswer": "A",
     "answers": [
       { "A": "Keyboard" },
@@ -5192,8 +5192,8 @@
   },
   {
     "questionNumber": 328,
-    "questionUp": "Which input device allows users to move the cursor on the screen?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which input device allows users to move the cursor on the screen?",
     "correctAnswer": "A",
     "answers": [
       { "A": "Mouse" },
@@ -5205,8 +5205,8 @@
   },
   {
     "questionNumber": 329,
-    "questionUp": "Which input device is used to input commands and text into a computer?",
-    "questionDown": "",
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which input device is used to input commands and text into a computer?",
     "correctAnswer": "A",
     "answers": [
       { "A": "Keyboard" },
