@@ -2003,7 +2003,7 @@
     "questionNumber": 101,
     "questionUp": "Match the verbs with the definitions.",
     "questionDown": "\u201cTo give official permission to do or have something.\u201d",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "Allow"
@@ -2841,7 +2841,7 @@
     "questionNumber": 147,
     "questionUp": "Choose the correct verb form.",
     "questionDown": "If it ________ tomorrow, we would stay indoors.",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "rains" },
       { "B": "will rain" },
@@ -2919,7 +2919,7 @@
     "questionNumber": 153,
     "questionUp": "Choose the correct verb form.",
     "questionDown": "If you ________ hard, you would pass the exam.",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "study" },
       { "B": "studied" },
@@ -4219,7 +4219,7 @@
     "questionNumber": 253,
     "questionUp": "Choose the correct variant.",
     "questionDown": "She ________ if she practices every day.",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "improves" },
       { "B": "will improve" },
