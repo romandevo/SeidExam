@@ -61,11 +61,31 @@
       .toggle-btn {
         white-space: nowrap;
       }
+
+      .text-gradient-glow {
+        background: linear-gradient(90deg, #ffffff, #727272);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+        animation: glow-fade 2s ease-in-out infinite alternate;
+      }
+
+      @keyframes glow-fade {
+        0% {
+          text-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+        }
+        100% {
+          text-shadow: 0 0 16px rgba(255, 255, 255, 0.9);
+        }
+      }
     </style>
   </head>
   <body>
     <div class="container py-5">
-      <h1 class="text-center mb-4">Said's Exams</h1>
+      <h1 class="text-center mb-4 display-4 fw-bold text-gradient-glow">
+        <i class="bi bi-journal-text me-2"></i> Said's Exams
+      </h1>
 
       <!-- Line + Button Combo -->
       <div class="divider-line-container">
