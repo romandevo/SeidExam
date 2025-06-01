@@ -1,0 +1,59 @@
+<!-- Comment Section -->
+<footer class="mt-5 py-4" style="background-color: #2a2a2a">
+  <div class="container" style="max-width: 600px; margin: auto">
+    <h5 class="text-center mb-4" style="color: #ccc">Comments</h5>
+
+    <!-- Note Box -->
+    <div
+      class="alert alert-secondary py-2 px-3 mb-3"
+      style="
+        background-color: #3a3a3a;
+        border: none;
+        color: #ccc;
+        font-size: 0.85rem;
+      "
+    >
+      💡 Bu hissəyə səhifə ilə bağlı dəyişməsini(və ya dəyişməməsini)
+      istədiklərinizi yaza bilərsiniz (istəyə bağlıdır).
+    </div>
+
+    <!-- Comment Form -->
+    <form>
+      <div class="mb-2">
+        <input
+          type="text"
+          class="form-control bg-dark text-white border-secondary rounded"
+          id="username"
+          placeholder="Your name"
+          style="font-size: 0.9rem"
+        />
+      </div>
+      <div class="mb-2">
+        <textarea
+          class="form-control bg-dark text-white border-secondary rounded"
+          id="comment"
+          rows="2"
+          placeholder="Write your comment..."
+          style="font-size: 0.9rem"
+        ></textarea>
+      </div>
+      <div class="text-end mb-3">
+        <button type="submit" class="btn btn-sm btn-outline-light">Post</button>
+      </div>
+    </form>
+
+    <!-- Manual Comments -->
+    <div class="mb-3 p-3 rounded" style="background-color: #3a3a3a">
+      <strong>Adam1(nümunə):</strong> Necesiniz!
+    </div>
+    <div class="mb-3 p-3 rounded" style="background-color: #3a3a3a">
+      <strong>Adam2(nümune):</strong> .
+    </div>
+    <div class="mb-3 p-3 rounded" style="background-color: #3a3a3a">
+      <strong>Adam23(nümune):</strong> Adım Adam23 dü.
+      <div class="mt-2 ps-3 border-start" style="border-color: #666">
+        <strong>Admin(nümune):</strong> He.
+      </div>
+    </div>
+  </div>
+</footer>

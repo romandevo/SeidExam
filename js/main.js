@@ -31,6 +31,12 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './information-technologies.json';
   } else if (
+    locationPath === '/exams/it-esaslari2' ||
+    locationPath === '/exams/it-esaslari2.html' ||
+    locationPath === '/SeidExam/exmas/it-esaslari2.html'
+  ) {
+    endpoint = './it-esaslari2.json';
+  } else if (
     locationPath === '/exams/it-esaslari' ||
     locationPath === '/exams/it-esaslari.html' ||
     locationPath === '/SeidExam/exmas/it-esaslari.html'
