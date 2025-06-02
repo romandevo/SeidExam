@@ -471,7 +471,7 @@
     "questionNumber": 38,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which of the following values is considered `False` in Python?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "0" },
       { "B": "\"\"" },
@@ -549,7 +549,7 @@
     "questionNumber": 44,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result of `True xor False` in Python?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "True" },
       { "B": "False" },
@@ -874,7 +874,7 @@
     "questionNumber": 79,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you remove an element at a specific index from a list in Python?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "pop()" },
       { "B": "remove()" },
@@ -926,7 +926,7 @@
     "questionNumber": 83,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result of `my_list[1]` if `my_list = [1, 2, 3]`?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "3" },
       { "B": "2" },
@@ -1056,7 +1056,7 @@
     "questionNumber": 93,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result of `my_list[::1]` if `my_list = [1, 2, 3]`?",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Reverses `my_list`" },
       { "B": "Returns a new reversed list" },
@@ -1082,7 +1082,7 @@
     "questionNumber": 95,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which of the following is a correct way to remove an element at a specific index from a list?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "del my_list[index]" },
       { "B": "my_list.remove(index)" },
@@ -1108,7 +1108,7 @@
     "questionNumber": 97,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result of `my_list[2]` if `my_list = [1, 2, 3]`?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "3" },
@@ -1173,7 +1173,7 @@
     "questionNumber": 102,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the result of `if True: print(\"True\")` in Python?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "True" },
       { "B": "\"True\"" },
@@ -2372,7 +2372,7 @@
     "questionNumber": 191,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which sorting order puts numbers in descending order in Excel?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Z to A" },
       { "B": "A to Z" },
@@ -2437,7 +2437,7 @@
     "questionNumber": 196,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which sorting option is used to sort data based on cell color or font color in Excel?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Custom Sort" },
       { "B": "Sort by Color" },
@@ -2463,7 +2463,7 @@
     "questionNumber": 198,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which option is used to sort by values that are not visible in the current view in Excel?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sort > Sort Hidden Rows" },
       { "B": "Sort > Sort by Criteria" },
@@ -2476,7 +2476,7 @@
     "questionNumber": 199,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you sort data based on the cell's fill color in Excel?",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sort > Sort by Color" },
       { "B": "Sort > Sort by Fill" },
@@ -2554,7 +2554,7 @@
     "questionNumber": 205,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which sorting option is used to sort data based on weekdays, weekends, or dates in Excel?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sort > Date Sort" },
       { "B": "Sort > Day Sort" },
@@ -2606,7 +2606,7 @@
     "questionNumber": 209,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you sort data based on the cell's font color in Excel?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sort > Sort by Color" },
       { "B": "Sort > Sort by Font" },
@@ -2645,7 +2645,7 @@
     "questionNumber": 212,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which option is used to sort data based on the cell's background color in Excel?",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Sort > Sort by Fill" },
       { "B": "Sort > Sort by Background" },
@@ -2892,7 +2892,7 @@
     "questionNumber": 231,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you select a range using the keyboard in Excel?",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Arrow keys" },
       { "B": "Ctrl + Arrow keys" },
@@ -2905,7 +2905,7 @@
     "questionNumber": 232,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which option is used to edit a named range in Excel?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Formulas  > Define Name" },
       { "B": "Data  > Named Range" },
@@ -2944,7 +2944,7 @@
     "questionNumber": 235,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How do you delete a named range in Excel?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Formulas  > Define Name" },
       { "B": "Data  > Named Range" },
@@ -2957,7 +2957,7 @@
     "questionNumber": 236,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What does the range `A1:Z1` represent in Excel?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Row 1" },
       { "B": "Column A to Z" },
@@ -3815,7 +3815,7 @@
     "questionNumber": 302,
     "questionUp": "Choose the correct syntax.",
     "questionDown": "How is the condition in a while loop expressed in Python?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "After the keyword 'while'" },
       { "B": "Before the keyword 'while'" },
@@ -3882,7 +3882,7 @@
     "questionNumber": 307,
     "questionUp": "Evaluate the statement about loops.",
     "questionDown": "Which of the following statements is true about while loops?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "They are always faster than for loops" },
       { "B": "They are not commonly used in Python programming" },
@@ -3899,7 +3899,7 @@
     "questionNumber": 308,
     "questionUp": "Create infinite loops.",
     "questionDown": "How do you create an infinite loop in Python using a while loop?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "By omitting the condition altogether" },
       { "B": "By setting the condition to True" },
@@ -3912,7 +3912,7 @@
     "questionNumber": 309,
     "questionUp": "Understand loop initiation.",
     "questionDown": "What happens if the condition in a while loop is never met?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "The loop executes indefinitely" },
       { "B": "The loop exits immediately" },
@@ -3938,7 +3938,7 @@
     "questionNumber": 311,
     "questionUp": "Handling multiple conditions.",
     "questionDown": "Can you have multiple conditions in a single while loop?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Yes, using the '&&' operator" },
       { "B": "Yes, by separating them with commas" },
@@ -3951,7 +3951,7 @@
     "questionNumber": 312,
     "questionUp": "Purpose of 'else' in loops.",
     "questionDown": "What does the 'else' statement do in a while loop?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "It defines an alternative condition for the loop" },
       { "B": "It is executed if the loop terminates normally" },
@@ -3966,7 +3966,7 @@
     "questionNumber": 313,
     "questionUp": "Understand infinite loops.",
     "questionDown": "How do you make a while loop run forever until interrupted?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "By setting the condition to True and using the 'break' statement"
@@ -4021,7 +4021,7 @@
     "questionNumber": 316,
     "questionUp": "Identify invalid loop termination.",
     "questionDown": "Which of the following is NOT a valid way to end a while loop in Python?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Using the 'break' statement" },
       { "B": "Using the 'continue' statement" },
@@ -4034,7 +4034,7 @@
     "questionNumber": 317,
     "questionUp": "Understand truthy/falsy values.",
     "questionDown": "What happens if the condition in a while loop is an empty string?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "It raises a syntax error" },
       { "B": "It evaluates to True" },
@@ -4047,7 +4047,7 @@
     "questionNumber": 318,
     "questionUp": "Manage loop flow.",
     "questionDown": "How do you skip the current iteration and continue with the next iteration of a while loop?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "By using the 'skip' statement" },
       { "B": "By using the 'next' statement" },
@@ -4103,7 +4103,7 @@
     "questionNumber": 322,
     "questionUp": "Count loop iterations.",
     "questionDown": "How many times will the following loop execute?\n\ncount = 0\nwhile count < 3:\n    count += 1",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "3" },
@@ -4142,7 +4142,7 @@
     "questionNumber": 325,
     "questionUp": "Interpret loop behavior.",
     "questionDown": "What does the following while loop do?\n\nnum = 0\nwhile num < 10:\n    num += 2",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Prints even numbers from 0 to 10" },
       { "B": "Prints odd numbers from 1 to 9" },
@@ -4168,7 +4168,7 @@
     "questionNumber": 327,
     "questionUp": "Choose the correct output.",
     "questionDown": "What is the output of the following code?\nnum = 1\nwhile num < 5:\n    print(num)\n    if num == 3:\n        continue\n    num += 1",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1 2 3" },
       { "B": "1 2" },
@@ -4181,7 +4181,7 @@
     "questionNumber": 328,
     "questionUp": "Choose the correct answer.",
     "questionDown": "What will be the value of x after the following loop?\nx = 0\nwhile x < 10:\n    x += 1\nelse:\n    x += 1",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "10" },
       { "B": "11" },
@@ -4207,7 +4207,7 @@
     "questionNumber": 330,
     "questionUp": "Choose the correct output.",
     "questionDown": "What will be the output of the following code?\nx = 0\nwhile x < 5:\n    x += 2\nprint(x)",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5" },
       { "B": "6" },
@@ -4233,7 +4233,7 @@
     "questionNumber": 332,
     "questionUp": "Choose the correct output.",
     "questionDown": "What will be the output of the following code?\nx = 1\nwhile x < 5:\n    if x == 3:\n        x += 1\n        continue\n    print(x)\n    x += 1",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1 2 3 4" },
       { "B": "1 2 4" },
@@ -4246,7 +4246,7 @@
     "questionNumber": 333,
     "questionUp": "Choose the correct answer.",
     "questionDown": "What will be the value of x after the following loop?\nx = 0\nwhile x < 5:\n    x += 1\n    if x == 3:\n        break\nelse:\n    x += 1",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "3" },
@@ -4259,7 +4259,7 @@
     "questionNumber": 334,
     "questionUp": "Choose the correct output.",
     "questionDown": "What is the output of the following code?\nx = 0\nwhile x < 5:\n    if x == 3:\n        x += 1\n        continue\n    print(x)\n    x += 1",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "0 1 2" },
       { "B": "0 1 2 4" },
@@ -4337,7 +4337,7 @@
     "questionNumber": 340,
     "questionUp": "Choose the correct output.",
     "questionDown": "What will be the output of the following code?\nx = 5\nif x < 5:\n    print(\"A\")\nelif x == 5:\n    print(\"B\")\nelse:\n    print(\"C\")",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "A" },
       { "B": "B" },
