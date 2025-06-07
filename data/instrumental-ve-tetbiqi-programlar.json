@@ -1,0 +1,4092 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Is software divided?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "system, application programs, programming systems" },
+      { "B": "application packages, system programs, test programs" },
+      { "C": "operating systems, antiviruses" },
+      { "D": "applied programs, operating systems, coatings" },
+      { "E": "system, service applications, programming systems" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ones are text editors?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Word, Word Pad, PageMaker" },
+      { "B": "Word, Word Pad, Maya" },
+      { "C": "AmiPro, Written, Quark Press" },
+      { "D": "Word, Excel, PageMaker" },
+      { "E": "Word, Corel Ventura, Access" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Network software?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "manages the resources of the network" },
+      { "B": "expands the capabilities of its interface" },
+      { "C": "creates new software tools" },
+      { "D": "Creates application software package" },
+      { "E": "the system creates a software tool" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are archiving programs used for?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "by compressing several files, you can copy them in a smaller volume and save them in one file"
+      },
+      { "B": "expanding the capabilities of its interface" },
+      {
+        "C": "for the purpose of providing additional services to the computer"
+      },
+      { "D": "expanding the capabilities of operating systems" },
+      {
+        "E": "in order to prevent the computer from being infected with a virus"
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The main purpose of application software?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "development and implementation of a specific issue of the user" },
+      { "B": "providing additional services to the computer" },
+      { "C": "expanding the capabilities of its interface" },
+      { "D": "provision of Service services" },
+      { "E": "expanding the capabilities of operating systems" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Is it included in the application software?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "application software package, user's working programs" },
+      { "B": "universal programs, operating systems" },
+      { "C": "user working programs, operating systems" },
+      { "D": "application software package, maintenance programs" },
+      { "E": "operating systems, maintenance software" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Operating systems for the use of information resources?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "local and network" },
+      { "B": "single-user and multi-user" },
+      { "C": "package and time distribution" },
+      { "D": "network and multi-issue" },
+      { "E": "single-issue and multi-issue" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What types of antiviruses are there?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "doctor-programs, inspectors, filters, vaccines, archives" },
+      { "B": "inspectors, detectors, doctor-programs" },
+      { "C": "detectors, doctor-programs, inspectors, filters, vaccines" },
+      { "D": "vaccines, doctor-programs, inspectors" },
+      { "E": "filters, coatings, filters, vaccines" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The main feature of the network Virus?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "it operates there, causing damage to the local network and the internet"
+      },
+      { "B": "damages both files and disks" },
+      { "C": "disables the file system" },
+      { "D": "damages the boot sector of disks" },
+      { "E": "spoils files" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The main feature of the download virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "damages the boot sector of disks" },
+      { "B": "damages both files and disks" },
+      { "C": "disables the file system" },
+      { "D": "disrupts the network system" },
+      { "E": "spoils files" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The main feature of the file virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "spoil them by logging in with the file" },
+      { "B": "damages both files and disks" },
+      { "C": "disables the file system" },
+      { "D": "disrupts the network system" },
+      { "E": "damages the boot sector of disks" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The main function of Antivirus programs?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "finding viruses and eliminating them" },
+      { "B": "disrupting the work of programs" },
+      { "C": "implement Information Protection" },
+      { "D": "software to neutralize viruses" },
+      { "E": "implement information security" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The purpose of the virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "damage to them by entering the computer system" },
+      { "B": "neutralizing viruses" },
+      { "C": "protect information" },
+      { "D": "Creating Information Security" },
+      { "E": "delete from standard programs" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Function of service programs?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "providing additional services to the user and expanding the capabilities of the operating system"
+      },
+      { "B": "expanding the capabilities of the operating system" },
+      {
+        "C": "service of the user's software package and control over their implementation"
+      },
+      { "D": "downloading programs and controlling its implementation" },
+      {
+        "E": "controlling the correct operation of the computer and troubleshooting"
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "According to the location environment..... Virus types exist?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "file, download, network" },
+      { "B": "local, network" },
+      { "C": "file, download, scary" },
+      { "D": "resident, non-resident" },
+      { "E": "resident, download, network" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the operating systems?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "OS / 2, UNIX, MS DOS, Windows vista" },
+      { "B": "MS DOS, Unix, MS Access" },
+      { "C": "MS DOS, WindowsXP, MS Excel" },
+      { "D": "WORD, Windows NT, OS / 2" },
+      { "E": "Windows vista, Winanp, MS Excel" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is called a set of programs that organize and manage the activities of a computer?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "operating system" },
+      { "B": "service software systems" },
+      { "C": "system programs" },
+      { "D": "application software package" },
+      { "E": "network systems" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Components of system software?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "operating system, programming system, technical software, service software"
+      },
+      { "B": "service software, antiviruses, application programs" },
+      {
+        "C": "initial download block, programming system, application programs"
+      },
+      {
+        "D": "commands processor, algorithmic languages, application software packages"
+      },
+      { "E": "compaction programs, application software and operating systems" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Does it apply to the operating cover?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Windows covers" },
+      { "B": "Mase Utilites" },
+      { "C": "WinZip" },
+      { "D": "WinRar" },
+      { "E": "Norton Commander" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Archiving programs on the Windows system?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "WinZip, WinRar, WinArj" },
+      { "B": "Exe, Com, WinArj" },
+      { "C": "UnRar, Exe, pkZip" },
+      { "D": "WinZip, Exe, Zip.Rar" },
+      { "E": "Arj, WinRar, Com" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of software does Antivirus software belong to?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "service program" },
+      { "B": "operating systems" },
+      { "C": "special control program" },
+      { "D": "method-oriented program" },
+      { "E": "applied software" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of driver software is it attributed to?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "to System Software" },
+      { "B": "applied software" },
+      { "C": "operating systems" },
+      { "D": "Special control program" },
+      { "E": "to specialized programs" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is software?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "a complex of programs used for computer operation, organization and management of information processing"
+      },
+      { "B": "software used for the implementation of information exchange" },
+      { "C": "software that expands the capabilities of the operating system" },
+      { "D": "special control program" },
+      {
+        "E": "programs used to provide a normal environment for Applied applications"
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is called archiving software?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "which provides compression of files" },
+      { "B": "interpreter" },
+      { "C": "database management system" },
+      { "D": "translator" },
+      { "E": "getting the backup speed of files" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Does the base apply to software?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Operating systems, operating covers, network operating systems" },
+      { "B": "Antivirus programs, utilities" },
+      { "C": "Software complexes, integration environment of programming" },
+      { "D": "Programming languages" },
+      { "E": "Programming environment" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Display graphic redactors.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Adobe Photoshop ,CorelDRAW, Paint" },
+      { "B": "Dilmanc, Socrates, Translate" },
+      { "C": "AutoCad, Smart, Compatibility" },
+      { "D": "Lingvo, Adobe Illustrator" },
+      { "E": "Oracle, Archicad, Paradox" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following does not apply to the context menu of the folder?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Print (Печать / Print)" },
+      { "B": "Share with (Общий доступ / share)" },
+      { "C": "Cut (Вырезать / Cut)" },
+      { "D": "Send to (Отправить/send)" },
+      { "E": "Properties (Свойства/Characteristics)" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of interface does Windows provide to the user?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "graphic" },
+      { "B": "one-task" },
+      { "C": "Command" },
+      { "D": "string" },
+      { "E": "file" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the function of the Control Panel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "configuring devices and programs connected to the computer" },
+      { "B": "to execute conversion of different file formats to each other" },
+      {
+        "C": "definition of management functions in the dialog windows of programs included in the Microsoft Office package"
+      },
+      {
+        "D": "creation and display of a graphical representation of the file system on the screen"
+      },
+      {
+        "E": "ensuring the management of the sequence of execution of programs and files"
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the reason for the display of a set of commands of the context menu in gray font?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "commands are passive" },
+      { "B": "commands enabled" },
+      { "C": "the commands are hidden" },
+      { "D": "the orders have already been executed" },
+      { "E": "orders are special" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The path to the file:",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "starting from the main directory (root directory) is a hierarchical sequence of all directories in which this file is located"
+      },
+      {
+        "B": "is a list of all directories located directly in the General Directory (root directory)"
+      },
+      {
+        "C": "this is the name of the logical disk on which the file is located"
+      },
+      {
+        "D": "this is the name of the directory where the file is directly located"
+      },
+      {
+        "E": "this is a list of all files in the directory where the file is directly located"
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main task of the context menu?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "flexible access to the properties of the object, commands" },
+      { "B": "easy transition from one of the active programs to another" },
+      { "C": "quick activation of necessary programs" },
+      { "D": "access to recently processed documents" },
+      { "E": "search for folders and files" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which part of the desktop cannot the Taskbar be placed?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "center" },
+      { "B": "low" },
+      { "C": "right" },
+      { "D": "up" },
+      { "E": "left" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the standard program that records a snapshot of the screen?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Snipping tool" },
+      { "B": "Getting started" },
+      { "C": "Run" },
+      { "D": "Paint" },
+      { "E": "Sticky Notes" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a network OS?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Windows NT" },
+      { "B": "Windows XP" },
+      { "C": "Windows ME" },
+      { "D": "Windows 7" },
+      { "E": "MS DOS" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the drop-down menu called with the right mouse button in Windows 7 OS?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "context menu" },
+      { "B": "dialog menu" },
+      { "C": "System menu" },
+      { "D": "Head menu" },
+      { "E": "none" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ones belong to DMS (database management systems)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ms Access, Oracle, Foxpro" },
+      { "B": "Dilmanc, Babylon" },
+      { "C": "1C, Smart, rapport" },
+      { "D": "Database" },
+      { "E": "Paint Oracle" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which block is used in all algorithms?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Start and end block" },
+      { "B": "Calculation" },
+      { "C": "Subroutine" },
+      { "D": "Condition" },
+      { "E": "Period" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The cycle algorithm is divided into:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Simple and complex period" },
+      { "B": "Complex periodic and non linear" },
+      { "C": "Linear and branching" },
+      { "D": "Non-linear and linear" },
+      { "E": "Branching and simple period" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What kind of algorithm does the operation performed after each other belong to?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Line" },
+      { "B": "Simple period" },
+      { "C": "Complicated period" },
+      { "D": "Period" },
+      { "E": "Branching" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which algorithm refers to performing calculations repeatedly at different values of a variable with the same formula:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Periodic" },
+      { "B": "Simple" },
+      { "C": "Complicated period" },
+      { "D": "Branching" },
+      { "E": "Line" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which case does the algorithm become a program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "when switching to algorithmic language" },
+      { "B": "when transferred to the assembler level" },
+      { "C": "after blockchem description" },
+      { "D": "after broadcast" },
+      { "E": "after compilation" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What properties does the algorithm have?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "finiteness, certainty, massiveness, discreteness, consequentialism"
+      },
+      { "B": "systemicity, regularity, certainty, result" },
+      {
+        "C": "determinism, consistency, generality, logicality, intelligibility"
+      },
+      { "D": "linearity, branching, periodicity, conditionality, nobility" },
+      { "E": "conceptuality, logic, structure, nobility" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the description tools of the algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "text, blockchain, algorithmic language" },
+      { "B": "linear, branching and period" },
+      { "C": "blockchain, operator, Software" },
+      { "D": "algorithmic language, blockchain, software" },
+      { "E": "publisher, compiler, assembler" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the types of algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "linear, branching and period" },
+      {
+        "B": "simple conditional, complex conditional branching and parametric period"
+      },
+      { "C": "calculator, selection, summing" },
+      { "D": "selection, branching, parametric period" },
+      { "E": "iterative period, period, period, pre-period" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is meant by a linear algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "algorithm executed in the sequence in which the order of actions is written"
+      },
+      { "B": "unconditionally executed algorithm" },
+      { "C": "one-level algorithm" },
+      { "D": "algorithm with degree 1" },
+      { "E": "simple algorithm" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is meant by a branching algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "algorithm with one or two logic stages" },
+      { "B": "algorithm branching at a certain stage of solving the problem" },
+      { "C": "problem algorithm that can be solved in two or more ways" },
+      { "D": "algorithm divided into two and more paths" },
+      { "E": "problem algorithm solved by two branches" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What language is the programming language for the Internet?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "HTML" },
+      { "B": "C++" },
+      { "C": "SQL" },
+      { "D": "VBA" },
+      { "E": "Java" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is problem-oriented application software package (TPP)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "software product that solves any issue of a specific area" },
+      { "B": "software product that solves specific issues" },
+      { "C": "software product that solves a specific problem" },
+      { "D": "software product that solves a specific issue" },
+      { "E": "software product that solves field issues" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the method-oriented application software package for?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "to implement the solution of mathematical economic problems by certain methods"
+      },
+      {
+        "B": "to realize the solution of one type of issues by multiple methods"
+      },
+      {
+        "C": "in order to realize the solution of a specific issue by certain methods"
+      },
+      {
+        "D": "to implement the solution of a specific problem in a specific way"
+      },
+      {
+        "E": "to realize the solution of one type of issues with one type of methods"
+      }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What properties does the algorithm have?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1, 2, 3, 4" },
+      { "B": "1, 2, 3" },
+      { "C": "3, 4, 5" },
+      { "D": "4, 5" },
+      { "E": "1, 3, 4" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Determination property of the algorithm:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Each step of the algorithm must be categorical and unambiguous" },
+      { "B": "The algorithm should be made up of separate clear steps" },
+      { "C": "The algorithm must conclude in its entirety" },
+      { "D": "After a finite number of steps, the result must be obtained" },
+      { "E": "Should solve all issues of the same kind" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Discreteness property of the algorithm:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The algorithm should be organized from separate clear steps" },
+      { "B": "Each step of the algorithm must be unambiguous" },
+      { "C": "The algorithm must conclude in its entirety" },
+      { "D": "Result obtained after finite steps" },
+      { "E": "Used for all same kind of issues" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Massiveness property of the algorithm:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It should be used to solve all issues of the same kind" },
+      { "B": "Organized from separate steps" },
+      { "C": "Must conclude in entirety" },
+      { "D": "Result after finite steps" },
+      { "E": "Each step must be unambiguous" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What types of algorithm are there?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "linear, branching, periodic" },
+      { "B": "branching, network, periodic" },
+      { "C": "linear, branching, quadratic" },
+      { "D": "quadratic, grid, periodic" },
+      { "E": "networking, linear, branching" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a linear algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The steps are performed in the order they are written" },
+      { "B": "Executed differently based on condition" },
+      { "C": "Steps repeated several times" },
+      { "D": "Certain steps not repeated" },
+      { "E": "All answers are wrong" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a branching algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Executed differently based on condition" },
+      { "B": "Steps performed in order" },
+      { "C": "Steps repeated several times" },
+      { "D": "Steps not repeated" },
+      { "E": "All answers are wrong" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a periodic algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Steps repeated several times" },
+      { "B": "Steps performed in order" },
+      { "C": "Executed differently based on condition" },
+      { "D": "Steps not repeated" },
+      { "E": "All answers are wrong" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What can be described in the algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "With words, block-schemes, algorithmic languages" },
+      { "B": "With images, examples, programming languages" },
+      { "C": "With examples, operators, algorithmic languages" },
+      { "D": "With operators, matter and Formula" },
+      { "E": "By any rule" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is meant by the determinism property of the algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Certainty" },
+      { "B": "Result" },
+      { "C": "Massiveness" },
+      { "D": "Discreteness" },
+      { "E": "Finiteness" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of data is used to work with memory addresses in programming?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "indicator" },
+      { "B": "logical" },
+      { "C": "account" },
+      { "D": "conditional" },
+      { "E": "text" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Select the main unit of measurement of information.",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "byte" },
+      { "B": "bit" },
+      { "C": "megabit" },
+      { "D": "kilobytes" },
+      { "E": "megabytes" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is called the degree to which information corresponds to the real objective state of affairs?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "adequacy" },
+      { "B": "relevance" },
+      { "C": "objectivity" },
+      { "D": "completeness" },
+      { "E": "accuracy" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What forms of information are there?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "Analog, Digital" },
+      { "B": "periodic, branching" },
+      { "C": "conventional, linear" },
+      { "D": "binary, quadratic" },
+      { "E": "simple, complex" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Select the section that studies all the programs used in Ehms, their classification and rules of use.",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "Software" },
+      { "B": "Hardware" },
+      { "C": "Netware" },
+      { "D": "Brainware" },
+      { "E": "Freeware" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What property does the correspondence of information to the current time reflect?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "Relevance" },
+      { "B": "Adequacy" },
+      { "C": "Truthfulness" },
+      { "D": "Objectivity" },
+      { "E": "Reliability" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What sequence expresses the sequence of increasing memory?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "gigabytes, megabytes, terabytes" },
+      { "B": "terabyte, Gigabyte, megabyte" },
+      { "C": "terabyte, megabyte, Gigabyte" },
+      { "D": "megabytes, terabytes, gigabytes" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Choose the smallest unit of measurement of information.",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "bit" },
+      { "B": "hers" },
+      { "C": "bod" },
+      { "D": "bytes" },
+      { "E": "inches" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What range fully reflects the properties of information?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "accuracy, relevance, clarity, adequacy" },
+      { "B": "usefulness, timeline, completeness, relevance" },
+      { "C": "text, true, utility, modern" },
+      { "D": "relevance, sign, accuracy, digit" },
+      { "E": "modern, textual, transplant, sign" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the types of information?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "1, 3, 5" },
+      { "B": "1, 2, 4" },
+      { "C": "2, 3, 6" },
+      { "D": "3, 5, 6" },
+      { "E": "1, 4, 5" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Select those that do not belong to the properties of the information.",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "2, 3, 5" },
+      { "B": "1, 2, 4" },
+      { "C": "3, 4, 5" },
+      { "D": "1, 2, 3" },
+      { "E": "1, 4, 6" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In the Word 2016 text editor, which Ribbon tab is used to insert tables, hyperlinks, illustrations, references, etc.?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Page Layout" },
+      { "C": "File" },
+      { "D": "Home" },
+      { "E": "References" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The creation of lists in MS Word is executed by which Ribbon tab command?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "Home / Paragraph" },
+      { "B": "Home / Font" },
+      { "C": "Home / Clipboard" },
+      { "D": "Home / Styles" },
+      { "E": "Home / Editing" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the function of the Ctrl + Z combination?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "cancels the last operation" },
+      { "B": "opens a new Word document" },
+      { "C": "save the document" },
+      { "D": "opens the stored document" },
+      { "E": "returns the canceled transaction" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the function of the Ctrl + Y combination?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "returns the canceled transaction" },
+      { "B": "opens a new Word document" },
+      { "C": "save the document" },
+      { "D": "opens the stored document" },
+      { "E": "cancels the last operation" }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Determine the sequence to search for any word in the text in MS Word.",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "Home / Editing / Find" },
+      { "B": "Insert / Editing / Find" },
+      { "C": "Home / Font / Go To" },
+      { "D": "Home / Styles / Find" },
+      { "E": "References / Captions / Find" }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What shortcut is used to save a document under a different name?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "F12" },
+      { "B": "Shift + S" },
+      { "C": "Alt + S" },
+      { "D": "Home/Save as" },
+      { "E": "Ctrl + S" }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What shortcut is used to save a document with the same name?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "Ctrl + S" },
+      { "B": "Shift + S" },
+      { "C": "Alt + S" },
+      { "D": "Home/Save as" },
+      { "E": "F12" }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In what order can not line a paragraph in Word?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "low" },
+      { "B": "transverse" },
+      { "C": "to the left" },
+      { "D": "to the right" },
+      { "E": "to the center" }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What sequence of commands is executed in Word to replace one word with another?",
+    "correctAnswer": "",
+    "answers": [
+      { "A": "Home / Editing / Replace" },
+      { "B": "Insert/Replace" },
+      { "C": "View / Replace" },
+      { "D": "page Layout / Editing" },
+      { "E": "Home / Font / Replace" }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following commands does not belong to the File (Файл/File) menu?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Copy (Копировать)" },
+      { "B": "New (Создать)" },
+      { "C": "Open (Открыть)" },
+      { "D": "Save (Сохранить)" },
+      { "E": "Print (Печать)" }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the combinations of commands to cut, cancel the last executed action in the MS Word text editor?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl + X, Ctrl + Z" },
+      { "B": "Ctrl + V, Ctrl + F" },
+      { "C": "Ctrl + Z, Ctrl + B" },
+      { "D": "Ctrl + A, Ctrl + J" },
+      { "E": "Ctrl + W, Ctrl + O" }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following ribbon tabs does not apply to main tabs (Main tabs)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Format (Формат)" },
+      { "B": "References (Ccылки)" },
+      { "C": "Mailings (Paccылки)" },
+      { "D": "Page Layout (Paзметкa страницы)" },
+      { "E": "Home (Главная)" }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens if the cursor is clicked twice in a row on any word within the text in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the word is chosen" },
+      { "B": "word copied" },
+      { "C": "the word is deleted" },
+      { "D": "the word is replaced by another word" },
+      { "E": "the sentence is selected" }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a text editor?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Applied software used for the preparation of text documents" },
+      { "B": "application software used for automation of accounting issues" },
+      { "C": "applied software used for the preparation of drawings" },
+      { "D": "application software used for table creation" },
+      { "E": "software used for writing and deleting data in the database" }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the group of cells that make up a rectangular shape in an Excel program called?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "range of cells" },
+      { "B": "rectangle of cells" },
+      { "C": "cells interval" },
+      { "D": "shortcut (shortcut)" },
+      { "E": "array" }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the heading of columns denoted by in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "with the letters latin" },
+      { "B": "in Arabic numerals" },
+      { "C": "in Roman numerals" },
+      { "D": "Sheet 1, Sheet 2..." },
+      { "E": "in Russian letters" }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Where is the name of the sheets indicated in the working book?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "at the bottom of the window" },
+      { "B": "in the title line" },
+      { "C": "in the status line" },
+      { "D": "in the formula line" },
+      { "E": "in the drawing panel" }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How are the lines denoted in the working book?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "in Arabic numerals" },
+      { "B": "in Roman numerals" },
+      { "C": "in Russian letters" },
+      { "D": "in Latin letters" },
+      { "E": "in Greek letters" }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "A group of 4 cells is selected in the spreadsheet. Which of the following can this group be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A1:B2" },
+      { "B": "A2:C4" },
+      { "C": "А1:B4" },
+      { "D": "A1:B3" },
+      { "E": "A1:C2" }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Reference in Excel-in the composition of the formula ...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is the address of the cell" },
+      { "B": "stable" },
+      { "C": "is the range of cells" },
+      { "D": "function" },
+      { "E": "is the argument" }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What character is used in the range of cells in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ":" },
+      { "B": ";" },
+      { "C": "!" },
+      { "D": "?" },
+      { "E": "=" }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main element of a spreadsheet?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cell" },
+      { "B": "string" },
+      { "C": "table" },
+      { "D": "page" },
+      { "E": "column" }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the smallest structural unit inside a sheet in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cell" },
+      { "B": "string" },
+      { "C": "column" },
+      { "D": "formula" },
+      { "E": "table" }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following addresses is the absolute address in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$B $ 9" },
+      { "B": "E9" },
+      { "C": "B$9" },
+      { "D": "$$A9" },
+      { "E": "$C9" }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following addresses is a relative address in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "B9" },
+      { "B": "E$9" },
+      { "C": "$B $ 9" },
+      { "D": "$$A9" },
+      { "E": "$C$$9" }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following addresses is a mixed address in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "E$9" },
+      { "B": "B9" },
+      { "C": "$B $ 9" },
+      { "D": "$$A9" },
+      { "E": "$C$$9" }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What character is used in absolute addressing in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$" },
+      { "B": "#" },
+      { "C": "!" },
+      { "D": "?" },
+      { "E": "=" }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following addresses is a relative address in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "R3C2" },
+      { "B": "R3AB" },
+      { "C": "$$B" },
+      { "D": "$$12" },
+      { "E": "$C$" }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is an Excel document called?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "working book" },
+      { "B": "working page" },
+      { "C": "working table" },
+      { "D": "working sheet" },
+      { "E": "working area" }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many columns is included in the range B2016:D5 in Excel 11?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "6" },
+      { "C": "7" },
+      { "D": "18" },
+      { "E": "21" }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What form of information is the PowerPoint program for working with?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Presentation" },
+      { "B": "Graphic" },
+      { "C": "Text" },
+      { "D": "Accounting" },
+      { "E": "Table" }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Through which tape tab is music added to slides?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert (Вставка / add)" },
+      { "B": "Home (Главная / Home)" },
+      { "C": "View (Вид / View)" },
+      { "D": "Design (Дизайн / Design)" },
+      { "E": "Transitions (Переходы/Transitions)" }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In what mode can a slide not be printed?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Slide Show (Показ слайдов/slide rendering)" },
+      { "B": "Reading View (Режим чтение/Reading View)" },
+      { "C": "Normal (Обычный / Normal)" },
+      { "D": "Slide Master (Образец слайдов/Slide Master)" },
+      { "E": "Notes Page (Страницы заметок/notes page)" }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which key is pressed from the keyboard to view the presentation?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "F5" },
+      { "B": "Enter" },
+      { "C": "Tab" },
+      { "D": "F3" },
+      { "E": "F2" }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In PowerPoint, with what extension is the document written to memory by default?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".pptx" },
+      { "B": ".powx" },
+      { "C": ".prrx" },
+      { "D": ".ppsx" },
+      { "E": ".pwtx" }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many slides can a maximum of one A14 format page be printed in PowerPoint 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "9" },
+      { "B": "2" },
+      { "C": "6" },
+      { "D": "1" },
+      { "E": "12" }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many minimum slides can be printed on one A4 format page in PowerPoint 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "6" },
+      { "D": "9" },
+      { "E": "12" }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which button is pressed to refuse the demonstration of slides?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Esc" },
+      { "B": "Enter" },
+      { "C": "End" },
+      { "D": "Ctrl" },
+      { "E": "Tab" }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which Ribbon tab is used to give animation to slide objects?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Animations (Анимация/Animation)" },
+      { "B": "Transitions (Переходы/Transitions)" },
+      { "C": "Insert (Вставка / add)" },
+      { "D": "Design (Дизайн / Design)" },
+      { "E": "Slide Show (Показ слайдов/slide rendering)" }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which Ribbon tab command is used to hide slides?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Slide Show (Показ слайдов/slide rendering)" },
+      { "B": "Home (Главная / Home)" },
+      { "C": "Insert (Вставка / add)" },
+      { "D": "Review (Рецензирование / Review)" },
+      { "E": "View (Вид / Appearance)" }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What job does the Replace (Заменить/replace) command do?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "changes the given text on the current slide and the entire presentation"
+      },
+      { "B": "replaces a certain slide with another slide" },
+      { "C": "only changes text on current slide" },
+      { "D": "replaces the font of the slide with another font" },
+      { "E": "change the font size" }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What structural algorithm is it to find the largest among a given hundred numbers?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Periodic" },
+      { "B": "Branching" },
+      { "C": "Linear" },
+      { "D": "Maximum" },
+      { "E": "linear, branching" }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of algorithm does the finding of the product of the given numbers A and B belong to?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "line" },
+      { "B": "period" },
+      { "C": "branching" },
+      { "D": "linear cycle" },
+      { "E": "linear branching" }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What types (structures) of the algorithm are there?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1, 3, 4" },
+      { "B": "2, 3" },
+      { "C": "1, 4, 5" },
+      { "D": "2, 3, 4" },
+      { "E": "1, 2" }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the most visual representation method of the algorithm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "block-scheme method" },
+      { "B": "method of description with algorithmic language" },
+      { "C": "natural language" },
+      { "D": "pseudocode method" },
+      { "E": "all" }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What geometric figure is the comparison block denoted by during the description of the algorithm by means of a flowchart?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "rhombus" },
+      { "B": "rectangular" },
+      { "C": "Ellipse" },
+      { "D": "parallelogram" },
+      { "E": "Hexagon" }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a software?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "program in computer language" },
+      { "B": "the program compiled by the programmer" },
+      { "C": "operating system" },
+      { "D": "System programs" },
+      {
+        "E": "software that converts the initial program into machine language"
+      }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How is the algorithm written in the language that the computer 'understands' called?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "program" },
+      { "B": "table" },
+      { "C": "text" },
+      { "D": "listing" },
+      { "E": "linear" }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the simplest form of description of algorithms?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "transplant (in words)" },
+      { "B": "algorithmic language" },
+      { "C": "block scheme" },
+      { "D": "pseudocode" },
+      { "E": "Pictures" }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the condition for the number x to be included in the fraction [a,b]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(a<=x)and (x<=b)" },
+      { "B": "(A<x)or (x<=b)" },
+      { "C": "(A>x)or (x<b)" },
+      { "D": "(x<=A)and (x>=b)" },
+      { "E": "(x< = A) or (x>=b)" }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "AX2+BX+C = 0 — how many times should a conditional block be written according to D when constructing a flowchart so that a solution to a quadratic equation can be found?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "5" },
+      { "C": "6" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "When does the problem have no solution in the algorithm for calculating the function z=1/x+1/(x-1)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x = 0 and x = 1" },
+      { "B": "x = 10 or x = 3" },
+      { "C": "y = -1 or y = -3" },
+      { "D": "y = 5 and y = 5" },
+      { "E": "x = -3 or y = 6" }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What algorithm expresses the scheme?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Linear" },
+      { "B": "complex period" },
+      { "C": "Branching" },
+      { "D": "Cycle" },
+      { "E": "simple period" }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What algorithm expresses the scheme?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Branching" },
+      { "B": "complex period" },
+      { "C": "Linear" },
+      { "D": "Cycle" },
+      { "E": "simple period" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What algorithm expresses the scheme?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "complex period" },
+      { "B": "Branching" },
+      { "C": "Linear" },
+      { "D": "Conditional" },
+      { "E": "simple period" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the algorithm for changing the places of x and y?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "c := y; y := x; x := c" },
+      { "B": "c := z; x := y; x := c" },
+      { "C": "c := y; x := d; c := x" },
+      { "D": "y := c; x := y; x := v" },
+      { "E": "y := c; y := n; x := c" }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What would be the most optimal algorithm for finding the sum of 1000 given numbers?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "periodic" },
+      { "B": "conditional" },
+      { "C": "branching" },
+      { "D": "linear" },
+      { "E": "simple" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a=1; b:=a*2; c:=a+b; c:=c*a; a:=b*c; if (a+c)<b then s:=a*b otherwise find s from s:=a+b. What is s?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "3" },
+      { "C": "4" },
+      { "D": "6" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "After executing the algorithm x = 3, y = 7, if x < y then x := y² + x. Find the X - y difference.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "45" },
+      { "B": "52" },
+      { "C": "5" },
+      { "D": "16" },
+      { "E": "24" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What value will the variable Y receive as a result of performing this algorithm? X := 5, Y := 8, C := X, X := Y - 2, Y := C * X",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "30" },
+      { "B": "8" },
+      { "C": "25" },
+      { "D": "9" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What value will the variable y receive after this algorithm? x:=13, y:=x+5, z:=x+y/3, y:=y+z-12",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "20" },
+      { "B": "25" },
+      { "C": "18" },
+      { "D": "40" },
+      { "E": "12" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x := 12; y := 58; c := x; x := y - 4; y := c * (x - 49). What will y be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "60" },
+      { "B": "71" },
+      { "C": "102" },
+      { "D": "65" },
+      { "E": "14" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What character is used to write an operator into several lines?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\" },
+      { "B": "?" },
+      { "C": "/" },
+      { "D": "!" },
+      { "E": "*" }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many would the answer be when 10% is 3? (% is not a percentage sign)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "5" }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "When X <= 6, what values can be closest to 6?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5, 6" },
+      { "B": "7, 8" },
+      { "C": "4, 5" },
+      { "D": "0, 6" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = 13, b = 4. How many times does the product of a % b relate to a // b?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "7" },
+      { "C": "12" },
+      { "D": "1" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Strings in Python are written with:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\" and \"" },
+      { "B": "% and %" },
+      { "C": "! and )" },
+      { "D": "; and )" },
+      { "E": "' and \"" }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "According to H = 'success', F = 'course', >>>print(H + F), what result will it give?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "successcourse" },
+      { "B": "Success Coursess" },
+      { "C": "!Success courses" },
+      { "D": "Courses success" },
+      { "E": "/ Ugur Courses;/" }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the number of the 5th line if Python starts indexing from zero?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "5" },
+      { "C": "0" },
+      { "D": "9" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In Python, the word 'Masalli' is marked with 'a'. What is the result of [0:4]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Masa" },
+      { "B": "Fable" },
+      { "C": "Asal" },
+      { "D": "Masalli" },
+      { "E": "Mslli" }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In Python, the word 'Instrumental' is marked with 'B'. What is the result of [3:7]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "trum" },
+      { "B": "Inst" },
+      { "C": "Tument" },
+      { "D": "ental" },
+      { "E": "mental" }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In Python, the word 'electromagnet' is denoted by 'C'. What is the result of [0:5]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Elect" },
+      { "B": "Magnetic" },
+      { "C": "Electro" },
+      { "D": "Tromaq" },
+      { "E": "ktroma" }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In Python, the word 'microwave' is denoted by 'D'. What is the result of [:4]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "micr" },
+      { "B": "Micro" },
+      { "C": "Dalga" },
+      { "D": "Kroda" },
+      { "E": "ikro" }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In Python, the word 'Lankaran' is marked with 'X'. What is the result of [3:]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "karan" },
+      { "B": "Lankaran" },
+      { "C": "Aran" },
+      { "D": "Nker" },
+      { "E": "Kara" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In Python, the word 'Sabirabad' is denoted by 'M'. What is the result of [0:5]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sabir" },
+      { "B": "Sabi" },
+      { "C": "Raba" },
+      { "D": "Abad" },
+      { "E": "birab" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In Python, the word 'Kurdemir' is marked with 'l'. What is the result of [2:5]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "rde" },
+      { "B": "kur" },
+      { "C": "dem" },
+      { "D": "mir" },
+      { "E": "dem" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> print(len(M+K)) where M = '7', K = '12'. How many will it be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "4" },
+      { "D": "7" },
+      { "E": "19" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> print(len(S+L)) where S = 'Hello', L = '12'. How many will it be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "7" },
+      { "B": "5" },
+      { "C": "84" },
+      { "D": "2" },
+      { "E": "-5" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> print(len(K+T)) where K = '153', T = 'middle letter'. How many will it be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "16" },
+      { "B": "15" },
+      { "C": "13" },
+      { "D": "12" },
+      { "E": "11" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> print(len(A+B)-4) where A = 'Hello', B = 'world'. How many will it be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "7" },
+      { "C": "8" },
+      { "D": "5" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> print(len(C+D)+7) where C = '12', D = '3'. How many will it be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10" },
+      { "B": "71" },
+      { "C": "19" },
+      { "D": "7" },
+      { "E": "11" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> print(len(U)-len(T)) where U = 'Astrology', T = 'science'. How many will it be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "6" },
+      { "C": "8" },
+      { "D": "9" },
+      { "E": "5" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> print(len(A)/len(C)) where A = 'Hello', C = 'world'. How many will it be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "5" },
+      { "C": "8" },
+      { "D": "2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> print(len(A)/2) where A = 'neftcala'. How many will it be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "5" },
+      { "C": "8" },
+      { "D": "2" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the result of input(1986) in string-type quantities?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "'1986'" },
+      { "B": "(1986)" },
+      { "C": "!1986" },
+      { "D": "*1986" },
+      { "E": "1#1986" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the result of str(2002)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "'2002'" },
+      { "B": "2002" },
+      { "C": "(2002)" },
+      { "D": "!2002" },
+      { "E": "2002:" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the result of >>> print('Joseph is', C, 'years old') if C = 5?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Joseph is 5 years old" },
+      { "B": "Joseph is 10 years old" },
+      { "C": "5 years old Joseph" },
+      { "D": "Yusufun 5 years old" },
+      { "E": "Yusuf is 5 years old" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What method is used to find a substring in a given line?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Find" },
+      { "B": "Search" },
+      { "C": "Text" },
+      { "D": "Upper" },
+      { "E": "Closed" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How will the word 'Informatics' be spelled after applying the upper() method?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "INFORMATICS" },
+      { "B": "Informatics" },
+      { "C": "computer science" },
+      { "D": "Computer science" },
+      { "E": "Computer science" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> eh = [200, 150, 45, 17] >>> What is the result of sum(eh)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "412" },
+      { "B": "214" },
+      { "C": "566" },
+      { "D": "200" },
+      { "E": "17" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> a = [20, 15, 4, 1] >>> What is the result of sum(a)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "40" },
+      { "B": "214" },
+      { "C": "566" },
+      { "D": "200" },
+      { "E": "17" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> b = [35, 2, 5, 27] >>> What is the result of sum(b)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "69" },
+      { "B": "21" },
+      { "C": "56" },
+      { "D": "29" },
+      { "E": "17" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> c = [56, 78, 31, 6] >>> What is the result of sum(c)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "171" },
+      { "B": "214" },
+      { "C": "566" },
+      { "D": "200" },
+      { "E": "173" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> d = [49, 31, 90, 1] >>> What is the result of sum(d)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "171" },
+      { "B": "214" },
+      { "C": "566" },
+      { "D": "200" },
+      { "E": "179" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> e = [90, 12, 87, 54] >>> What is the result of sum(e)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "243" },
+      { "B": "214" },
+      { "C": "566" },
+      { "D": "200" },
+      { "E": "178" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> h = [65, 23, 67, 74] >>> What is the result of sum(h)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "229" },
+      { "B": "214" },
+      { "C": "566" },
+      { "D": "200" },
+      { "E": "800" }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> reqem = [74, 67, 59, 36] >>> What is the result of sum(reqem)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "236" },
+      { "B": "214" },
+      { "C": "566" },
+      { "D": "200" },
+      { "E": "308" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> lst = [8, 12, 47, -36, 86] >>> What is the result of min(lst)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-36" },
+      { "B": "8" },
+      { "C": "12" },
+      { "D": "86" },
+      { "E": "117" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> abc = [45, 65, 75, 78, 48] >>> What is the result of min(abc)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "45" },
+      { "B": "65" },
+      { "C": "75" },
+      { "D": "78" },
+      { "E": "48" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> cba = [-4, -35, -2, -87, -32] >>> What is the result of min(cba)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-87" },
+      { "B": "-4" },
+      { "C": "-35" },
+      { "D": "-32" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> buy = [8, 12, 47, 36, 86] >>> What is the result of max(buy)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "86" },
+      { "B": "8" },
+      { "C": "12" },
+      { "D": "47" },
+      { "E": "36" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> taste = [54, 68, 23, 65, 86] >>> What is the result of max(taste)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "86" },
+      { "B": "54" },
+      { "C": "68" },
+      { "D": "23" },
+      { "E": "65" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> mt = [5, 1, 4, -3, 8] >>> What is the result of max(mt)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "5" },
+      { "C": "1" },
+      { "D": "4" },
+      { "E": "-3" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> number = [449, 681, 149, 489, 979] >>> What is the result of max(number)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "979" },
+      { "B": "449" },
+      { "C": "681" },
+      { "D": "149" },
+      { "E": "489" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> num1 = [8, 12, 47, -36, 86] >>> What is the result of max(num1)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "86" },
+      { "B": "8" },
+      { "C": "12" },
+      { "D": "-36" },
+      { "E": "117" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> n1 = [449, 494, 598, 989, 489] >>> What is the result of max(n1)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "989" },
+      { "B": "449" },
+      { "C": "494" },
+      { "D": "598" },
+      { "E": "489" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> r1 = [2, 6, -3, 8, -10] >>> What is the result of max(r1)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "2" },
+      { "C": "6" },
+      { "D": "-3" },
+      { "E": "-10" }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> nr = [45, 67, 32, 36, 86] >>> What is the result of max(nr)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "86" },
+      { "B": "45" },
+      { "C": "67" },
+      { "D": "32" },
+      { "E": "36" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": ">>> lst = ['Farid', 'Elmir', 'Abid', 'Zamin'] >>> After reverse(lst), what is the sequence?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[Zamin, Abid, Elmir, Farid]" },
+      { "B": "(Abid, Elmir, Farid, Zamin)" },
+      { "C": "(Zamin, Farid, Elmir, Abid)" },
+      { "D": "[Zamin, Elmir, Farid, Abid]" },
+      { "E": "(Farid, The Guarantor)" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What function is used to determine the number of elements of a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len" },
+      { "B": "str" },
+      { "C": "div" },
+      { "D": "esp" },
+      { "E": "atr" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many categories is the subprogram divided into and what are they?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2-procedures and applications" },
+      { "B": "2-div and mod" },
+      { "C": "2-procedures and functions" },
+      { "D": "4-Mod, div, procedures and functions" },
+      { "E": "3-functions,procedures, constants" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Choose the correct definition.",
+    "questionDown": "Function....",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Calculates a certain price and returns that price to the program (subprogram) that calls it"
+      },
+      { "B": "Processes data in a single time" },
+      { "C": "Calculates data in time frames" },
+      { "D": "Encodes certain methods and returns it to the subprogram" },
+      { "E": "Transmits and processes constants to the program" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Converts string to number:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int" },
+      { "B": "trp" },
+      { "C": "upper" },
+      { "D": "len" },
+      { "E": "esk" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What 4 functions are used in the action section?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "abs, int, input, print" },
+      { "B": "srt, str, Len, int" },
+      { "C": "div, mod, imput, print" },
+      { "D": "str, Len, div, mod" },
+      { "E": "abs, mod, div, print" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What keyword does the definition of a new function begin with?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "def" },
+      { "B": "dec" },
+      { "C": "dfg" },
+      { "D": "tek" },
+      { "E": "heks" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Procedure…",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Replaces any operator sequence" },
+      { "B": "Collects a sequence of constants" },
+      { "C": "Encodes string-type quantities" },
+      { "D": "Accelerates the implementation of processes" },
+      { "E": "Is the conversion per program per unit time" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "Which of the following data is written correctly in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Soz=\"Hello\"" },
+      { "B": "S?oz=\"Hello\"" },
+      { "C": "So z=\"Hello\"" },
+      { "D": "S-oz=\"Hello\"" },
+      { "E": "S \"oz=\"Hello\"" }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "Which of the following data is written correctly in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Figure=2" },
+      { "B": "R.Agate=2" },
+      { "C": "2Dance=2" },
+      { "D": "Dance!IP=2" },
+      { "E": "D-ance=2" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "Which of the following data is written correctly in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Name=\"Canaan\"" },
+      { "B": "A d=\"Canaan\"" },
+      { "C": "A.d=\"Canaan\"" },
+      { "D": "A?d=\"Canaan\"" },
+      { "E": "1Ad=\"Canaan\"" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "Which of the following data is written correctly in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fruit=\"banana\"" },
+      { "B": "fru?t=\"banana\"" },
+      { "C": "Fr ui t=\"banana\"" },
+      { "D": "6f uit=\"banana\"" },
+      { "E": "M7\"E= \"banana\"" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "Which of the following data is written correctly in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Number1=9" },
+      { "B": "Num-ber=9" },
+      { "C": "N umber=9" },
+      { "D": "1Number=9" },
+      { "E": "N + umber=9" }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "Which of the following data is written correctly in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dunya1=\"world\"" },
+      { "B": "D-unya=\"world\"" },
+      { "C": "Dun / ya=\"world\"" },
+      { "D": "D!unya=\"world\"" },
+      { "E": "1Dunya=\"world\"" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the speed of the computer largely depend on?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "from the clock frequency" },
+      { "B": "from the print speed of the printer" },
+      { "C": "from the capacity of the external storage device" },
+      { "D": "from the volume of information processed" },
+      { "E": "from the speed of processing information of the modem" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What kind of device in the computer is important for its operation?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "practical memory" },
+      { "B": "maus" },
+      { "C": "printer" },
+      { "D": "scanner" },
+      { "E": "Sound Board" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the designation of practical memory?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "For active program and temporary storage of data" },
+      { "B": "Increases the speed of system operation" },
+      { "C": "Video feeds information into a computer" },
+      { "D": "Entering voice information into a computer" },
+      { "E": "Provides readability of floppy disks" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is BIOS?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Base system of input and output" },
+      { "B": "Practical memory" },
+      { "C": "Universal connector device" },
+      { "D": "Printing device" },
+      { "E": "Arithmetic-logic device" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Hello World\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Hello World\")" },
+      { "B": "echo (\"hello world\");" },
+      { "C": "p (\"Hello World\")" },
+      { "D": "p) Hello World" },
+      { "E": "echo \" hello world”" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Hello World\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Hello World\")" },
+      { "B": "echo (\"Hello World\");" },
+      { "C": "p (\"Hello\")" },
+      { "D": "p) \" hello world”" },
+      { "E": "echo \" Hello world”" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Melikmemmed\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Melikmemmed\")" },
+      { "B": "echo (\"Melikmemmed\");" },
+      { "C": "p (\"Melikmemmed\")" },
+      { "D": "P) Melikmemmed" },
+      { "E": "echo \" Melikmemmed”" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Azerbaijan\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Azerbaijan\")" },
+      { "B": "echo (\"Azerbaijan\");" },
+      { "C": "p (\"Azerbaijan\")" },
+      { "D": "P) Azerbaijan" },
+      { "E": "echo \" Azerbaijan”" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Baku\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Baku\")" },
+      { "B": "echo (\"Baku\");" },
+      { "C": "p (\"Baku\")" },
+      { "D": "P) Baku" },
+      { "E": "echo \" Baku”" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"I love Python\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"I love Python\")" },
+      { "B": "echo (\"I love Python\");" },
+      { "C": "p (\"I love Python\")" },
+      { "D": "P) I love Python" },
+      { "E": "echo \" I love Python”" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Python is awesome\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Python is awesome\")" },
+      { "B": "echo (\"Python is awesome\");" },
+      { "C": "p (\"Python is awesome\")" },
+      { "D": "P) Python is awesome" },
+      { "E": "echo \" Python is awesome”" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Coding is fun\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Coding is fun\")" },
+      { "B": "echo (\"Coding is fun\");" },
+      { "C": "p (\"Coding is fun\")" },
+      { "D": "P) Coding is fun" },
+      { "E": "echo \" Coding is fun”" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Let's code!\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Let's code!\")" },
+      { "B": "echo (\"Let's code!\");" },
+      { "C": "p (\"Let's code!\")" },
+      { "D": "P) Let's code!" },
+      { "E": "echo \" Let's code!”" }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Data Science\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Data Science\")" },
+      { "B": "echo (\"Data Science\");" },
+      { "C": "p (\"Data Science\")" },
+      { "D": "P) Data Science" },
+      { "E": "echo \" Data Science”" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"AI is the future\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"AI is the future\")" },
+      { "B": "echo (\"AI is the future\");" },
+      { "C": "p (\"AI is the future\")" },
+      { "D": "P) AI is the future" },
+      { "E": "echo \" AI is the future”" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Hello, World!\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Hello, World!\")" },
+      { "B": "echo (\"Hello, World!\");" },
+      { "C": "p (\"Hello, World!\")" },
+      { "D": "P) Hello, World!" },
+      { "E": "echo \" Hello, World!”" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Choose the correct Python syntax.",
+    "questionDown": "What is the correct syntax for \"Python 3.10\" output in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print (\"Python 3.10\")" },
+      { "B": "echo (\"Python 3.10\");" },
+      { "C": "p (\"Python 3.10\")" },
+      { "D": "P) Python 3.10" },
+      { "E": "echo \" Python 3.10”" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the correct syntax for returning the first character in a line?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "X= \"Hello\" [0]" },
+      { "B": "X= \"Hello\"”sub (0,1)" },
+      { "C": "X=alt (\"Hello\", 0,1)" },
+      { "D": "X=alt (\"Hello\")" },
+      { "E": "X=alt(Hello 0)" }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What method can be used to remove any gaps from the beginning and end of the line?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Strip()" },
+      { "B": "Ptrim()" },
+      { "C": "Len()" },
+      { "D": "Trim()" },
+      { "E": "Trip()" }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What method can be used to return a line written in capital letters?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Upper()" },
+      { "B": "uppercase()" },
+      { "C": "case ()" },
+      { "D": "toupperCase()" },
+      { "E": "toupper()" }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "By what method can parts of a string be replaced?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Replace()" },
+      { "B": "Replacestring()" },
+      { "C": "Switch()" },
+      { "D": "Repl()" },
+      { "E": "String ()" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which operator is used to multiply numbers?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "*" },
+      { "B": "%" },
+      { "C": "#" },
+      { "D": "X" },
+      { "E": "/" }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which operator can be used to compare two values?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "==" },
+      { "B": "><" },
+      { "C": "<>" },
+      { "D": "=" },
+      { "E": "<<" }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of these collections defines the list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"apple\", \"banana\", \"cherry\"]" },
+      { "B": "{\"apple\", \"banana\", \"cherry\"}" },
+      { "C": "{\"name\": \"Apple\", \"color\": \"green\"}" },
+      { "D": "(\"apple\", \"banana\", \"cherry\")" },
+      { "E": "/ \"apple\",\"banana\",\"cherry\"|" }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of these collections defines TUPLE?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(\"apple\", \"banana\", \"cherry\")" },
+      { "B": "{\"name\": \"Apple\", \"color\": \"green\"}" },
+      { "C": "[\"apple\", \"banana\", \"cherry\"]" },
+      { "D": "{\"apple\", \"banana\", \"cherry\"}" },
+      { "E": "(\"Apple\" \"banana\" \"cherry\")" }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of these collections defines SET?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{\"apple\", \"banana\", \"cherry\"}" },
+      { "B": "{\"name\": \"Apple\", \"color\": \"green\"}" },
+      { "C": "[\"apple\", \"banana\", \"cherry\"]" },
+      { "D": "(\"apple\", \"banana\", \"cherry\")" },
+      { "E": "(\"apple banana cherry\")" }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of these collections defines Dictionary?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{\"name\": \"Apple\", \"color\": \"green\"}" },
+      { "B": "[\"apple\", \"banana\", \"cherry\"]" },
+      { "C": "(\"apple\", \"banana\", \"cherry\")" },
+      { "D": "{\"apple\", \"banana\", \"cherry\"}" },
+      { "E": "(\"apple\" \"banana\" \"cherry\")" }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which Collection is bespoke, replaceable, and duplicate members allowed?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "List" },
+      { "B": "Tuple" },
+      { "C": "Set" },
+      { "D": "Dictionary" },
+      { "E": "Boolean" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What data type in Python does not allow duplicate members?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "SET" },
+      { "B": "TUPLE" },
+      { "C": "BOOL" },
+      { "D": "DICT" },
+      { "E": "LIST" }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following creates a function?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "def myfunction():" },
+      { "B": "create myfuncion():" },
+      { "C": "func myfunction():" },
+      { "D": "create myfunc()" },
+      { "E": "def myfunction" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = \"Hello\", b = \"ALI\", print(a, b)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hello ALI" },
+      { "B": "HelLO Ali" },
+      { "C": "HelLO ALI" },
+      { "D": "HEllo Ali" },
+      { "E": "HellO Ali" }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "c = \"Hosgeldin\", b = \"ALI\", print(b, c)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ALI Hosgeldin" },
+      { "B": "Ali hosgeldin" },
+      { "C": "Hosgeldin Ali" },
+      { "D": "HOSGELDIN ali" },
+      { "E": "Hosgeldin ali" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = \"Hello\", b = \"Joseph\", print(a, \",\", b)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hello , Joseph" },
+      { "B": "Hello, Josephh" },
+      { "C": "Joseph, Helloo" },
+      { "D": "Joseph, Heello" },
+      { "E": "Joseph, Hello" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "B = \"answer\", k = 5, print(B, \":\", k)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "answer : 5" },
+      { "B": "answer: 59" },
+      { "C": "answer: 50" },
+      { "D": "answer 58" },
+      { "E": "answer 5:7" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = \"Sabir\", b = \" Abad\", print(a + b)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sabir Abad" },
+      { "B": "SabirAbad" },
+      { "C": "Sabir abad" },
+      { "D": "Sabirabad" },
+      { "E": "SABIRabad" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is used to achieve the result?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Print()" },
+      { "B": "Len()" },
+      { "C": "Str()" },
+      { "D": "Int ()" },
+      { "E": "Bool()" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is used to find out the number of characters?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Len()" },
+      { "B": "Print()" },
+      { "C": "Str()" },
+      { "D": "Int ()" },
+      { "E": "Float()" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is used to convert String-type data to number type?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int ()" },
+      { "B": "Print()" },
+      { "C": "Str()" },
+      { "D": "list()" },
+      { "E": "Float()" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is used to convert data in number type to text type?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str()" },
+      { "B": "Print()" },
+      { "C": "len()" },
+      { "D": "Int ()" },
+      { "E": "Float()" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is to convert a non-integer number type to a number type?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int ()" },
+      { "B": "Print()" },
+      { "C": "Str()" },
+      { "D": "len()" },
+      { "E": "Float()" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is to add a new item to the list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "append()" },
+      { "B": "delete()" },
+      { "C": "remove()" },
+      { "D": "add ()" },
+      { "E": "list()" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "liste=[\"Italy\", \"France\", \"Turkey\", \"Germany\"] What will be the result of Print(Len(liste))?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "3" },
+      { "C": "5" },
+      { "D": "6" },
+      { "E": "7" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"Italy\", \"France\", \"Turkey\", \"Germany\", \"English\"] What will be the result of Print(thislist[1])?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "France" },
+      { "B": "Italy" },
+      { "C": "Turkish" },
+      { "D": "Germany" },
+      { "E": "English" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "list=[\"Italy\", \"France\", \"Turkey\", \"Germany\", \"English\"] What will be the result of Print(list[4])?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "English" },
+      { "B": "Italy" },
+      { "C": "Turkish" },
+      { "D": "Germany" },
+      { "E": "France" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "countries=[\"Italy\", \"France\", \"Turkey\", \"Germany\", \"English\"] What will be the result of Print(countries[3])?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Germany" },
+      { "B": "Italy" },
+      { "C": "Turkish" },
+      { "D": "France" },
+      { "E": "English" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "countries=[\"Italy\", \"France\", \"Turkey\", \"Almanac\", \"Ingiltere\"] What is countries[0]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Italy" },
+      { "B": "France" },
+      { "C": "Turkey" },
+      { "D": "Almanac" },
+      { "E": "English" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "countries=[\"Philippines\", \"Indonesia\", \"Mongolia\", \"Singapore\", \"Malaysia\"] What is countries[3]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Singapore" },
+      { "B": "Indonesia" },
+      { "C": "Mongolia" },
+      { "D": "Flippin" },
+      { "E": "Malaysia" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "countries = [\"Philippines\", \"Indonesia\", \"Mongolia\", \"Singapore\", \"Malaysia\"] Print(countries[0])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Philippines" },
+      { "B": "Indonesia" },
+      { "C": "Mongolia" },
+      { "D": "Singapore" },
+      { "E": "Malaysia" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "countries = [\"Philippines\", \"Indonesia\", \"Mongolia\", \"Singapore\", \"Malaysia\"] Print(countries[2:4])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Mongolia, Singapore" },
+      { "B": "Indonesia, Mongolia" },
+      { "C": "Singapore, Malaysia" },
+      { "D": "Mongolia, Malaysia" },
+      { "E": "Malaysia, Philippines" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "fruit = [\"apple\", \"banana\", \"Mandarin\", \"Mango\", \"Kiwi\"] Print(fruit[3:])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Mango, kiwi" },
+      { "B": "Mandarin, mango" },
+      { "C": "Banana, Tangerine" },
+      { "D": "Apples, bananas" },
+      { "E": "Apple, kiwi" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "fruit = [\"apple\", \"banana\", \"Mandarin\", \"Mango\", \"Kiwi\"] Print(fruit[-1])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Kiwi" },
+      { "B": "Mango" },
+      { "C": "Mandarin" },
+      { "D": "banana" },
+      { "E": "apple" }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "fruit = [\"apple\", \"banana\", \"mandarin\", \"mango\", \"kiwi\"] Print(fruit[-4:-1])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "banana, mandarin, mango" },
+      { "B": "mandarin, mango, kiwi" },
+      { "C": "banana, mandarin" },
+      { "D": "apple, banana" },
+      { "E": "apple, kiwi" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "fruit = [\"apple\", \"banana\", \"mandarin\", \"mango\", \"kiwi\"] Print(fruit[-5:-3])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "apple, banana" },
+      { "B": "mango, kiwi" },
+      { "C": "mandarin, mango" },
+      { "D": "banana, mandarin" },
+      { "E": "apple, kiwi" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "thislist = [\"apple\", \"banana\", \"cherry\"] thislist.insert(1, \"orange\") Print(thislist)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"apple\", \"orange\", \"banana\", \"cherry\"]" },
+      { "B": "[\"orange\", \"banana\", \"cherry\", \"apple\"]" },
+      { "C": "[\"apple\", \"banana\", \"orange\", \"cherry\"]" },
+      { "D": "[\"apple\", \"banana\", \"cherry\", \"orange\"]" },
+      { "E": "[\"orange\", \"apple\", \"banana\", \"cherry\"]" }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the designation of the insert() function?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Adds an item to the list" },
+      { "B": "Deletes item from list" },
+      { "C": "Changes the location of the item in the list" },
+      { "D": "Combines a new list with a list" },
+      { "E": "Deletes all elements of the list" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the result of print(d) if a=2, b=5, c=b**a, d=a+b+c?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "32" },
+      { "B": "64" },
+      { "C": "72" },
+      { "D": "24" },
+      { "E": "65" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "k = [1, 2, 3, 4, 5, 6] print(len(k))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "2" },
+      { "C": "4" },
+      { "D": "5" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = [1, 2, 3], b = [\"one\", \"two\", \"three\"] print(a + b)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 'one', 'two', 'three']" },
+      { "B": "['one', 'two', 'three', 1, 2, 3]" },
+      { "C": "['1', '2', '3', 1, 2, 3]" },
+      { "D": "['one', 'two', '3', 1, 2, 3]" },
+      { "E": "['1', '2', '3', 3, 2, 1]" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = [23,22,'Amen'], b = ['32', '114', '227'] print(a + b)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[23,22,'Amen','32','114','227']" },
+      { "B": "['32','114','227','23','22','Amen']" },
+      { "C": "[32,114,227,'23','22','Amen']" },
+      { "D": "['32','114','227',23,22,Amen]" },
+      { "E": "[32','114','227',23','22',Amen']" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "a = ['book', 24, 2.5], b = [34, 'man'] print(a + b)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "['book', 24, 2.5, 34, 'man']" },
+      { "B": "[34, 'man', 'book', 24, 2.5]" },
+      { "C": "[34, 'man', 2.5, 24, 'book']" },
+      { "D": "[34, 24, 'book', 2.5, 'man']" },
+      { "E": "[24, 2.5, 'book', 34, 'man']" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [1, 2, 3], y = x * 3 print(y)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 1, 2, 3, 1, 2, 3]" },
+      { "B": "[1, 2, 3, 3, 2, 1]" },
+      { "C": "[1, 2, 3, 3, 2, 1, 1, 2, 3]" },
+      { "D": "[3, 2, 1] * 3" },
+      { "E": "[1, 2, 3, 2, 1]" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following statements is correct?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "List is a collection of data" },
+      { "B": "The list has one element" },
+      { "C": "List is an empty data type" },
+      { "D": "The list only contains strings" },
+      { "E": "Lists cannot be indexed" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [1, 2, 3] print(x[2])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [10, 20, 30, 40] print(x[-2])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "30" },
+      { "B": "20" },
+      { "C": "10" },
+      { "D": "40" },
+      { "E": "50" }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [10, 20, 30, 40, 50] print(x[1:4])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[20, 30, 40]" },
+      { "B": "[10, 20, 30]" },
+      { "C": "[30, 40, 50]" },
+      { "D": "[40, 50]" },
+      { "E": "[10, 50]" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [1, 2, 3] x.append(4) print(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4]" },
+      { "B": "[4, 1, 2, 3]" },
+      { "C": "[1, 2, 3]" },
+      { "D": "[1, 2, 3, 0]" },
+      { "E": "[1, 2, 3, '4']" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [1, 2, 3, 4] x.remove(3) print(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 4]" },
+      { "B": "[1, 2, 3]" },
+      { "C": "[1, 2]" },
+      { "D": "[1, 4]" },
+      { "E": "[2, 4]" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [1, 2, 3] x.pop() print(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2]" },
+      { "B": "[2, 3]" },
+      { "C": "[1, 3]" },
+      { "D": "[1, 2, 3]" },
+      { "E": "[3]" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the pop() method do in a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Removes the last element" },
+      { "B": "Adds an element" },
+      { "C": "Sorts the list" },
+      { "D": "Reverses the list" },
+      { "E": "Duplicates the list" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [4, 1, 3, 2] x.sort() print(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4]" },
+      { "B": "[4, 3, 2, 1]" },
+      { "C": "[2, 1, 3, 4]" },
+      { "D": "[1, 3, 2, 4]" },
+      { "E": "[1, 4, 3, 2]" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [1, 2, 3] x.clear() print(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[]" },
+      { "B": "[1, 2, 3]" },
+      { "C": "[0]" },
+      { "D": "[None]" },
+      { "E": "[1, 2]" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [5, 3, 1, 2, 4] x.sort(reverse=True) print(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[5, 4, 3, 2, 1]" },
+      { "B": "[1, 2, 3, 4, 5]" },
+      { "C": "[2, 4, 1, 3, 5]" },
+      { "D": "[3, 2, 1, 5, 4]" },
+      { "E": "[5, 3, 1, 2, 4]" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [1, 2, 3, 4] del x[1] print(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 3, 4]" },
+      { "B": "[2, 3, 4]" },
+      { "C": "[1, 2, 4]" },
+      { "D": "[1, 2, 3]" },
+      { "E": "[3, 4]" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [\"a\", \"b\", \"c\"] print(x[1])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "b" },
+      { "B": "a" },
+      { "C": "c" },
+      { "D": "None" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "x = [\"a\", \"b\", \"c\"] x[1] = \"z\" print(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"a\", \"z\", \"c\"]" },
+      { "B": "[\"z\", \"b\", \"c\"]" },
+      { "C": "[\"a\", \"b\", \"z\"]" },
+      { "D": "[\"z\", \"z\", \"z\"]" },
+      { "E": "[\"a\", \"b\", \"c\"]" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to add an element to the end of a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "append()" },
+      { "B": "insert()" },
+      { "C": "add()" },
+      { "D": "extend()" },
+      { "E": "push()" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method removes all items from a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "clear()" },
+      { "B": "remove()" },
+      { "C": "delete()" },
+      { "D": "pop()" },
+      { "E": "cut()" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hesen\",\"Za ur\"]\nprint(k.index(\"Amen\"))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Error" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"5\",\"Elvin\",\"Ramin\",\"1\",\"Hesen\",\"99\"]\nprint(k.index(\"Ramin\"))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "0" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [1, 2, 3, 85, -42, 33, 84]\nprint(k.index(85))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "0" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Za ur\"]\nprint(k.index(\"Zaur\"))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Error" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.remove(\"Zaur\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\"]" },
+      { "B": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "C": "[\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "D": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Zaur\"]" },
+      { "E": "[\"Amin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\" Zaur\"]\nk.remove(\"Amen\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "B": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "C": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\"]" },
+      { "D": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Zaur\"]" },
+      { "E": "[\"Amin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\" Zaur\"]\nk.remove(\"Elvin\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"Amin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "B": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "C": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\"]" },
+      { "D": "[\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "E": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Zaur\"]" }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Zaur\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.remove(\"Zaur\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\"]" },
+      { "B": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "C": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\"]" },
+      { "D": "[\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
+      { "E": "[\"Amin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(\"MHM\")\nprint(k)",
+    "correctAnswer": "Arror",
+    "answers": [
+      {
+        "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
+      },
+      {
+        "B": "[\"Amin\",\"Hafis\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "C": "[\"Amin\",\"Elvin\",\"MMM\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "D": "[\"MHM\",\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "E": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"MHM\",\"Hesen\",\"Zaur\"]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(6, \"MHM\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "[\"Amin\", \"Elvin\", \"Ramin\", \"Hafis\", \"Hesen\", \"Zaur\", \"MHM\"]"
+      },
+      {
+        "B": "[\"Amin\", \"Elvin\", \"MHM\", \"Ramin\", \"Hafis\", \"Hesen\", \"Zaur\"]"
+      },
+      {
+        "C": "[\"Amin\", \"Elvin\", \"Ramin\", \"MHM\", \"Hafis\", \"Hesen\", \"Zaur\"]"
+      },
+      {
+        "D": "[\"MHM\", \"Amin\", \"Elvin\", \"Ramin\", \"Hafis\", \"Hesen\", \"Zaur\"]"
+      },
+      {
+        "E": "[\"Amin\", \"Elvin\", \"Ramin\", \"Hafis\", \"MHM\", \"Hesen\", \"Zaur\"]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(3, \"MHM\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
+      },
+      {
+        "B": "[\"Amin\",\"Elvin\",\"MHM\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "C": "[\"Amin\",\"Elvin\",\"Ramin\",\"MHM\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "D": "[\"MHM\",\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "E": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"MHM\",\"Hesen\",\"Zaur\"]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(0, \"MHM\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
+      },
+      {
+        "B": "[\"Amin\",\"Elvin\",\"MHM\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "C": "[\"Amin\",\"Elvin\",\"Ramin\",\"MHM\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "D": "[\"MHM\",\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "E": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"MHM\",\"Hesen\",\"Zaur\"]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(-1, \"MHM\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
+      },
+      {
+        "B": "[\"Amin\",\"Elvin\",\"MHM\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "C": "[\"Amin\",\"Elvin\",\"Ramin\",\"MHM\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "D": "[\"MHM\",\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "E": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"MHM\",\"Zaur\"]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(1, \"MHM\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
+      },
+      {
+        "B": "[\"Amin\",\"MHM\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "C": "[\"Amin\",\"Elvin\",\"Ramin\",\"MHM\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "D": "[\"MHM\",\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]"
+      },
+      {
+        "E": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"MHM\",\"Hesen\",\"Zaur\"]"
+      }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [1, 2, 3]\nk.extend([4, 5, 6])\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4, 5, 6]" },
+      { "B": "[1, 2, 3, [4, 5, 6]]" },
+      { "C": "[4, 5, 6, 1, 2, 3]" },
+      { "D": "[1, 2, 3], [4, 5, 6]" },
+      { "E": "[[1, 2, 3], [4, 5, 6]]" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [1, 2, 3]\nk.append([4, 5, 6])\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4, 5, 6]" },
+      { "B": "[1, 2, 3, [4, 5, 6]]" },
+      { "C": "[4, 5, 6, 1, 2, 3]" },
+      { "D": "[1, 2, 3], [4, 5, 6]" },
+      { "E": "[[1, 2, 3], [4, 5, 6]]" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [1, 2, 3]\nk += [4, 5, 6]\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4, 5, 6]" },
+      { "B": "[1, 2, 3, [4, 5, 6]]" },
+      { "C": "[4, 5, 6, 1, 2, 3]" },
+      { "D": "[1, 2, 3], [4, 5, 6]" },
+      { "E": "[[1, 2, 3], [4, 5, 6]]" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [1, 2, 3]\nk += [[4, 5, 6]]\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4, 5, 6]" },
+      { "B": "[1, 2, 3, [4, 5, 6]]" },
+      { "C": "[4, 5, 6, 1, 2, 3]" },
+      { "D": "[1, 2, 3], [4, 5, 6]" },
+      { "E": "[[1, 2, 3], [4, 5, 6]]" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Execute the program.",
+    "questionDown": "k = [1, 2, 3]\nk = k + [4, 5, 6]\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4, 5, 6]" },
+      { "B": "[1, 2, 3, [4, 5, 6]]" },
+      { "C": "[4, 5, 6, 1, 2, 3]" },
+      { "D": "[1, 2, 3], [4, 5, 6]" },
+      { "E": "[[1, 2, 3], [4, 5, 6]]" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to return the number of items in the list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "total()" },
+      { "B": "countAll()" },
+      { "C": "len()" },
+      { "D": "size()" },
+      { "E": "number()" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method returns the number of times a specified value occurs in a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "index()" },
+      { "B": "count()" },
+      { "C": "len()" },
+      { "D": "total()" },
+      { "E": "find()" }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the index() method do in a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Returns the index of the first matched item" },
+      { "B": "Deletes the item at the specified index" },
+      { "C": "Returns the value at the index" },
+      { "D": "Adds a new item at the index" },
+      { "E": "Inserts the item into the list" }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output?\nk = [1, 2, 3, 4, 5, 2]\nprint(k.count(2))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "3" },
+      { "C": "2" },
+      { "D": "0" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output?\nk = [1, 2, 3, 4, 5]\nprint(k.index(3))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "3" },
+      { "C": "2" },
+      { "D": "4" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the output?\nk = [1, 2, 3, 4, 5, 2]\nprint(k.index(2))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "0" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method would you use to add multiple elements to the end of a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "insert()" },
+      { "B": "append()" },
+      { "C": "add()" },
+      { "D": "extend()" },
+      { "E": "push()" }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to remove a specific element from a list by value?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "pop()" },
+      { "B": "clear()" },
+      { "C": "remove()" },
+      { "D": "delete()" },
+      { "E": "cut()" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to remove an item at a given index?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "pop()" },
+      { "B": "remove()" },
+      { "C": "clear()" },
+      { "D": "cut()" },
+      { "E": "del()" }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens if you call pop() with no index?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Removes the first item" },
+      { "B": "Removes a random item" },
+      { "C": "Raises an error" },
+      { "D": "Removes the last item" },
+      { "E": "Does nothing" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to remove all items from the list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "clear()" },
+      { "B": "remove()" },
+      { "C": "delete()" },
+      { "D": "pop()" },
+      { "E": "cut()" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the output?\nk = [\"a\", \"b\", \"c\"]\nk.remove(\"b\")\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"a\", \"b\", \"c\"]" },
+      { "B": "[\"a\", \"c\", \"b\"]" },
+      { "C": "[\"b\", \"c\"]" },
+      { "D": "[\"a\", \"b\"]" },
+      { "E": "[\"a\", \"c\"]" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the output?\nk = [\"a\", \"b\", \"c\"]\nk.pop(0)\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"a\", \"b\", \"c\"]" },
+      { "B": "[\"a\", \"c\"]" },
+      { "C": "[\"b\", \"c\", \"a\"]" },
+      { "D": "[\"b\", \"c\"]" },
+      { "E": "[\"a\", \"b\"]" }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the output?\nk = [\"a\", \"b\", \"c\"]\nk.pop()\nprint(k)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"a\", \"b\", \"c\"]" },
+      { "B": "[\"b\", \"c\"]" },
+      { "C": "[\"a\", \"b\"]" },
+      { "D": "[\"a\", \"c\"]" },
+      { "E": "[\"b\"]" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the difference between append() and extend() in lists?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No difference" },
+      {
+        "B": "append() adds an element; extend() adds each element from an iterable"
+      },
+      { "C": "append() sorts the list; extend() adds an element" },
+      { "D": "extend() removes duplicates; append() doesn't" },
+      { "E": "append() replaces the list; extend() creates a new one" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of these creates a shallow copy of a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "list.copy()" },
+      { "B": "list()" },
+      { "C": "list.clone()" },
+      { "D": "list.deepcopy()" },
+      { "E": "list.shallow()" }
+    ]
+  }
+]
