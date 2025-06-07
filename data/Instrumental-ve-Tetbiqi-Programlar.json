@@ -100,7 +100,7 @@
     "questionNumber": 8,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What types of antiviruses are there?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "doctor-programs, inspectors, filters, vaccines, archives" },
       { "B": "inspectors, detectors, doctor-programs" },
@@ -576,7 +576,7 @@
     "questionNumber": 42,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In which case does the algorithm become a program?",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "when switching to algorithmic language" },
       { "B": "when transferred to the assembler level" },
@@ -649,7 +649,7 @@
     "questionNumber": 47,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is meant by a branching algorithm?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "algorithm with one or two logic stages" },
       { "B": "algorithm branching at a certain stage of solving the problem" },
@@ -1518,7 +1518,7 @@
     "questionNumber": 113,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What structural algorithm is it to find the largest among a given hundred numbers?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Periodic" },
       { "B": "Branching" },
@@ -1637,7 +1637,7 @@
     "questionNumber": 122,
     "questionUp": "Choose the correct variant.",
     "questionDown": "AX2+BX+C = 0 — how many times should a conditional block be written according to D when constructing a flowchart so that a solution to a quadratic equation can be found?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "5" },
@@ -1689,7 +1689,7 @@
     "questionNumber": 126,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What algorithm expresses the scheme?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "complex period" },
       { "B": "Branching" },
@@ -1715,7 +1715,7 @@
     "questionNumber": 128,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What would be the most optimal algorithm for finding the sum of 1000 given numbers?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "periodic" },
       { "B": "conditional" },
@@ -1728,7 +1728,7 @@
     "questionNumber": 129,
     "questionUp": "Choose the correct variant.",
     "questionDown": "a=1; b:=a*2; c:=a+b; c:=c*a; a:=b*c; if (a+c)<b then s:=a*b otherwise find s from s:=a+b. What is s?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "8" },
       { "B": "3" },
@@ -1741,7 +1741,7 @@
     "questionNumber": 130,
     "questionUp": "Choose the correct variant.",
     "questionDown": "After executing the algorithm x = 3, y = 7, if x < y then x := y² + x. Find the X - y difference.",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "45" },
       { "B": "52" },
@@ -1767,7 +1767,7 @@
     "questionNumber": 132,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What value will the variable y receive after this algorithm? x:=13, y:=x+5, z:=x+y/3, y:=y+z-12",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "20" },
       { "B": "25" },
@@ -1780,7 +1780,7 @@
     "questionNumber": 133,
     "questionUp": "Choose the correct variant.",
     "questionDown": "x := 12; y := 58; c := x; x := y - 4; y := c * (x - 49). What will y be?",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "60" },
       { "B": "71" },
@@ -1806,7 +1806,7 @@
     "questionNumber": 135,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How many would the answer be when 10% is 3? (% is not a percentage sign)",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1" },
       { "B": "2" },
@@ -1845,7 +1845,7 @@
     "questionNumber": 138,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Strings in Python are written with:",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "\" and \"" },
       { "B": "% and %" },
@@ -2196,7 +2196,7 @@
     "questionNumber": 165,
     "questionUp": "Choose the correct variant.",
     "questionDown": ">>> d = [49, 31, 90, 1] >>> What is the result of sum(d)?",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "171" },
       { "B": "214" },
@@ -2417,7 +2417,7 @@
     "questionNumber": 182,
     "questionUp": "Choose the correct variant.",
     "questionDown": "How many categories is the subprogram divided into and what are they?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2-procedures and applications" },
       { "B": "2-div and mod" },
@@ -2484,7 +2484,7 @@
     "questionNumber": 187,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Procedure…",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Replaces any operator sequence" },
       { "B": "Collects a sequence of constants" },
@@ -3641,7 +3641,7 @@
     "questionNumber": 276,
     "questionUp": "Execute the program.",
     "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\" Zaur\"]\nk.remove(\"Amen\")\nprint(k)",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "[\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
       { "B": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
@@ -3667,7 +3667,7 @@
     "questionNumber": 278,
     "questionUp": "Execute the program.",
     "questionDown": "k = [\"Amin\",\"Zaur\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.remove(\"Zaur\")\nprint(k)",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\"]" },
       { "B": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]" },
@@ -3680,7 +3680,7 @@
     "questionNumber": 279,
     "questionUp": "Execute the program.",
     "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(\"MHM\")\nprint(k)",
-    "correctAnswer": "Error",
+    "correctAnswer": "Arror",
     "answers": [
       {
         "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
@@ -3726,7 +3726,7 @@
     "questionNumber": 281,
     "questionUp": "Execute the program.",
     "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(3, \"MHM\")\nprint(k)",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
@@ -3749,7 +3749,7 @@
     "questionNumber": 282,
     "questionUp": "Execute the program.",
     "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(0, \"MHM\")\nprint(k)",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
@@ -3772,7 +3772,7 @@
     "questionNumber": 283,
     "questionUp": "Execute the program.",
     "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(-1, \"MHM\")\nprint(k)",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
@@ -3795,7 +3795,7 @@
     "questionNumber": 284,
     "questionUp": "Execute the program.",
     "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(1, \"MHM\")\nprint(k)",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
@@ -3831,7 +3831,7 @@
     "questionNumber": 286,
     "questionUp": "Execute the program.",
     "questionDown": "k = [1, 2, 3]\nk.append([4, 5, 6])\nprint(k)",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "[1, 2, 3, 4, 5, 6]" },
       { "B": "[1, 2, 3, [4, 5, 6]]" },
@@ -3857,7 +3857,7 @@
     "questionNumber": 288,
     "questionUp": "Execute the program.",
     "questionDown": "k = [1, 2, 3]\nk += [[4, 5, 6]]\nprint(k)",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "[1, 2, 3, 4, 5, 6]" },
       { "B": "[1, 2, 3, [4, 5, 6]]" },
@@ -3883,7 +3883,7 @@
     "questionNumber": 290,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which method is used to return the number of items in the list?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "total()" },
       { "B": "countAll()" },
@@ -3896,7 +3896,7 @@
     "questionNumber": 291,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which method returns the number of times a specified value occurs in a list?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "index()" },
       { "B": "count()" },
@@ -3922,7 +3922,7 @@
     "questionNumber": 293,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the output?\nk = [1, 2, 3, 4, 5, 2]\nprint(k.count(2))",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1" },
       { "B": "3" },
@@ -3935,7 +3935,7 @@
     "questionNumber": 294,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the output?\nk = [1, 2, 3, 4, 5]\nprint(k.index(3))",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2" },
       { "B": "3" },
@@ -3948,7 +3948,7 @@
     "questionNumber": 295,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the output?\nk = [1, 2, 3, 4, 5, 2]\nprint(k.index(2))",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "5" },
       { "B": "1" },
@@ -3961,7 +3961,7 @@
     "questionNumber": 296,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which method would you use to add multiple elements to the end of a list?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "insert()" },
       { "B": "append()" },
@@ -3974,7 +3974,7 @@
     "questionNumber": 297,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Which method is used to remove a specific element from a list by value?",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "pop()" },
       { "B": "clear()" },
@@ -4000,7 +4000,7 @@
     "questionNumber": 299,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What happens if you call pop() with no index?",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Removes the first item" },
       { "B": "Removes a random item" },
@@ -4026,7 +4026,7 @@
     "questionNumber": 301,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What will be the output?\nk = [\"a\", \"b\", \"c\"]\nk.remove(\"b\")\nprint(k)",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "[\"a\", \"b\", \"c\"]" },
       { "B": "[\"a\", \"c\", \"b\"]" },
@@ -4039,7 +4039,7 @@
     "questionNumber": 302,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What will be the output?\nk = [\"a\", \"b\", \"c\"]\nk.pop(0)\nprint(k)",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "[\"a\", \"b\", \"c\"]" },
       { "B": "[\"a\", \"c\"]" },
@@ -4052,7 +4052,7 @@
     "questionNumber": 303,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What will be the output?\nk = [\"a\", \"b\", \"c\"]\nk.pop()\nprint(k)",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "[\"a\", \"b\", \"c\"]" },
       { "B": "[\"b\", \"c\"]" },
@@ -4065,7 +4065,7 @@
     "questionNumber": 304,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the difference between append() and extend() in lists?",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "No difference" },
       {
