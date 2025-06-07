@@ -25,11 +25,11 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './xarici-dil-2.json';
   } else if (
-    locationPath === '/exams/Instrumental-ve-Tetbiqi-Programlar' ||
-    locationPath === '/exams/Instrumental-ve-Tetbiqi-Programlar.html' ||
-    locationPath === '/SeidExam/exams/Instrumental-ve-Tetbiqi-Programlar.html'
+    locationPath === '/exams/instrumental-ve-Tetbiqi-Programlar' ||
+    locationPath === '/exams/instrumental-ve-Tetbiqi-Programlar.html' ||
+    locationPath === '/SeidExam/exams/instrumental-ve-Tetbiqi-Programlar.html'
   ) {
-    endpoint = './Instrumental-ve-Tetbiqi-Programlar.json';
+    endpoint = './instrumental-ve-Tetbiqi-Programlar.json';
   } else if (
     locationPath === '/exams/information-technologies' ||
     locationPath === '/exams/information-technologies.html' ||
