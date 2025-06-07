@@ -25,6 +25,12 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './xarici-dil-2.json';
   } else if (
+    locationPath === '/exams/Instrumental və Tətbiqi Programlar' ||
+    locationPath === '/exams/Instrumental və Tətbiqi Programlar.html' ||
+    locationPath === '/SeidExam/exams/Instrumental və Tətbiqi Programlar.html'
+  ) {
+    endpoint = './Instrumental və Tətbiqi Programlar.json';
+  } else if (
     locationPath === '/exams/information-technologies' ||
     locationPath === '/exams/information-technologies.html' ||
     locationPath === '/SeidExam/exams/information-technologies.html'
