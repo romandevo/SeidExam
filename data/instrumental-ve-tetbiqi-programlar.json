@@ -841,7 +841,7 @@
     "questionNumber": 61,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What type of data is used to work with memory addresses in programming?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "indicator" },
       { "B": "logical" },
@@ -854,7 +854,7 @@
     "questionNumber": 62,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Select the main unit of measurement of information.",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "byte" },
       { "B": "bit" },
@@ -867,7 +867,7 @@
     "questionNumber": 63,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is called the degree to which information corresponds to the real objective state of affairs?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "adequacy" },
       { "B": "relevance" },
@@ -880,7 +880,7 @@
     "questionNumber": 64,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What forms of information are there?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Analog, Digital" },
       { "B": "periodic, branching" },
@@ -893,7 +893,7 @@
     "questionNumber": 65,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Select the section that studies all the programs used in Ehms, their classification and rules of use.",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Software" },
       { "B": "Hardware" },
@@ -906,7 +906,7 @@
     "questionNumber": 66,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What property does the correspondence of information to the current time reflect?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Relevance" },
       { "B": "Adequacy" },
@@ -919,7 +919,7 @@
     "questionNumber": 67,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What sequence expresses the sequence of increasing memory?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "gigabytes, megabytes, terabytes" },
       { "B": "terabyte, Gigabyte, megabyte" },
@@ -931,7 +931,7 @@
     "questionNumber": 68,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Choose the smallest unit of measurement of information.",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "bit" },
       { "B": "hers" },
@@ -944,7 +944,7 @@
     "questionNumber": 69,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What range fully reflects the properties of information?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "accuracy, relevance, clarity, adequacy" },
       { "B": "usefulness, timeline, completeness, relevance" },
@@ -957,7 +957,7 @@
     "questionNumber": 70,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What are the types of information?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "1, 3, 5" },
       { "B": "1, 2, 4" },
@@ -970,7 +970,7 @@
     "questionNumber": 71,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Select those that do not belong to the properties of the information.",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "2, 3, 5" },
       { "B": "1, 2, 4" },
@@ -983,7 +983,7 @@
     "questionNumber": 72,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In the Word 2016 text editor, which Ribbon tab is used to insert tables, hyperlinks, illustrations, references, etc.?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Insert" },
       { "B": "Page Layout" },
@@ -996,7 +996,7 @@
     "questionNumber": 73,
     "questionUp": "Choose the correct variant.",
     "questionDown": "The creation of lists in MS Word is executed by which Ribbon tab command?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Home / Paragraph" },
       { "B": "Home / Font" },
@@ -1009,7 +1009,7 @@
     "questionNumber": 74,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the function of the Ctrl + Z combination?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "cancels the last operation" },
       { "B": "opens a new Word document" },
@@ -1022,7 +1022,7 @@
     "questionNumber": 75,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What is the function of the Ctrl + Y combination?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "returns the canceled transaction" },
       { "B": "opens a new Word document" },
@@ -1035,7 +1035,7 @@
     "questionNumber": 76,
     "questionUp": "Choose the correct variant.",
     "questionDown": "Determine the sequence to search for any word in the text in MS Word.",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Home / Editing / Find" },
       { "B": "Insert / Editing / Find" },
@@ -1048,7 +1048,7 @@
     "questionNumber": 77,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What shortcut is used to save a document under a different name?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "F12" },
       { "B": "Shift + S" },
@@ -1061,7 +1061,7 @@
     "questionNumber": 78,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What shortcut is used to save a document with the same name?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Ctrl + S" },
       { "B": "Shift + S" },
@@ -1074,7 +1074,7 @@
     "questionNumber": 79,
     "questionUp": "Choose the correct variant.",
     "questionDown": "In what order can not line a paragraph in Word?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "low" },
       { "B": "transverse" },
@@ -1087,7 +1087,7 @@
     "questionNumber": 80,
     "questionUp": "Choose the correct variant.",
     "questionDown": "What sequence of commands is executed in Word to replace one word with another?",
-    "correctAnswer": "",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Home / Editing / Replace" },
       { "B": "Insert/Replace" },
@@ -3680,7 +3680,7 @@
     "questionNumber": 279,
     "questionUp": "Execute the program.",
     "questionDown": "k = [\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\"]\nk.insert(\"MHM\")\nprint(k)",
-    "correctAnswer": "Arror",
+    "correctAnswer": "A",
     "answers": [
       {
         "A": "[\"Amin\",\"Elvin\",\"Ramin\",\"Hafis\",\"Hesen\",\"Zaur\",\"MHM\"]"
