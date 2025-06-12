@@ -25,6 +25,12 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './xarici-dil-2.json';
   } else if (
+    locationPath === '/exams/komp-muh-esas-2' ||
+    locationPath === '/komp-muh-esas-2.html' ||
+    locationPath === '/SeidExam/exams/komp-muh-esas-2.html'
+  ) {
+    endpoint = './komp-muh-esas-2.json';
+  } else if (
     locationPath === '/exams/instrumental-ve-tetbiqi-programlar' ||
     locationPath === '/exams/instrumental-ve-tetbiqi-programlar.html' ||
     locationPath === '/SeidExam/exams/instrumental-ve-tetbiqi-programlar.html'
