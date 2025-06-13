@@ -26,5 +26,3961 @@
         "E": ""
       }
     ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What ribbon tab commands are used to post objects in Word 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Page Layout" },
+      { "C": "File" },
+      { "D": "Home" },
+      { "E": "References" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Creating lists in MS Word is performed by which command of the ribbon tab?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Home/Paragraph" },
+      { "B": "Home/Font" },
+      { "C": "Home/Clipboard" },
+      { "D": "Home/Styles" },
+      { "E": "Home/Editing" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the function of the Ctrl + Z combination?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Cancels the last operation" },
+      { "B": "Opens a new Word document" },
+      { "C": "Saves the document" },
+      { "D": "Opens the document in memory" },
+      { "E": "Returns the aborted transaction" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the function of the Ctrl + Y combination?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Returns the aborted transaction" },
+      { "B": "Opens a new Word document" },
+      { "C": "Saves the document" },
+      { "D": "Opens the document in memory" },
+      { "E": "Cancels the last transaction" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Define the sequence to search for any word in the text:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Home/Editing/Find" },
+      { "B": "Insert/Editing/Find" },
+      { "C": "Home/Font/ Go To" },
+      { "D": "Home/Styles/Find" },
+      { "E": "References/ Captions / Find" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What shortcut is used to save a document under a different name?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "F12" },
+      { "B": "Shift + S" },
+      { "C": "Alt + S" },
+      { "D": "Home/Save as" },
+      { "E": "Ctrl + S" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What shortcut is used to save a document with the same name?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl + S" },
+      { "B": "Shift + S" },
+      { "C": "Alt + S" },
+      { "D": "Home/Save as" },
+      { "E": "F12" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the best way to align a paragraph in the Word program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "down" },
+      { "B": "transversely" },
+      { "C": "to the left" },
+      { "D": "to the right" },
+      { "E": "to the center" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What sequence of commands is performed to replace one word with another word within the text in Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Home/Editing/Replace" },
+      { "B": "Insert/Replace" },
+      { "C": "View/Replace" },
+      { "D": "Page Layout/Editing" },
+      { "E": "Home/Font/Replace" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following commands does not belong to the File menu?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Copy" },
+      { "B": "New" },
+      { "C": "Open" },
+      { "D": "Save" },
+      { "E": "Print" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In the MS Word text editor, what are the combinations of commands to cut and cancel the last action?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl + X, Ctrl + Z" },
+      { "B": "Ctrl + V, Ctrl + F" },
+      { "C": "Ctrl + Z, Ctrl + B" },
+      { "D": "Ctrl + A, Ctrl + J" },
+      { "E": "Ctrl + W, Ctrl + O" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following ribbon tabs does not belong to the main tabs?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Format" },
+      { "B": "References" },
+      { "C": "Mailings" },
+      { "D": "Page Layout" },
+      { "E": "Home" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens if the cursor is pressed twice in succession on any word within the text in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the word is chosen" },
+      { "B": "the word is copied" },
+      { "C": "the word is deleted" },
+      { "D": "the word is replaced by another word" },
+      { "E": "sentence is selected" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a text editor?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "application software used to prepare text documents" },
+      { "B": "software used to automate accounting issues" },
+      { "C": "application software used for drawing" },
+      { "D": "application software used to create tables" },
+      { "E": "software used for writing and deleting data in the database" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the template extension in MS Word 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".dotx" },
+      { "B": ".docx" },
+      { "C": ".rtf" },
+      { "D": ".txt" },
+      { "E": ".doc" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If changes have been made to a file, which key must be pressed to save those changes without touching the original file?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Save As" },
+      { "B": "Save" },
+      { "C": "Open" },
+      { "D": "Info" },
+      { "E": "Recent" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the Drop Cap command for?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "ensures that the first character of a paragraph is enlarged and written across several lines"
+      },
+      { "B": "ensures that private signature lines are added to individuals" },
+      { "C": "provides input of characters that are not on the keyboard" },
+      {
+        "D": "the text on the page is divided and moved from the position of the cursor to the next page, line, column"
+      },
+      { "E": "rotates images at a given angle" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the extension of a Word 2016 document?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".docx" },
+      { "B": ".xls" },
+      { "C": ".bat" },
+      { "D": ".dat" },
+      { "E": ".tmp" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab commands are used to change the font size in MS Word 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Home" },
+      { "B": "Insert" },
+      { "C": "File" },
+      { "D": "Editing" },
+      { "E": "Page Layout" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "At what interval does the font size change by default in the Word editor?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8 – 72" },
+      { "B": "1 – 14" },
+      { "C": "14 – 72" },
+      { "D": "12 – 48" },
+      { "E": "1 – 96" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is wrong with MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Insert ribbon tab's Go To command is for switching to another file"
+      },
+      {
+        "B": "The Find command on the Home ribbon tab is for finding a word in a document"
+      },
+      { "C": "Cut, Paste, Paste Special are clipboard commands" },
+      {
+        "D": "The Paste command places the fragment in the clipboard from the position of the cursor to the document"
+      },
+      { "E": "The shape of the font is changed with the Font section" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the name given by the program to the Word document due to default?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Document1" },
+      { "B": "Doc1" },
+      { "C": "Text" },
+      { "D": "Dr" },
+      { "E": "doc" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What combination is used on the keyboard to print the file?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl + P" },
+      { "B": "Ctrl + S" },
+      { "C": "Ctrl + F" },
+      { "D": "Ctrl + X" },
+      { "E": "Ctrl + V" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In MS Word, what are the writings that are not included in the main content of the text and can be repeated on each page called?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "footer" },
+      { "B": "border" },
+      { "C": "list" },
+      { "D": "paragraph" },
+      { "E": "column" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What cannot be changed with the help of the Save As command in Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "page parameters of the document" },
+      { "B": "the name of the file" },
+      { "C": "the type of file" },
+      { "D": "put a password on the document" },
+      { "E": "the location of the file" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What cannot be seen in the standard MS Word program window?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Formula string" },
+      { "B": "Navigation panel" },
+      { "C": "Khatkesh" },
+      { "D": "Number of pages" },
+      { "E": "Number of words" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which command does not belong to the Clipboard ribbon group?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Select" },
+      { "B": "Cut" },
+      { "C": "Copy" },
+      { "D": "Paste" },
+      { "E": "Format Painter" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the given options is correct for converting all letters of the selected text to lowercase?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "lowercase" },
+      { "B": "Sentence case." },
+      { "C": "U PPERCASE" },
+      { "D": "Capitalize Each Word" },
+      { "E": "t OOGLE cASE" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the given options is correct for converting all letters of the selected text to uppercase?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "U PPERCASE" },
+      { "B": "Sentence case." },
+      { "C": "lowercase" },
+      { "D": "Capitalize Each Word" },
+      { "E": "t OOGLE cASE" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the given options is correct for converting the first letters of all the words of the selected text to capital letters?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Capitalize Each Word" },
+      { "B": "Sentence case" },
+      { "C": "lowercase" },
+      { "D": "UPPERCASE" },
+      { "E": "tOOGLE cASE" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the name of a group of cells forming a rectangular shape in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "range of cells" },
+      { "B": "a rectangle of cells" },
+      { "C": "range of cells" },
+      { "D": "shortcut (shortcut)" },
+      { "E": "array" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the heading of the columns in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "in Latin letters" },
+      { "B": "with Arabic numerals" },
+      { "C": "with Roman numerals" },
+      { "D": "Sheet 1, Sheet 2..." },
+      { "E": "in Russian letters" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Where is the name of the sheets in the workbook?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "at the bottom of the window" },
+      { "B": "in the title bar" },
+      { "C": "in the status bar" },
+      { "D": "in the formula bar" },
+      { "E": "in the drawing panel" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How are lines marked in the workbook?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "with Arabic numerals" },
+      { "B": "with Roman numerals" },
+      { "C": "in Russian letters" },
+      { "D": "in Latin letters" },
+      { "E": "in Greek letters" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "A group of 4 cells is selected in the spreadsheet. Which of the following could this group be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A1:B2" },
+      { "B": "A1:B4" },
+      { "C": "A1:C2" },
+      { "D": "A2:C4" },
+      { "E": "A1:B3" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Reference in Excel – the formula contains ...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is the address of the cell" },
+      { "B": "is stable" },
+      { "C": "is a range of cells" },
+      { "D": "is a function" },
+      { "E": "is an argument" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What symbol is used in a range of cells in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ":" },
+      { "B": "" },
+      { "C": "!" },
+      { "D": "?" },
+      { "E": "=" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main element of a spreadsheet?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cell" },
+      { "B": "line" },
+      { "C": "schedule" },
+      { "D": "page" },
+      { "E": "column" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the smallest structural unit within a sheet in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cell" },
+      { "B": "line" },
+      { "C": "column" },
+      { "D": "formula" },
+      { "E": "schedule" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is an absolute address in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$B$9" },
+      { "B": "B$9" },
+      { "C": "$C9" },
+      { "D": "E9" },
+      { "E": "$$A9" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following addresses in Excel is a relative address?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "B9" },
+      { "B": "$B$9" },
+      { "C": "$C$$9" },
+      { "D": "E$9" },
+      { "E": "$$A9" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a mixed address in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "E$9" },
+      { "B": "$B$9" },
+      { "C": "$C$$9" },
+      { "D": "B9" },
+      { "E": "$$A9" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What symbol is used in absolute addressing in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$" },
+      { "B": "#" },
+      { "C": "!" },
+      { "D": "?" },
+      { "E": "=" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following addresses in Excel is a relative address?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "R3C2" },
+      { "B": "$$B" },
+      { "C": "$C$" },
+      { "D": "R3AB" },
+      { "E": "$$12" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is an Excel document called?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "working book" },
+      { "B": "working page" },
+      { "C": "working schedule" },
+      { "D": "worksheet" },
+      { "E": "working area" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In MS Excel, the expression entered into any cell is also reflected in which part?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "in the formula bar" },
+      { "B": "in the column header" },
+      { "C": "in the line of cases" },
+      { "D": "in the lower cell" },
+      { "E": "in the last cell" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many columns are in the range B5:D11 in Excel 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "6" },
+      { "C": "7" },
+      { "D": "18" },
+      { "E": "21" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does a cell mean in MS Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "intersection of row and column" },
+      { "B": "program" },
+      { "C": "line" },
+      { "D": "text" },
+      { "E": "column" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What symbols are used when addressing different sheets?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "!" },
+      { "B": "#" },
+      { "C": "%" },
+      { "D": "=" },
+      { "E": "$" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does relative address mean in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the address that changes when the formula is shifted" },
+      {
+        "B": "an address that does not change during the displacement of the formula"
+      },
+      { "C": "a formula that changes when the price changes" },
+      { "D": "a cell independent of other cells" },
+      { "E": "calculated formula" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does absolute address mean in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "an address that does not change during the displacement of the formula"
+      },
+      {
+        "B": "the address that changes during the displacement of the formula"
+      },
+      { "C": "a formula that changes when the price changes" },
+      { "D": "a cell independent of other cells" },
+      { "E": "calculated formula" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following expressions is a formula written in MS Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "=A3*C5" },
+      { "B": "4A+5" },
+      { "C": "A2*2-B3" },
+      { "D": "A2+D12" },
+      { "E": "G15/J25" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which expression is text type in MS Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"1985\"" },
+      { "B": "4523" },
+      { "C": "15%" },
+      { "D": "$100" },
+      { "E": "25E3" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following formulas written in MS Excel is a logical formula?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "=A2>G5" },
+      { "B": "D*9" },
+      { "C": "B2-C34" },
+      { "D": "=J5+D12" },
+      { "E": "SK" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following formulas written in MS Excel is an arithmetic formula?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "=A1+B9" },
+      { "B": "(A+B)/D5" },
+      { "C": "=L5-8N" },
+      { "D": "=R2<F1" },
+      { "E": "B*3" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the command that ensures that values are entered in a cell only in a certain range?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Data Validation" },
+      { "B": "Сonsolidate" },
+      { "C": "Filter" },
+      { "D": "Sort" },
+      { "E": "Breaks" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the extension of MS Excel 2016 files?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".Xlsx" },
+      { "B": ".docx" },
+      { "C": ".exe" },
+      { "D": ".xlss" },
+      { "E": ".pptx" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "When entering a formula in a cell in MS Excel, what symbol should be placed in front of it?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "=" },
+      { "B": "%" },
+      { "C": "$" },
+      { "D": "&" },
+      { "E": "#" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many cells are in the range A5:C8?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "12" },
+      { "B": "8" },
+      { "C": "9" },
+      { "D": "15" },
+      { "E": "40" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "When does the ###### error occur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the result of the calculation does not fit into the cell" },
+      { "B": "the calculation was not done correctly" },
+      { "C": "attempt to divide by zero" },
+      { "D": "the calculation formula has an element that is not a number" },
+      { "E": "the result of the calculation is too small" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many cells are in the range A2:C7?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "18" },
+      { "B": "14" },
+      { "C": "16" },
+      { "D": "12" },
+      { "E": "9" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many rows are there in the range C3:D20?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "18" },
+      { "B": "16" },
+      { "C": "17" },
+      { "D": "20" },
+      { "E": "23" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many sheets (pages) are there in a workbook due to default in MS Excel 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "3" },
+      { "D": "255" },
+      { "E": "256" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following addresses is an absolute address?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$E$2" },
+      { "B": "$E2" },
+      { "C": "E2$" },
+      { "D": "E2" },
+      { "E": "E$2$" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If the formula =D$3*5 in cell C1 is moved to cell C3, how will this formula appear in cell C3?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "=D$3*5" },
+      { "B": "=D$5*7" },
+      { "C": "=F$3*5" },
+      { "D": "=D$5*5" },
+      { "E": "=D$3*7" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If we transfer the formula =B2*C1 entered in cell A5 to cell A9, what formula will be obtained in cell A9?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "=B6*C5" },
+      { "B": "=B2*C1" },
+      { "C": "=B5*C5" },
+      { "D": "=$B$6*$C$4" },
+      { "E": "=B3*C2" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What kind of information is the PowerPoint program for working with?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Presentation" },
+      { "B": "Text" },
+      { "C": "Schedule" },
+      { "D": "Graph" },
+      { "E": "Accounting" }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Music is added to slides through which ribbon tab?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Home" },
+      { "C": "View" },
+      { "D": "Design" },
+      { "E": "Transitions" }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which mode the slide cannot be printed?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Slide Show" },
+      { "B": "Reading View" },
+      { "C": "Normal" },
+      { "D": "Slide Master" },
+      { "E": "Notes Page" }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What key is pressed on the keyboard to view the presentation?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "F5" },
+      { "B": "Enter" },
+      { "C": "Tab" },
+      { "D": "F3" },
+      { "E": "F2" }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In the PowerPoint program, the document is saved with what extension due to default?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".pptx" },
+      { "B": ".pttx" },
+      { "C": ".pwtx" },
+      { "D": ".powx" },
+      { "E": ".ppsx" }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many slides can be printed on one A4 page in PowerPoint 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "9" },
+      { "B": "2" },
+      { "C": "6" },
+      { "D": "1" },
+      { "E": "12" }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In PowerPoint 2016, how many slides can be printed on one A4 format page?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "6" },
+      { "D": "9" },
+      { "E": "12" }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which button is pressed to refuse the slide show?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Esc" },
+      { "B": "Enter" },
+      { "C": "End" },
+      { "D": "Ctrl" },
+      { "E": "Tab" }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab is used to animate slide objects?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Animations" },
+      { "B": "Transitions" },
+      { "C": "Insert" },
+      { "D": "Design" },
+      { "E": "Slide Show" }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab command is used to hide slides?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Slide Show" },
+      { "B": "Home" },
+      { "C": "Insert" },
+      { "D": "Review" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the Replace (Заменить/Əvəz et) command do?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "changes the given text on the current slide and throughout the presentation"
+      },
+      { "B": "replaces a certain slide with another slide" },
+      { "C": "only changes the text on the current slide" },
+      { "D": "replaces the font of the slide with another font" },
+      { "E": "changes the font size" }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab command is used to take a screenshot of the screen in PowerPoint 2016?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Home" },
+      { "C": "Design" },
+      { "D": "View" },
+      { "E": "File" }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the basis of the presentation?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "slide" },
+      { "B": "diagram" },
+      { "C": "picture" },
+      { "D": "schedule" },
+      { "E": "video" }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following does not apply to the interface of a presentation program window?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Formula bar" },
+      { "B": "Ribbon" },
+      { "C": "Status Bar" },
+      { "D": "Transitions" },
+      { "E": "Review" }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the name of the newly created presentation file due to default?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "presentation1" },
+      { "B": "slide1" },
+      { "C": "pptx1" },
+      { "D": "pow1" },
+      { "E": "slide1" }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is not a folder context menu?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Print" },
+      { "B": "Share with" },
+      { "C": "Cut" },
+      { "D": "Send to" },
+      { "E": "Properties" }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of interface does Windows provide to the user?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "graph" },
+      { "B": "single-task" },
+      { "C": "command" },
+      { "D": "line" },
+      { "E": "file" }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the function of the Control Panel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "debugging of devices and programs connected to the computer" },
+      { "B": "perform conversion of different file formats" },
+      {
+        "C": "Determination of management functions in the dialog windows of programs included in the Microsoft Office package"
+      },
+      {
+        "D": "creating a graphic image of the file system and displaying it on the screen"
+      },
+      {
+        "E": "ensuring the management of the sequence of execution of programs and files"
+      }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the reason why some commands of the context menu are displayed in gray font?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "commands are passive" },
+      { "B": "commands are active" },
+      { "C": "commands are hidden" },
+      { "D": "commands have already been executed" },
+      { "E": "commands are special" }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Path to file:",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "is a hierarchical sequence of all directories where this file is located, starting from the root directory"
+      },
+      {
+        "B": "is a list of all directories located directly in the root directory"
+      },
+      { "C": "is the name of the logical drive where this file is located" },
+      { "D": "is the name of the directory where this file is located" },
+      {
+        "E": "is a list of all files in the directory where this file is located"
+      }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main task of the context menu?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "flexible access to object properties, commands" },
+      { "B": "easy transition from one active program to another" },
+      { "C": "quick activation of programs that need to be executed" },
+      { "D": "access to recently processed documents" },
+      { "E": "search for folders and files" }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Taskbar cannot be placed in which part of the desktop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "center" },
+      { "B": "down" },
+      { "C": "right" },
+      { "D": "up" },
+      { "E": "left" }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the default screen capture program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Snipping tool" },
+      { "B": "Getting started" },
+      { "C": "Run" },
+      { "D": "Paint" },
+      { "E": "Sticky Notes" }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a network OS?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Windows NT" },
+      { "B": "Windows XP" },
+      { "C": "Windows ME" },
+      { "D": "Windows 7" },
+      { "E": "MS DOS" }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the name of the menu that opens with the right mouse button in Windows 10 OS?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Context menu" },
+      { "B": "Dialog menu" },
+      { "C": "System menu" },
+      { "D": "Main menu" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "A computer that provides network resources is called a ... ... ?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Server" },
+      { "B": "Domain" },
+      { "C": "Work station" },
+      { "D": "Sony" },
+      { "E": "Client" }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In what encryption are long keys used?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Asymmetric" },
+      { "B": "Symmetrical" },
+      { "C": "Desymmetrical" },
+      { "D": "Millimetric" },
+      { "E": "Spam" }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What encryption rule are the keys that encrypt and decrypt the message?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Asymmetric" },
+      { "B": "Symmetrical" },
+      { "C": "Desymmetrical" },
+      { "D": "Millimetric" },
+      { "E": "Spam" }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is an intentional threat to information?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Burglary" },
+      { "B": "Wrong step" },
+      { "C": "Confidential information" },
+      { "D": "Secrecy" },
+      { "E": "There is no right answer" }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which antivirus not only finds infected files but also removes them?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Doctor" },
+      { "B": "Guard" },
+      { "C": "Scanner" },
+      { "D": "Detector" },
+      { "E": "Auditor" }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Do download viruses......damage?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "disk sector" },
+      { "B": "programs" },
+      { "C": "hard disk" },
+      { "D": "nothing" },
+      { "E": "working memory" }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Do file viruses........damage?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "file system" },
+      { "B": "operating systems" },
+      { "C": "boot sector of the disk" },
+      { "D": "cache memory" },
+      { "E": "files" }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Not related to antivirus programs?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "interpreters" },
+      { "B": "inspectors" },
+      { "C": "monitors" },
+      { "D": "filters" },
+      { "E": "detectors" }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Are network viruses...?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "in local and global networks" },
+      { "B": "on disks and floppy disks, flash drives" },
+      { "C": "* in .doc, *xls files" },
+      { "D": "in the files" },
+      { "E": "*.exe, *.com programs" }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What files are corrupted by a computer virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "working files" },
+      { "B": "graphic files" },
+      { "C": "image files" },
+      { "D": "web files" },
+      { "E": "arbitrary files" }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Can they be viruses? 1. loading; 2. defect; 3. mutant; 4. logical; 5. invisible",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1,3,5" },
+      { "B": "2,4,5" },
+      { "C": "1,2,3" },
+      { "D": "2,3,4" },
+      { "E": "3,4,5" }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which files compress better?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "chart" },
+      { "B": "system *" },
+      { "C": ".com, *exe" },
+      { "D": "text" },
+      { "E": "working" }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What kind of file is a compressed file?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "reduce the size with the help of archiver" },
+      { "B": "Unauthorized access to the file is prohibited" },
+      { "C": "deleted file" },
+      { "D": "restored file" },
+      { "E": "backup file" }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Types of antivirus protection methods?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "program" },
+      { "B": "theoretical" },
+      { "C": "technical" },
+      { "D": "organizational" },
+      { "E": "experience" }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main means of protection against the virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "check the information with an antivirus" },
+      { "B": "check with hardware" },
+      { "C": "reduce network usage" },
+      { "D": "use of computer every time" },
+      { "E": "software tools" }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a computer virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "self-propagating software" },
+      { "B": "application software" },
+      { "C": "Database" },
+      { "D": "program file" },
+      { "E": "system software" }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are antivirus programs?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dr Web, Norton antivirus" },
+      { "B": "Mod 32, Excel" },
+      { "C": "DOS, HC" },
+      { "D": "AVP, Mozilla" },
+      { "E": "Kaspersky, MS Word" }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the activity of antiviruses based on?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "comparing program codes to known viruses" },
+      { "B": "to delete damaged files" },
+      { "C": "Do not use damaged" },
+      { "D": "to none" },
+      { "E": "anticipation of virus attacks" }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Auxiliary means of defense?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "hardware and antivirus programs" },
+      { "B": "operating systems" },
+      { "C": "using pure flash" },
+      { "D": "Do not use a damaged file" },
+      { "E": "software and hardware tools" }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which antivirus is not?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Defrag" },
+      { "B": "Dr. Web" },
+      { "C": "Clear Virus" },
+      { "D": "Norton Antivirus" },
+      { "E": "Kaspersky" }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is needed to check the hard disk for virus infection?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "antivirus installed on the computer" },
+      { "B": "download program" },
+      { "C": "antivirus software file" },
+      { "D": "antivirus software that is not installed on the computer" },
+      { "E": "protected program" }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "A computer becomes infected with a virus while running _____?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "with files" },
+      { "B": "when formatting disks" },
+      { "C": "when turning off the computer" },
+      { "D": "when starting the computer" },
+      { "E": "during printing" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What virus damages Word, Excel files?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "macrovirus" },
+      { "B": "downloading" },
+      { "C": "trojan" },
+      { "D": "worms" },
+      { "E": "file virus" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of antivirus is Dr Web?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "polyphagous" },
+      { "B": "auditor" },
+      { "C": "blocker" },
+      { "D": "None" },
+      { "E": "watchman" }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the classification signs of viruses?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1, 2, 4, 5" },
+      { "B": "2,3,4,6" },
+      { "C": "2,4,5,6" },
+      { "D": "3,4,5,6" },
+      { "E": "1, 3, 4, 5" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Computer virus _______?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fast-spreading and damaging code" },
+      { "B": "is a self-distributing program" },
+      { "C": "is a special code option" },
+      { "D": "is the execution of a specially written program" },
+      { "E": "is a malicious operating system" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main purpose of the virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Damage the device" },
+      { "B": "Protect data" },
+      { "C": "Get new information" },
+      { "D": "Delete unnecessary files" },
+      { "E": "Update the device" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Select the operating system.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Unix" },
+      { "B": "Disc" },
+      { "C": "Format" },
+      { "D": "Winrar" },
+      { "E": "Diskcopy" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Select the operating system.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Linux" },
+      { "B": "WordPress" },
+      { "C": "Server" },
+      { "D": "Laptop" },
+      { "E": "HTML" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Select the operating system.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Windows" },
+      { "B": "Winrar" },
+      { "C": "CSS" },
+      { "D": "Server" },
+      { "E": "Layout" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "File recovery ________ ?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is to restore the contents of this file in its original form" },
+      { "B": "this is copying the file" },
+      { "C": "is to remove this file from the recycle bin" },
+      { "D": "neither is true" },
+      { "E": "is to change the contents of this file" }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Archive file............?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "is a specially created file" },
+      { "B": "is a folder" },
+      { "C": "is a file with attribute A" },
+      { "D": "none of them are straight" },
+      { "E": "is a regular file" }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ones are not antivirus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "scanning programs" },
+      { "B": "auditor programs" },
+      { "C": "detector programs" },
+      { "D": "filter programs" },
+      { "E": "fag programs" }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the main operations of the graphic editor?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "line, circle, rectangle" },
+      { "B": "colors" },
+      { "C": "notation, subtraction, addition" },
+      { "D": "None" },
+      { "E": "pencil, brush, eraser" }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The second method of detecting errors ............. ?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the use of special control programs" },
+      { "B": "by applying special methods" },
+      { "C": "project verification" },
+      { "D": "by counting the commands of the program" },
+      { "E": "creating a table of errors" }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main feature of polymorphic viruses?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "often changes itself" },
+      { "B": "goes on an open attack" },
+      { "C": "operates in secret" },
+      { "D": "none of them are straight" },
+      { "E": "damages the sector" }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What kind of virus causes the loss of the program, destruction of data, erasure of the system on the disk?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "with a dangerous virus" },
+      { "B": "with a download virus" },
+      { "C": "with a network virus" },
+      { "D": "with none" },
+      { "E": "with a file virus" }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the most common network viruses?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mail worms" },
+      { "B": "P2P worms" },
+      { "C": "Trojan viruses" },
+      { "D": "utility worms" },
+      { "E": "polymorphic worms" }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Viruses that damage computer memory……...?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "resident" },
+      { "B": "non-resident" },
+      { "C": "downloading" },
+      { "D": "file" },
+      { "E": "network" }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What determines the number of errors per command in a program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the quality of the program" },
+      { "B": "correctness of the program" },
+      { "C": "the number of steps" },
+      { "D": "the number of errors" },
+      { "E": "the number of commands" }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "There is a high probability of receiving the necessary service from the system, then such a system is called a... ....... system?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "stable" },
+      { "B": "simple" },
+      { "C": "unstoppable" },
+      { "D": "deterministic" },
+      { "E": "complex" }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Is it an indicator of system strength?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "quality indicators" },
+      { "B": "program indicators" },
+      { "C": "technical indicators" },
+      { "D": "socio-economic indicators" },
+      { "E": "hardware indicators" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of software does antivirus software belong to?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "to the service program" },
+      { "B": "to operating systems" },
+      { "C": "to a special control program" },
+      { "D": "to a method-oriented program" },
+      { "E": "to web software" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which memory is the test program located?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "in a permanent storage device" },
+      { "B": "on an external storage device" },
+      { "C": "in cache memory" },
+      { "D": "in none" },
+      { "E": "in RAM" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "small custom-written malware" },
+      { "B": "a special program that protects information" },
+      { "C": "is a type of program that neutralizes viruses" },
+      { "D": "information security program" },
+      { "E": "one of the standard programs" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Purpose of virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "access to the computer system and cause damage to them" },
+      { "B": "neutralize viruses" },
+      { "C": "way to protect and manage information" },
+      { "D": "create information security" },
+      { "E": "remove from standard programs" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main function of antivirus programs?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "find viruses and remove them" },
+      { "B": "disrupt the operation of programs" },
+      { "C": "to implement information protection" },
+      { "D": "virus neutralizing software" },
+      { "E": "to implement information security" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In what year was the word virus used for the first time?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1973" },
+      { "B": "1985" },
+      { "C": "1964" },
+      { "D": "1992" },
+      { "E": "1980" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Main characteristic of file virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "corrupting them by accessing the file" },
+      { "B": "protects both files and disks" },
+      { "C": "crashes the file system" },
+      { "D": "disrupts the network system" },
+      { "E": "corrupts the boot sector of the disks" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Main feature of download virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "it damages the boot sector of the disks" },
+      { "B": "it corrupts both files and disks" },
+      { "C": "crashes the file system" },
+      { "D": "disrupts the network system" },
+      { "E": "corrupts files" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Main feature of network virus?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "it operates there by damaging the internet" },
+      { "B": "it corrupts both files and disks" },
+      { "C": "crashes the file system" },
+      { "D": "corrupts the boot sector of the disks" },
+      { "E": "corrupts files" }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a macrovirus?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "a program that manifests itself in the form of macro commands and damages the computer"
+      },
+      { "B": "computer-damaging software that corrupts both files and disks" },
+      { "C": "programs that destroy the file system" },
+      { "D": "corrupts the boot sector of the disks" },
+      { "E": "it operates there, damaging the local network and the Internet" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What types of antivirus are there? (choose the full answer).",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "doctor-programs, inspectors, filters, vaccines, archives" },
+      { "B": "inspectors, detectors, doctor-programs" },
+      { "C": "detectors, doctor-programs, inspectors, filters, vaccines" },
+      { "D": "vaccines, doctor-programs, inspectors" },
+      { "E": "filters, covers, filters, vaccines" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the smallest scale value of a document in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10" },
+      { "B": "100" },
+      { "C": "500" },
+      { "D": "0" },
+      { "E": "5" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following can be attributed to a malicious program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Trojan programs" },
+      { "B": "Kaspersky" },
+      { "C": "AIDS test" },
+      { "D": "AntiViral Toolkit Pro Monitor" },
+      { "E": "Avast" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of software is spam?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Pest" },
+      { "B": "Antivirus" },
+      { "C": "Applied software" },
+      { "D": "Utility programs" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Who created the first virus program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bob Thomas" },
+      { "B": "Fred Cohen" },
+      { "C": "John Von Neumann" },
+      { "D": "Blaise Pascal" },
+      { "E": "Lutfizadeh" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of malware does the Nigeria letter belong to?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Spam" },
+      { "B": "Virus" },
+      { "C": "Network worm" },
+      { "D": "Trojan programs" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "If the computer's operating mode is completely broken, then this device .........",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the virus has fallen" },
+      { "B": "there is a network problem" },
+      { "C": "is encrypted" },
+      { "D": "the engine does not work" },
+      { "E": "update is in progress" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the maximum scale value of a document in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "500" },
+      { "B": "100" },
+      { "C": "10" },
+      { "D": "1000" },
+      { "E": "600" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which menu is the document scale in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "View" },
+      { "B": "Home" },
+      { "C": "Layout" },
+      { "D": "Design" },
+      { "E": "Insert" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which menu are the document view modes in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "View" },
+      { "B": "Home" },
+      { "C": "Layout" },
+      { "D": "Design" },
+      { "E": "Insert" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of malware is phishing?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Virus" },
+      { "B": "Network worms" },
+      { "C": "Spam" },
+      { "D": "Trojan software" },
+      { "E": "Hacker utilities" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What kind of malware is characterized by mass and anonymous sending of political, commercial, advertising and other types of information through special programs to people who do not want to receive this information?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Spams" },
+      { "B": "Trojan programs" },
+      { "C": "Virus" },
+      { "D": "Network worms" },
+      { "E": "Hacker utilities" }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Advertising of an illegal product belongs to which type of malware?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Spams" },
+      { "B": "Virus" },
+      { "C": "Hacker utilities" },
+      { "D": "Network worms" },
+      { "E": "Trojan programs" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following refers to software-technical means of information protection?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "identification and authentication" },
+      { "B": "locking devices and storage" },
+      { "C": "access control systems" },
+      { "D": "fencing and physical isolation systems" },
+      { "E": "none of them" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is meant by identification?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "allows the user to name himself" },
+      {
+        "B": "allows defining the operations that subjects can perform on objects"
+      },
+      {
+        "C": "recording and gathering of information about events occurring in the information system is understood"
+      },
+      { "D": "is the analysis of the collected information" },
+      { "E": "none of them" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is meant by authentication?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "allows verification of authenticity" },
+      { "B": "allows the user to name himself" },
+      {
+        "C": "allows defining the operations that subjects can perform on objects"
+      },
+      {
+        "D": "recording and gathering of information about events occurring in the information system is understood"
+      },
+      { "E": "is the analysis of the collected information" }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which menu is accessed to add a bookmark to a document in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Home" },
+      { "C": "Layout" },
+      { "D": "Design" },
+      { "E": "Mailings" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which menu is used to add a comment to a document in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Home" },
+      { "C": "Layout" },
+      { "D": "Design" },
+      { "E": "Mailings" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which menu is used to add a table to a document in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Home" },
+      { "C": "Layout" },
+      { "D": "Design" },
+      { "E": "Mailings" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the meaning of the word cryptography?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Secret writing" },
+      { "B": "Secret key" },
+      { "C": "Secret book" },
+      { "D": "Hidden user" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many keys are used to encrypt data in symmetric encryption?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "3" },
+      { "C": "4" },
+      { "D": "5" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the disadvantage of symmetric encryption?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the private key must be known to both the sender and receiver" },
+      { "B": "the private key must remain with the sender of the data" },
+      { "C": "using two keys" },
+      { "D": "finding a secret key that matches the public key" },
+      { "E": "none of them" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Find the variant which applies to asymmetric encryption?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "two keys are used during asymmetric encryption" },
+      {
+        "B": "in asymmetric encryption, the secret key must be known to both the sender and receiver"
+      },
+      { "C": "asymmetric encryption uses one key" },
+      { "D": "key is not used during asymmetric encryption" },
+      { "E": "none of them" }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Who first used the term information security?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fred Cohen" },
+      { "B": "Bob Thomas" },
+      { "C": "John Von Neumann" },
+      { "D": "Baby" },
+      { "E": "Shannon" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are classical viruses? (choose the full answer).",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "download , polymorph , network , file , macro , disk" },
+      { "B": "file, download, polymorph, macro, script, mail" },
+      { "C": "program, file, system, network, download, disk" },
+      { "D": "file, download, monitor, macro, network, computer" },
+      { "E": "macro, script, network, mail, file, disk" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "State the differences between symmetric and asymmetric encryption methods",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Symmetric has 1 key, asymmetric has 2 keys" },
+      { "B": "Asymmetric is more developed" },
+      { "C": "Symmetrical is more complex" },
+      { "D": "Symmetrical is more comfortable" },
+      { "E": "There is no key in asymmetric" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the drawback of symmetric encryption method?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The problem of sending a keyword over a private channel" },
+      { "B": "The keyword is known to both parties" },
+      { "C": "Keyword complexity" },
+      { "D": "Lack of keyword" },
+      { "E": "Encryption of information without a keyword" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Why is public key used in digital signature algorithms?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "For decoding" },
+      { "B": "For encryption" },
+      { "C": "For encryption and decryption" },
+      { "D": "Generally not used" },
+      { "E": "For authentication" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "RSA and ELGammal algorithms belong to which encryption algorithms?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Asymmetric" },
+      { "B": "Symmetrical" },
+      { "C": "Both" },
+      { "D": "None of them" },
+      { "E": "To single-key algorithms" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which methods require a guarantee of authenticity for the user and the public key?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Asymmetric methods" },
+      { "B": "Symmetric methods" },
+      { "C": "From both" },
+      { "D": "None of them" },
+      { "E": "In the transmission of information" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Why are cryptographic hash functions used?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "For integrity control" },
+      { "B": "To increase speed" },
+      { "C": "For identity control" },
+      { "D": "To store information" },
+      { "E": "To process data" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the most active virus worms?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "mail worms" },
+      { "B": "disk worms" },
+      { "C": "IRC worms" },
+      { "D": "network worms" },
+      { "E": "file worms" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What determines the level of system tuning?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "reliability" },
+      { "B": "tuning rate" },
+      { "C": "tuning quality" },
+      { "D": "none of them" },
+      { "E": "insecurity" }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many keys are used for encryption and decryption in asymmetric systems?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "One secret and one public" },
+      { "B": "One secret and two open" },
+      { "C": "Two secret and one public" },
+      { "D": "One secret and three public" },
+      { "E": "Two secret and three open" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following does not belong to an antivirus program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Troy" },
+      { "B": "Scanners" },
+      { "C": "Disk inspectors" },
+      { "D": "Resident monitors" },
+      { "E": "Immunizers" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following does not belong to an antivirus program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Onion" },
+      { "B": "Scanners" },
+      { "C": "Disk inspectors" },
+      { "D": "Resident monitors" },
+      { "E": "Immunizers" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the main purpose of steganography?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Keeping the existence of the protected information secret from the competitor"
+      },
+      { "B": "Encrypt data" },
+      { "C": "Decrypting secret information" },
+      { "D": "To process information" },
+      { "E": "It is used to create an electronic signature" }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the translation of the word steganography from Greek?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Secret writing (writing whose existence is secret)" },
+      { "B": "Secret writing" },
+      { "C": "Open writing" },
+      { "D": "Cryptographically encrypted writing" },
+      { "E": "Deciphered writing" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which country was the National Security Council established for the first time?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "USA" },
+      { "B": "England" },
+      { "C": "France" },
+      { "D": "China" },
+      { "E": "Russia" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "One of the following keyboard shortcuts in MS Word does not belong to the clipboard.",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl+F" },
+      { "B": "Ctrl+C" },
+      { "C": "Ctrl+V" },
+      { "D": "Ctrl+X" },
+      { "E": "Ctrl+Shift+C" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The national interests of the Republic of Azerbaijan include:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The interests of the individual, society, and the state" },
+      { "B": "The interests of man and society" },
+      { "C": "The interests of the organization and the province" },
+      { "D": "Interests of enterprises, departments, individuals" },
+      { "E": "Interests of the organization, society, state" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "When was the National Security Concept of the Republic of Azerbaijan approved?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "On May 23, 2007" },
+      { "B": "on April 22, 2011" },
+      { "C": "on December 29, 2004" },
+      { "D": "on March 23, 2009" },
+      { "E": "on June 26, 2010" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens if we go to the left space of the document in MS Word and touch the left mouse button once?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "line is selected" },
+      { "B": "the paragraph is selected" },
+      { "C": "the entire document is selected" },
+      { "D": "a word is chosen" },
+      { "E": "a symbol is selected" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the method of changing the selected text in MS Word without adding it to the clipboard?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "drag and drop" },
+      { "B": "select item" },
+      { "C": "select texts" },
+      { "D": "format painter" },
+      { "E": "select options" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In MS Word, the page break command can be executed by which shortcut from the keyboard?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ctrl+enter" },
+      { "B": "ctrl+end" },
+      { "C": "ctrl+home" },
+      { "D": "shift+enter" },
+      { "E": "shift+end" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How can we encrypt documents in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Review/Protect/Restrict Editing" },
+      { "B": "View/Protect/Document Security" },
+      { "C": "Layout/Document Security/Protect" },
+      { "D": "View/Password/Document Protect" },
+      { "E": "Inert/Documents Editing/Protect Document" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In what year was WI-FI created?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1998" },
+      { "B": "1997" },
+      { "C": "1965" },
+      { "D": "1988" },
+      { "E": "2000" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In MS Word in which menu is the command that compares the document?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "review/compare" },
+      { "B": "view/compare" },
+      { "C": "references/tracking" },
+      { "D": "view/show" },
+      { "E": "references/index" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the most damaged files?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".com, .exe" },
+      { "B": ".doc, .xls" },
+      { "C": ".com, .ott" },
+      { "D": ".txt, .ppt" },
+      { "E": ".jpg, .axi" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many types of viruses are there according to the environment of creation?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "network, download, file" },
+      { "B": "file, kasperski, mod 32" },
+      { "C": "network, file" },
+      { "D": "download, archiving, network" },
+      { "E": "network, file, kasperski" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the most reliable way to protect the content of a message?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cryptography" },
+      { "B": "special mode of message transmission" },
+      { "C": "special hardware module" },
+      { "D": "special control" },
+      { "E": "volunteer host" }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Regional networks can be located approximately how many (m. km) apart from each other?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "up to 10 km" },
+      { "B": "can be placed at a distance of five meters" },
+      { "C": "can be placed at a distance of ten meters" },
+      { "D": "can be placed at a distance of one km" },
+      { "E": "can be placed at a distance of one meter" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Where can regional networks be located?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "can be placed between cities and regions" },
+      { "B": "can be placed in the sky" },
+      { "C": "between floors" },
+      { "D": "between departments" },
+      { "E": "between houses" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Can local networks be connected to the Internet?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "can be connected" },
+      { "B": "cannot connect" },
+      { "C": "connected with memory" },
+      { "D": "connected to the printer" },
+      { "E": "connected with a disk drive" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the maximum distance between subscribers in local networks?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 km" },
+      { "B": "400 km" },
+      { "C": "300 km" },
+      { "D": "100 km" },
+      { "E": "10 km" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Computers are mainly divided into what types of networks?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "divides into local, regional and global networks" },
+      { "B": "divides into branched networks" },
+      { "C": "divides into regional networks" },
+      { "D": "divides into global networks" },
+      { "E": "divides into local networks" }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many types of networks are computers divided into?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "into three types" },
+      { "B": "into two types" },
+      { "C": "into six species" },
+      { "D": "into four types" },
+      { "E": "into five types" }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Why are computer networks divided?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "according to the deployment area" },
+      { "B": "by weight" },
+      { "C": "according to their size" },
+      { "D": "do not divide" },
+      { "E": "according to their prices" }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is network pathology?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "It is a configuration where computers are connected to each other in different ways"
+      },
+      { "B": "parallel connection of disk drives" },
+      { "C": "parallel connection of computers" },
+      { "D": "parallelization of printing devices with each other" },
+      { "E": "sequential placement of memories with each other" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Can a switch perform the function of a bridge in logical structuring?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "switch can perform" },
+      { "B": "repeater can perform" },
+      { "C": "cannot perform" },
+      { "D": "the printer can perform" },
+      { "E": "can be concentrator" }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Does the bridge in logical structuring use the hardware address entered into the network computers to localize the traffic?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the bridge uses the hardware address" },
+      { "B": "does not use a bridge device address" },
+      { "C": "the bridge uses the drive address" },
+      { "D": "the bridge uses the address of the printer" },
+      { "E": "the bridge uses a memory address" }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In logical structuring, the bridge recognizes the hardware address of the frame from several computers?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "the bridge recognizes the frame's hardware address" },
+      {
+        "B": "the bridge does not recognize the hardware address of the frame"
+      },
+      { "C": "the bridge recognizes the memory address" },
+      { "D": "the bridge recognizes the address of the disk drive" },
+      { "E": "the bridge recognizes the address of the printer" }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Does the bridge connecting the networks recognize the network topology?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A bridge that connects networks knows the network topology" },
+      { "B": "the bridge recognizes the printer" },
+      { "C": "Lacquering of bridge frames is performed" },
+      { "D": "the bridge recognizes the port number" },
+      { "E": "recognizes the bridge network topology" }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Can a computer controlled by a special program perform inter-network communication?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "computer can perform" },
+      { "B": "cannot perform" },
+      { "C": "the printer can perform" },
+      { "D": "memory device can perform" },
+      { "E": "disk drive can perform" }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Can a network card inside a computer handle communication links between networks?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "yes it can" },
+      { "B": "no it cannot perform" },
+      { "C": "disk drive can perform" },
+      { "D": "can perform print washing" },
+      { "E": "memory device can perform" }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a WAN?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "global computing network" },
+      { "B": "local computing network" },
+      { "C": "private area network" },
+      { "D": "special area computing network" },
+      { "E": "spatial computing network" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a LAN?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "local computing network" },
+      { "B": "global computing network" },
+      { "C": "private area network" },
+      { "D": "special area computing network" },
+      { "E": "wireless local area network" }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is PAN?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "private area network" },
+      { "B": "global computing network" },
+      { "C": "local computing network" },
+      { "D": "special area computing network" },
+      { "E": "wireless local area network" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a WLAN?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "wireless local area network" },
+      { "B": "global computing network" },
+      { "C": "local computing network" },
+      { "D": "special area computing network" },
+      { "E": "private area network" }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What network is used in small offices, home or small computer clubs?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "LAN" },
+      { "B": "PAN" },
+      { "C": "WAN" },
+      { "D": "WLAN" },
+      { "E": "MAN" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a wireless local network called?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "WLAN" },
+      { "B": "PAN" },
+      { "C": "WAN" },
+      { "D": "LAN" },
+      { "E": "MAN" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In which computer networks do all computers have the same rights?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "homogeneous network" },
+      { "B": "grid of m different colors" },
+      { "C": "managed network" },
+      { "D": "long dimensional network" },
+      { "E": "short size network" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which computer networks have no more than 10 computers?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "homogeneous network" },
+      { "B": "grid of m different colors" },
+      { "C": "managed network" },
+      { "D": "long dimensional network" },
+      { "E": "short size network" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens in a server network?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "This network is optimized for fast processing of customer requests"
+      },
+      {
+        "B": "This network is optimized for poor processing of requests from clients"
+      },
+      {
+        "C": "This network could not be optimized for fast processing of customer requests"
+      },
+      {
+        "D": "This network could not be optimized for poor processing of clients' requests"
+      },
+      { "E": "All answers are correct" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How to ensure the normal operation of a complex network of clients and servers on multiple computers?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "with the operating system of the network" },
+      { "B": "with the server operating system" },
+      { "C": "with the client operating system" },
+      { "D": "with a location computing network" },
+      { "E": "with a global computing network" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is needed to manage user access rights and privileges?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "network management" },
+      { "B": "network operating system" },
+      { "C": "client operating system" },
+      { "D": "location computing network" },
+      { "E": "global computing network" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is needed to download and upgrade software on computer networks?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "network management" },
+      { "B": "network operating system" },
+      { "C": "client operating system" },
+      { "D": "location computing network" },
+      { "E": "global computing network" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How are computers installed in the 'Bus' topology?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "computers are connected to a cable along a segment" },
+      { "B": "computers are wired in a closed circuit" },
+      { "C": "barrel-connector or repeater" },
+      { "D": "connected to the central computer" },
+      { "E": "mixed computers are connected to several servers" }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How are computers installed in the 'ring' topology?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "computers are wired in a closed circuit" },
+      { "B": "computers are connected to a cable along a segment" },
+      { "C": "barrel-connector or repeater" },
+      { "D": "connected to the central computer" },
+      { "E": "mixed computers are connected to several servers" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is used to connect wires in bus topology?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "barrel-connector or repeater" },
+      { "B": "computers are connected to a cable along a segment" },
+      { "C": "computers are wired in a closed circuit" },
+      { "D": "connected to the central computer" },
+      { "E": "mixed computers are connected to several servers" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What should a device connected to the Internet be?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "IP address" },
+      { "B": "MAC-address" },
+      { "C": "LAN-cable" },
+      { "D": "PAN-cable" },
+      { "E": "E-mail address" }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How are computers installed in the 'star' topology?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cable segments to the hub, which is the central component" },
+      { "B": "computers are connected to a cable along a segment" },
+      { "C": "computers are wired in a closed circuit" },
+      { "D": "barrel-connector or repeater" },
+      { "E": "there is no correct answer" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In what type of connection of computers in a local network, information is transmitted in two directions, endurance increases, speed increases, non-neighbor computers have a means of communication?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ring" },
+      { "B": "tire" },
+      { "C": "star" },
+      { "D": "net" },
+      { "E": "tree" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What type of connection of computers in the local network information is transferred directly from one computer to another, if one of the connections is damaged, only one of the computers fails, the connection requires special equipment and is expensive?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "star" },
+      { "B": "tire" },
+      { "C": "ring" },
+      { "D": "net" },
+      { "E": "tree" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What are the data exchange rules and procedures between computers called?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "protocol" },
+      { "B": "application" },
+      { "C": "reference" },
+      { "D": "notification" },
+      { "E": "rota" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many layers does the standard OSI model consist of?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "7 layers" },
+      { "B": "6 layers" },
+      { "C": "5 layers" },
+      { "D": "4 layers" },
+      { "E": "8 layers" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which layer of the OSI model is considered the highest?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "application" },
+      { "B": "physical" },
+      { "C": "network" },
+      { "D": "session" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "In what type of network of computers in a local network, all computers are connected by means of only one communication channel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "tire" },
+      { "B": "star" },
+      { "C": "ring" },
+      { "D": "net" },
+      { "E": "tree" }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the name of the data unit operating at the presentation level?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "information" },
+      { "B": "physical" },
+      { "C": "network" },
+      { "D": "session" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "At what level of the OSI model does the program called redirector work?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "presentation" },
+      { "B": "physical" },
+      { "C": "network" },
+      { "D": "session" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a device that forwards or stops traffic between two or more networks by looking at the MAC address in data packets?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bridge" },
+      { "B": "Repeater" },
+      { "C": "HUB" },
+      { "D": "Switch" },
+      { "E": "Terminator (end)" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Where are the drivers of network adapters located?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "In the data link layer of the OSI model" },
+      { "B": "In the physical layer of the OSI model" },
+      { "C": "In the presentation layer of the OSI model" },
+      { "D": "In the transport layer of the OSI model" },
+      { "E": "In the application of the OSI model" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is used to handle more computers over longer distances, to make the network more stable even if the cable is damaged, and to connect different cable systems?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Repeater" },
+      { "B": "Bridge" },
+      { "C": "HUB" },
+      { "D": "Switch" },
+      { "E": "Terminator (end)" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "At which level of the OSI model is the packet formed?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "In the physical layer of the OSI model" },
+      { "B": "In the data link layer of the OSI model" },
+      { "C": "In the presentation layer of the OSI model" },
+      { "D": "In the transport layer of the OSI model" },
+      { "E": "In the application of the OSI model" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "The working logic of Ethernet incorporates the bus structure and what is the device that copies the signal from one port and sends it to all other ports?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "HUB" },
+      { "B": "Bridge" },
+      { "C": "Repeater" },
+      { "D": "Switch" },
+      { "E": "Terminator (end)" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which layer of the OSI model is considered the lowest?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "physical" },
+      { "B": "information" },
+      { "C": "network" },
+      { "D": "session" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the device that works at OSI layer 2, recognizes the MAC addresses of the computers connected to its port, and sends the data packet from one port to the port that has the 'receiver MAC address' written on the data packet?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Switch" },
+      { "B": "Bridge" },
+      { "C": "Repeater" },
+      { "D": "HUB" },
+      { "E": "Terminator (end)" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which layer of the OSI model creates a direct connection between computers?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "physical" },
+      { "B": "information" },
+      { "C": "network" },
+      { "D": "session" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which layer of the OSI model controls general network access and data flow?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "implementation" },
+      { "B": "information" },
+      { "C": "network" },
+      { "D": "session" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the device used to connect to the network with a telephone line?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Modem" },
+      { "B": "Bridge" },
+      { "C": "Repeater" },
+      { "D": "HUB" },
+      { "E": "Switch" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which layer of the OSI model is responsible for cross-network data delivery?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "network" },
+      { "B": "information" },
+      { "C": "implementation" },
+      { "D": "session" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many bits are the length of an IP address?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "32" },
+      { "B": "16" },
+      { "C": "64" },
+      { "D": "8" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "At which layer of the OSI model does the packet formation process begin?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "In the application layer of the OSI model" },
+      { "B": "In the data link layer of the OSI model" },
+      { "C": "In the presentation layer of the OSI model" },
+      { "D": "In the transport layer of the OSI model" },
+      { "E": "In the physical layer of the OSI model" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How many equal parts does an IP address have 32 bits long?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "5" },
+      { "C": "6" },
+      { "D": "16" },
+      { "E": "64" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "DNS; FTP; TFTP; BOOTP; SNMP; RLOGIN; SMTP; MIME; NFS; FINGER; TELNET; NCP; APPC; AFP; What layer of SMB protocols and technologies are used?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "implementation" },
+      { "B": "information" },
+      { "C": "network" },
+      { "D": "session" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "NetBIOS; Names Pipes; Mail Slots; What layer of RPC protocols and technologies are used?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "session" },
+      { "B": "information" },
+      { "C": "network" },
+      { "D": "application" },
+      { "E": "transportation" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "TCP, ARP, RARP; In what layer are SPX, NWLink, NetBIOS / NetBEUI, ATP protocols and technologies used?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "transportation" },
+      { "B": "information" },
+      { "C": "network" },
+      { "D": "application" },
+      { "E": "session" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "IP; ARP; RARP, ICMP; R.I.P.; OSFP IGMP; In what layer are IPX, NWLink, NetBEUI, OSI, DDP, DECnet protocols and technologies used?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "network" },
+      { "B": "information" },
+      { "C": "transportation" },
+      { "D": "implementation" },
+      { "E": "session" }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Logical Link Control(LLC), SAPs, 802.1 OSI Model, 802.2 Logical Link Control, Media Access Control(MAC), 802.3 CSMA/CD (Ethernet), 802.4 Token Bus (ARCnet), 802.5 Token Ring, 802.12 Demand Priority protocols and what kind of technologies are used?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "information" },
+      { "B": "network" },
+      { "C": "transportation" },
+      { "D": "application" },
+      { "E": "session" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "In what layer are IEEE 802, IEEE 802.2, ISO 2110, ISDN protocols and technologies used?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "physical" },
+      { "B": "information" },
+      { "C": "network" },
+      { "D": "application" },
+      { "E": "session" }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "What is the name and address of the website on the Internet?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "domain" },
+      { "B": "hosting" },
+      { "C": "server" },
+      { "D": "database" },
+      { "E": "modem" }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "What is the device that connects the networks with different network protocols and converts the incoming data from one network according to the requirements of the network to which it will be transmitted and then transmits it?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "GateWay (gateway)" },
+      { "B": "Bridge" },
+      { "C": "Repeater" },
+      { "D": "HUB" },
+      { "E": "Switch" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Which top-level domain on the Internet points to Azerbaijan?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".az" },
+      { "B": ".com" },
+      { "C": ".net" },
+      { "D": ".we" },
+      { "E": ".tr" }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "What is a device that connects two local networks and transmits data in the form of packets without any changes between the networks?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bridge" },
+      { "B": "GateWay (gateway)" },
+      { "C": "Repeater" },
+      { "D": "HUB" },
+      { "E": "Switch" }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "What do they use to connect networks that use different protocols and architectures?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "GateWay (gateway)" },
+      { "B": "Bridge" },
+      { "C": "Repeater" },
+      { "D": "HUB" },
+      { "E": "Switch" }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "What are the components of the global network? a. Modem; b. Repeater; c. Bridge; d. router; e. Gateway",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "а , b, c, d, e" },
+      { "B": "a, b, c" },
+      { "C": "c, d, e" },
+      { "D": "b, d, e" },
+      { "E": "b, c, d, e" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "At which level of the OSI model does the router work?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "network" },
+      { "B": "information" },
+      { "C": "physical" },
+      { "D": "application" },
+      { "E": "session" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "What is the diameter of 'thin' coaxial cable?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0.5 cm" },
+      { "B": "1 cm" },
+      { "C": "1.5 cm" },
+      { "D": "2 cm" },
+      { "E": "3 cm" }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "What is the diameter of the 'thick' coaxial cable?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 cm" },
+      { "B": "0.5 cm" },
+      { "C": "1.5 cm" },
+      { "D": "2 cm" },
+      { "E": "3 cm" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "What is a device that connects two networks characterized by different network equipment and data with different protocols?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "GateWay (gateway)" },
+      { "B": "Bridge" },
+      { "C": "Repeater" },
+      { "D": "HUB" },
+      { "E": "Switch" }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "heleki sekili duzeltmemisemee",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "duzgun cavab" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
+      { "E": "" }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "What is the top-level domain name at user_name@mtu-net.ru?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ru" },
+      { "B": "mtu-net" },
+      { "C": "net" },
+      { "D": "user_name" },
+      { "E": "@mtu" }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "What is a browser?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Web page viewer" },
+      { "B": "Annoying 'spam' messages" },
+      { "C": "Network distribution unit" },
+      { "D": "Central control unit" },
+      { "E": "Electronic mail program" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "What is HTML?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A hypertext language that creates a web page" },
+      { "B": "Web page viewing tool" },
+      { "C": "Search tool on web pages" },
+      { "D": "Annoying 'spam' messages" },
+      { "E": "Network is a distribution facility" }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "What kind of domain do state enterprises have?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Govt" },
+      { "B": "net" },
+      { "C": "we" },
+      { "D": "education" },
+      { "E": "com" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "What domain do educational institutions have?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "education" },
+      { "B": "net" },
+      { "C": "we" },
+      { "D": "gov" },
+      { "E": "com" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "What is the command that closes a document in MS Word?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "file/ close" },
+      { "B": "x-button" },
+      { "C": "alt+F4" },
+      { "D": "alt+F1" },
+      { "E": "home/close" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "What short keyboard combination is used to replace words within a document in MS Word?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ctrl+ H" },
+      { "B": "ctrl+B" },
+      { "C": "ctrl+Z" },
+      { "D": "ctrl+Y" },
+      { "E": "ctrl+R" }
+    ]
   }
 ]
