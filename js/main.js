@@ -185,8 +185,8 @@ function displayQuestions(questions) {
               const key = labels[answerIndex]; // Use fixed label for the current answer
               const value = Object.values(answer)[0]; // Get the answer text
 
-              if (value.startsWith('git-img:')) {
-                const imageName = value.replace('git-img:', '');
+              if (value.startsWith('gitimg:')) {
+                const imageName = value.replace('gitimg:', '');
                 value = `https://raw.githubusercontent.com/romandevo/SeidExam/main/img/${fileName}/${imageName}.png`;
               }
               const isImage =
