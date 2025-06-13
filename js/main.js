@@ -183,6 +183,12 @@ function displayQuestions(questions) {
             .map((answer, answerIndex) => {
               const key = labels[answerIndex]; // Use fixed label for the current answer
               const value = Object.values(answer)[0]; // Get the answer text
+              const isImage =
+                value.startsWith('http') &&
+                value.match(/\.(jpeg|jpg|gif|png|webp)$/i);
+              const displayContent = isImage
+                ? `<img src="${value}" alt="Answer Image" style="height: 24px;">`
+                : value;
               const isCorrect =
                 Object.keys(answer)[0] === question.correctAnswer; // Check if it's the correct answer
               return `
@@ -190,7 +196,7 @@ function displayQuestions(questions) {
                       data-question="${index}" 
                       data-answer="${key}" 
                       data-correct="${isCorrect}">
-                ${key}. ${value}
+                ${key}. ${displayContent}
               </button>`;
             })
             .join('')}
