@@ -74,6 +74,7 @@ function getEndpoint(locationPath) {
 
 // Pass the pathname to the function and store the result
 const endpoint = getEndpoint(currentLocation);
+const fileName = endpoint.split('/').pop().replace('.json', ''); // example: "komp-muh-esas-2"
 
 console.log(`Current Location: ${currentLocation}`);
 console.log(`Endpoint: ${endpoint}`);
@@ -183,6 +184,11 @@ function displayQuestions(questions) {
             .map((answer, answerIndex) => {
               const key = labels[answerIndex]; // Use fixed label for the current answer
               const value = Object.values(answer)[0]; // Get the answer text
+
+              if (value.startsWith('git-img:')) {
+                const imageName = value.replace('git-img:', '');
+                value = `https://raw.githubusercontent.com/romandevo/SeidExam/main/img/${fileName}/${imageName}.png`;
+              }
               const isImage =
                 value.startsWith('http') &&
                 value.match(/\.(jpeg|jpg|gif|png|webp)$/i);

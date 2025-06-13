@@ -18,12 +18,12 @@
     "questionDown": "heleki sekili duzeltmemisemee",
     "correctAnswer": "A",
     "answers": [
-      { "A": "duzgun cavab" },
-      { "B": "https://cdn-icons-png.flaticon.com/128/15805/15805116.png" },
-      { "C": "https://cdn-icons-png.flaticon.com/128/15805/15805116.png" },
-      { "D": "https://cdn-icons-png.flaticon.com/128/15805/15805116.png" },
+      { "A": "git-img:2-a" },
+      { "B": "" },
+      { "C": "" },
+      { "D": "" },
       {
-        "E": "https://github.com/romandevo/SeidExam/blob/main/img/komp-muh-esas-2/2-a.png"
+        "E": ""
       }
     ]
   },
