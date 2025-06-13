@@ -19,9 +19,9 @@
     "correctAnswer": "A",
     "answers": [
       { "A": "duzgun cavab" },
-      { "B": "" },
-      { "C": "" },
-      { "D": "" },
+      { "B": "https://cdn-icons-png.flaticon.com/128/15805/15805116.png" },
+      { "C": "https://cdn-icons-png.flaticon.com/128/15805/15805116.png" },
+      { "D": "https://cdn-icons-png.flaticon.com/128/15805/15805116.png" },
       { "E": "" }
     ]
   },
