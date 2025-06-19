@@ -109,7 +109,6 @@ function getEndpoint(locationPath) {
 
 // Pass the pathname to the function and store the result
 const endpoint = getEndpoint(currentLocation);
-console.log('Fetching data from:', endpoint);
 const fileName = endpoint.split('/').pop().replace('.json', ''); // example: "komp-muh-esas-2"
 
 console.log(`Current Location: ${currentLocation}`);
