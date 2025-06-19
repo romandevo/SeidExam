@@ -29,7 +29,8 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/fizika.html' ||
     locationPath === '/SeidExam/exams/fizika.html'
   ) {
-    endpoint = './data/fizika.json';
+    endpoint =
+      'https://raw.githubusercontent.com/romandevo/SeidExam/main/data/fizika.json';
   } else if (
     locationPath === '/exams/komp-muh-esas-2' ||
     locationPath === '/komp-muh-esas-2.html' ||
