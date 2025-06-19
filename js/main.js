@@ -25,11 +25,11 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './xarici-dil-2.json';
   } else if (
-    locationPath === '/exams/fizikasual' ||
-    locationPath === '/exams/fizikasual.html' ||
-    locationPath === '/SeidExam/exams/fizikasual.html'
+    locationPath === '/exams/fizika' ||
+    locationPath === '/exams/fizika.html' ||
+    locationPath === '/SeidExam/exams/fizika.html'
   ) {
-    endpoint = './fizikasual.json';
+    endpoint = './fizika.json';
   } else if (
     locationPath === '/exams/komp-muh-esas-2' ||
     locationPath === '/komp-muh-esas-2.html' ||
