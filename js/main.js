@@ -27,10 +27,9 @@ function getEndpoint(locationPath) {
   } else if (
     locationPath === '/exams/fizika' ||
     locationPath === '/exams/fizika.html' ||
-    locationPath === '/SeidExam/exams/fizika.html' ||
-    locationPath === '/exams/fizika/'
+    locationPath === '/SeidExam/exams/fizika.html'
   ) {
-    endpoint = './fizika.json';
+    endpoint = './data/fizika.json';
   } else if (
     locationPath === '/exams/komp-muh-esas-2' ||
     locationPath === '/komp-muh-esas-2.html' ||
