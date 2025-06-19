@@ -7,7 +7,7 @@ let isChecked = false; // Flag to track if "Check" has been clicked
 
 // Get the current location
 const currentLocation = window.location.pathname;
-
+/*
 function getEndpoint(locationPath) {
   const pathMap = {
     '/exams/fizika': 'fizika',
@@ -32,10 +32,10 @@ function getEndpoint(locationPath) {
   }
 
   return `https://raw.githubusercontent.com/romandevo/SeidExam/main/data/${fileName}.json`;
-}
+}  */
 
 // Function to determine the endpoint
-/*  function getEndpoint(locationPath) {
+function getEndpoint(locationPath) {
   let endpoint;
 
   if (
@@ -105,7 +105,7 @@ function getEndpoint(locationPath) {
     ''
   )}`;
   // return endpoint;
-} */
+}
 
 // Pass the pathname to the function and store the result
 const endpoint = getEndpoint(currentLocation);
