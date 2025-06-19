@@ -53,7 +53,7 @@ function getEndpoint(locationPath) {
   } else if (
     locationPath === '/exams/fizika' ||
     locationPath === '/exams/fizika.html' ||
-    locationPath === '/SeidExam/exams/fizika.html'
+    locationPath === '/SeidExam/fizika.html'
   ) {
     endpoint = './fizika.json';
   } else if (
@@ -100,13 +100,9 @@ function getEndpoint(locationPath) {
     endpoint = './mathematical-analysis.json';
   }
 
-  return `https://raw.githubusercontent.com/romandevo/SeidExam/main/exams/${endpoint.replace(
-    './',
-    ''
-  )}`;
+  return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
   // return endpoint;
 }
-
 // Pass the pathname to the function and store the result
 const endpoint = getEndpoint(currentLocation);
 const fileName = endpoint.split('/').pop().replace('.json', ''); // example: "komp-muh-esas-2"
