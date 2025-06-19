@@ -74,7 +74,10 @@ function getEndpoint(locationPath) {
     endpoint = './mathematical-analysis.json';
   }
 
-  return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
+  return `https://raw.githubusercontent.com/romandevo/SeidExam/main/exams/${endpoint.replace(
+    './',
+    ''
+  )}`;
   // return endpoint;
 }
 
