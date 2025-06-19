@@ -8,8 +8,34 @@ let isChecked = false; // Flag to track if "Check" has been clicked
 // Get the current location
 const currentLocation = window.location.pathname;
 
-// Function to determine the endpoint
 function getEndpoint(locationPath) {
+  const pathMap = {
+    '/exams/fizika': 'fizika',
+    '/exams/fizika.html': 'fizika',
+    '/exams/xarici-dil': 'xarici-dil',
+    '/exams/xarici-dil.html': 'xarici-dil',
+    '/exams/information-technologies': 'information-technologies',
+    '/exams/instrumental-ve-tetbiqi-programlar':
+      'instrumental-ve-tetbiqi-programlar',
+    '/exams/it-esaslari': 'it-esaslari',
+    '/exams/it-esaslari2': 'it-esaslari2',
+    '/exams/komp-muh-esas-2': 'komp-muh-esas-2',
+    '/exams/mathematical-analysis': 'mathematical-analysis',
+    '/exams/az-dili': 'az-dili',
+  };
+
+  const fileName = pathMap[locationPath];
+
+  if (!fileName) {
+    console.error('No JSON file mapped for:', locationPath);
+    return null;
+  }
+
+  return `https://raw.githubusercontent.com/romandevo/SeidExam/main/data/${fileName}.json`;
+}
+
+// Function to determine the endpoint
+/*  function getEndpoint(locationPath) {
   let endpoint;
 
   if (
@@ -79,10 +105,11 @@ function getEndpoint(locationPath) {
     ''
   )}`;
   // return endpoint;
-}
+} */
 
 // Pass the pathname to the function and store the result
 const endpoint = getEndpoint(currentLocation);
+console.log('Fetching data from:', endpoint);
 const fileName = endpoint.split('/').pop().replace('.json', ''); // example: "komp-muh-esas-2"
 
 console.log(`Current Location: ${currentLocation}`);
