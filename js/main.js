@@ -93,6 +93,12 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './az-dili.json';
   } else if (
+    locationPath === '/exams/zad' ||
+    locationPath === '/exams/zad.html' ||
+    locationPath === '/SeidExam/exams/zad.html'
+  ) {
+    endpoint = './zad.json';
+  } else if (
     locationPath === '/exams/mathematical-analysis' ||
     locationPath === '/exams/mathematical-analysis.html' ||
     locationPath === '/SeidExam/exams/mathematical-analysis.html'

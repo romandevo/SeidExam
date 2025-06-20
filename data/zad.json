@@ -1,0 +1,4474 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Proqramlaşdırma dili" },
+      { "B": "Qrafik redaktoru" },
+      { "C": "Məlumat bazası" },
+      { "D": "Brauzer" },
+      { "E": "Əməliyyat sistemi" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python nə üçün istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Proqram təminatının inkişafı üçün" },
+      { "B": "Maşın təmiri üçün" },
+      { "C": "Yalnız dizayn üçün" },
+      { "D": "Audio redaktə üçün" },
+      { "E": "Mobil zənglər üçün" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonun fayl genişlənməsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".py" },
+      { "B": ".txt" },
+      { "C": ".exe" },
+      { "D": ".docx" },
+      { "E": ".html" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda şərhlər nə üçün istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Python kodunu izah etmək üçün" },
+      { "B": "Kodu silmək üçün" },
+      { "C": "Proqramı tərtib etmək üçün" },
+      { "D": "Kodun sürətini artırmaq üçün" },
+      { "E": "Kodu parolla qorumaq üçün" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda tək sətirli şərhlər nə ilə təyin olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "#" },
+      { "B": "//" },
+      { "C": "--" },
+      { "D": "<!-- -->" },
+      { "E": "/* */" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda booleanlar iki dəyərdən birini təmsil edir:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True və ya false" },
+      { "B": "1 və ya 100" },
+      { "C": "Yes və No" },
+      { "D": "Open və Close" },
+      { "E": "Up və Down" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda neçə ədədi tip var?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "5" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da hər hansı bir obyektin növünü yoxlamaq üçün funksiyadan istifadə edilir:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Type()" },
+      { "B": "Check()" },
+      { "C": "Len()" },
+      { "D": "Verify()" },
+      { "E": "Scan()" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tam ədəd, onsuz, qeyri-məhdud uzunluqda, müsbət və ya mənfi tam ədəddir:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnt" },
+      { "B": "Float" },
+      { "C": "Str" },
+      { "D": "Bool" },
+      { "E": "List" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "\"Üzən nöqtə nömrəsi\" bir və ya daha çox onluqdan ibarət müsbət və ya mənfi ədəddir:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Float" },
+      { "B": "Int" },
+      { "C": "Bool" },
+      { "D": "Char" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İki dəyəri birləşdirmək üçün hansı işarədən istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+" },
+      { "B": "-" },
+      { "C": "*" },
+      { "D": "/" },
+      { "E": "%" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İki dəyərin qalığını tapmaq üçün hansı işarədən istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "%" },
+      { "B": "+" },
+      { "C": "*" },
+      { "D": "//" },
+      { "E": "=" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İki dəyəri bölmək üçün hansı işarədən istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "/" },
+      { "B": "//" },
+      { "C": "*" },
+      { "D": "-" },
+      { "E": "^" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Siyahıda neçə element olduğunu müəyyən etmək üçün funksiyadan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Len()" },
+      { "B": "Count()" },
+      { "C": "Size()" },
+      { "D": "Length()" },
+      { "E": "Get()" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda lüğətlər neçənci versiyadan etibarən sıralanır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3.7" },
+      { "B": "2.7" },
+      { "C": "3.5" },
+      { "D": "3.0" },
+      { "E": "4.0" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lüğətdəki bütün düymələrin siyahısını qaytaran əmr hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Keys()" },
+      { "B": "Items()" },
+      { "C": "Values()" },
+      { "D": "Get()" },
+      { "E": "List()" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lüğətdəki bütün dəyərlərin siyahısını qaytaran əmr hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Values()" },
+      { "B": "Keys()" },
+      { "C": "Items()" },
+      { "D": "Set()" },
+      { "E": "Map()" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lüğətdəki hər bir elementi siyahıdakı dəstlər kimi qaytaran əmr hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İtems()" },
+      { "B": "Pairs()" },
+      { "C": "Tuples()" },
+      { "D": "Values()" },
+      { "E": "Keys()" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lüğətdə açarın olub-olmadığını yoxlamaq üçün hansı sözdən istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "In" },
+      { "B": "Is" },
+      { "C": "Has" },
+      { "D": "With" },
+      { "E": "Check" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda set növləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Set, frozenset" },
+      { "B": "List, tuple" },
+      { "C": "Dict, set" },
+      { "D": "Int, float" },
+      { "E": "Str, bool" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda lüğət növü hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dict" },
+      { "B": "Set" },
+      { "C": "Tuple" },
+      { "D": "List" },
+      { "E": "Int" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda ardıcıllıq növləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "List, tuple, range" },
+      { "B": "Set, dict" },
+      { "C": "Int, float, bool" },
+      { "D": "Str, int, list" },
+      { "E": "Tuple, set, frozenset" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda mətn növləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Str" },
+      { "B": "Text" },
+      { "C": "Char" },
+      { "D": "String" },
+      { "E": "Doc" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı ardıcıl olaraq bərabərdir, böyük-bərabər və kiçik-bərabər ifadələrini əks etdirir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "==, >=, <=" },
+      { "B": "=, >>, <<" },
+      { "C": "==, =>, <=" },
+      { "D": "=, >=, <" },
+      { "E": "==, >>, <<" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı a ədədinin b ədədindən böyük və ya bərabər olduğunu ifadə edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ">=" },
+      { "B": "<=" },
+      { "C": "==" },
+      { "D": "!=" },
+      { "E": "<>" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı daxili metodlardan/funksiyalardan hansı lüğəti dəyişdirməyə çalışır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fromkeys" },
+      { "B": "items" },
+      { "C": "keys" },
+      { "D": "values" },
+      { "E": "len" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı əməliyyatlardan hansı lüğətdə yerinə yetirilə bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Membership" },
+      { "B": "Indexing" },
+      { "C": "Slicing" },
+      { "D": "Concatenation" },
+      { "E": "Iteration" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kod sətirlərindən hansı captains adlı boş lüğət yaradacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "captains = {}" },
+      { "B": "captains = []" },
+      { "C": "captains = ()" },
+      { "D": "captains = set()" },
+      { "E": "captains = ''" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lüğətlə bağlı bunlardan hansı yanlışdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Lüğətin açarlarına dəyərlərdən istifadə etməklə daxil olmaq olar." },
+      { "B": "Lüğətlər açar–dəyər cütləri saxlayır." },
+      { "C": "Lüğətlər dəyişkəndir." },
+      { "D": "Açarlar unikal olmalıdır." },
+      { "E": "Lüğət sıralanmış verilənlər strukturu deyil." }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı proqramlaşdırma dilində yazıldıqdan sonra proqram gərçək maşın koduna çevrilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Translyator" },
+      { "B": "Kompilyator" },
+      { "C": "Yorumlayıcı" },
+      { "D": "Tərtibçi" },
+      { "E": "Debugger" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompliyator nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Proqramı maşın koduna çevirir ayrıca faylda saxlayır" },
+      { "B": "Səhvləri tapmaq üçün istifadə olunur" },
+      { "C": "Şəbəkə əlaqəsini qurur" },
+      { "D": "Yalnız şəkilləri göstərir" },
+      { "E": "Brauzerə çevrilir" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python əsasən nə kimi istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnterpretator" },
+      { "B": "Kompilyator" },
+      { "C": "Translyator" },
+      { "D": "Redaktor" },
+      { "E": "Formatlayıcı" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda >>> işarəsi nə adlanır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Çağırış" },
+      { "B": "Yorumlayıcı" },
+      { "C": "Sətir" },
+      { "D": "Simvol" },
+      { "E": "Kod bloku" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Modul nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dəyişən və başqa obyektlərdən ibarət olan daha güclü proqramdır" },
+      { "B": "Sadə sözlükdür" },
+      { "C": "Sistem faylıdır" },
+      { "D": "Şəkil formatıdır" },
+      { "E": "Video faylıdır" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tkinter, PyGame modulları nə üçün istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Oyun yaratmaq" },
+      { "B": "Hesablama aparmaq" },
+      { "C": "Cədvəl çəkmək" },
+      { "D": "Məlumat toplamaq" },
+      { "E": "İnternet bağlantısı qurmaq" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Görüntülərlə işləmək üçün hansı mod var?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "PIL" },
+      { "B": "Tkinter" },
+      { "C": "NumPy" },
+      { "D": "Matplotlib" },
+      { "E": "Pygame" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Modullar proqrama hansı komanda ilə qoşulur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "import" },
+      { "B": "connect" },
+      { "C": "attach" },
+      { "D": "require" },
+      { "E": "bind" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dili neçənci ildə yaradılmışdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1991" },
+      { "B": "1981" },
+      { "C": "2000" },
+      { "D": "1995" },
+      { "E": "1989" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python proqramı kim tərəfindən yaradılmışdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Guido van Rossum" },
+      { "B": "James Gosling" },
+      { "C": "Dennis Ritchie" },
+      { "D": "Linus Torvalds" },
+      { "E": "Tim Berners-Lee" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramlaşdırma dilində yazıldıqdan sonra proqram gərçək maşın koduna çevrilməlidir ki, prosessor onu başa düşüb icra edə bilsin. Belə çevirmə …… adlanan proqram vasitəsilə aparılır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Translyator" },
+      { "B": "Editor" },
+      { "C": "Terminal" },
+      { "D": "Runner" },
+      { "E": "Renderer" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompliyator……",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Proqramı maşın koduna çevirir ayrıca faylda saxlayır" },
+      { "B": "Kodun dizaynını tənzimləyir" },
+      { "C": "Şəkil çəkir" },
+      { "D": "Əlavələri silir" },
+      { "E": "Kodun uzunluğunu ölçür" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python əsasən nə kimi istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnterpretator" },
+      { "B": "Kompilyator" },
+      { "C": "Aparıcı" },
+      { "D": "Redaktor" },
+      { "E": "Qurucu" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda >>> işarəsi nə adlanır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Çağırış" },
+      { "B": "Terminal" },
+      { "C": "Start" },
+      { "D": "Promt" },
+      { "E": "Təlimat" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Modul nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Funksiya, dəyişən və başqa obyektlərdən ibarət olan daha güclü proqramdır" },
+      { "B": "Yalnız dəyişənlərdən ibarətdir" },
+      { "C": "Bir sənəd növüdür" },
+      { "D": "Şəkil formatıdır" },
+      { "E": "Kod səhvləri üçün istifadə olunur" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tkinter, PyGame modulları nə üçündür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Oyun yaratmaq" },
+      { "B": "Sənəd redaktəsi" },
+      { "C": "Məlumat saxlamaq" },
+      { "D": "Sistem tənzimləmələri" },
+      { "E": "Kod yoxlaması" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Görüntülərlə işləmək üçün hansı mod var?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "PIL" },
+      { "B": "Math" },
+      { "C": "Sys" },
+      { "D": "Time" },
+      { "E": "Os" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Modullar proqrama hansı komanda ilə qoşulur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "import" },
+      { "B": "define" },
+      { "C": "include" },
+      { "D": "module" },
+      { "E": "link" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda mətin tipli verilənləri daxil etmək üçün hansı dəyişənlərdən istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "String" },
+      { "B": "Integer" },
+      { "C": "Boolean" },
+      { "D": "Float" },
+      { "E": "Char" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda 5num_ber dəyişənində səhv olan nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Rəqəmlə başlamaz" },
+      { "B": "Alt xətdən istifadə olunmaz" },
+      { "C": "Böyük hərf yazıla bilməz" },
+      { "D": "Simvol sayı çoxdur" },
+      { "E": "Python bu dəyişəni tanımır" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda num_ber5 dəyişənində səhv olan nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Səhv yoxdur" },
+      { "B": "5 sonunda ola bilməz" },
+      { "C": "Alt xətt istifadə etmək olmaz" },
+      { "D": "Yalnız hərflər olmalıdır" },
+      { "E": "Tək simvollu dəyişən olmalıdır" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda 3al_ma dəyişənində səhv olan nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Rəqəmlə başlamaz" },
+      { "B": "Alt xətt olmamalıdır" },
+      { "C": "Ədədlər qadağandır" },
+      { "D": "Yalnız ingilis hərfləri olmalıdır" },
+      { "E": "2 simvoldan ibarət olmalıdır" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda 67ba_g dəyişənində səhv olan nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Rəqəmlə başlamaz" },
+      { "B": "Alt xətt istifadə etmək olmaz" },
+      { "C": "Simvollar çoxdur" },
+      { "D": "Yalnız hərflər olmalıdır" },
+      { "E": "Ədədlər sonunda olmalıdır" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda yazılmış kodların cavabı necə olacaq?\na=b=c=4\na+=4\nb+=a\nc+=b\nprint(a,b//2)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8 6" },
+      { "B": "4 2" },
+      { "C": "12 4" },
+      { "D": "16 8" },
+      { "E": "6 4" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda yazılmış kodların cavabı necə olacaq?\na, b, c=4,10,5\na+=4\nb+=a\nprint(a+b)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "26" },
+      { "B": "18" },
+      { "C": "22" },
+      { "D": "24" },
+      { "E": "30" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda yazılmış kodların nəticəsi necə olacaq?\na=b=c=10\na, b, c=a//2, b//3, c//4\nprint(a+b+c)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10" },
+      { "B": "12" },
+      { "C": "14" },
+      { "D": "8" },
+      { "E": "15" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda verilmiş proqramın nəticəsi necə olacaq?\na=18\na=a%5\na+=4\nprint(a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "7" },
+      { "B": "9" },
+      { "C": "5" },
+      { "D": "3" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda verilmiş proqramın nəticəsi necə olacaq?\na=15//20\nb=a**2\nc=b//2\nprint(c)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda verilmiş proqramın son nəticəsi nədir?\na=15\nb=34\nc=a+b\nprint(c)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "49" },
+      { "B": "45" },
+      { "C": "51" },
+      { "D": "43" },
+      { "E": "50" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda verilmiş proqramın son nəticəsi nədir?\na=3**2\nb=2**0\nc=sqrt(a)\nprint(a+b+c)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "13" },
+      { "B": "10" },
+      { "C": "11" },
+      { "D": "9" },
+      { "E": "14" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda print(\"Salam uşaqlar\") proqramının nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Salam uşaqlar" },
+      { "B": "print(\"Salam uşaqlar\")" },
+      { "C": "uşaqlar Salam" },
+      { "D": "Salam uşaqlar print" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pow(2,3) Pythonda nəticəsi necə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "6" },
+      { "C": "9" },
+      { "D": "5" },
+      { "E": "7" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pow(3,3) Pythonda nəticəsi necə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "27" },
+      { "B": "9" },
+      { "C": "30" },
+      { "D": "18" },
+      { "E": "24" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pow(5,2) Pythonda nəticəsi necə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "25" },
+      { "B": "10" },
+      { "C": "20" },
+      { "D": "15" },
+      { "E": "22" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pow(6,2) Pythonda nəticəsi necə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "36" },
+      { "B": "18" },
+      { "C": "30" },
+      { "D": "42" },
+      { "E": "32" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı sətirin uzunluğunu bildirir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len" },
+      { "B": "length" },
+      { "C": "size" },
+      { "D": "measure" },
+      { "E": "count" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ədədi sətirə çevirmək üçün…",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str" },
+      { "B": "int" },
+      { "C": "list" },
+      { "D": "float" },
+      { "E": "bool" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Siyahı nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Nizamlı şəkildə saxlanılan obyektlər yığını" },
+      { "B": "Sadəcə ədədləri saxlayan dəyişən" },
+      { "C": "Mətnin növü" },
+      { "D": "Tək bir dəyəri saxlayan dəyişən" },
+      { "E": "Operatorlardan biri" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda \\t escape xarakterinin mənası nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sözlər arasında TAB boşluğu yaratmaq" },
+      { "B": "Yeni sətrə keçmək" },
+      { "C": "Sətiri bitirmək" },
+      { "D": "Boşluqları silmək" },
+      { "E": "Vergül əlavə etmək" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda s.lower() metodu nə üçün istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Daxilindəki simvolları kiçik hərf edər" },
+      { "B": "Böyük hərfə çevirir" },
+      { "C": "Boşluqları silir" },
+      { "D": "Rəqəmləri çıxarır" },
+      { "E": "Mətnin sonuna simvol əlavə edir" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi necə olacaq?\nstring.split(ayırıcı, hissələrin maksimum sayı)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Listə çevirir" },
+      { "B": "Mətnin ölçüsünü qaytarır" },
+      { "C": "Simvol sayını artırır" },
+      { "D": "Mətnə rəqəm əlavə edir" },
+      { "E": "Sətirləri birləşdirir" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı Pythonda funksiyadır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "def, pass" },
+      { "B": "int, float" },
+      { "C": "while, if" },
+      { "D": "print, input" },
+      { "E": "for, elif" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "round(x,n) nəticəsi nəyi verir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yuvarlaqlaşdırır" },
+      { "B": "Mətnə çevirir" },
+      { "C": "Simvol əlavə edir" },
+      { "D": "Kökə salır" },
+      { "E": "Tam hissəsini silir" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "pow(x,n) nəticəsi nəyi verir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Qüvvətə yüksəldir" },
+      { "B": "Kəsirə çevirir" },
+      { "C": "Tam hissəni silir" },
+      { "D": "Əlavə simvol verir" },
+      { "E": "Simvol sayını verir" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "abs(x) nəticəsi nəyi verir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Mütləq qiyməti tapır" },
+      { "B": "Rəqəmi kvadrata alır" },
+      { "C": "Kök altına salır" },
+      { "D": "Rəqəmi mənfi edir" },
+      { "E": "Yalnız tam hissəni verir" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "sqrt(x) nəticəsi nəyi verir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Kök altına salır" },
+      { "B": "Qüvvətə alır" },
+      { "C": "Ədədi silir" },
+      { "D": "Mətnə çevirir" },
+      { "E": "Ədədi mənfi edir" }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "a = \"Hello, World!\"\nprint(len(a)) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "13" },
+      { "B": "12" },
+      { "C": "14" },
+      { "D": "11" },
+      { "E": "15" }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "a = \"Car,Bus,Tube\"\nprint(len(a)) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "12" },
+      { "B": "11" },
+      { "C": "13" },
+      { "D": "14" },
+      { "E": "10" }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "cumle = \"Python programlaşdırma dili\"\nprint(len(cumle)) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "27" },
+      { "B": "25" },
+      { "C": "28" },
+      { "D": "29" },
+      { "E": "26" }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da String nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "String Python-da simvollar ardıcıllığını təmsil edən məlumat strukturudur" },
+      { "B": "String yalnız ədədi məlumat saxlayır" },
+      { "C": "String dəyişkənlərin tipini dəyişir" },
+      { "D": "String faylları açmaq üçün istifadə olunur" },
+      { "E": "String şərti operatorların növüdür" }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "email = \"ornek@email.com\"\nprint(len(email)) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "15" },
+      { "B": "14" },
+      { "C": "16" },
+      { "D": "13" },
+      { "E": "17" }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "isimler = \"Ali, Veli, Ayşe, Fatma\"\nprint(len(isimler)) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "22" },
+      { "B": "20" },
+      { "C": "21" },
+      { "D": "23" },
+      { "E": "19" }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "txt = \"The best things in life are free!\"\nprint(\"free\" in txt) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "free" }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "txt = \"Python dili\"\nprint(\"y\" in txt) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "Y" },
+      { "D": "None" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "txt = \"Python dili məşhurdur.\"\nprint(\"Python dili\" not in txt) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "Python dili" },
+      { "D": "Error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Stringlər arasında tək və cüt tırnaqlar arasında fərq varmı?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Python'da tək və cüt tırnaqlar arasında funksional olaraq fərq yoxdur" },
+      { "B": "Tək tırnaq yalnız simvollarda işlənir" },
+      { "C": "Cüt tırnaq yalnız rəqəmlərdə işlənir" },
+      { "D": "Tək tırnaq dəyişənləri təyin edir" },
+      { "E": "Cüt tırnaq yalnız listlərə aiddir" }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "s1 = \"Python\"\ns2 = \"programlaşdırma\"\na = s1 + \" \" + s2\nprint(a) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Python proqramlaşdırma" },
+      { "B": "Pythonprogramlaşdırma" },
+      { "C": "Python, proqramlaşdırma" },
+      { "D": "s1s2" },
+      { "E": "Python+programlaşdırma" }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "s = \"Python\"\nters_string = s[::-1]\nprint(tərs_string) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "nohtyP" },
+      { "B": "PYTHON" },
+      { "C": "Python" },
+      { "D": "nothyP" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "s = \"Python\"\nbuyuk_harf = s.upper()\nprint(buyuk_harf) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "PYTHON" },
+      { "B": "python" },
+      { "C": "PyThOn" },
+      { "D": "Python" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bir stringin uzunluğunu necə tapa bilərsiniz?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len () funksiyası" },
+      { "B": "count () funksiyası" },
+      { "C": "size () funksiyası" },
+      { "D": "measure () funksiyası" },
+      { "E": "length () funksiyası" }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python'da bir stringin dəyişdirilə bilinən bir növ olduğu haqqında ifadə doğrudur/yalnışdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Doğrudur" },
+      { "B": "Yanlışdır" },
+      { "C": "Qismən doğrudur" },
+      { "D": "Həmişə doğrudur" },
+      { "E": "Bu, Python versiyasından asılıdır" }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İki stringi birləşdirmək üçün hansı operator istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+ operatoru: s1 + s2" },
+      { "B": "* operatoru: s1 * s2" },
+      { "C": "& operatoru: s1 & s2" },
+      { "D": "concat(s1, s2)" },
+      { "E": "append(s1, s2)" }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lower() metodu Pythonda nə edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "bütün simvolları kiçik hərfə çevirir" },
+      { "B": "bütün simvolları böyük hərfə çevirir" },
+      { "C": "yalnız ilk hərfi dəyişir" },
+      { "D": "boşluqları silir" },
+      { "E": "əks simvollara çevirir" }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bir stringin bütün hərflərini böyük hərflərə çevirmək üçün hansı metod istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "upper () metodu: s.upper()" },
+      { "B": "lower () metodu: s.lower()" },
+      { "C": "capitalize () metodu" },
+      { "D": "reverse () metodu" },
+      { "E": "convert () metodu" }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python'da bir string necə təyin edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str() funksiyası ilə: s = str(\"Məsələn\")" },
+      { "B": "int() funksiyası ilə" },
+      { "C": "float() funksiyası ilə" },
+      { "D": "def() funksiyası ilə" },
+      { "E": "list() funksiyası ilə" }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da bir sətrin ilk hərfini böyük hərflə yazmaq üçün hansı metoddan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "capitalize()" },
+      { "B": "upper()" },
+      { "C": "title()" },
+      { "D": "firstUpper()" },
+      { "E": "cap()" }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı metodlardan hansı Python-da sətir uzunluğunu qaytarır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len()" },
+      { "B": "count()" },
+      { "C": "split()" },
+      { "D": "range()" },
+      { "E": "index()" }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İki və ya daha çox stringi birləşdirmək üçün hansı əməliyyatı istifadə edərsiniz?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "concat() funksiyası ilə: concat(s1, s2)" },
+      { "B": "split()" },
+      { "C": "upper()" },
+      { "D": "append()" },
+      { "E": "replace()" }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "strip() metodu Pythonda nə edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "başlanğıc və son boşluqları aradan qaldırır" },
+      { "B": "stringi bölür" },
+      { "C": "bütün hərfləri kiçildər" },
+      { "D": "sətiri təkrar edir" },
+      { "E": "stringi tam silir" }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "txt = \"The best things in life are free!\"\nif \"free\" in txt:\n  print(\"Yes, 'free' is present.\")\nnəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, 'free' is present." },
+      { "B": "False" },
+      { "C": "Error" },
+      { "D": "Nothing prints" },
+      { "E": "free" }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "s1 = \"Leyla\"\ns2 = \"Nagiyeva\"\nbirlesik = s1 + \" \" + s2\nprint(birlesik) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Leyla Nagiyeva" },
+      { "B": "LeylaNagiyeva" },
+      { "C": "s1s2" },
+      { "D": "Nagiyeva Leyla" },
+      { "E": "Leyla + Nagiyeva" }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bir set-də elementi əlavə etmək üçün hansı metoddan istifadə edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "set.add(element)" },
+      { "B": "set.insert(element)" },
+      { "C": "set.append(element)" },
+      { "D": "set.push(element)" },
+      { "E": "set.include(element)" }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bir set-dəki bütün elementləri silmək üçün hansı metoddan istifadə edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "set.clear()" },
+      { "B": "set.removeAll()" },
+      { "C": "set.delete()" },
+      { "D": "set.empty()" },
+      { "E": "set.erase()" }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bir set-dən element silmək üçün hansı metod istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "set.remove(element)" },
+      { "B": "set.pop(element)" },
+      { "C": "set.delete(element)" },
+      { "D": "set.discardAll()" },
+      { "E": "set.extract()" }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İki set arasında birləşməni ənənəvi yolla tapmaq üçün hansı metoddan istifadə edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "set1.union(set2)" },
+      { "B": "set1.merge(set2)" },
+      { "C": "set1.combine(set2)" },
+      { "D": "set1.join(set2)" },
+      { "E": "set1.mix(set2)" }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bir set-də bütün elementləri bir list-ə çevirmək üçün hansı metod istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "list(set)" },
+      { "B": "set.toList()" },
+      { "C": "convert(set)" },
+      { "D": "set.asList()" },
+      { "E": "tolist(set)" }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bir set-də müəyyən bir elementin sayını tapmaq üçün hansı funksiya istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "set.count(element)" },
+      { "B": "set.len(element)" },
+      { "C": "set.find(element)" },
+      { "D": "set.match(element)" },
+      { "E": "set.check(element)" }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İki set arasında müvafiq elementləri əhatə edən yeni bir set yaratmaq üçün hansı əməliyyat istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "set1 & set2" },
+      { "B": "set1 && set2" },
+      { "C": "set1.intersect(set2)" },
+      { "D": "set1.inter(set2)" },
+      { "E": "set1.common(set2)" }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "my_set = {10,20,30,40,50}\nresult = len(my_set)\nprint(result) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "4" },
+      { "C": "6" },
+      { "D": "50" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "set_a = {1,2,3,4,5}\nset_b = {3,4,5,6,7}\nresult = set_a.intersection(set_b)\nprint(result) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{3, 4, 5}" },
+      { "B": "{1, 2}" },
+      { "C": "{6, 7}" },
+      { "D": "{1, 3, 5}" },
+      { "E": "{2, 4}" }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "my_set = {10,20,30,40,50}\nresult = max(my_set)\nprint(result) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "50" },
+      { "B": "10" },
+      { "C": "60" },
+      { "D": "40" },
+      { "E": "30" }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "my_set = {10,20,30,40,50}\nresult = min(my_set)\nprint(result) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10" },
+      { "B": "50" },
+      { "C": "0" },
+      { "D": "20" },
+      { "E": "30" }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "my_set = {1,2,3,4,5}\nresult = len(my_set)\nprint(result) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "4" },
+      { "C": "6" },
+      { "D": "3" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "my_set = {1,2,3,4,5}\nelements_to_remove = {3,4}\nmy_set = elements_to_remove\nprint(my_set) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{3, 4}" },
+      { "B": "{1, 2, 5}" },
+      { "C": "{1, 3, 4}" },
+      { "D": "{2, 3, 5}" },
+      { "E": "{1, 2, 3, 4, 5}" }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "my_set = {1,2,3,4,5}\nelements_to_remove = {1,2}\nmy_set = elements_to_remove\nprint(my_set) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{1, 2}" },
+      { "B": "{3, 4, 5}" },
+      { "C": "{1, 2, 3}" },
+      { "D": "{2, 3, 4}" },
+      { "E": "{1, 2, 4}" }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "my_set = {10,20,5,40,60}\nresult = max(my_set)\nprint(result) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "60" },
+      { "B": "40" },
+      { "C": "10" },
+      { "D": "50" },
+      { "E": "20" }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "my_set = {100,250,30,45,50}\nresult = min(my_set)\nprint(result) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "30" },
+      { "B": "45" },
+      { "C": "100" },
+      { "D": "250" },
+      { "E": "50" }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "sets = {5,6,7,8,8}\nprint(sets) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{5, 6, 7, 8}" },
+      { "B": "{5, 6, 7, 8, 8}" },
+      { "C": "{8, 8, 6, 7}" },
+      { "D": "{5, 5, 6, 7, 8}" },
+      { "E": "{6, 7, 8}" }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "sets = {8, 9, 10}\nsets.update([5, 6, 7])\nprint(sets) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{5, 6, 7, 8, 9, 10}" },
+      { "B": "{8, 9, 10}" },
+      { "C": "{5, 6, 7}" },
+      { "D": "{10, 9, 8, 7, 6, 5}" },
+      { "E": "{5, 6, 7, 8}" }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "set1 = {1, 2, 3}\nset2 = set1.add(4)\nprint(set2) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Heç biri" },
+      { "B": "{1, 2, 3, 4}" },
+      { "C": "{1, 2, 3}" },
+      { "D": "4" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "A = {0, 2, 4, 6, 8}; B = {1, 2, 3, 4, 5};\nprint(A | B) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{0, 1, 2, 3, 4, 5, 6, 8}" },
+      { "B": "{0, 2, 4, 6, 8}" },
+      { "C": "{1, 3, 5}" },
+      { "D": "{2, 4}" },
+      { "E": "{}" }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "A = {0, 2, 4, 6, 8}; B = {1, 2, 3, 4, 5};\nprint(A & B) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{2, 4}" },
+      { "B": "{0, 2, 4, 6, 8}" },
+      { "C": "{1, 3, 5}" },
+      { "D": "{0, 6, 8}" },
+      { "E": "{}" }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "A = {0, 2, 4, 6, 8}; B = {1, 2, 3, 4, 5};\nprint(A - B) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{0, 6, 8}" },
+      { "B": "{2, 4}" },
+      { "C": "{1, 3, 5}" },
+      { "D": "{}" },
+      { "E": "{0, 2, 4}" }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "A = {0, 2, 4, 6, 8}; B = {1, 2, 3, 4, 5};\nprint(A ^ B) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{0, 1, 3, 5, 6, 8}" },
+      { "B": "{2, 4}" },
+      { "C": "{0, 2, 4, 6, 8}" },
+      { "D": "{}" },
+      { "E": "{1, 2, 3, 4, 5}" }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "set1 = set([1, 2, 4, 4, 3, 3, 3, 6, 5])\nprint(set1) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{1, 2, 3, 4, 5, 6}" },
+      { "B": "{1, 2, 4, 6, 5}" },
+      { "C": "{3, 4, 5, 6}" },
+      { "D": "{1, 2, 3, 4, 4, 5, 6}" },
+      { "E": "{2, 3, 4, 5}" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "set1 = set([4, 5, (6, 7)])\nset1.update([10, 11])\nprint(set1) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{4, 5, (6, 7), 10, 11}" },
+      { "B": "{4, 5, 6, 7, 10, 11}" },
+      { "C": "{(6, 7), 10, 11}" },
+      { "D": "{4, 5, 10}" },
+      { "E": "{6, 7, 10, 11}" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "nameList = ['Harsh', 'Pratik', 'Bob', 'Dhruv']\nprint(nameList[1][-1]) nəticəsi nə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "k" },
+      { "B": "i" },
+      { "C": "r" },
+      { "D": "P" },
+      { "E": "b" }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində siyahı yaratmaq üçün hansı açar sözdən istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "List()" },
+      { "B": "Array()" },
+      { "C": "list[]" },
+      { "D": "tuple()" },
+      { "E": "{}" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı siyahı əməliyyatının çıxışı nədir?\n       sampleList = [10, 20, 30, 40, 50]\n        print(sampleList[-2])\n        print(sampleList[-4:-1])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[20, 30, 40]" },
+      { "B": "[10, 20, 30]" },
+      { "C": "[20, 30]" },
+      { "D": "[10, 20, 30]" },
+      { "E": "[30, 40, 50]" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kodun çıxışı nədir?\n    my_list = [\"Salam\", \"Python\"]\n    print(\"-\".join(my_list))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Salam-Python" },
+      { "B": "Salam Python" },
+      { "C": "Salam_Python" },
+      { "D": "SalamPython" },
+      { "E": "Python-Salam" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. k = [1, 2, 3, 85, -42, 33, 84], print(k.index(85))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "4" },
+      { "D": "5" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kodun çıxışı nədir?\nlist1 = ['xyz', 'zara', 'PYnative']\nprint (max(list1))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "zara" },
+      { "B": "xyz" },
+      { "C": "PYnative" },
+      { "D": "Zara" },
+      { "E": "native" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. k = [\"5\",\"Elvin\",\"Ramin\",\"1\",\"Hesen\",\"99\"], print(k.index(\"Ramin\"))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı sihahıya yeni element əlavə etmək üçündür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "append()" },
+      { "B": "insert()" },
+      { "C": "add()" },
+      { "D": "extend()" },
+      { "E": "update()" }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "liste=[\"İtalya\", \"Fransa\", \"Türkiye”,”Almanya”] siyahısı verilmişdir. Print(len(liste)) nəticəsi necə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "5" },
+      { "C": "3" },
+      { "D": "2" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": ">>>thislist=[\"apple\", \"banana\", \"cherry\"] >>>thislist.insert(1, \"orange\")>>>print(thislist) proqramının nəticəsi necə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "['apple', 'orange', 'banana', 'cherry']" },
+      { "B": "['apple', 'banana', 'orange', 'cherry']" },
+      { "C": "['orange', 'apple', 'banana', 'cherry']" },
+      { "D": "['apple', 'banana', 'cherry', 'orange']" },
+      { "E": "['orange', 'banana', 'cherry']" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "List.insert() funsiyasının təyinatı nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Siyahıya element əlavə edir" },
+      { "B": "Elementi siyahıdan silir" },
+      { "C": "Siyahını sıralayır" },
+      { "D": "Yeni siyahı yaradır" },
+      { "E": "Siyahını birləşdirir" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. list1=[\"h\", \"e\", \"l\", \"l\", \"o\"], print(list1)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[\"h\", \"e\", \"l\", \"l\", \"o\"]" },
+      { "B": "[\"h\", \"e\", \"l\", \"o\"]" },
+      { "C": "[\"h\", \"l\", \"l\", \"o\"]" },
+      { "D": "[\"h\", \"e\", \"l\", \"l\"]" },
+      { "E": "[\"e\", \"l\", \"l\", \"o\"]" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. list1=[2,33,222,14,25], print(list1[-1])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "25" },
+      { "B": "14" },
+      { "C": "222" },
+      { "D": "2" },
+      { "E": "33" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. list1=[2,33,222,14,25], print(list1[:-1])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[2,33,222,14]" },
+      { "B": "[2,33,222]" },
+      { "C": "[33,222,14]" },
+      { "D": "[2,33]" },
+      { "E": "[33,222,14,25]" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. a = [23,22,\"Amin\",\"32\", \"114\", \"227\"], a.append(34), print(a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[23,22, \"Amin\",\"32\", \"114\", \"227\",34]" },
+      { "B": "[23,22,34, \"Amin\",\"32\", \"114\", \"227\"]" },
+      { "C": "[23,22, \"Amin\",\"32\", 34, \"114\", \"227\"]" },
+      { "D": "[23,22, \"Amin\",\"32\", \"114\", 34, \"227\"]" },
+      { "E": "[34,23,22, \"Amin\",\"32\", \"114\", \"227\"]" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. a = [23,22,\"Amin\",\"32\", \"114\", \"227\"], a.append(\"Gulcin\"), print(a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[23,22, \"Amin\",\"32\", \"114\", \"227\",\"Gulcin\"]" },
+      { "B": "[\"Gulcin\",23,22, \"Amin\",\"32\", \"114\", \"227\"]" },
+      { "C": "[23,22, \"Amin\",\"32\", \"114\",\"Gulcin\", \"227\"]" },
+      { "D": "[23,22, \"Amin\",\"Gulcin\", \"32\", \"114\", \"227\"]" },
+      { "E": "[23,22, \"Gulcin\",\"Amin\", \"32\", \"114\", \"227\"]" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. a = [32,22,\"Amin\",\"32\", \"114\", \"227\"], print(a.count(32))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "0" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. a = [23,22,\"Amin\",\"32\", \"114\", \"227\",\"Amin\",\"Amin\"], print(a.count(\"Amin\"))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "1" },
+      { "D": "4" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin. k = [\"Amin\",\"Elvin\",\"Ramin\",\"Amin\",\"Hesen\",\"Za ur\"], print(k.index(\"Amin\"))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "ALPLogo-ilkinvəziyyət, Python…..",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Turtle.reset" },
+      { "B": "Turtle.start" },
+      { "C": "Turtle.clear" },
+      { "D": "Turtle.refresh" },
+      { "E": "Turtle.begin" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "A//B…..",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A-nın B-yə tam ədədi bölünməsi" },
+      { "B": "A-nın B-yə qalıqlı bölünməsi" },
+      { "C": "A ilə B-nin cəmi" },
+      { "D": "A-nın B-yə tam vurulması" },
+      { "E": "A-nın B-yə çıxılması" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin.\nList1 = [1, 2, 3, 4, 5] \nList2 = list1 \nList2[0] = 0; \nPrint( list1)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[0, 2, 3, 4, 5]" },
+      { "B": "[1, 2, 3, 4, 5]" },
+      { "C": "[0, 1, 2, 3, 4]" },
+      { "D": "[2, 3, 4, 5, 6]" },
+      { "E": "[0, 1, 3, 4, 5]" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin.\nList = [1, 2, 3, None, (1, 2, 3, 4, 5), [‘Geeks’, ‘for’, ‘Geeks’]] \nPrint(len(list))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "5" },
+      { "C": "7" },
+      { "D": "4" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramı icra edin\nList1 = [‘physics’, ‘chemistry’, 1997, 2000] \nPrint (list1[1][-1])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y" },
+      { "B": "s" },
+      { "C": "c" },
+      { "D": "r" },
+      { "E": "t" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python  da neçə data tipi var?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "5" },
+      { "C": "3" },
+      { "D": "6" },
+      { "E": "7" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıda verilənlərdən hansı Pythonda data tipi deyil?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Getter" },
+      { "B": "String" },
+      { "C": "Boolean" },
+      { "D": "Integer" },
+      { "E": "Float" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kodun nəticəsi nədir?\nThistuple = (“apple”, “banana”, “cherry”)\nPrint(thistuple)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "’apple’,‘banana’,‘cherry’" },
+      { "B": "['apple', 'banana', 'cherry']" },
+      { "C": "apple banana cherry" },
+      { "D": "“apple” “banana” “cherry”" },
+      { "E": "('apple', 'banana', 'cherry')" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python tupledə element indeksi neçədən başlayır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "Heç biri" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python tuplenin uzunluğu nə ilə müəyyən edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len()" },
+      { "B": "count()" },
+      { "C": "length()" },
+      { "D": "size()" },
+      { "E": "sum()" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python  da neçə data tipi var?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "6" },
+      { "C": "5" },
+      { "D": "7" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıda verilənlərdən hansı Pythonda data tipi deyil?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Getter" },
+      { "B": "String" },
+      { "C": "Float" },
+      { "D": "Boolean" },
+      { "E": "Integer" }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kodun nəticəsi nədir?\nThistuple = (“apple”, “banana”, “cherry”)\nPrint(thistuple)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "’apple’,‘banana’,‘cherry’" },
+      { "B": "['apple', 'banana', 'cherry']" },
+      { "C": "“apple”, “banana”, “cherry”" },
+      { "D": "(apple, banana, cherry)" },
+      { "E": "apple banana cherry" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python tupledə element indeksi neçədən başlayır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "Heç biri" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python tuplenin uzunluğu nə ilə müəyyən edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len()" },
+      { "B": "size()" },
+      { "C": "length()" },
+      { "D": "count()" },
+      { "E": "total()" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kodun icrası zamanı nəticə nə olar?\nThistuple = (“apple” , “banana”, “cherry”, “apple”)\nPrint(len(thistuple))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "3" },
+      { "C": "5" },
+      { "D": "2" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bir elementdən tuple yaratmaq üçün hansı işarədən istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "," },
+      { "B": ";" },
+      { "C": ":" },
+      { "D": "." },
+      { "E": "#" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python baxımından tuples necə müəyyən edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "<class ‘tuple’>" },
+      { "B": "<class ‘list’>" },
+      { "C": "type(tuple)" },
+      { "D": "<tuple>" },
+      { "E": "<class ‘dict’>" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tuple elementləri haqqında deyilənlərdən hansı doğrudur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "nizamlı, dəyişməz, dəyərin təkrarlanmasına icazə verir" },
+      { "B": "dəyişən, nizamsız, unikal dəyərlər saxlayır" },
+      { "C": "nizamsız, dəyişən, təkrarsız" },
+      { "D": "dəyişməz, nizamsız, təsadüfi" },
+      { "E": "dəyişən və təsadüfi məlumatlar saxlayır" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda  tupledən nə üçün istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dəyərləri bir siyahıda toplamaq üçün" },
+      { "B": "Elementləri tərsinə çevirmək üçün" },
+      { "C": "Funksiya çağırmaq üçün" },
+      { "D": "Çoxsaylı dəyişən yaratmaq üçün" },
+      { "E": "Modul daxil etmək üçün" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tuple haqqında deyilən fikirlərdən hansı doğrudur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün fikirlər doğrudur" },
+      { "B": "Heç biri doğru deyil" },
+      { "C": "Bəziləri yanlışdır" },
+      { "D": "Yalnız biri doğrudur" },
+      { "E": "Yalnız dəyişkəndir" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "List və tuple haqqında deyilən fikirlərdən hansılar doğrudur? 1. Hər ikisindən məlumatları toplamaq üçün istifadə edirlər, 2.Hər ikisi dəyişkəndir, 3.List dəyişkəndir, tuple isə dəyişmir, 4.List üzərində dəyişiklik edə bilmərik, 5.Tuple üzərində dəyişiklik edə bilmərik",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1.3.5" },
+      { "B": "2.3.4" },
+      { "C": "1.2.3" },
+      { "D": "3.4.5" },
+      { "E": "1.4.5" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ardıcıllığı tamamlayın: dictionary,set,list, ….",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Tuple" },
+      { "B": "Class" },
+      { "C": "Variable" },
+      { "D": "Function" },
+      { "E": "Loop" }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda hansı funksiya dəyərləri siyahı halında toplayır ?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Tuple" },
+      { "B": "Set" },
+      { "C": "Join" },
+      { "D": "List" },
+      { "E": "Append" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "List və tuple haqqında deyilən fikirlərdən hansılar yanlışdır?\n1. Hər ikisindən məlumatları toplamaq üçün istifadə edirlər\n2.Hər ikisi dəyişkəndir\n3.List dəyişkəndir, tuple isə dəyişmir\n4.List üzərində dəyişiklik edə bilmərik\n5.Tuple üzərində dəyişiklik edə bilmərik",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2,4" },
+      { "B": "1,2" },
+      { "C": "3,5" },
+      { "D": "2,3" },
+      { "E": "4,5" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tuple haqqında deyilən fikirlərdən hansı doğrudur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dəyərin təkrarlanmasına icazə verir" },
+      { "B": "Dəyişkəndir və təkrarsızdır" },
+      { "C": "Tək element saxlaya bilməz" },
+      { "D": "Elementlər təsadüfi sıralanır" },
+      { "E": "Dəyişməz və təkrarsız dəyərlər saxlayır" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kodun icrası zamanı nəticə nə olar?\nThistuple = (“apple” , “banana”, “cherry”, “apple”,”banana”,”cherry”)\nPrint(len(thistuple))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "3" },
+      { "C": "5" },
+      { "D": "4" },
+      { "E": "7" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tuple haqqında deyilən fikirdə hansı yanlışdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Nizamsız siyahı formasıdır" },
+      { "B": "Dəyərin təkrarlanmasına icazə verir" },
+      { "C": "Dəyişməz verilənlər strukturudur" },
+      { "D": "Elementləri indekslə seçmək olar" },
+      { "E": "Tuple sıralıdır və sabitdir" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kodun nəticəsi nədir?\nThistuple = (“apple”, “banana”, “cherry” ,”cherry”,”orange”)\nPrint(thistuple)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "‘apple’,’banana’, ‘cherry’ ,’cherry’,’orange’" },
+      { "B": "‘apple’,’banana’,’orange’,’cherry’" },
+      { "C": "(apple, banana, cherry, cherry, orange)" },
+      { "D": "‘apple’,’banana’,’cherry’" },
+      { "E": "‘banana’,’apple’,’cherry’" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı kodun icrası zamanı nəticə nə olar?\nThistuple = (“apple” )\nPrint(len(thistuple))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "5" },
+      { "D": "Error" },
+      { "E": "Heç biri" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində siyahının elementləri hansı simvolun içərisində yazılır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "MötərizəKvadrat mötərizə" },
+      { "B": "Adi mötərizə" },
+      { "C": "Cüt dırnaq" },
+      { "D": "Qıvrım mötərizə" },
+      { "E": "Slash" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Siyahının elementləri nömrələnməyə….",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0-dan başlayır" },
+      { "B": "1-dən başlayır" },
+      { "C": "-1-dən başlayır" },
+      { "D": "istənilən ədəddən başlayır" },
+      { "E": "tam təsadüfi verilir" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Siyahı elementlərinin sayını müəyyən etmək üçün hansı funksiyadan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Len (1st)" },
+      { "B": "Count()" },
+      { "C": "Sum()" },
+      { "D": "Max()" },
+      { "E": "Index()" }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "s st. Revers….",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Siyahı elementlərini tərs ardıcıllıqla düzür" },
+      { "B": "Elementləri sıralayır" },
+      { "C": "Yalnız ədədləri dəyişir" },
+      { "D": "Siyahını silir" },
+      { "E": "Məlumatları kəsir" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sətirlər əsasən hansı simvol içərisində yazılır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Tək dırnaq" },
+      { "B": "Cüt dırnaq" },
+      { "C": "Slash" },
+      { "D": "Mötərizə" },
+      { "E": "Nöqtə" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "10 % 3 olduqda cavab neçə olar? (% faiz işarəsi deyil)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "X <= 6 olduqda, 6-ya ən yaxın hansı qiymətləri ala bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5, 6" },
+      { "B": "6, 7" },
+      { "C": "4, 5" },
+      { "D": "0, 6" },
+      { "E": "7, 8" }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "a=13,b=4\nA % b-dən alınan cavabla, a \\ \\ b dən alınan cavabın hasili neçə edər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "4" },
+      { "D": "5" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində sətirlər…….. içində yazılır:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "‘ və “" },
+      { "B": "< və >" },
+      { "C": "( və )" },
+      { "D": "[ və ]" },
+      { "E": "` və `" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "H= Uğur F= Kursu ifadəsinə görə\n>>> print (H+F) hansı nəticəni verəcək?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "UğurKursu" },
+      { "B": "KursuUğur" },
+      { "C": "Uğur Kursu" },
+      { "D": "Uğur+Kursu" },
+      { "E": "Uğur-Kursu" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində somvolun nömrəsi sıfırdan nömrələnmə başladıqda 5-ci sətrin nömrəsi neçə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "5" },
+      { "C": "3" },
+      { "D": "6" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində sətir nömrələnməsi zamanı Masallı sözü “a” ilə qeyd edilmişdir. A-nın qiymətinin 4 olduğunu bildikdə >>>[0 : 4] olduqda cavab hansı olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Masal" },
+      { "B": "Mas" },
+      { "C": "Masalli" },
+      { "D": "Masalə" },
+      { "E": "sallı" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "S = 7, T = 12 olduqda >>> len(s+t) neçə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "19" },
+      { "B": "9" },
+      { "C": "17" },
+      { "D": "20" },
+      { "E": "21" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sətir tipli kəmiyyətlərdə imput 1986- nın nəticəsi aşağıdakılardan hansı olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "‘1986’" },
+      { "B": "1986" },
+      { "C": "\"1986\"" },
+      { "D": "'1', '9', '8', '6'" },
+      { "E": "[1986]" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": ">>> str (1960)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "‘1960’" },
+      { "B": "1960" },
+      { "C": "\"9601\"" },
+      { "D": "str(1960)" },
+      { "E": "‘9601’" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sətir……",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hərflərdən, ədədlərdən, başqa simvollardan və boşluqdan ibarət ola bilər" },
+      { "B": "Yalnız hərflərdən ibarətdir" },
+      { "C": "Yalnız ədədlərdən ibarətdir" },
+      { "D": "Yalnız simvollardan ibarətdir" },
+      { "E": "Boşluqsuz ardıcıllıqlardır" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Verilmiş sətirdə onun alt sətrini tapmaq üçün hansı metoddan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Find" },
+      { "B": "Slice" },
+      { "C": "Search" },
+      { "D": "IndexOf" },
+      { "E": "Get" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "informatika sözünü upper metodunu tətbiq etsək yazılışı necə olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İNFORMATİKA" },
+      { "B": "İnformatika" },
+      { "C": "informatika" },
+      { "D": "İNfORmATİKA" },
+      { "E": "İNFOmatikA" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "boşluq QLB  boşluq    veriləninə hansı metodu tətbiq etsək cavab, sol və sağ kənarlarında boşluq olmayan QLB olar?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Strip" },
+      { "B": "Trim" },
+      { "C": "Replace" },
+      { "D": "Cut" },
+      { "E": "Split" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": ">>> tag = [200, 135, 50, 15]\n>>> sum (tag) veriləninin cavabı aşağıdakılardan hansı olacaq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "400" },
+      { "B": "300" },
+      { "C": "385" },
+      { "D": "450" },
+      { "E": "320" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": ">>> text= [ 8, 12, 47, -36, 86 ]\n>>> min (text) olduqda cavab hansı olar?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-36" },
+      { "B": "8" },
+      { "C": "86" },
+      { "D": "12" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "A—uğur, B- kursları…\n>>> c=a+b\n>>> print",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Uğur kursları" },
+      { "B": "kursları uğur" },
+      { "C": "a + b" },
+      { "D": "Uğurkursları" },
+      { "E": "print(a b)" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Altproqram neçə kateqoriyaya bölünür və hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2- Prosedurlar və tətbiqlər" },
+      { "B": "3- Funksiya, sinif, modul" },
+      { "C": "2- Mənbələr və nəticələr" },
+      { "D": "1- Alt funksiyalar" },
+      { "E": "4- Analiz, təyin, çağırış, istifadə" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Funksiya….",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Müəyyən qiyməti hesablayır və həmin qiyməti onu çağıran proqrama (altproqrama) qaytarır" },
+      { "B": "Verilənləri çap edir" },
+      { "C": "Dəyərləri saxlayır" },
+      { "D": "Siyahıdan element silir" },
+      { "E": "Proqramı dayandırır" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sətri ədədə çevirir:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int" },
+      { "B": "str" },
+      { "C": "float" },
+      { "D": "bool" },
+      { "E": "chr" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fəaliyyət bölümündə verilmiş hansı 4 funksiyadan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "abs, int, imput, print" },
+      { "B": "def, return, str, input" },
+      { "C": "int, str, bool, map" },
+      { "D": "abs, len, append, input" },
+      { "E": "sum, open, print, try" }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Yeni funksiyanın təyini hansı açar söz ilə başlayır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "def" },
+      { "B": "function" },
+      { "C": "fun" },
+      { "D": "new" },
+      { "E": "define" }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Prosedur…",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hər hansı operator ardıcıllığını yerinı yetirir" },
+      { "B": "Qiymət qaytarır" },
+      { "C": "Sadəcə çap əməliyyatı yerinə yetirir" },
+      { "D": "İstifadəçi ilə əlaqə yaradır" },
+      { "E": "Yaddaşda obyekt yaradır" }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı plan və ya şablonu təmsil edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Class" },
+      { "B": "Module" },
+      { "C": "Object" },
+      { "D": "Function" },
+      { "E": "Tuple" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakı ifadələrdən hansı doğrudur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Abstrakt sinif nümunəsi yaradıla bilməz." },
+      { "B": "Abstrakt sinif birbaşa istifadə olunur." },
+      { "C": "Abstrakt sinifdə heç bir metod yoxdur." },
+      { "D": "Abstrakt sinif digər siniflərdən törəmir." },
+      { "E": "Abstrakt siniflər yalnız C++ dilində olur." }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sinfi müəyyən etmək üçün hansı açar sözdən istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Class" },
+      { "B": "def" },
+      { "C": "struct" },
+      { "D": "type" },
+      { "E": "object" }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Z**Y……..",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Qüvvətə yüksəltmək" },
+      { "B": "Bölmək" },
+      { "C": "Qalıq tapmaq" },
+      { "D": "Toplamaq" },
+      { "E": "Məntiqi müqayisə etmək" }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python proqramında fərqlidir işarəsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "!=" },
+      { "B": "==" },
+      { "C": "<>" },
+      { "D": "~=" },
+      { "E": "=!" }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da class nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Obyektlərin yaradılması üçün plan" },
+      { "B": "Dəyişənin tipi" },
+      { "C": "Yaddaş sahəsi" },
+      { "D": "Faylın adı" },
+      { "E": "Funksiya toplusu" }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da obyekt nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sinif nümunəsi" },
+      { "B": "Yeni fayl" },
+      { "C": "Dəyişən tipi" },
+      { "D": "Metod çağırışı" },
+      { "E": "Sətir dəyəri" }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İki dəyişənin bərabər olub olmadığını yoxlamaq istənilərsə?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x == y" },
+      { "B": "x = y" },
+      { "C": "x != y" },
+      { "D": "x >= y" },
+      { "E": "x === y" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da çox sətirli şərh üçün düzgün sintaksis nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"\"\"şərh" },
+      { "B": "// şərh" },
+      { "C": "# şərh" },
+      { "D": "/* şərh */" },
+      { "E": "'şərh" }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da bir simli kiçik hərfə necə çevirmək olar?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str.lower()" },
+      { "B": "str.upper()" },
+      { "C": "str.capitalize()" },
+      { "D": "str.title()" },
+      { "E": "lowercase(str)" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da modul (%) operatorunun məqsədi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "bölmədə qalıq" },
+      { "B": "tam bölmə" },
+      { "C": "qüvvətə yüksəltmə" },
+      { "D": "bölmə" },
+      { "E": "sətir birləşdirmə" }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da döngədən vaxtından əvvəl çıxmaq üçün hansı açar söz istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "break" },
+      { "B": "exit" },
+      { "C": "stop" },
+      { "D": "end" },
+      { "E": "return" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda 2 ** 3 nəticəsi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "6" },
+      { "C": "9" },
+      { "D": "5" },
+      { "E": "23" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da dəyişən növünü necə yoxlayırsınız?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "type()" },
+      { "B": "check()" },
+      { "C": "isinstance()" },
+      { "D": "typeof()" },
+      { "E": "var()" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da append() metodunun məqsədi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "siyahıya element əlavə edin" },
+      { "B": "siyahıdan element silin" },
+      { "C": "siyahını sıralayın" },
+      { "D": "siyahını təmizləyin" },
+      { "E": "elementləri dəyişin" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Continue operator Pythonda bir döngədə nə edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "döngədəki kodun qalan hissəsini atlayır" },
+      { "B": "döngəni dayandırır" },
+      { "C": "döngəyə bir element əlavə edir" },
+      { "D": "döngəni yenidən başladır" },
+      { "E": "şərti dəyişir" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da siyahıdan son elementi necə silə bilərəm?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "list.pop()" },
+      { "B": "list.remove()" },
+      { "C": "del list[0]" },
+      { "D": "list.clear()" },
+      { "E": "list.delete()" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da strip() metodunun məqsədi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "başlanğıc və son boşluqları sətirdən çıxarın" },
+      { "B": "sətiri bölmək" },
+      { "C": "sətirdəki hərfləri dəyişmək" },
+      { "D": "boşluq əlavə etmək" },
+      { "E": "sətiri başa çevirmək" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da sətir uzunluğunu necə yoxlayırsınız?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len()" },
+      { "B": "size()" },
+      { "C": "length()" },
+      { "D": "count()" },
+      { "E": "measure()" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da qüvvətə yüksəltmək üçün hansı operatordan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "**" },
+      { "B": "^" },
+      { "C": "//" },
+      { "D": "*" },
+      { "E": "&" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da bir ədədin cüt ədəd olub olmadığını necə yoxlayırsınız?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Number%2==0" },
+      { "B": "Number/2==0" },
+      { "C": "Number==2" },
+      { "D": "Number%3==0" },
+      { "E": "Number==0" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da sorted() funksiyasının məqsədi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Siyahı və ya tuple sıralayır" },
+      { "B": "Element silir" },
+      { "C": "Element əlavə edir" },
+      { "D": "Dəyişəni təyin edir" },
+      { "E": "Boşluqları çıxarır" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da map() funksiyasının məqsədi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "iterable hər bir element üçün funksiyası tətbiq" },
+      { "B": "bütün elementləri silmək" },
+      { "C": "siyahı tərs çevirmək" },
+      { "D": "faylı oxumaq" },
+      { "E": "sətiri ayırmaq" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python açdıqdan sonra faylı necə bağlamaq olar?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "file.close()" },
+      { "B": "file.end()" },
+      { "C": "file.exit()" },
+      { "D": "file.stop()" },
+      { "E": "close.file()" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda elif açar sözünün məqsədi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"else if\" təmsil edir və çoxlu şərt üçün istifadə olunur" },
+      { "B": "şərtləri yox sayır" },
+      { "C": "yalnız döngələrdə istifadə olunur" },
+      { "D": "çıxış üçün istifadə olunur" },
+      { "E": "dəyişəni silir" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da eksponent operator nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "**" },
+      { "B": "//" },
+      { "C": "%%" },
+      { "D": "^^" },
+      { "E": "exp()" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da tam bölmə üçün hansı operatordan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "//" },
+      { "B": "/" },
+      { "C": "%" },
+      { "D": "**" },
+      { "E": "*" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da % operatoru nə edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "modul üzrə hesablama (qalıq)" },
+      { "B": "toplama" },
+      { "C": "çıxma" },
+      { "D": "bölmə" },
+      { "E": "string birləşdirmə" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda iki dəyər bərabər deyilsə, necə müqayisə edirsiniz?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "!=" },
+      { "B": "==" },
+      { "C": "<>" },
+      { "D": "=!" },
+      { "E": "!===" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Nəticə nədir 5 + 3 * 2 Pythonda?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "11" },
+      { "B": "16" },
+      { "C": "13" },
+      { "D": "10" },
+      { "E": "8" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da sətirləri birləşdirmək üçün hansı operatordan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+" },
+      { "B": "*" },
+      { "C": "&" },
+      { "D": "%" },
+      { "E": "concat()" }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da 10/3 nəticə nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3.33" },
+      { "B": "3" },
+      { "C": "0.3" },
+      { "D": "30" },
+      { "E": "13" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda 5 ** 2 nəticəsi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "25" },
+      { "B": "10" },
+      { "C": "32" },
+      { "D": "7" },
+      { "E": "52" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da daha böyük və ya bərabər bir dəyər üçün hansı operator istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ">=" },
+      { "B": "=>" },
+      { "C": ">>=" },
+      { "D": "=<" },
+      { "E": "<=" }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da // operatoru nə edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "tam bölmə" },
+      { "B": "qalıqlı bölmə" },
+      { "C": "qüvvətə yüksəltmə" },
+      { "D": "dəyişən təyini" },
+      { "E": "sətir birləşdirmə" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da 15% 4 nəticəsi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "1" },
+      { "C": "4" },
+      { "D": "0" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python-da 12/5 nəticə nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2.4" },
+      { "B": "2" },
+      { "C": "2.5" },
+      { "D": "3" },
+      { "E": "2.0" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda şərhlər hansı işarəsi vasitəsi ilə yaradılır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "#" },
+      { "B": "//" },
+      { "C": "/* */" },
+      { "D": "$" },
+      { "E": "--" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı Python proqramlaşdırma dilində tip deyil?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "def" },
+      { "B": "str" },
+      { "C": "int" },
+      { "D": "float" },
+      { "E": "list" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı Python proqramlaşdırma dilində tip deyil?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "if" },
+      { "B": "tuple" },
+      { "C": "dict" },
+      { "D": "set" },
+      { "E": "bool" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı Python proqramlaşdırma dilində tip deyil?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "while" },
+      { "B": "complex" },
+      { "C": "list" },
+      { "D": "int" },
+      { "E": "str" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Salam (\"Dünya\") - Python proqramlaşdırma dilində nəticə nəyi verəcək?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Salam Dünya" },
+      { "B": "Dünya Salam" },
+      { "C": "\"Salam Dünya\"" },
+      { "D": "Salam(Dünya)" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda kompleks ədədləri göstərən tip hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "complex" },
+      { "B": "float" },
+      { "C": "real" },
+      { "D": "imag" },
+      { "E": "comp" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda tam ədədləri göstərən tip hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int" },
+      { "B": "float" },
+      { "C": "bool" },
+      { "D": "str" },
+      { "E": "decimal" }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda doğru və yalnış dəyərləri göstərən tip hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "bool" },
+      { "B": "int" },
+      { "C": "str" },
+      { "D": "float" },
+      { "E": "binary" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 10 * 2 / 8 \n>>> int(a ** a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "9" },
+      { "B": "8" },
+      { "C": "16" },
+      { "D": "64" },
+      { "E": "256" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> int(5)\n>>> print(a**2+1)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "26" },
+      { "B": "25" },
+      { "C": "11" },
+      { "D": "24" },
+      { "E": "10" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda qüvvətə yüksəltmə operatoru hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "**" },
+      { "B": "^" },
+      { "C": "^^" },
+      { "D": "pow()" },
+      { "E": "//" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda tam bölmə operatoru hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "//" },
+      { "B": "/" },
+      { "C": "%" },
+      { "D": "**" },
+      { "E": "\\" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda qalıqlı bölmə operatoru hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "%" },
+      { "B": "//" },
+      { "C": "&" },
+      { "D": "mod()" },
+      { "E": "÷" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda bit əsaslı sağa sürüşdürmə və sola sürüşdürmə operatorları hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ">> <<" },
+      { "B": "<< >>" },
+      { "C": ">>> <<<" },
+      { "D": "^ &" },
+      { "E": "> <" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı Pythonda müqayisə operatoru hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "<=" },
+      { "B": "=>" },
+      { "C": "><" },
+      { "D": "!=" },
+      { "E": "==" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində dəyişənləri necə təyin edirik?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x = 10" },
+      { "B": "x := 10" },
+      { "C": "x == 10" },
+      { "D": "10 -> x" },
+      { "E": "let x = 10" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hansı operator bərabərliyi yoxlamaq üçün istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "==" },
+      { "B": "=" },
+      { "C": "!=" },
+      { "D": "===" },
+      { "E": ":=" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində şərh yazmaq üçün hansı simvol istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "#" },
+      { "B": "//" },
+      { "C": "/*" },
+      { "D": "--" },
+      { "E": "\\" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hansı funksiyanın köməyi ilə ekrana məlumat çıxarırıq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print()" },
+      { "B": "echo()" },
+      { "C": "log()" },
+      { "D": "output()" },
+      { "E": "show()" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində siyahılar (lists) necə təyin olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "list = [1, 2, 3]" },
+      { "B": "list = (1, 2, 3)" },
+      { "C": "list = {1, 2, 3}" },
+      { "D": "list = <1, 2, 3>" },
+      { "E": "list = '1, 2, 3'" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hangi funksiya verilmiş siyahının uzunluğunu qaytarır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len()" },
+      { "B": "size()" },
+      { "C": "count()" },
+      { "D": "length()" },
+      { "E": "measure()" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində dövriyyəni necə yazırıq?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "for i in range(10)" },
+      { "B": "loop i from 1 to 10" },
+      { "C": "repeat i = 10" },
+      { "D": "for(i=0; i<10; i++)" },
+      { "E": "while i < 10 do" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hansı Python verilənlər tipi dəyişməzdir (immutable)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Tuple" },
+      { "B": "List" },
+      { "C": "Set" },
+      { "D": "Dictionary" },
+      { "E": "Array" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində istisna (exception) necə idarə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "try/except" },
+      { "B": "if/error" },
+      { "C": "check/catch" },
+      { "D": "try/fail" },
+      { "E": "handle/catch" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində funksiyanı necə təyin edirik?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "def myFunction():" },
+      { "B": "function myFunction():" },
+      { "C": "func myFunction():" },
+      { "D": "define myFunction():" },
+      { "E": "function:myFunction()" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində dəyişən növünü necə öyrənirik?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "type(x)" },
+      { "B": "typeof(x)" },
+      { "C": "class(x)" },
+      { "D": "gettype(x)" },
+      { "E": "vartype(x)" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində tərs slayseri necə istifadə edirik?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "myList[::-1]" },
+      { "B": "reverse(myList)" },
+      { "C": "myList[reverse]" },
+      { "D": "myList[-1:0]" },
+      { "E": "myList[::-2]" }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində boş bir funksiyanı necə müəyyənləşdiririk?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "def myFunction(): pass" },
+      { "B": "def myFunction(): void" },
+      { "C": "myFunction = {}" },
+      { "D": "define myFunction(): skip" },
+      { "E": "function myFunction(): return" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində bir siyahıya element əlavə etmək üçün hansı metoddan istifadə edirik?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "append()" },
+      { "B": "add()" },
+      { "C": "insert()" },
+      { "D": "extend()" },
+      { "E": "push()" }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində qlobal dəyişəni necə təyin edirik?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "global x" },
+      { "B": "x = global" },
+      { "C": "x:global" },
+      { "D": "define global x" },
+      { "E": "x := global" }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində sözləri (string) birləşdirmək üçün hansı operator istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+" },
+      { "B": "*" },
+      { "C": "&" },
+      { "D": "." },
+      { "E": "~" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində obyektin metodlarını necə göstəririk?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "dir(object)" },
+      { "B": "methods(object)" },
+      { "C": "show(object)" },
+      { "D": "props(object)" },
+      { "E": "info(object)" }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində simvolların (string) uzunluğunu necə öyrənirik?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len()" },
+      { "B": "size()" },
+      { "C": "count()" },
+      { "D": "length()" },
+      { "E": "strlength()" }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində for dövrü ilə əlaqəli düzgün istifadə hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "for i in range(10):" },
+      { "B": "for (i = 0; i < 10; i++)" },
+      { "C": "while i < 10:" },
+      { "D": "loop i from 1 to 10" },
+      { "E": "repeat i < 10" }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində verilmiş sözün (string) kiçik hərflərə çevrilməsi üçün hansı metoddan istifadə edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "lower()" },
+      { "B": "downcase()" },
+      { "C": "small()" },
+      { "D": "tolower()" },
+      { "E": "lowercase()" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "X//Y…..",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "X-in Y-ə tam ədədi bölünməsi" },
+      { "B": "X-in Y-yə qalıqlı bölünməsi" },
+      { "C": "X-in Y-yə bölünməsi və yuvarlaqlaşdırılması" },
+      { "D": "X və Y-nin hasil olması" },
+      { "E": "X və Y-nin toplanması" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "X**Y……..",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Qüvvətə yüksəltmək" },
+      { "B": "Bölmə əməliyyatı" },
+      { "C": "Tam ədədi bölmə" },
+      { "D": "Modul hesablama" },
+      { "E": "Qalıq hesablama" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python proqramında fərqlidir işarəsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "!=" },
+      { "B": "==" },
+      { "C": "<=" },
+      { "D": ">=" },
+      { "E": "===" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sətirlər əsasən hansı simvol içərisində yazılır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Tək dırnaq" },
+      { "B": "Kvadrat mötərizə" },
+      { "C": "Qıvrım mötərizə" },
+      { "D": "Dırnaq və nöqtə" },
+      { "E": "Sürüşkən dırnaq" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sətir……",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hərflərdən, ədədlərdən, başqa simvollardan və boşluqdan ibarət ola bilər" },
+      { "B": "Yalnız ədədlərdən ibarətdir" },
+      { "C": "Yalnız boşluqlardan ibarətdir" },
+      { "D": "Sadəcə simvollardan ibarətdir" },
+      { "E": "Sətirdə yalnız hərf olmalıdır" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "a=\"uğur\", b= \"kursları\"\n>>> c=a+b\n>>> print(C)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Uğur kursları" },
+      { "B": "uğurkursları" },
+      { "C": "c" },
+      { "D": "uğur+kursları" },
+      { "E": "Uğur_kursları" }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı sətirin uzunluğunu bildirir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len" },
+      { "B": "count" },
+      { "C": "size" },
+      { "D": "length" },
+      { "E": "measure" }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ədədi sətirə çevirmək üçün…",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str" },
+      { "B": "int" },
+      { "C": "input" },
+      { "D": "convert" },
+      { "E": "strval" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Siyahı nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Nizamlı şəkildə saxlanılan obyektlər yığını" },
+      { "B": "Sadəcə ədədlər toplusu" },
+      { "C": "Tək dəyişən" },
+      { "D": "Bircə elementli dəyişən" },
+      { "E": "Yalnız dəyişməz məlumatlar saxlayan struktur" }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Python dilində siyahının elementləri hansı simvolun içərisində yazılır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Kvadrat mötərizə" },
+      { "B": "Qıvrım mötərizə" },
+      { "C": "Adi mötərizə" },
+      { "D": "Tək dırnaq" },
+      { "E": "İki nöqtə" }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Siyahının elementləri nömrələnməyə….",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0-dan başlayır" },
+      { "B": "1-dən başlayır" },
+      { "C": "random başlayır" },
+      { "D": "10-dan başlayır" },
+      { "E": "sırayla deyil" }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Siyahı elementlərinin sayını müəyyən etmək üçün hansı funksiyadan istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Len (1st)" },
+      { "B": "Size" },
+      { "C": "List.count()" },
+      { "D": "Length()" },
+      { "E": "Get()" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "s st. Revers….",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Siyahı elementlərini tərs ardıcıllıqla düzür" },
+      { "B": "Siyahını sıralayır" },
+      { "C": "Siyahıdan element silir" },
+      { "D": "Siyahıya element əlavə edir" },
+      { "E": "Siyahını ikiqatlayır" }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fəaliyyət bölümündə verilmiş əsas 4 funksiyadan istifadə olunur. Bunlar hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Abs, İnt, İmput, Print" },
+      { "B": "Sum, Count, Map, Range" },
+      { "C": "Int, Float, Char, Bool" },
+      { "D": "If, For, While, Elif" },
+      { "E": "Len, Append, Insert, Remove" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı Pythonda sənədin uzantısıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".py" },
+      { "B": ".txt" },
+      { "C": ".exe" },
+      { "D": ".java" },
+      { "E": ".html" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\na= “Salam”\nb= “Dünya”\nprint(a, b)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Salam Dünya" },
+      { "B": "SalamDünya" },
+      { "C": "a b" },
+      { "D": "Salam, Dünya" },
+      { "E": "Syntax Error" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "len() tipinin funksiyası aşağıdakılardan hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Listdə neçə simvol olduğunu göstərir" },
+      { "B": "Listdəki elementləri artırır" },
+      { "C": "Listdə ən böyük elementi tapır" },
+      { "D": "Listdə elementləri sıralayır" },
+      { "E": "Listdə boşluqları silir" }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "liste.appened() tipinin funksiyası aşağıdakılardan hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Liste simvol əlavə etməyə xidmət edir" },
+      { "B": "Liste elementləri silməyə xidmət edir" },
+      { "C": "Liste uzunluğunu ölçür" },
+      { "D": "Liste sıralayır" },
+      { "E": "Liste elementləri dəyişdirir" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "liste[:]=[] tipinin funksiyası aşağıdakılardan hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Listdəki bütün simvolları silməyə xidmət edir" },
+      { "B": "Listdə yeni simvol əlavə edir" },
+      { "C": "Listdə elementləri sıralayır" },
+      { "D": "Listdə elementləri ikiqatlayır" },
+      { "E": "Listdə elementləri əvəz edir" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı doğru while dövrüdür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "while x>y:" },
+      { "B": "while (x>y)" },
+      { "C": "while x=y" },
+      { "D": "while x>=y" },
+      { "E": "while x<y" }
+    ]
+  },
+  {
+    "questionNumber": 306,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı doğru for dövrüdür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "for x in y:" },
+      { "B": "for x to y" },
+      { "C": "for (x; y)" },
+      { "D": "for x = y" },
+      { "E": "for x : y" }
+    ]
+  },
+  {
+    "questionNumber": 307,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı dövrü sonlandırır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "break" },
+      { "B": "continue" },
+      { "C": "pass" },
+      { "D": "stop" },
+      { "E": "exit" }
+    ]
+  },
+  {
+    "questionNumber": 308,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı bütün hərfləri böyük edər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "upper()" },
+      { "B": "lower()" },
+      { "C": "capitalize()" },
+      { "D": "title()" },
+      { "E": "swapcase()" }
+    ]
+  },
+  {
+    "questionNumber": 309,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı listdir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[“alma”, “banan”, “nar”]" },
+      { "B": "{“alma”, “banan”, “nar”}" },
+      { "C": "(“alma”, “banan”, “nar”)" },
+      { "D": "“alma”, “banan”, “nar”" },
+      { "E": "set([“alma”, “banan”, “nar”])" }
+    ]
+  },
+  {
+    "questionNumber": 310,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aşağıdakılardan hansı 1 ilə 10 arasında dövr qurar?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "for sayi in range (1, 11):" },
+      { "B": "for sayi in range(0, 10):" },
+      { "C": "for sayi in range(10):" },
+      { "D": "for sayi in range(1, 10):" },
+      { "E": "while sayi < 10:" }
+    ]
+  },
+  {
+    "questionNumber": 311,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 5\n>>> b = 22 \n>>> print(b%a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "3" },
+      { "D": "0" },
+      { "E": "5" }
+    ]
+  },
+  {
+    "questionNumber": 312,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 5\n>>> b = 22 \n>>> print(b//a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "5" },
+      { "C": "3" },
+      { "D": "6" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 313,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 7\n>>> b = 55 \n>>> print(b//a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "7" },
+      { "B": "8" },
+      { "C": "6" },
+      { "D": "5" },
+      { "E": "9" }
+    ]
+  },
+  {
+    "questionNumber": 314,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 8\n>>> b = 42 \n>>> print(b%a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "4" },
+      { "C": "6" },
+      { "D": "0" },
+      { "E": "8" }
+    ]
+  },
+  {
+    "questionNumber": 315,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 2\n>>> b =  7\n>>> print(b**a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "49" },
+      { "B": "14" },
+      { "C": "9" },
+      { "D": "28" },
+      { "E": "21" }
+    ]
+  },
+  {
+    "questionNumber": 316,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 2\n>>> b =  7\n>>> print(b**a//5)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "9" },
+      { "B": "7" },
+      { "C": "5" },
+      { "D": "11" },
+      { "E": "13" }
+    ]
+  },
+  {
+    "questionNumber": 317,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 3\n>>> b = 5\n>>> print(b**a//20)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "5" },
+      { "C": "7" },
+      { "D": "8" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 318,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 3\n>>> b = 5\n>>> print(b**a%20)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "10" },
+      { "C": "15" },
+      { "D": "20" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 319,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 5\n>>> b = 3\n>>> print(a+b**3)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "32" },
+      { "B": "28" },
+      { "C": "30" },
+      { "D": "35" },
+      { "E": "25" }
+    ]
+  },
+  {
+    "questionNumber": 320,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Pythonda proqramın nəticəsi neçə olacaq?\n>>> a = 14\n>>> b = 2\n>>> print(a+b**4)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "30" },
+      { "B": "32" },
+      { "C": "28" },
+      { "D": "26" },
+      { "E": "34" }
+    ]
+  },
+  {
+    "questionNumber": 321,
+    "questionUp": "Proqramın nəticəsi nə olacaq?",
+    "questionDown": "a= “Bakı seheri”\nprint(a[2])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "k" },
+      { "B": "a" },
+      { "C": "B" },
+      { "D": "i" },
+      { "E": "e" }
+    ]
+  },
+  {
+    "questionNumber": 322,
+    "questionUp": "Proqramın nəticəsi nə olacaq?",
+    "questionDown": "a= “Odlar Yurdu”\nprint(a[4])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "r" },
+      { "B": "Y" },
+      { "C": "d" },
+      { "D": "a" },
+      { "E": "u" }
+    ]
+  },
+  {
+    "questionNumber": 323,
+    "questionUp": "Proqramın nəticəsi nə olacaq?",
+    "questionDown": "a= “Azerbaycan Respublikasi”\nprint(a[7])",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "c" },
+      { "B": "R" },
+      { "C": "y" },
+      { "D": "a" },
+      { "E": "p" }
+    ]
+  },
+  {
+    "questionNumber": 324,
+    "questionUp": "Aşağıdakılardan hansı Pythonda list obyektidir?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[]" },
+      { "B": "{}" },
+      { "C": "()" },
+      { "D": "set()" },
+      { "E": "''" }
+    ]
+  },
+  {
+    "questionNumber": 325,
+    "questionUp": "a dəyişəni hansı qiyməti özündə saxlayacaq?",
+    "questionDown": "a= 2,3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(2,3)" },
+      { "B": "[2,3]" },
+      { "C": "23" },
+      { "D": "2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 326,
+    "questionUp": "b dəyişənin sahip olduğu tip hansıdır?",
+    "questionDown": "a = “Odlar Yurdu”\nb = a [0]",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str" },
+      { "B": "int" },
+      { "C": "list" },
+      { "D": "tuple" },
+      { "E": "bool" }
+    ]
+  },
+  {
+    "questionNumber": 327,
+    "questionUp": "Proqramın nəticəsi nə olacaq?",
+    "questionDown": "a = 2\nb = 3\nprint (a and b)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "5" },
+      { "D": "0" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 328,
+    "questionUp": "Proqramın nəticəsi nə olacaq?",
+    "questionDown": "a, b, c = [1, 2, 3]\nprint (b+c)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "6" },
+      { "C": "3" },
+      { "D": "1" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 329,
+    "questionUp": "Doğru cavabı seçin.",
+    "questionDown": "ad = “odlar yurdu”\nprint (ad[6:8] )",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "yu" },
+      { "B": "od" },
+      { "C": "rd" },
+      { "D": "dy" },
+      { "E": "ur" }
+    ]
+  },
+  {
+    "questionNumber": 330,
+    "questionUp": "Doğru cavabı seçin.",
+    "questionDown": "ad = “baki seheri”\nprint (ad[2:6] )",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ki s" },
+      { "B": "aki " },
+      { "C": "ba k" },
+      { "D": "ki se" },
+      { "E": "sehe" }
+    ]
+  },
+  {
+    "questionNumber": 331,
+    "questionUp": "Doğru cavabı seçin.",
+    "questionDown": "print (len (Baki Seheri))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "11" },
+      { "B": "10" },
+      { "C": "12" },
+      { "D": "9" },
+      { "E": "13" }
+    ]
+  },
+  {
+    "questionNumber": 332,
+    "questionUp": "Doğru cavabı seçin.",
+    "questionDown": "print (len (Azərbaycan Respublikası))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "24" },
+      { "B": "25" },
+      { "C": "23" },
+      { "D": "22" },
+      { "E": "21" }
+    ]
+  },
+  {
+    "questionNumber": 333,
+    "questionUp": "Doğru cavabı seçin.",
+    "questionDown": "print (“Baku” * 2)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "BakuBaku" },
+      { "B": "Baku Baku" },
+      { "C": "Baku2" },
+      { "D": "BakuBakuBaku" },
+      { "E": "Baku" }
+    ]
+  },
+  {
+    "questionNumber": 334,
+    "questionUp": "Doğru cavabı seçin.",
+    "questionDown": "print (“Odlar”, “Yurdu” * 2)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Odlar YurduYurdu" },
+      { "B": "OdlarYurduYurdu" },
+      { "C": "Odlar Yurdu Yurdu" },
+      { "D": "OdlarYurdu" },
+      { "E": "OdlarYurduYurduYurdu" }
+    ]
+  },
+  {
+    "questionNumber": 335,
+    "questionUp": "Pythonda yazı tipi hansıdır?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str" },
+      { "B": "int" },
+      { "C": "float" },
+      { "D": "bool" },
+      { "E": "list" }
+    ]
+  },
+  {
+    "questionNumber": 336,
+    "questionUp": "Pythonda tam ədədlər tipi hansıdır?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "float" },
+      { "B": "int" },
+      { "C": "complex" },
+      { "D": "str" },
+      { "E": "bool" }
+    ]
+  },
+  {
+    "questionNumber": 337,
+    "questionUp": "Pythonda simvolun sayını verən tip hansıdır?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "len" },
+      { "B": "count" },
+      { "C": "size" },
+      { "D": "length" },
+      { "E": "index" }
+    ]
+  },
+  {
+    "questionNumber": 338,
+    "questionUp": "Proqram nə vaxta qədər dövr edəcək?",
+    "questionDown": "while a<=8:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "a dəyişəni 8-ə bərabər olana qədər" },
+      { "B": "a dəyişəni 0 olana qədər" },
+      { "C": "a dəyişəni 10 olana qədər" },
+      { "D": "a dəyişəni 5 olana qədər" },
+      { "E": "a dəyişəni 3 olana qədər" }
+    ]
+  },
+  {
+    "questionNumber": 339,
+    "questionUp": "Pythonda nəticəni hansı funksiya çap edir?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "print()" },
+      { "B": "input()" },
+      { "C": "len()" },
+      { "D": "type()" },
+      { "E": "range()" }
+    ]
+  },
+  {
+    "questionNumber": 340,
+    "questionUp": "Aşağıdakılardan hansı doğru dəyişən adıdır?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "my_var" },
+      { "B": "1myvar" },
+      { "C": "my-var" },
+      { "D": "my var" },
+      { "E": "my.var" }
+    ]
+  },
+  {
+    "questionNumber": 341,
+    "questionUp": "Aşağıdakılardan hansı proqramın cavabını verib?",
+    "questionDown": "len(“Proqramlaşdırma”)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "15" },
+      { "B": "14" },
+      { "C": "16" },
+      { "D": "17" },
+      { "E": "13" }
+    ]
+  },
+  {
+    "questionNumber": 342,
+    "questionUp": "Aşağıdakılardan hansı 5 ilə 18 arasında dövr qurar?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "for sayi in range (5, 19):" },
+      { "B": "for sayi in range (5, 18):" },
+      { "C": "for sayi in range (6, 19):" },
+      { "D": "for sayi in range (4, 18):" },
+      { "E": "for sayi in range (1, 19):" }
+    ]
+  },
+  {
+    "questionNumber": 343,
+    "questionUp": "Proqramın nəticəsi nə olacaq?",
+    "questionDown": "a, b, c = [6, 5, 9]\nprint (a+c)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "15" },
+      { "B": "14" },
+      { "C": "11" },
+      { "D": "9" },
+      { "E": "5" }
+    ]
+  },
+  {
+    "questionNumber": 344,
+    "questionUp": "Pythonda proqramın nəticəsi neçə olacaq?",
+    "questionDown": "a= “Odlar”\nb= “Yurdu”\nprint(a, b)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Odlar Yurdu" },
+      { "B": "OdlarYurdu" },
+      { "C": "Odlar, Yurdu" },
+      { "D": "OdlarYurdu " },
+      { "E": "Odlar - Yurdu" }
+    ]
+  },
+  {
+    "questionNumber": 345,
+    "questionUp": "Python prqramlaşdırma dilinin ən son versiyası hansıdır?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3.14" },
+      { "B": "3.10" },
+      { "C": "2.7" },
+      { "D": "3.8" },
+      { "E": "3.9" }
+    ]
+  },
+  {
+    "questionNumber": 346,
+    "questionUp": "Pythonda proqramın nəticəsi neçə olacaq?",
+    "questionDown": ">>> a = 10\n>>> b = 13\n>>> print((b-a)**3)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "27" },
+      { "B": "3" },
+      { "C": "23" },
+      { "D": "6" },
+      { "E": "30" }
+    ]
+  },
+  {
+    "questionNumber": 347,
+    "questionUp": "Pythonda proqramın nəticəsi neçə olacaq?",
+    "questionDown": ">>> a = 55\n>>> b = 30\n>>> print((a-b)//3)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "10" },
+      { "C": "9" },
+      { "D": "7" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 348,
+    "questionUp": "Pythonda proqramın nəticəsi neçə olacaq?",
+    "questionDown": "a = 8\nb = 36\nprint((a**2)+b)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "100" },
+      { "B": "64" },
+      { "C": "72" },
+      { "D": "80" },
+      { "E": "88" }
+    ]
+  },
+  {
+    "questionNumber": 349,
+    "questionUp": "Pythonda proqramın nəticəsi neçə olacaq?",
+    "questionDown": "a = 12\nb = 2\nc = 4\nprint((b**c)+a)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "28" },
+      { "B": "24" },
+      { "C": "18" },
+      { "D": "20" },
+      { "E": "30" }
+    ]
+  },
+  {
+    "questionNumber": 350,
+    "questionUp": "Aşağıdakılardan hansı Python Framework deyil?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Doost" },
+      { "B": "Django" },
+      { "C": "Flask" },
+      { "D": "Pyramid" },
+      { "E": "FastAPI" }
+    ]
+  },
+  {
+    "questionNumber": 351,
+    "questionUp": "Pythonda kəsr ədədlər tipi hansıdır?",
+    "questionDown": "",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "int" },
+      { "B": "double" },
+      { "C": "str" },
+      { "D": "float" },
+      { "E": "bool" }
+    ]
+  },
+  {
+    "questionNumber": 352,
+    "questionUp": "Pythonda şərtin doğru və yanlış olmasını təyin edən tipi hansıdır?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "boolean" },
+      { "B": "int" },
+      { "C": "float" },
+      { "D": "str" },
+      { "E": "list" }
+    ]
+  },
+  {
+    "questionNumber": 353,
+    "questionUp": "Bunlardan hansı verilənlərin intellektual analizi imkanlarına malikdir?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Python" },
+      { "B": "Java" },
+      { "C": "C++" },
+      { "D": "PHP" },
+      { "E": "HTML" }
+    ]
+  },
+  {
+    "questionNumber": 354,
+    "questionUp": "Verilənlərin intellektual analizi üçün ən çox istifadə olunan proqramlaşdırma dili hansıdır?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "R" },
+      { "B": "Python" },
+      { "C": "Java" },
+      { "D": "C#" },
+      { "E": "SQL" }
+    ]
+  },
+  {
+    "questionNumber": 355,
+    "questionUp": "Python dilində n-ölçülü massivlərlə işləmək üçün hansı kitabxanadan(library) istifadə olunur?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "numpy" },
+      { "B": "pandas" },
+      { "C": "matplotlib" },
+      { "D": "scipy" },
+      { "E": "tensorflow" }
+    ]
+  }
+]
