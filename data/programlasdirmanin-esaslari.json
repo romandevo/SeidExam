@@ -328,7 +328,7 @@
     "questionNumber": 26,
     "questionUp": "How do you declare a constant of type “int” in C++?",
     "questionDown": "",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "const int x;" },
       { "B": "int const x;" },
@@ -367,7 +367,7 @@
     "questionNumber": 29,
     "questionUp": "Which of the following is the correct way to define a “float” variable in C++?",
     "questionDown": "",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Float x = 3.14;" },
       { "B": "Float x = 3b;" },
@@ -900,7 +900,7 @@
     "questionNumber": 70,
     "questionUp": "Which statement correctly calls a function *add(int a, int b) in C++?",
     "questionDown": "",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Add(5, 10)" },
       { "B": "Add(5 + 10)" },
@@ -1732,7 +1732,7 @@
     "questionNumber": 134,
     "questionUp": "Which of the following components directly interacts with the processor to manage the data being processed?",
     "questionDown": "",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Arithmetic Logic Unit (ALU)" },
       { "B": "Input devices" },
@@ -2522,7 +2522,7 @@
     "questionNumber": 194,
     "questionUp": "How do you declare an object of a class named Car?",
     "questionDown": "",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Car;" },
       { "B": "Car obj;" },
@@ -2925,7 +2925,7 @@
     "questionNumber": 225,
     "questionUp": "If a base class is declared as private, which of the following is true?",
     "questionDown": "",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Only private members of the base class are inherited" },
       { "B": "The derived class can access all base class members" },
@@ -3211,7 +3211,7 @@
     "questionNumber": 247,
     "questionUp": "Can static nested classes in C++ be used directly?",
     "questionDown": "",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Only when declared public" },
       { "B": "No, only in globa functions" },
@@ -3719,7 +3719,7 @@
     "questionNumber": 285,
     "questionUp": "What is the correct way to overload a function that takes two parameters of different types?",
     "questionDown": "",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Both a and b are valid overloads" },
       { "B": "Void func(int, float) and void func(float, int);" },
@@ -3745,7 +3745,7 @@
     "questionNumber": 287,
     "questionUp": "Which function can be used to overload the << operator?",
     "questionDown": "",
-    "correctAnswer": "E",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Overload function" },
       { "B": "Both operating functions" },
@@ -3979,7 +3979,7 @@
     "questionNumber": 305,
     "questionUp": "Which of the following will cause a compilation error when using virtual functions?",
     "questionDown": "",
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Calling a virtual function from a constructor" },
       { "B": "Overriding a virtual function in a derived class" },
@@ -4044,7 +4044,7 @@
     "questionNumber": 310,
     "questionUp": "Which of the following allows for generalized programming in C++?",
     "questionDown": "",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "answers": [
       { "A": "Generalized" },
       { "B": "Inheritance" },
