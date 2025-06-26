@@ -1,0 +1,4238 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "What is an algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A step-by-step to solve a problem" },
+      { "B": "A sequence of random steps" },
+      { "C": "A mathematical equation" },
+      { "D": "A sequence of different steps" },
+      { "E": "A mathematical type" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Which of the following is NOT a property of an algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ambiguity" },
+      { "B": "Output" },
+      { "C": "Input" },
+      { "D": "Finiteness" },
+      { "E": "Effectiveness" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "What does \"finiteness\" in an algorithm mean?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It must terminate after a finite number of steps" },
+      { "B": "It must execute a fixed number of time" },
+      { "C": "It must run forever" },
+      { "D": "It must run have no loops" },
+      { "E": "It must take execute an input data only" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Why is \"definiteness\" important in algorithms?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To ensure every step is clear and well-defined" },
+      { "B": "To make the steps ambiguous" },
+      { "C": "To allow interpretation in multiple ways" },
+      { "D": "To make the algorithm more complex" },
+      { "E": "To allow execution time" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "What does the \"input\" property of an algorithm specify?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Must take zero or more inputs" },
+      { "B": "Must take at least one output" },
+      { "C": "Must take a numerical output" },
+      { "D": "Must take the outputs as strings" },
+      { "E": "Must take the real-time data as entry data" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "What is the \"output\" property of an algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Must produce meaningful results" },
+      { "B": "Must display input intermediate steps" },
+      { "C": "Must return a graphical output" },
+      { "D": "Must return only numbers" },
+      { "E": "Must display the input values" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "What is \"effectiveness\" in the context of algorithms?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Each step must be simple and executable" },
+      { "B": "The algorithm should run on any hardware" },
+      { "C": "The algorithm should produce results in real-time" },
+      { "D": "The algorithm should take minimal inputs" },
+      { "E": "The algorithm must always use recursion" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "What is time complexity?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The mathematical estimation of time" },
+      { "B": "The time taken to debug the algorithm" },
+      { "C": "The actual time taken to write the algorithm" },
+      { "D": "The time needed to run a program multiple times" },
+      { "E": "The actual hardware's response time" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Which is the first step in designing an algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Understanding the problem" },
+      { "B": "Writing the code directly" },
+      { "C": "Analyzing the code" },
+      { "D": "Debugging the code" },
+      { "E": "Implementing the code" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "What does \"generality\" of an algorithm mean?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It applies to a broad class of problems" },
+      { "B": "It solves only specific problems" },
+      { "C": "It works only with numeric data" },
+      { "D": "It requires special hardware to execute" },
+      { "E": "It must use special loops and conditionals" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "What is space complexity?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The memory needed during execution" },
+      { "B": "The disk used by the program file" },
+      { "C": "The total memory available in the system" },
+      { "D": "The disk used for the algorithm's output" },
+      { "E": "The total memory available in the processor" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Which of the following is NOT a type of algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Algorithm" },
+      { "B": "Recursive algorithm" },
+      { "C": "Sorting algorithm" },
+      { "D": "Dijkstra's algorithm" },
+      { "E": "Greedy algorithm" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "What is a deterministic algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It produces the same outputs" },
+      { "B": "It executes random outputs" },
+      { "C": "It modifies different results every time" },
+      { "D": "It executes infinitely" },
+      { "E": "It modifies its steps dynamically" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "What is the main property of a greedy algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It makes the locally optimal choice at each step" },
+      { "B": "It always divides makes problem into subproblems" },
+      { "C": "It always makes the globally optimal choice" },
+      { "D": "It always backtracks to correct errors" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Which of the following is an example of a \"divide and conquer\" algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Binary search" },
+      { "B": "Quick sort" },
+      { "C": "Bubble sort" },
+      { "D": "Merge sort" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "What is an approximation algorithm?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It gives the algorithm a near-optimal solution" },
+      { "B": "It finds the exact solution for a problem" },
+      { "C": "It works only with specific types of data" },
+      { "D": "It works only for mathematical problems" },
+      { "E": "It finds slowest algorithm for solving a problem" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "What property ensures that an algorithm end?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Finiteness" },
+      { "B": "Effectiveness" },
+      { "C": "Correctness" },
+      { "D": "Originality" },
+      { "E": "Uniqueness" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "What happens if an algorithm is ambiguous?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It might not produce correct results" },
+      { "B": "It will only work with specific inputs" },
+      { "C": "It will use minimal memory" },
+      { "D": "It will run faster" },
+      { "E": "It will terminate early" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Which of the following is an elementary data type in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Float" },
+      { "B": "Enum" },
+      { "C": "Vector" },
+      { "D": "Map" },
+      { "E": "List" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "What is the size of an “int” in C++ on most systems?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4 bytes" },
+      { "B": "60 bytes" },
+      { "C": "20 bytes" },
+      { "D": "100 byte" },
+      { "E": "120 byte" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "What does the “bool” type represent in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A true or false value" },
+      { "B": "A single character" },
+      { "C": "An integer value" },
+      { "D": "A floating-point value" },
+      { "E": "A set of bits" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Which of the following is a valid “floating-point” type in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Float" },
+      { "B": "Char" },
+      { "C": "Int" },
+      { "D": "Bool" },
+      { "E": "Void" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "What is the default value of an uninitialized “int” variable in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Undefined (garbage value)" },
+      { "B": "0,3" },
+      { "C": "0.3" },
+      { "D": "1,5" },
+      { "E": "3,2" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "What is the size of a “char” in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 byte" },
+      { "B": "40 bytes" },
+      { "C": "20 bytes" },
+      { "D": "80 bytes" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Which of the following is used to represent a character in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Char" },
+      { "B": "string" },
+      { "C": "int" },
+      { "D": "float" },
+      { "E": "double" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "How do you declare a constant of type “int” in C++?",
+    "questionDown": "",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "const int x;" },
+      { "B": "int const x;" },
+      { "C": "int const x = 10;" },
+      { "D": "int const = 10;" },
+      { "E": "int const=0;" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "What is the range of values that can be stored in an “unsigned int”?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "From 0 to a larger positive number" },
+      { "B": "From 1 to ULONG_MAX" },
+      { "C": "From 1 to INT_MAX" },
+      { "D": "From INT_MIN to 2" },
+      { "E": "From 1 to INT_MAX divided by 2" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Which type is used to represent large numbers with decimal places in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Double" },
+      { "B": "Bool" },
+      { "C": "Set" },
+      { "D": "Array" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Which of the following is the correct way to define a “float” variable in C++?",
+    "questionDown": "",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "Float x = 3.14;" },
+      { "B": "Float x = 3b;" },
+      { "C": "Float x = '3.14c';" },
+      { "D": "Float x = \"3.14a\";" },
+      { "E": "Float x = 3.14f;" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "How do you declare an array of 5 integers in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Int arr[5];" },
+      { "B": "Int arr[](1, 2, 3, 4, 5};" },
+      { "C": "Int arr[] = {1, 2, 3, 4, 5};" },
+      { "D": "Int arr(5.);" },
+      { "E": "Int arr[5/];" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Which of the following correctly defines a “long” integer in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Long int x = 1000;" },
+      { "B": "X long = 1000;" },
+      { "C": "X long = 1000l;" },
+      { "D": "X long = 1000l;" },
+      { "E": "X long int = 1000;" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "What is the type of 10.5 in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Double" },
+      { "B": "Int" },
+      { "C": "Float" },
+      { "D": "String" },
+      { "E": "Char" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "How do you define a pointer to an “int” in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Int* ptr;" },
+      { "B": "Pointer int*;" },
+      { "C": "Ptr* int/" },
+      { "D": "Pointer* int;" },
+      { "E": "Ptr* int;" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Which of the following is not a basic data type in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "String" },
+      { "B": "Char" },
+      { "C": "Double" },
+      { "D": "Int" },
+      { "E": "Bool" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Which type should be used to represent a true or false value in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bool" },
+      { "B": "Long long" },
+      { "C": "Long" },
+      { "D": "Char" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "What is the result of this operation in C++?\nint a = 5;\ndouble b = 2.0;\ncout << a / b;",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2.5" },
+      { "B": "7" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Which type is used for a variable that holds a large positive integer in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Long long int" },
+      { "B": "Int" },
+      { "C": "Float" },
+      { "D": "Double" },
+      { "E": "Char" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "What are elementary data types in programming?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Basic predefined data types" },
+      { "B": "Data-defined types" },
+      { "C": "Data types derived from classes" },
+      { "D": "Data types that only store strings" },
+      { "E": "Data types for storing files" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Which of the following is NOT a basic data type in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Array" },
+      { "B": "Float" },
+      { "C": "Double" },
+      { "D": "Int" },
+      { "E": "Bool" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "What does the int data type represent?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Integer values" },
+      { "B": "Decimal numbers" },
+      { "C": "True or false values" },
+      { "D": "Character values" },
+      { "E": "Sequence of characters" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Which data type is used to store single characters?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Char" },
+      { "B": "Bool" },
+      { "C": "String" },
+      { "D": "Double" },
+      { "E": "Int" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "What is the size of the int data type in most 32-bit systems?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4 bytes" },
+      { "B": "20 bytes" },
+      { "C": "12 byte" },
+      { "D": "10 bytes" },
+      { "E": "16 bytes" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Which data type is most suitable for storing a floating-point number?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Float" },
+      { "B": "Char" },
+      { "C": "Int" },
+      { "D": "Bool" },
+      { "E": "String" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "What value does the “bool” data type store?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True or false" },
+      { "B": "Floating-point numbers" },
+      { "C": "Integer values" },
+      { "D": "Characters" },
+      { "E": "Strings" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "What is the size of the char data type in most systems?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 Byte" },
+      { "B": "10 Bytes" },
+      { "C": "12 Bytes" },
+      { "D": "14 Bytes" },
+      { "E": "Variable size" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Which of the following is an example of a floating double-point data type?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Float and double" },
+      { "B": "Char and float" },
+      { "C": "Int and bool" },
+      { "D": "Char and bool" },
+      { "E": "Double and string" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Which data type has the highest precision for floating-point numbers?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Double" },
+      { "B": "Char" },
+      { "C": "Bool" },
+      { "D": "İnt" },
+      { "E": "String" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Which data type is commonly used to represent large decimal numbers?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Double" },
+      { "B": "Char" },
+      { "C": "Int" },
+      { "D": "Bool" },
+      { "E": "String" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "What is the range of values for the “bool” data type?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True and False" },
+      { "B": "0 to 255" },
+      { "C": "-1 to 1" },
+      { "D": "2-5" },
+      { "E": "0 to 1" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Which of the following statements is true about the string data type?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It stores sequences of characters" },
+      { "B": "It is used to store only single characters" },
+      { "C": "It is not supported in C++" },
+      { "D": "It is only numerical data" },
+      { "E": "It is a built-in data type" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "What is the difference between float and double?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Double has higher precision than float" },
+      { "B": "Float has higher precision than char" },
+      { "C": "Float is used for integers, and double is for decimals" },
+      { "D": "Float is a string type, while is numerical" },
+      { "E": "Float is no difference; they are interchangeable" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Which of these data types can store a single word in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "String" },
+      { "B": "Char" },
+      { "C": "Int" },
+      { "D": "Bool" },
+      { "E": "Float" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Which data type is best for storing a value like true or false?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bool" },
+      { "B": "Int" },
+      { "C": "Char" },
+      { "D": "String" },
+      { "E": "Double" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "What is the size of a float data type in most systems?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4 bytes" },
+      { "B": "20 bytes" },
+      { "C": "10 byte" },
+      { "D": "12 bytes" },
+      { "E": "Variable size" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "What is the primary purpose code of a function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To organize and reuse code" },
+      { "B": "To store data" },
+      { "C": "To handle input" },
+      { "D": "To create global variables" },
+      { "E": "To declare new data types" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Which keyword is used to define a function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Void" },
+      { "B": "Function" },
+      { "C": "Fun" },
+      { "D": "Func" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "How are function arguments value passed by default in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "By value" },
+      { "B": "By reference" },
+      { "C": "By address" },
+      { "D": "By pointer" },
+      { "E": "By constant" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "What does a function return?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A function is returns a specific data type" },
+      { "B": "A function returns nothing unless specified" },
+      { "C": "A function always returns a value" },
+      { "D": "A function always returns an integer" },
+      { "E": "A function only returns a string" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "What is the purpose of a function parameter?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To pass data into the function" },
+      { "B": "To specify the return type" },
+      { "C": "To terminate" },
+      { "D": "To store the result" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "What is a function prototype?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A declaration of a function before its definition" },
+      { "B": "The function for calling a function" },
+      { "C": "The function that returns nothing" },
+      { "D": "The function with no parameters" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "How do you call a function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Function_name()" },
+      { "B": "Call function_name()" },
+      { "C": "Call function_name;" },
+      { "D": "Call function.name()" },
+      { "E": "Call function_name{};" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "What is the return type of a function that does not return any value?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Void" },
+      { "B": "Char" },
+      { "C": "Int" },
+      { "D": "Bool" },
+      { "E": "String" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "What is the advantage of using functions in a C++ program?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It helps divide the program into smaller parts" },
+      { "B": "It allows that the program runs without errors" },
+      { "C": "It allows the program to run faster" },
+      { "D": "It reduces the need for variables" },
+      { "E": "It reduces the need for loops" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "What is the output of the following function call?\nint sum(int a, int b) {\n    return a + b;\n}\nsum(5, 10);",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "15" },
+      { "B": "510" },
+      { "C": "25" },
+      { "D": "Error" },
+      { "E": "30" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "What is the syntax for a function with no parameters in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "void function_name()" },
+      { "B": "function_name(void)" },
+      { "C": "function_name()" },
+      { "D": "function_name void()" },
+      { "E": "function_name {}" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Which of the following function types can return multiple values?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Functions returning a structure or tuple" },
+      { "B": "Functions with multiple return statements" },
+      { "C": "Functions that use void return type" },
+      { "D": "Functions that use arrays as parameters" },
+      { "E": "Functions with no parameters" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "What is a local variable in a function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A variable declared inside a function" },
+      { "B": "A variable that outside any function" },
+      { "C": "A variable that holds values" },
+      { "D": "A variable accessible only by the main() function" },
+      { "E": "A variable accessible across all classes" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "What does the void keyword mean when used in a function definition?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The function does not return anything" },
+      { "B": "The function returns a boolean value" },
+      { "C": "The function is a recursive function" },
+      { "D": "The function is called within another function" },
+      { "E": "The function returns accept any parameters" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Which of the following is an example of a function with a parameter?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Int myfunction(int a) {}" },
+      { "B": "Int myfunction() void" },
+      { "C": "Int myfunction(void a)" },
+      { "D": "Int myfunction(void)" },
+      { "E": "Int myfunction(a_void)" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Which statement correctly calls a function *add(int a, int b) in C++?",
+    "questionDown": "",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "Add(5, 10)" },
+      { "B": "Add(5 + 10)" },
+      { "C": "Add(int 5, int 1);" },
+      { "D": "Add(10+ b);" },
+      { "E": "Add(5, 10)" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Which of the following is an example of a recursive function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A function that calls recursive" },
+      { "B": "A function that takes input from the user" },
+      { "C": "A function that performs arithmetic operations" },
+      { "D": "A function that returns a constant value" },
+      { "E": "A function that contains a loop" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "What is the role of the return 0; statement success in the main() function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To end the program" },
+      { "B": "To print the result to the console" },
+      { "C": "To the program has finished reading input" },
+      { "D": "To define the loop in the main() function" },
+      { "E": "To define the program's logic" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "What is the first line in any C++ program structure?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "#Include <Iostream>" },
+      { "B": "Using Namespace Std;" },
+      { "C": "Int Main()" },
+      { "D": "Cout << \"Hello, World!\"" },
+      { "E": "Return 0;" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Which of the following is a correct way to print the result of an expression in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Cout << Result;" },
+      { "B": "Output (Result)" },
+      { "C": "Print(Result" },
+      { "D": "Printf(Result);" },
+      { "E": "Output(Result);" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "What is the role of the main() function in a C++ program?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The point where program execution starts" },
+      { "B": "It defines the output of the program" },
+      { "C": "It includes all user-defined functions" },
+      { "D": "It stores global variables" },
+      { "E": "It terminates the program execution" }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Which symbol is used for comments in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "// For single-line and /**/ for multi-line" },
+      { "B": "# For comments and  /**/ For comments" },
+      { "C": "# For multi-line comments" },
+      { "D": "/**/ Only for comments" },
+      { "E": "/**/ For comments" }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Which of the following statements is true about return 0; in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It is terminates the main() function" },
+      { "B": "It used the program with an error code" },
+      { "C": "It defines the output on the screen" },
+      { "D": "It defines the start of the program" },
+      { "E": "It used for error handling in functions" }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Which keyword is used to include a standard library for input and output operations in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "#Include" },
+      { "B": "Use" },
+      { "C": "Inc" },
+      { "D": "Import" },
+      { "E": "Import or Use" }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "How do you output \"Hello, World!\" in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Cout << \"Hello, World!\";" },
+      { "B": "\"Echo\" (\"Hello, World!\");" },
+      { "C": "\"Print\" (\"Hello, World!\");" },
+      { "D": "\"Write\" (\"Hello, World!\");" },
+      { "E": "(\"Hello, World!)\";" }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "What is the purpose of the using namespace std; statement in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To access I/O functions without the std:: prefix" },
+      { "B": "To define the main function's scope" },
+      { "C": "To include file I/O operations" },
+      { "D": "To include external libraries" },
+      { "E": "To define global variables" }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Which of the following is the correct syntax for defining the main() function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Int main()" },
+      { "B": "Void (main)" },
+      { "C": "(Main)" },
+      { "D": "Function (main)" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "What is the purpose of the cout object in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To output data to the console" },
+      { "B": "To handle file input/output" },
+      { "C": "To define input from the user" },
+      { "D": "To define a new data type" },
+      { "E": "To handle string data" }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "What is the role of the cin object in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To take input from the user" },
+      { "B": "To output file input" },
+      { "C": "To output data to the console" },
+      { "D": "To define output format" },
+      { "E": "To define the result of expressions" }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Which of the following is a valid C++ program structure?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Int Main() { Cout << \"Hello, World!\"; Return 0; }" },
+      { "B": "Void Main() { Print(\"Hello, World!\"); }" },
+      { "C": "Main() { Cout << \"Hello\"; }" },
+      { "D": "Main { Cout << \"Hello\"; }" },
+      { "E": "Void Main; Return 0;" }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "What is the purpose of curly braces { } in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To define the function body or a block of code" },
+      { "B": "To define the program and the comment out code" },
+      { "C": "To define the variables  and the functions" },
+      { "D": "To define the variables" },
+      { "E": "To define the program" }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Which of the following is the correct way to declare a variable in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Int X = 5;" },
+      { "B": "X = 5;" },
+      { "C": "X Int: = 5;" },
+      { "D": "X Int = 5;" },
+      { "E": "X = Int 5;" }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "What does the std:: prefix mean in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It refers to the standard C++ library" },
+      { "B": "It defines a custom namespace" },
+      { "C": "It is used to declare functions" },
+      { "D": "It defines to a specific compiler" },
+      { "E": "It is used to define global variables" }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Which of the following is true value about main() function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It must return an integer value" },
+      { "B": "It can have a return type of void" },
+      { "C": "It can be declared after the #include directives" },
+      { "D": "It does not need any parameters" },
+      { "E": "It does take input from the user" }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "How would you write a single-line comment in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "//This is a comment" },
+      { "B": "# This is a comment#" },
+      { "C": "# This is a comment *//" },
+      { "D": "*This is a comment -->" },
+      { "E": "*This is a comment//" }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "What happens when a pointer points to a null address?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İt points to an invalid memory location" },
+      { "B": "The pointer stores the value of a variable" },
+      { "C": "The pointer causes an overflow error" },
+      { "D": "The pointer points to a specific memory address" },
+      { "E": "The pointer is deallocated" }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "In C++, what operator is used to obtain the address of a variable?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "& (address-of operator)" },
+      { "B": "* (dereference operator)" },
+      { "C": "== (equality operator)" },
+      { "D": "-> (member access operator)" },
+      { "E": "[] (array index operator)" }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "What does it mean to \"dereference\" a pointer?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Means accessing the value stored at a memory address" },
+      { "B": "Find the memory address of the pointer" },
+      { "C": "To create a new memory address" },
+      { "D": "To assign a value to the pointer" },
+      { "E": "To convert a pointer to a value" }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "What is the result of dereferencing a null pointer in C/C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Crashes with a segmentation fault or access violation" },
+      { "B": "The pointer will point to the first element in memory" },
+      { "C": "The program will continue normally" },
+      { "D": "The pointer will be reset to a valid address" },
+      { "E": "The program will print a message" }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "What type of pointer can store the address of a function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Function pointer" },
+      { "B": "Void pointer" },
+      { "C": "Integer pointer" },
+      { "D": "String pointer" },
+      { "E": "Double pointer" }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "What is the purpose of the “size of” operator in relation to pointers?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It returns the size of the pointer variable itself" },
+      { "B": "It changes the size the value pointed to by the pointer" },
+      { "C": "It converts a pointer into a usable value" },
+      { "D": "It changes the memory address of the pointer" },
+      { "E": "It checks if a pointer is valid" }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "What is a pointer in the context of programming languages like C or C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It stores the address in memory of another variable" },
+      { "B": "A type used for dynamic memory management" },
+      { "C": "A memory location that stores a set of values" },
+      { "D": "A type of loop used to iterate over data" },
+      { "E": "A storage class used to define variable scopes" }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "What is a double pointer in C/C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A pointer that points to another pointer" },
+      { "B": "A pointer that stores multiple values" },
+      { "C": "A pointer that is dereferenced twice" },
+      { "D": "A pointer to a variable" },
+      { "E": "A pointer to a class" }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Which of the following can be stored in a void pointer in C/C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Any data type" },
+      { "B": "Only character strings" },
+      { "C": "Only integers" },
+      { "D": "Only pointers to functions" },
+      { "E": "Only arrays of integers" }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "In C, what is the purpose of the free() function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It frees memory that was allocated using malloc()" },
+      { "B": "It allocates memory for a pointer" },
+      { "C": "It deallocates the value pointed to by a pointer" },
+      { "D": "It checks if a pointer is null" },
+      { "E": "It increments the pointer's address" }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Which of the following functions is used to allocate memory dynamically in C/C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "malloc()" },
+      { "B": "sizeof()" },
+      { "C": "new" },
+      { "D": "delete" },
+      { "E": "free()" }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "What does the term \"address\" refer to in programming and discrete mathematics?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The memory location where data is stored" },
+      { "B": "A constant used in a complex equation" },
+      { "C": "A data element in the program list" },
+      { "D": "A function reference in the program" },
+      { "E": "A variable in the program" }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "What is the primary role of an address in a computer program?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To point to the location of a variable in memory" },
+      { "B": "To define the code section of a program" },
+      { "C": "To define a function in the program memory" },
+      { "D": "To store the result of an operation" },
+      { "E": "To store numeric data" }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "In C/C++, what does the address-of operator “&” do when used with a variable?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It gets the memory address of the variable" },
+      { "B": "It dereferences the pointer to access the value" },
+      { "C": "It returns the size of the variable" },
+      { "D": "It converts the variable into a pointer" },
+      { "E": "It checks if the pointer is null" }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Which of the following operations uses an “address to access” an element in an array?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Accessing the value of the element by its index" },
+      { "B": "Adding a value to the element by its index" },
+      { "C": "Deleting the element from the array" },
+      { "D": "Changing the size of the array" },
+      { "E": "Performing a loop" }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "What is the main disadvantage of using pointers?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Can lead to memory leaks" },
+      { "B": "They make the program slower" },
+      { "C": "Pointers use a lot of memory" },
+      { "D": "They prevent direct memory access" },
+      { "E": "Pointers are difficult to implement" }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Which of these is a correct way to start a comment in Python?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "#" },
+      { "B": "$" },
+      { "C": "@" },
+      { "D": "&" },
+      { "E": "~" }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Which of the following can be stored inside a structure in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The variables" },
+      { "B": "Only strings" },
+      { "C": "Only pointers" },
+      { "D": "Only integers" },
+      { "E": "Only arrays" }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "What does “compile” mean in programming?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To translate code into machine language" },
+      { "B": "To cook pasta" },
+      { "C": "To clean the house" },
+      { "D": "To fix a car" },
+      { "E": "To paint a picture" }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Which of the following can be an element of a structure?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Any valid data type (int, float, char, etc )" },
+      { "B": "Floating-point numbers and arrays" },
+      { "C": "Strings and floating-point numbers" },
+      { "D": "Integers and strings" },
+      { "E": "Arrays and integers" }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "What is a compound data type?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It is a data type that is made up of other data types" },
+      { "B": "A data type that is used to store arrays only" },
+      { "C": "A data type that can store only one value" },
+      { "D": "A data type that stores floating-point numbers" },
+      { "E": "A data type that stores functions" }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Which of the following is a structure in C?\n\nstruct person {\n    char name[50];\n    int age;\n    float height;\n};",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "person is a structure with fields name, age, and height" },
+      { "B": "person is a pointer with fields name, age, and height" },
+      { "C": "person is a function with fields name, age, and height" },
+      { "D": "person is an array with fields name, age, and height" },
+      { "E": "person is a data type with fields name, age, and height" }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "What is HTML mainly used for?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Creating web pages" },
+      { "B": "Driving trucks" },
+      { "C": "Flying drones" },
+      { "D": "Cooking dinner" },
+      { "E": "Building houses" }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "What is a tuple in programming?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It is a fixed-size collection of values" },
+      { "B": "A function that manipulates data" },
+      { "C": "A type of array" },
+      { "D": "A structure that only stores integers" },
+      { "E": "A list of operations" }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Which of the following is a correct way to declare a structure in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "struct myStruct { int a; float b; };" },
+      { "B": "structure myStruct { int b, float a; };" },
+      { "C": "myStruct { int a, float b; };" },
+      { "D": "struct myStruct = { int a, float c; };" },
+      { "E": "struct myStruct: { int a, float d; };" }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Which of these is used to store multiple values in one variable?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Array" },
+      { "B": "Bicycle" },
+      { "C": "Mountain" },
+      { "D": "Ocean" },
+      { "E": "Camera" }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "What is the extension of a Python file?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".py" },
+      { "B": ".txt" },
+      { "C": ".jpg" },
+      { "D": ".mp3" },
+      { "E": ".doc" }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Which one is an example of an operating system?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Windows" },
+      { "B": "Table" },
+      { "C": "Bottle" },
+      { "D": "Chair" },
+      { "E": "Book" }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Which of these is used to handle errors in a program?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "try-catch" },
+      { "B": "jump-run" },
+      { "C": "walk-sit" },
+      { "D": "open-close" },
+      { "E": "push-pull" }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Which of the following is the correct way to declare an array of integers in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int arr[5];" },
+      { "B": "array int arr[5];" },
+      { "C": "arr[5] int;" },
+      { "D": "int array[5];" },
+      { "E": "int[5] arr;" }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Which of the following statements about arrays is correct?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Store elements in contiguous memory locations" },
+      { "B": "Arrays store elements of different data types" },
+      { "C": "Arrays are dynamic in size by default" },
+      { "D": "Arrays can only store integers" },
+      { "E": "Arrays are used to store a single value" }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Which of the following is an example of a structure in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "struct person { char name[50]; int age; };" },
+      { "B": "int person;" },
+      { "C": "array person[50];" },
+      { "D": "pointer person;" },
+      { "E": "list person;" }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "What is the main function of a processor in a computer system?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To process and execute instructions" },
+      { "B": "To provide power to the system" },
+      { "C": "To handle input and output" },
+      { "D": "To manage memory" },
+      { "E": "To store data" }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Which of the following best defines a processor’s clock speed?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Frequency at which the processor completes one cycle" },
+      { "B": "The number of instructions the processor can execute" },
+      { "C": "The amount of memory the processor can access" },
+      { "D": "The number of bits processed per second" },
+      { "E": "The time it takes to access memory" }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "What is the role of the Arithmetic Logic Unit (ALU) in a processor?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To perform arithmetic and logical operations" },
+      { "B": "To synchronize the processor’s clock cycles" },
+      { "C": "To control input and output operations" },
+      { "D": "To fetch and decode instructions" },
+      { "E": "To store data temporarily" }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "What is the main purpose of cache memory in a processor?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "For speed up the access to frequently used data" },
+      { "B": "To convert high-level code into machine language" },
+      { "C": "To manage input and output devices" },
+      { "D": "To execute system-level programs" },
+      { "E": "To provide long-term storage" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Which component of a processor is responsible for controlling the flow of data within the system?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Control Unit (CU)" },
+      { "B": "Arithmetic Logic Unit (ALU)" },
+      { "C": "Memory Unit" },
+      { "D": "Register" },
+      { "E": "Cache" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "What does “debugging” mean?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Finding and fixing errors in code" },
+      { "B": "Catching insects" },
+      { "C": "Painting walls" },
+      { "D": "Driving a car" },
+      { "E": "Flying a plane" }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Which of the following is a common instruction set architecture used in processors?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "RISC (Reduced Instruction Set Computing)" },
+      { "B": "RAM (Random Access Memory)" },
+      { "C": "ROM (Read-Only Memory)" },
+      { "D": "USB (Universal Serial Bus)" },
+      { "E": "HTTP (Hypertext Transfer Protocol)" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Which operator is used for addition in most programming languages?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+" },
+      { "B": "-" },
+      { "C": "*" },
+      { "D": "/" },
+      { "E": "%" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Which of the following types of operations does the ALU (Arithmetic Logic Unit) handle?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Arithmetic and logical operations" },
+      { "B": "Only input and output functions" },
+      { "C": "Only memory storage" },
+      { "D": "Only Arithmetic operations" },
+      { "E": "Only logical operations" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Which of the following describes the purpose of a register in a processor?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Temporarily store data during processing" },
+      { "B": "To manage input and output operations" },
+      { "C": "To execute programs in machine code" },
+      { "D": "To convert data from binary to decimal" },
+      { "E": "To provide permanent storage for instructions" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "What is a \"bus\" in the context of a processor?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It is a system used to transfer data" },
+      { "B": "A part of the processor that decodes instructions" },
+      { "C": "A data storage unit within the processor" },
+      { "D": "A set of instructions executed by the processor" },
+      { "E": "A component responsible for cooling the processor" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "What does the term \"multi-core processor\" mean?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It is a processor with multiple processing units (cores)" },
+      { "B": "A processor with multiple instruction sets" },
+      { "C": "A processor designed for multi-threading only" },
+      { "D": "A processor with a single core but enhanced clock speed" },
+      { "E": "A processor with specialized cores for graphical processing" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Which of the following components directly interacts with the processor to manage the data being processed?",
+    "questionDown": "",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "Arithmetic Logic Unit (ALU)" },
+      { "B": "Input devices" },
+      { "C": "Memory unit" },
+      { "D": "Control Unit" },
+      { "E": "Hard drive" }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Which term refers to the smallest unit of data a processor handles?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bit" },
+      { "B": "Input" },
+      { "C": "Word" },
+      { "D": "Packet" },
+      { "E": "Block" }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "What does the term \"throughput\" refer to in the context of a processor?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "It is the rate at which data is transferred through the processor"
+      },
+      { "B": "The number of instructions the processor can handle per cycle" },
+      {
+        "C": "The efficiency of the processor in performing arithmetic operations"
+      },
+      { "D": "The amount of power consumed by the processor" },
+      { "E": "The time taken to process a single instruction" }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "What does a \"CISC\" (Complex Instruction Set Computing) processor do?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Has a large set of complex instructions for faster execution" },
+      { "B": "Uses a small set of simple instructions for faster execution" },
+      { "C": "Performs operations in parallel" },
+      { "D": "Executes only one instruction per clock cycle" },
+      { "E": "Is primarily used in mobile devices" }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "In terms of processor performance, what does \"latency\" refer to?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "It is the time it takes for an instruction to be fetched, decoded"
+      },
+      { "B": "It is a maximum clock speed achievable by the processor" },
+      { "C": "It is a number of instructions executed per clock cycle" },
+      { "D": "It is a number of cores in a processor" },
+      { "E": "It is a power consumed by the processor" }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "What is the purpose of file I/O (Input/Output) in programming?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Store and retrieve data from files" },
+      { "B": "To interact with external devices" },
+      { "C": "To process numerical data" },
+      { "D": "To create new functions" },
+      { "E": "To execute mathematical operations" }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Which of the following functions is used to open a file in C programming?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fopen()" },
+      { "B": "print()" },
+      { "C": "read()" },
+      { "D": "write()" },
+      { "E": "close()" }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "What does the fclose() function do in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It closes an open file" },
+      { "B": "It reads the content of the file" },
+      { "C": "It writes data to the file" },
+      { "D": "It opens a file for writing" },
+      { "E": "It deletes the file" }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Which mode would you use to open a file for both reading and writing in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"r+\"" },
+      { "B": "\"w\"" },
+      { "C": "\"a+\"" },
+      { "D": "\"r+b\"" },
+      { "E": "\"w+\"" }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Which of the following functions is used to write data to a file in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fwrite()" },
+      { "B": "read()" },
+      { "C": "fprintf()" },
+      { "D": "puts()" },
+      { "E": "open()" }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "What does the \"r\" mode do when opening a file in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Opens the file for reading only" },
+      { "B": "Opens the file for writing only" },
+      { "C": "Opens the file for writing and reading" },
+      { "D": "Creates a new file for writing" },
+      { "E": "Opens the file in binary mode" }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "What will happen if you try to open a file in \"r\" mode for writing?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "An error will occur" },
+      { "B": "The file is created" },
+      { "C": "The file will be opened for reading" },
+      { "D": "The file will be overwritten" },
+      { "E": "The file will be opened for writing" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Which of the following functions is used to read data from a file in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "getc()" },
+      { "B": "putc()" },
+      { "C": "fscanf()" },
+      { "D": "ftell()" },
+      { "E": "open()" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "What is the purpose of the feof() function in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Check if the end of the file has been reached" },
+      { "B": "To check if the file is empty and close it" },
+      { "C": "To read a line of text from a file" },
+      { "D": "To open a file for reading" },
+      { "E": "To close the file" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Which function is used to get a single character from a file in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fgetc()" },
+      { "B": "ftell()" },
+      { "C": "scanf()" },
+      { "D": "fread()" },
+      { "E": "fputc()" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "What does the \"w+\" mode do when opening a file in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It opens the file for both reading and writing" },
+      { "B": "Opens the file for writing only and creates a new file" },
+      { "C": "Opens the file for reading only and creates a new file" },
+      { "D": "Appends data to the file" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Which function is used to write formatted data to a file in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fprintf()" },
+      { "B": "fread()" },
+      { "C": "puts()" },
+      { "D": "ftell()" },
+      { "E": "fputs()" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "In which mode would you open a file if you want to append data to it?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"a\"" },
+      { "B": "\"w\"" },
+      { "C": "\"r\"" },
+      { "D": "\"r+\"" },
+      { "E": "\"w+\"" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Which of the following is true about the fseek() function in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Moves the file pointer to a specific position" },
+      { "B": "It reads a line from the file and writes it" },
+      { "C": "It writes data to the file and closes it" },
+      { "D": "It closes the file" },
+      { "E": "It checks for the end of the file" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "What is the purpose of the flush() function in file handling?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Flushes the buffer and writes data to the file" },
+      { "B": "It clears data from the file and deletes" },
+      { "C": "It opens the file in binary mode" },
+      { "D": "It moves the file pointer" },
+      { "E": "It deletes the file content" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Which of the following is true about the fputc() function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Writes a single character to the file" },
+      { "B": "It moves the file pointer to the beginning" },
+      { "C": "It opens a file for reading" },
+      { "D": "It reads a line from the file" },
+      { "E": "It closes the file" }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "What does the \"b\" mode in file opening signify in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Opens the file in binary mode" },
+      { "B": "It opens the file in text modes for writing" },
+      { "C": "It opens the file in text modes for reading" },
+      { "D": "It opens the file in buffered mode" },
+      { "E": "It opens the file in text modes" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "What does the remove() function do in C?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It deletes the file from the file system" },
+      { "B": "It closes the file from the file system" },
+      { "C": "It opens a file for writing" },
+      { "D": "It moves the file pointer" },
+      { "E": "It read the content of the file" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "What is a linear list?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "It is a data structure where elements are arranged sequentially"
+      },
+      { "B": "A data structure where each element points to the previous one" },
+      {
+        "C": "A data structure where elements are arranged in a non-linear fashion"
+      },
+      { "D": "A data structure that only stores one type of data" },
+      { "E": "A data structure that cannot store duplicate values" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Which of the following is an example of a linear data structure?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Array" },
+      { "B": "Graph" },
+      { "C": "Binary tree" },
+      { "D": "Trie" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "What is the key characteristic of a linked list?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Each element points to the next element in the list" },
+      { "B": "It stored Elements in contiguous memory locations" },
+      { "C": "It only supports random access" },
+      { "D": "It is implemented using a stack" },
+      { "E": "It does not allow dynamic memory allocation" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Which of the following is true for arrays?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "They support random access to elements" },
+      { "B": "Arrays can only store integers" },
+      { "C": "Array size may change during program execution" },
+      { "D": "Arrays are implemented using a queue structure" },
+      { "E": "Arrays require extra memory for storing pointers" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "What is the primary advantage of using a linked list over an array?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dynamic memory allocation is used by linked lists" },
+      { "B": "Provides faster access to array elements" },
+      { "C": "Easier to implement" },
+      { "D": "More memory efficient than arrays" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "In a doubly linked list, each node contains:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A value, and two pointers (next and previous)" },
+      { "B": "A pointer to the previous node and the next node only" },
+      { "C": "A value and a pointer to the next node only" },
+      { "D": "Only a value" },
+      { "E": "Only a pointer to the next node" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Which data structure is a type of linear list where elements are connected by pointers?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Linked List" },
+      { "B": "Array" },
+      { "C": "Stack" },
+      { "D": "Queue" },
+      { "E": "Tree" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "What is the primary difference between an array and a linked list in linear lists?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Arrays store data in contiguous memory" },
+      { "B": "Linked lists store data in contiguous memory" },
+      { "C": "They are slower" },
+      { "D": "Linked lists have a fixed size" },
+      { "E": "They are only used for strings" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Which of the following is true for a circular linked list?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The last node points to the first node, creating a loop" },
+      { "B": "It is a type where the first node points to the last node" },
+      { "C": "It only supports singly linked lists" },
+      { "D": "It is a type of array-based list" },
+      { "E": "It has no node that points to the next one" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "What does the 'tail' refer to in a singly linked list?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The last element of the list" },
+      { "B": "The first element of the list" },
+      { "C": "The middle element of the list" },
+      { "D": "A pointer that connects the first and last elements" },
+      { "E": "A pointer that points to the next node" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Which of the following is a valid operation on a stack?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Push" },
+      { "B": "Insert" },
+      { "C": "Copy" },
+      { "D": "Delete" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Which of the following operations can be performed on a doubly linked list?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insertion and deletion at both ends (head and tail)" },
+      { "B": "Accessing elements directly by index" },
+      { "C": "Searching for an element by its index" },
+      { "D": "Storing elements in a non-sequential order" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "What does the term 'head' refer to in a linked list?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The first element of the list" },
+      { "B": "The element before the last element" },
+      { "C": "The last element of the list" },
+      { "D": "The middle element of the list" },
+      { "E": "A node with no next pointer" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "What is the space complexity of a singly linked list with 'n' nodes?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "O(n)" },
+      { "B": "O(1)" },
+      { "C": "O(log n)" },
+      { "D": "O(n^2)" },
+      { "E": "O(n log n)" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "In a queue, what happens if the queue is full and an enqueue operation is performed?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The operation fails or returns an error" },
+      { "B": "The queue size increases dynamically" },
+      { "C": "In a queue the program crashes" },
+      { "D": "In a queue the program ignores the enqueue operation" },
+      { "E": "In a queue the first element is removed to make space" }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Which of the following is true for a stack?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The top element is the last one added to the stack" },
+      { "B": "In a stack elements are added and removed in a random order" },
+      { "C": "In a stack supports both enqueue and dequeue operations" },
+      { "D": "In a stack the bottom element is removed first" },
+      { "E": "A stack has no notion of order" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "What is the time complexity of inserting an element at the front of a singly linked list?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "O(1)" },
+      { "B": "O(n)" },
+      { "C": "O(log n)" },
+      { "D": "O(n^2)" },
+      { "E": "O(n log n)" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Which of the following data structures is implemented using a linear list?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Stack" },
+      { "B": "Graph" },
+      { "C": "Tree" },
+      { "D": "Set" },
+      { "E": "Hash map" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "What is the main characteristic of a stack?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Stack follows the LIFO (Last In First Out) principle" },
+      { "B": "It follows the FIFO (First In First Out) principle" },
+      { "C": "It can be accessed in any order" },
+      { "D": "It allows random access to elements" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "What is the time complexity of the push operation in a stack?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "O(1)" },
+      { "B": "O(n)" },
+      { "C": "O(log n)" },
+      { "D": "O(n^2)" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "What does the “pop” operation do in a stack?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It Removes the top element from the stack" },
+      { "B": "Returns the number of elements in the stack" },
+      { "C": "Adds a new element to the stack" },
+      { "D": "Displays the entire stack" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Which of the following is used to check if a stack is empty?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "IsEmpty()" },
+      { "B": "IsFull()" },
+      { "C": "Top()" },
+      { "D": "Clear()" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "What does the “push” operation do in a stack?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It Adds an element to the stack" },
+      { "B": "Removes an element from the stack" },
+      { "C": "Views the top element of the stack" },
+      { "D": "Clears the entire stack" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Which operation removes the top element of a stack?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Pop (delete in stack)" },
+      { "B": "Push (add in stack)" },
+      { "C": "Peek (view in stack)" },
+      { "D": "Enqueue (add in queue)" },
+      { "E": "Dequeue (remove in queue)" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "In a stack, which element is removed first?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Last element inserted" },
+      { "B": "The bottom element" },
+      { "C": "The first element inserted" },
+      { "D": "The middle element" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Which operation adds an element to a queue?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Enqueue" },
+      { "B": "Pop" },
+      { "C": "Push" },
+      { "D": "Peek" },
+      { "E": "Remove" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Which operation removes an element from the front of a queue?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dequeue" },
+      { "B": "Peek" },
+      { "C": "Push" },
+      { "D": "Pop" },
+      { "E": "Insert" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "What happens when an element is dequeued from an empty queue?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "An error occurs" },
+      { "B": "The queue becomes full" },
+      { "C": "The queue resets" },
+      { "D": "The queue delete" },
+      { "E": "The queue adds" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "In which real-world scenario can a queue be used?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Managing tasks in a print queue" },
+      { "B": "Reversing a string" },
+      { "C": "Undoing operations in a text editor" },
+      { "D": "Searching for the maximum element" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "What is the “root node” of a tree?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It is the node with no parent" },
+      { "B": "The node with two children" },
+      { "C": "The node with the largest value" },
+      { "D": "The node with the smallest value" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "In a binary tree, how many children can a node have at most?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "0" },
+      { "D": "Unlimited" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "What is the maximum number of children a node in a binary tree can have?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "0" },
+      { "D": "4" },
+      { "E": "Unlimited" }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "What does a binary tree’s left child have compared to the parent?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Smaller than the parent" },
+      { "B": "It is larger than the parent" },
+      { "C": "It is equal to the parent" },
+      { "D": "It has no relation to the parent" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "What does the term 'queue' refer to in data structures?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Elements with the FIFO (First In, First Out) principle" },
+      { "B": "A collection of elements that follow the LIFO principle" },
+      { "C": "A collection of elements with random access" },
+      { "D": "A collection of elements with no specific order of elements" },
+      { "E": "A collection of elements that are always ordered" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "What is the main difference between a stack and a queue?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A stack is LIFO, while a queue is FIFO" },
+      { "B": "Allows random access, while a queue does not" },
+      { "C": "A queue can only hold integers" },
+      { "D": "A queue is slower to access than a stack" },
+      { "E": "There is no difference" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Which of the following is true about the 'peek' operation in a stack?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Views the top element without removing it" },
+      { "B": "It removes an element from the stack" },
+      { "C": "It adds an element to the stack" },
+      { "D": "It clears all elements from the stack" },
+      { "E": "It checks if the stack is empty" }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Which keyword is used to define a class in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Class" },
+      { "B": "Struct" },
+      { "C": "Public" },
+      { "D": "Private" },
+      { "E": "Object" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "How do you declare an object of a class named Car?",
+    "questionDown": "",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "Car;" },
+      { "B": "Car obj;" },
+      { "C": "Car::object;" },
+      { "D": "object Car;" },
+      { "E": "obj Car;" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Which type of constructor takes no arguments?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Default constructor" },
+      { "B": "Parameterized" },
+      { "C": "Copy" },
+      { "D": "Paste" },
+      { "E": "Overloaded" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "What does the delete keyword do in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Deletes memory" },
+      { "B": "Creates an object" },
+      { "C": "Ends the program" },
+      { "D": "Overwrites a class" },
+      { "E": "Added a file" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "How do you declare a private member in a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Use the private keyword." },
+      { "B": "Use the protected keyword." },
+      { "C": "Use the static keyword." },
+      { "D": "Use the class keyword." },
+      { "E": "Use the public keyword." }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Which is NOT a type of inheritance in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Encapsulation" },
+      { "B": "Single legacy" },
+      { "C": "Multiple estate" },
+      { "D": "Hybrid legacy" },
+      { "E": "Multilevel estate" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "What is a static member of a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A member shared by all objects of the class." },
+      { "B": "A constant value by all objects of the class." },
+      { "C": "A method called only in main()." },
+      { "D": "A function defined outside the class." },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Which of the following is an example of a user-defined data type in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "class" },
+      { "B": "float" },
+      { "C": "in" },
+      { "D": "string" },
+      { "E": "double" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "What is the default access specifier in a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Private" },
+      { "B": "Public" },
+      { "C": "Protected" },
+      { "D": "Static" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "What is the correct syntax to create an object of a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ClassName object;" },
+      { "B": "ClassName/object();" },
+      { "C": "ClassName:object{};" },
+      { "D": "ClassName.object();" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "How many times can a constructor be called for a single object?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Once" },
+      { "B": "Zero" },
+      { "C": "Twice" },
+      { "D": "Unlimited" },
+      { "E": "Ten" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "What is a destructor in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Both a and b" },
+      { "B": "A function to free up memory" },
+      { "C": "A function with the same name as the class" },
+      { "D": "A function that can have parameters" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "How do you declare a static member in a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "static int x;" },
+      { "B": "x static int;" },
+      { "C": "x static;" },
+      { "D": "x := static;" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Which of the following is not a feature of OOP(Object-Oriented Programming)?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Procedural Programming" },
+      { "B": "Inheritance" },
+      { "C": "Polymorphism" },
+      { "D": "Encapsulation" },
+      { "E": "Abstraction" }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "How do you define a class in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "class MyClass {}" },
+      { "B": "define MyClass {}" },
+      { "C": "object MyClass {}" },
+      { "D": "create MyClass {}" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "What is the name of the destructor in a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "~classname()" },
+      { "B": "delete()" },
+      { "C": "remove()" },
+      { "D": "destroy()" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "What is the default access specifier for class members in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Private" },
+      { "B": "General" },
+      { "C": "Common" },
+      { "D": "Friend" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Which keyword allows access to class members from anywhere in the program?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Public" },
+      { "B": "Private" },
+      { "C": "Friend" },
+      { "D": "Protected" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "What is the main purpose of the “private” access specifier?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To hide data from external access" },
+      { "B": "To allow data to be accessible from anywhere" },
+      { "C": "To provide access to derived classes only" },
+      { "D": "To allow inheritance" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "What is the main purpose of the “public” access specifier?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To make data accessible from anywhere" },
+      { "B": "To hide data from external access" },
+      { "C": "To enforce polymorphism" },
+      { "D": "To allow inheritance" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Which access specifier is usually used to make helper functions or data hidden to external users?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Private" },
+      { "B": "Public" },
+      { "C": "Common" },
+      { "D": "Friend" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "“Private” members can be accessed by:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Only functions defined in the same class" },
+      { "B": "Any function defined in the same class" },
+      { "C": "Any class in the program" },
+      { "D": "Any external program" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Which keyword is used to declare “private” members in a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Private" },
+      { "B": "Public" },
+      { "C": "Protected" },
+      { "D": "Static" },
+      { "E": "Internal" }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "If a class member is declared as “public”, who can access it?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Any part of the program" },
+      { "B": "Only objects of the same class" },
+      { "C": "Only one classes" },
+      { "D": "Only derived classes" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "If no access specifier is provided in a class, the members are:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Private" },
+      { "B": "Public" },
+      { "C": "Protected" },
+      { "D": "Default" },
+      { "E": "Undefined" }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Public access specifier is typically used for:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Methods accessible to all" },
+      { "B": "Data members that should be hidden" },
+      { "C": "Constants" },
+      { "D": "Loop variables" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Which access modifier allows a class member to be accessible only within its own class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Protected" },
+      { "B": "General" },
+      { "C": "Common" },
+      { "D": "Friend" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Which keyword is used to define a member function as a “friend function” of a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Friend" },
+      { "B": "Public" },
+      { "C": "Private" },
+      { "D": "Protected" },
+      { "E": "Virtual" }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Which of the following is NOT a valid access specifier in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Static" },
+      { "B": "Public" },
+      { "C": "Private" },
+      { "D": "Protected" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "If a class member is declared as protected, who can access it?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Derived classes" },
+      { "B": "Only the class itself" },
+      { "C": "Only derived classes" },
+      { "D": "Only global functions" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Which of the following can access “public” members of a class in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Any function or class" },
+      { "B": "Only members of functions" },
+      { "C": "Only derived classes" },
+      { "D": "Only friend functions" },
+      { "E": "Only the class itself" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Which keyword in C++ can be used to make class members accessible from any class, but not globally?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Protected" },
+      { "B": "Private" },
+      { "C": "Static" },
+      { "D": "Friend" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "If a base class is declared as private, which of the following is true?",
+    "questionDown": "",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "Only private members of the base class are inherited" },
+      { "B": "The derived class can access all base class members" },
+      { "C": "The derived class cannot access any of the base class members" },
+      { "D": "Public members are inherited as close" },
+      { "E": "The derived class will inherit everything as protected" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Which of the following statements about access specifiers in C++ is correct?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Public members can be accessed anywhere in the program" },
+      { "B": "Private members can be accessed anywhere in the program" },
+      { "C": "Protected members are accessible by global functions" },
+      { "D": "Private members can be accessed only by global functions" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "What is the default value of a static integer variable in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1,5" },
+      { "C": "0.5" },
+      { "D": "2,3" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "When is memory allocated for a static variable?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "When the program starts" },
+      { "B": "During runtime when accessed" },
+      { "C": "During the object is created" },
+      { "D": "During the program ends" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "A “static” member variable in a class is:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A variable shared across all instances of the class" },
+      { "B": "Only accessible by the second instance of the class" },
+      { "C": "Only accessible by the first instance of the class" },
+      { "D": "A variable always private" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Where is the memory for a static member variable of a class allocated?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Global Memory" },
+      { "B": "Internal Store" },
+      { "C": "Private Store" },
+      { "D": "Within the object" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "What is the correct syntax to access a “static” variable in a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ClassName::VariableName" },
+      { "B": "MemberName" },
+      { "C": "This→Name" },
+      { "D": "ObjectName:Name" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "If a class contains a “static member” variable, how many copies of the variable exist?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Only one shared by all objects" },
+      { "B": "One for each object" },
+      { "C": "One for each derived class" },
+      { "D": "One for every instance" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "What is a “static member” function in a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A function that can access only static members" },
+      { "B": "A function that is global" },
+      { "C": "A function that can modify private variables directly" },
+      { "D": "A function that cannot be inherited" },
+      { "E": "A function accessible only by friend classes" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Which of the following can a static member function NOT access?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Non-static member variables" },
+      { "B": "Static member variables" },
+      { "C": "Static member functions" },
+      { "D": "Global variables" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "What keyword is used to declare a “static member” function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Static" },
+      { "B": "Public" },
+      { "C": "Private" },
+      { "D": "Global" },
+      { "E": "Local" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Can a \"static member\" function access non-static data members of a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No, because static functions don't have a this pointer" },
+      { "B": "Yes, static functions can access non-static members" },
+      { "C": "Yes, if the function is a friend function" },
+      { "D": "Yes, but only if the data members are public" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Static variables are destroyed when:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The program ends" },
+      { "B": "The program starts" },
+      { "C": "The class object is added" },
+      { "D": "The scope of the variable starts" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Static functions in a class can access:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Only static variables" },
+      { "B": "Non-static variables" },
+      { "C": "Private functions" },
+      { "D": "Private variables" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Static member functions do not have access to:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Private members" },
+      { "B": "Global variables" },
+      { "C": "Static variables" },
+      { "D": "Static member functions" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Which of the following can be static in a C++ class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Data members and member functions" },
+      { "B": "Only data members and global variables" },
+      { "C": "Only member functions" },
+      { "D": "Only global variables" },
+      { "E": "Only constructors" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Static member functions can be invoked:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Before any object of the class is created" },
+      { "B": "Only after at least one object is created" },
+      { "C": "Only within private methods" },
+      { "D": "Only Using global variables" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "In C++, a static data member is defined:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Outside the class" },
+      { "B": "Inside the constructor" },
+      { "C": "Inside the class" },
+      { "D": "In the main() function" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "How do you define a static data member inside a class in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "static int count;" },
+      { "B": "int static;" },
+      { "C": "int data static;" },
+      { "D": "int static data;" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "What is a class defined within another class called?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Nested class" },
+      { "B": "External class" },
+      { "C": "Friend class" },
+      { "D": "Local class" },
+      { "E": "Public class" }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "What is the purpose of a “nested class”?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To group related functionality" },
+      { "B": "To define multiple inheritance" },
+      { "C": "To access global variables" },
+      { "D": "To access constructors" },
+      { "E": "To define standalone modules" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "A “nested class” in C++ is commonly referred to as:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Member class" },
+      { "B": "External class" },
+      { "C": "Local class" },
+      { "D": "Public class" },
+      { "E": "Static class" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Can static nested classes in C++ be used directly?",
+    "questionDown": "",
+    "correctAnswer": "D",
+    "answers": [
+      { "A": "Only when declared public" },
+      { "B": "No, only in globa functions" },
+      { "C": "Yes, if created using an external class" },
+      { "D": "Yes, always" },
+      { "E": "No, never" }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "What is an inner class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Nested class that depends on the outer class" },
+      { "B": "Global class declared inside a method" },
+      { "C": "Static nested class in Java" },
+      { "D": "Public class of the outer class" },
+      { "E": "A class that has no methods" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Which of the following is a limitation of inner classes?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "They cannot be created independently of the outer class" },
+      { "B": "Can not access private members of the outer class" },
+      { "C": "Must be static" },
+      { "D": "Can not have their own methods" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "A local inner class is defined:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Inside a method or block" },
+      { "B": "Outside another class" },
+      { "C": "Outside all methods" },
+      { "D": "As a global function" },
+      { "E": "As a static member of the class" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Why are local inner classes used?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To define small helper classes" },
+      { "B": "For create static methods" },
+      { "C": "For define global variables" },
+      { "D": "For replace inheritance" },
+      { "E": "For override methods" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "What is a limitation of local inner classes?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "They cannot have static members" },
+      { "B": "They must only exist in constructors" },
+      { "C": "They must be abstract" },
+      { "D": "They must always be private" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "What is an anonymous inner class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A class without a name" },
+      { "B": "A class that is static by default" },
+      { "C": "A nested class declared in a global block" },
+      { "D": "A class used for private methods only" },
+      { "E": "A class used for inheritance" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "What is the default access level of a “nested class” in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Private, by default" },
+      { "B": "Public, by default" },
+      { "C": "Protected, by default" },
+      { "D": "Friend, by default" },
+      { "E": "Static, by default" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "How can a nested class be useful in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Allows encapsulation of a related class" },
+      { "B": "It is used to define static members" },
+      { "C": "It is useful for handling class inheritance" },
+      { "D": "It allows one class to inherit another class" },
+      { "E": "It forces the outer class to be private" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Which of the following is true about the relationship between a nested class and the outer class in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "A nested class is not dependent on an object of the outer class"
+      },
+      { "B": "A outer class cannot be a friend of the nested class" },
+      { "C": "A outer class is a subclass of the nested class" },
+      {
+        "D": "A outer class can access the nested class's non-static data directly"
+      },
+      { "E": "A outer class always inherits from the nested class" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Which of the following statements is true about the lifetime of a nested class object?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "The lifetime of a nested class object is independent of the outer class."
+      },
+      {
+        "B": "The nested class object is destroyed when the outer class object is destroyed."
+      },
+      {
+        "C": "The nested class object cannot be created independently of the outer class."
+      },
+      {
+        "D": "The nested class object cannot exist after the outer class object is destroyed."
+      },
+      {
+        "E": "A nested class object always exists as long as the outer class object exists."
+      }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "What is a constructor in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A function that is called when an object is created" },
+      { "B": "A function that is called when an object is destroyed" },
+      { "C": "A function that is used to define a class" },
+      { "D": "A function that returns a value" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "What is the purpose of a destructor in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To destroy an object and free memory" },
+      { "B": "To initialize object data members" },
+      { "C": "To change the value of object data members" },
+      { "D": "To create an object" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Which of the following is true about constructors?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Constructors must have the same name as the class" },
+      { "B": "Constructors can called when an object is destroyed" },
+      { "C": "Constructors can invoked explicitly by the user" },
+      { "D": "Constructors can multiple destructors" },
+      { "E": "Constructors can return values" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "How many destructors can a class have?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "One" },
+      { "B": "Eleven" },
+      { "C": "Fifteen" },
+      { "D": "Multiple" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Which of the following constructors is called when no arguments are passed during object creation?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Default constructor" },
+      { "B": "Parameterized symbol" },
+      { "C": "Copy tool" },
+      { "D": "Move symbol" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Can a constructor be overloaded?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, with different parameters" },
+      { "B": "No, only change name" },
+      { "C": "Only with code" },
+      { "D": "No, only open" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Can a constructor be private?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, to prevent object creation" },
+      { "B": "No, constructors must always be public" },
+      { "C": "No, only for base classes" },
+      { "D": "No, the must class is abstract" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "How is a copy constructor defined in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Passing an object to a constructor by reference" },
+      { "B": "Copying an object’s constructor by reference" },
+      { "C": "Copying destructor explicitly" },
+      { "D": "Copying the explicitly" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Can a constructor be virtual?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No, constructors cannot be virtual" },
+      { "B": "Yes, but only if the class is abstract" },
+      { "C": "Yes, constructors can be virtual in base classes" },
+      { "D": "Yes, but only for copy constructors" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "When does a destructor get called in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "When an object goes out of scope" },
+      { "B": "When a constructor finishes" },
+      { "C": "When a class is declared" },
+      { "D": "Before an object is created" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "What is a default constructor?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A constructor that takes no arguments" },
+      { "B": "A constructor that returns one argument" },
+      { "C": "A constructor that returns object data" },
+      { "D": "A constructor that returns a value" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "What will happen if a destructor is not explicitly defined in a class?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A destructor is provided automatically" },
+      { "B": "The object will not be created" },
+      { "C": "Memory will not be released" },
+      { "D": "A runtime error not created" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "How are constructors called in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Automatically when an object is created" },
+      { "B": "By invoking their names explicitly" },
+      { "C": "Only after calling the destructor" },
+      { "D": "After defining a class" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "What is the main difference between the copy constructor and assignment operator in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Copy constructor copies the object" },
+      { "B": "It assigns new values" },
+      { "C": "Both are used to copy objects" },
+      { "D": "There is no difference between the two" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Can you call a constructor manually in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No" },
+      { "B": "Yes" },
+      { "C": "Yes, but only within the class" },
+      { "D": "Yes, but only for parameterized constructors" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "What does the delete operator do in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It calls the destructor of an object" },
+      { "B": "It creates new memory" },
+      { "C": "It initializes the constructor" },
+      { "D": "It initializes the destructor" },
+      { "E": "It creates new task" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "What is the output when a destructor is called after an object goes out of scope?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The destructor frees the resources" },
+      { "B": "The object data is printed" },
+      { "C": "A memory leak occurs" },
+      { "D": "The object is reinitialized" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Can a function be overloaded by only changing the number of parameters?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, changing the number of parameters is enough" },
+      { "B": "No, both the number and types of parameters must change" },
+      { "C": "No, both the names and types of object must change" },
+      { "D": "But only for constructors" },
+      { "E": "But the return type is also different" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Which of these is a programming language?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Python" },
+      { "B": "Banana" },
+      { "C": "Car" },
+      { "D": "Shirt" },
+      { "E": "Apple" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "What will happen if you overload a function with the same number of parameters but different return types?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Give a return error" },
+      { "B": "It will work fine" },
+      { "C": "It will cause a runtime error" },
+      { "D": "It will ignore the return type" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Can constructors be overloaded in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, they can" },
+      { "B": "No, they can’t" },
+      { "C": "No, only constructors" },
+      { "D": "Only parameterized constructors" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Can you overload operators in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, you can overload all operators" },
+      { "B": "No, operator just overloading is not allowed" },
+      { "C": "You can only overload arithmetic operators" },
+      { "D": "No, only overload comparison operators" },
+      { "E": "You can just overload arithmetic objects" }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Can you overload the ++ (increment) operator in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, the ++ operator can be overloaded" },
+      { "B": "No, the ++ operator not be overloaded" },
+      { "C": "No, you can only overload for built-in types" },
+      { "D": "No, ++ operator not be overloaded for objects" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "What is the purpose of operator overloading?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To use operators with user-defined data types" },
+      { "B": "To change the behavior of built-in functions" },
+      { "C": "To make improve performance" },
+      { "D": "To make code more concise" },
+      { "E": "To make the program more complex" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "How do you overload the [] operator in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "By defining a function called operator[]" },
+      { "B": "By defining a function called index[]" },
+      { "C": "By using the [] keyword in the constructor" },
+      { "D": "By using the overload[] function" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Can a function with the same name but different return types be overloaded?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No, only the parameter list can differ" },
+      { "B": "Yes, by changing the return type" },
+      { "C": "Yes, if the function parameters are different" },
+      { "D": "Yes, by only for constructors" },
+      { "E": "Yes, if the function symbols are different" }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "What happens when you overload a function with the same number of parameters but with different types?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The compiler selects the correct function" },
+      { "B": "The last work function is always used" },
+      { "C": "Only the cause an error" },
+      { "D": "Only the default constructor is used" },
+      { "E": "The last name function is allow used" }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "What is the correct way to overload a function that takes two parameters of different types?",
+    "questionDown": "",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "Both a and b are valid overloads" },
+      { "B": "Void func(int, float) and void func(float, int);" },
+      { "C": "Void func(float, int);" },
+      { "D": "Void func(int, float);" },
+      { "E": "Void func(float, int,void);" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Can you overload the new and delete operators in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, you can" },
+      { "B": "No, you can't" },
+      { "C": "Yes, but only for memory management" },
+      { "D": "Yes, but only for objects" },
+      { "E": "No, just change to symbols" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Which function can be used to overload the << operator?",
+    "questionDown": "",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "Overload function" },
+      { "B": "Both operating functions" },
+      { "C": "Both member functions" },
+      { "D": "Only member function" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Which of the following is a valid operator overloading?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int operator+(int a, int b)" },
+      { "B": "int operator(int a, int )*" },
+      { "C": "int operator(int a, int b) {}" },
+      { "D": "int operator();" },
+      { "E": "int operator*(int a, int b))" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Can the sizeof operator be overloaded in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No, sizeof cannot be overloaded" },
+      { "B": "You can overload sizeof for classes parameters" },
+      { "C": "Yes, you can overload sizeof for classes only" },
+      { "D": "Yes, you can overload sizeof for arrays only" },
+      { "E": "Yes, you can overload sizeof" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "What is a virtual function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A function that is virtual declared in the base class" },
+      { "B": "A function must can be called without an object" },
+      { "C": "A function must is only called by the base class" },
+      { "D": "A function must has no definition" },
+      { "E": "A function must has no called the definition" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "What is the purpose of virtual functions in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To allow function overriding" },
+      { "B": "To create performance" },
+      { "C": "To prevent function overriding" },
+      { "D": "To create static polymorphism" },
+      { "E": "To prevent function compile" }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "When is the correct virtual function called in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "At runtime" },
+      { "B": "At compile time" },
+      { "C": "Only when the function is private" },
+      { "D": "Only when the function is static" },
+      { "E": "At compile data" }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "Which keyword is used to declare a virtual function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Virtual" },
+      { "B": "Override" },
+      { "C": "Dynamic" },
+      { "D": "Polymorphic" },
+      { "E": "Classes" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Can a constructor be declared as virtual in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No, can not" },
+      { "B": "Yes but one program" },
+      { "C": "Only in base classes" },
+      { "D": "Only in derived classes" },
+      { "E": "Yes but all symbols" }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "What happens if a derived class does not override a virtual function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The function from the base class is called" },
+      { "B": "The program from throw an error" },
+      { "C": "The program class will call its own function" },
+      { "D": "The program from the base class is skipped" },
+      { "E": "The program class will delete object" }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "What is the difference between virtual functions and non-virtual functions?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Non-virtual functions cannot be overridden" },
+      { "B": "Virtual functions are resolved at compile time" },
+      { "C": "Virtual functions are faster to execute" },
+      { "D": "Virtual functions cannot have arguments" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "When does the dynamic binding of a virtual function occur?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "At runtime when the object type is occur" },
+      { "B": "Before when the function is public" },
+      { "C": "Before the program starts" },
+      { "D": "Just compile time" },
+      { "E": "Just compile data" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Can a derived class call a base class virtual function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, the base class function can be called directly" },
+      { "B": "No, it must override the virtual function first" },
+      { "C": "No, only if the function is non-virtual in the base class" },
+      { "D": "No, it cannot call a virtual function from the base class" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "Which of these is used to repeat actions in a program?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Loop" },
+      { "B": "Spoon" },
+      { "C": "Chair" },
+      { "D": "Window" },
+      { "E": "Phone" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "What is the syntax to declare a pure virtual function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "virtual void function+() = 0;" },
+      { "B": "void function() = 0;" },
+      { "C": "void function();" },
+      { "D": "void function ()" },
+      { "E": "void { return 0; }()" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "What does “variable” mean in programming?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A storage location for data" },
+      { "B": "A type of food" },
+      { "C": "A musical instrument" },
+      { "D": "A sports tool" },
+      { "E": "A painting style" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Which symbol is used to end a statement in many languages like C++ and Java?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ";" },
+      { "B": "," },
+      { "C": "." },
+      { "D": ":" },
+      { "E": "!" }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "Can you call a virtual function inside a constructor or destructor?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No, virtual functions do not work in constructors" },
+      { "B": "Yes, and it will behave like any other function" },
+      { "C": "Yes, but only if the constructor is virtual" },
+      { "D": "Yes, but only in destructors" },
+      { "E": "Yes, and will in destructors functions" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "What is the significance of the virtual keyword in function declarations?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It allows the function to be overridden" },
+      { "B": "It makes that the function is executed at time" },
+      { "C": "It makes the function static" },
+      { "D": "It makes the function private" },
+      { "E": "It makes the function names" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Which of the following will cause a compilation error when using virtual functions?",
+    "questionDown": "",
+    "correctAnswer": "D",
+    "answers": [
+      { "A": "Calling a virtual function from a constructor" },
+      { "B": "Overriding a virtual function in a derived class" },
+      { "C": "Making a pure virtual function" },
+      { "D": "Making a virtual function static" },
+      { "E": "Overriding a function in a change class" }
+    ]
+  },
+  {
+    "questionNumber": 306,
+    "questionUp": "What does the virtual keyword enable in terms of polymorphism?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Runtime polymorphism" },
+      { "B": "Static polymorphism objects" },
+      { "C": "Compile-time polymorphism" },
+      { "D": "Compile-Data polymorphism" },
+      { "E": "Static polymorphism programs" }
+    ]
+  },
+  {
+    "questionNumber": 307,
+    "questionUp": "What is an “if statement” used for?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To make decisions" },
+      { "B": "To draw pictures" },
+      { "C": "To play music" },
+      { "D": "To send emails" },
+      { "E": "To bake a cake" }
+    ]
+  },
+  {
+    "questionNumber": 308,
+    "questionUp": "What is a function in programming?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A reusable block of code" },
+      { "B": "A type of car" },
+      { "C": "A kitchen tool" },
+      { "D": "A dance move" },
+      { "E": "A piece of clothing" }
+    ]
+  },
+  {
+    "questionNumber": 309,
+    "questionUp": "Which one is a type of loop?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "for" },
+      { "B": "jump" },
+      { "C": "slide" },
+      { "D": "paint" },
+      { "E": "ring" }
+    ]
+  },
+  {
+    "questionNumber": 310,
+    "questionUp": "Which of the following allows for generalized programming in C++?",
+    "questionDown": "",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "Generalized" },
+      { "B": "Inheritance" },
+      { "C": "Polymorphism" },
+      { "D": "Static methods" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 311,
+    "questionUp": "Which feature in C++ allows a function to work with different data types?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Function templates" },
+      { "B": "Overloading" },
+      { "C": "Recursion" },
+      { "D": "Operator overloading" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 312,
+    "questionUp": "How can you create a template for a class in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Template <typename T> class MyClass {}" },
+      { "B": "Class MyClass template {}" },
+      { "C": "Class <typename T> MyClass {}" },
+      { "D": "MyClass template <typename T>{}" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 313,
+    "questionUp": "Which keyword is used to define a template in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Template" },
+      { "B": "Class" },
+      { "C": "Function" },
+      { "D": "Generic" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 314,
+    "questionUp": "What is the purpose of typename in templates?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It specifies a type parameter" },
+      { "B": "It defines a specific data type" },
+      { "C": "It creats a constant" },
+      { "D": "It creates a static variable" },
+      { "E": "It defines a data type numbers" }
+    ]
+  },
+  {
+    "questionNumber": 315,
+    "questionUp": "What is the syntax for a template function?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Template <Typename T> Void Func(T A) {}" },
+      { "B": "Function <T> Void Func(T A) {}" },
+      { "C": "Function Template <Typename T> Void Func(" },
+      { "D": "Function Void Func<T>(T A) {}" },
+      { "E": "Function Void Func<T>(T A) {} Funt" }
+    ]
+  },
+  {
+    "questionNumber": 316,
+    "questionUp": "Can templates be used to create container classes like vectors and lists?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, Templates can create generic container classes" },
+      { "B": "No, templates cannot be used for containers" },
+      { "C": "No, only arrays can be created with templates" },
+      { "D": "No, but only for integers" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 317,
+    "questionUp": "What type of polymorphism is achieved through templates?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Compile-time polymorphism" },
+      { "B": "Runtime polymorphism" },
+      { "C": "Runtime Static polymorphism" },
+      { "D": "Runtime Dynamic polymorphism" },
+      { "E": "Runtime Data polymorphism" }
+    ]
+  },
+  {
+    "questionNumber": 318,
+    "questionUp": "Which of the following is an example of a template specialization in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Template <> class MyClass<int> {}" },
+      { "B": "MyClass <class T> class MyClass {};" },
+      { "C": "MyClass int T> class MyClass {};" },
+      { "D": "MyClass typename T> class MyClass{};" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 319,
+    "questionUp": "What is a common use case for generalized programming in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Creating functions that work with multiple data types." },
+      { "B": "Writing specific functions for each data type" },
+      { "C": "Using arrays instead of containers" },
+      { "D": "Avo Writing iding inheritance in programming" },
+      { "E": "Using functions for each data type" }
+    ]
+  },
+  {
+    "questionNumber": 320,
+    "questionUp": "Can you use non-type parameters in C++ templates?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, non-type parameters can be used in templates" },
+      { "B": "No, templates only accept data types as parameters" },
+      { "C": "No, but only for class templates" },
+      { "D": "No, it is not possible to use non-type parameters" },
+      { "E": "No, but only for programtemplates" }
+    ]
+  },
+  {
+    "questionNumber": 321,
+    "questionUp": "Which of these is a data type?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Integer" },
+      { "B": "Swimming" },
+      { "C": "Laughing" },
+      { "D": "Dancing" },
+      { "E": "Sleeping" }
+    ]
+  },
+  {
+    "questionNumber": 322,
+    "questionUp": "Can you overload a template function in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, template functions can be overloaded" },
+      { "B": "No, template functions cannot be overloaded" },
+      { "C": "No, but only for data types" },
+      { "D": "No, function overloading is only for non-template functions" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 323,
+    "questionUp": "What is the primary advantage of generalized programming with templates?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It allows code reuse for multiple data types" },
+      { "B": "It makes the code run faster" },
+      { "C": "It reduces the memory usage of the program" },
+      { "D": "It makes simplifies debugging" },
+      { "E": "It reduces the chage code" }
+    ]
+  },
+  {
+    "questionNumber": 324,
+    "questionUp": "What does the compiler do when a template is instantiated in C++?",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It generates code based on the specified data type" },
+      { "B": "It template an error if the type is not valid" },
+      { "C": "It skips the template and uses a change function" },
+      { "D": "It template the template into a static method" },
+      { "E": "None of the above" }
+    ]
+  }
+]

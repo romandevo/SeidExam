@@ -51,6 +51,12 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './xarici-dil-2.json';
   } else if (
+    locationPath === '/exams/programlasdirmanin-esaslari' ||
+    locationPath === '/exams/programlasdirmanin-esaslari.html' ||
+    locationPath === '/SeidExam/exams/programlasdirmanin-esaslari.html'
+  ) {
+    endpoint = './programlasdirmanin-esaslari.json';
+  } else if (
     locationPath === '/exams/fizika' ||
     locationPath === '/exams/fizika.html' ||
     locationPath === '/SeidExam/fizika.html'
