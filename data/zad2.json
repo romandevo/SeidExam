@@ -1,0 +1,3877 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Informasiya mühafizəsi üçün fiziki vasitələrə aid olan hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Kabel siminin mühafizə vasitələri" },
+      { "B": "Firewall proqram təminatı" },
+      { "C": "Şifrə idarəetmə sistemi" },
+      { "D": "Antivirus proqramları" },
+      { "E": "Bulud əsaslı ehtiyat nüsxələmə" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Informasiya mühafizəsi üçün fiziki vasitələrə aid olan hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Elektrik qida vasitələri" },
+      { "B": "VPN əlaqəsi" },
+      { "C": "İstifadəçi icazələrinin idarə edilməsi" },
+      { "D": "Proqram yeniləmələri" },
+      { "E": "Parol təhlükəsizlik sistemi" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Informasiya mühafizəsi üçün fiziki vasitələrə aid olan hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Arxivləşdirmə" },
+      { "B": "Firewall qurğuları" },
+      { "C": "Şəbəkə analiz proqramı" },
+      { "D": "Əməliyyat sistemi yeniləmələri" },
+      { "E": "Elektron poçt filtrləri" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Informasiya mühafizəsi üçün fiziki vasitələrə aid olan hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Disk massivləri" },
+      { "B": "Antivirus skanerləri" },
+      { "C": "Parol menecerləri" },
+      { "D": "VPN serverləri" },
+      { "E": "Şifrləmə alqoritmləri" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Informasiya mühafizəsi üçün proqram vasitələrinə aid olan hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Antivirus proqramı" },
+      { "B": "Kabel müdafiə qutusu" },
+      { "C": "Elektrik generasiya sistemi" },
+      { "D": "Kamera müşahidə sistemi" },
+      { "E": "Əl ilə giriş jurnalı" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Informasiya mühafizəsi üçün proqram vasitələrinə aid olan hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Səlahiyyətləri məhdudlaşdırma sistemləri" },
+      { "B": "Kabel çəkmə vasitələri" },
+      { "C": "Elektrik tənzimləyiciləri" },
+      { "D": "Fiziki mühafizə divarları" },
+      { "E": "Ofis planlaşdırma proqramı" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Informasiya mühafizəsi üçün proqram vasitələrinə aid olan hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Müraciət nəzarət üçün proqram vasitələri" },
+      { "B": "UPS enerji mənbəyi" },
+      { "C": "Kabel bağlayıcıları" },
+      { "D": "Təhlükəsizlik kameraları" },
+      { "E": "Fiziki qapı kilidləri" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Mühafizənin inzibati ölçü vahidlərinə hansılar aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Otaqlara müraciət nəzarət" },
+      { "B": "Proqram təminatının kodlaşdırılması" },
+      { "C": "Kabel sınaq cihazları" },
+      { "D": "Disk ehtiyat nüsxələmə proqramı" },
+      { "E": "Firewall konfiqurasiya faylı" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Mühafizənin inzibati ölçü vahidlərinə hansılar aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Firma təhlükəsizlik strategiyası yaradılması" },
+      { "B": "Qapıların kilidlənməsi" },
+      { "C": "Kabel montaj cihazları" },
+      { "D": "Disk monitor proqramı" },
+      { "E": "İstilik tənzimləyici sistem" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Mühafizənin inzibati ölçü vahidlərinə hansılar aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fövqəladə hallarda iş planı" },
+      { "B": "Antivirus yeniləməsi" },
+      { "C": "Şəbəkə kabellərinin yenilənməsi" },
+      { "D": "Ofis mebellərinin yerləşdirilməsi" },
+      { "E": "UPS sisteminin dəyişdirilməsi" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Avadanlığın işinin pozulmasına aid olan nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Kabel sisteminin nasazlığı" },
+      { "B": "Antivirus fəaliyyətsizliyi" },
+      { "C": "Parolun unudulması" },
+      { "D": "Proqram səhvləri" },
+      { "E": "Fayl adı dəyişməsi" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Avadanlığın işinin pozulmasına aid olan nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Elektrik qidalanmasında yaranan fasilə" },
+      { "B": "Proqram təminatının versiya fərqləri" },
+      { "C": "İnformasiya paylaşımı pozuntusu" },
+      { "D": "Sənədin səhv formatda saxlanması" },
+      { "E": "İstifadəçi səhvləri" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Avadanlığın işinin pozulmasına aid olan nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Disk sistemləri" },
+      { "B": "Qrafik interfeys xətası" },
+      { "C": "E-poçt göndəriş nasazlığı" },
+      { "D": "Proqramın səhv tərcüməsi" },
+      { "E": "Şəbəkə istifadəçisi dəyişməsi" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hansı sıradan çıxan vasitə avadanlığın işinin pozulmasına səbəb olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hamısı doğrudur" },
+      { "B": "Heç biri təsir etmir" },
+      { "C": "Təkcə proqram təminatı" },
+      { "D": "Sadəcə elektrik nasazlığı" },
+      { "E": "Yalnız kabel sistemi" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hansı qüsurlar avadanlığın işinin pozulmasına səbəb olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hamısı doğrudur" },
+      { "B": "Heç biri təsir etmir" },
+      { "C": "Yalnız istifadəçi xətaları" },
+      { "D": "Təkcə disk nasazlığı" },
+      { "E": "Yalnız enerji fasilələri" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hansının səhvləri informasiyanın itirilməsinə səbəb olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hamısı doğrudur" },
+      { "B": "Heç biri" },
+      { "C": "Yalnız proqram səhvləri" },
+      { "D": "Sadəcə fiziki qüsurlar" },
+      { "E": "Təkcə insan səhvləri" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxfilik səviyyəsinə görə informasiya neçə sinfə bölünür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "2" },
+      { "C": "3" },
+      { "D": "5" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxfiliyin səfərincə sinfi hansı informasiyadır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "açıq" },
+      { "B": "məxfi" },
+      { "C": "daxili" },
+      { "D": "çox məxfi" },
+      { "E": "xüsusi" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxfiliyin birinci sinfi hansı informasiyadır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "daxili" },
+      { "B": "məxfi" },
+      { "C": "açıq" },
+      { "D": "tam məxfi" },
+      { "E": "xarici" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxfiliyin ikinci sinfi hansı informasiyadır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "məxfi" },
+      { "B": "açıq" },
+      { "C": "daxili" },
+      { "D": "gizli deyil" },
+      { "E": "ümumi" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Xidmət edən personalın və istifadəçilərin səhvləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzgündür" },
+      { "B": "Yalnız istifadəçilərin səhvləri" },
+      { "C": "Yalnız personalın səhvləri" },
+      { "D": "Proqram təminatı səhvləri" },
+      { "E": "Texniki avadanlıq nasazlıqları" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxfiliyin üçüncü sinfi hansı informasiyadır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "gizli" },
+      { "B": "açıq" },
+      { "C": "ümumi" },
+      { "D": "daxili" },
+      { "E": "xarici" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiya kitabçaları hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kütləvi informasiya vasitələrində çap olunmuş məlumatlar hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Maliyyə hesabatları hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Keçmiş illərin mətn informasiyaları hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firmanın daxili telefon məlumat kitabçası hansı sinfə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İclasların hesabatları hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Real maliyyə məlumatları hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "0" },
+      { "C": "1" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firmanın planları hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "0" },
+      { "C": "1" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firmanın layihələri hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "0" },
+      { "C": "1" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Müştəri haqqında tam məlumatlar toplusu hansı sinfə aiddirlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "0" },
+      { "C": "1" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hamı üçün ümumi informasiya hansı sinfə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter cinayətlərinin qarşısını almaq üçün texniki ölçü vahidləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Siqnalizasiya sisteminin quraşdırılması" },
+      { "B": "Brauzer tarixi silmək" },
+      { "C": "Ofis proqramlarını yeniləmək" },
+      { "D": "Qovluq yaratmaq" },
+      { "E": "Şifrəni dəyişmək" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Açıq şəkildə əlçatmaz informasiya hansı sinfə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "0" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücumdan zərər çıxma neçə sinfə bölünür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5 sinif" },
+      { "B": "2 sinif" },
+      { "C": "3 sinif" },
+      { "D": "6 sinif" },
+      { "E": "4 sinif" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücumun ehtimalı neçə sinfə bölünür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "5" },
+      { "C": "4" },
+      { "D": "3" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücumun səfərincə ehtimalı göstərir ki, hücum olub...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hücum olmayıb" },
+      { "B": "Şifrə sındırılıb" },
+      { "C": "Verilənlər oğurlanıb" },
+      { "D": "Sistem yenilənib" },
+      { "E": "Gecə saatlarında" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücumun ehtimalı (1) göstərir ki, hücum olub",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ildə bir dəfədən az" },
+      { "B": "ildə bir neçə dəfə" },
+      { "C": "ayda bir dəfə" },
+      { "D": "hər gün" },
+      { "E": "həftədə bir dəfə" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücumun ehtimalı (2) göstərir ki, hücum olub",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Təxminən ildə bir dəfə" },
+      { "B": "ildə on dəfə" },
+      { "C": "ayda bir dəfə" },
+      { "D": "dəqiq bilinmir" },
+      { "E": "hər gün" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter informasiyasının saxtalaşdırılması nəyə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İcazəsiz müraciət" },
+      { "B": "Virus yaratmaq" },
+      { "C": "Yaddaşı təmizləmək" },
+      { "D": "Əlaqəni kəsmək" },
+      { "E": "E-poçtu göndərmək" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter informasiyasının oğurlanması nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İcazəsiz müraciət" },
+      { "B": "Qovluğun silinməsi" },
+      { "C": "Faylın dəyişdirilməsi" },
+      { "D": "Skan etmə" },
+      { "E": "Saxlama" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlarının hansı növləri vardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Filtrasiya" },
+      { "B": "Şəbəkə analizatoru" },
+      { "C": "Firewall" },
+      { "D": "Monitorinq" },
+      { "E": "Yükləmə agenti" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlarının hansı növləri vardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yoluxmaya qarşı" },
+      { "B": "Yaddaş artırıcı" },
+      { "C": "Backup proqramı" },
+      { "D": "Ekran qoruyucu" },
+      { "E": "Səs tənzimləyici" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlarının hansı növləri vardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Viruslara qarşı" },
+      { "B": "Brauzer genişləndiricisi" },
+      { "C": "Şrift yükləyici" },
+      { "D": "Video çevirici" },
+      { "E": "PDF oxuyucu" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Filtrasiya edən antivirus proqramları nəyi məhəl qoyur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Virusların keçməsini" },
+      { "B": "Monitor parlaqlığını" },
+      { "C": "Klaviatura sürətini" },
+      { "D": "Rəng sxemini" },
+      { "E": "Çap sırasını" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Yoluxmanın qarşısını almaq üçün antivirus proqramları nə edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sistemdəki prosesləri nəzarət" },
+      { "B": "Sadəcə silir" },
+      { "C": "Ekranı qaraldır" },
+      { "D": "Proqramları dondurur" },
+      { "E": "Çap əmrlərini pozur" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Viruslara qarşı proqramlar nəyi aşkar edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ayrı-ayrı viruslar" },
+      { "B": "İnternet bağlantısı" },
+      { "C": "Fayl adlarını" },
+      { "D": "Yaddaş ölçüsünü" },
+      { "E": "İstifadəçi parolunu" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Verilənlərin şifrələnməsi hansı rejimlərdə yerinə yetirilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Onlayn" },
+      { "B": "Kağız üzərində" },
+      { "C": "Manual" },
+      { "D": "Arxivləşdirilmiş" },
+      { "E": "Şəkil formatında" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Verilənlərin şifrələnməsi hansı rejimlərdə yerinə yetirilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Offline" },
+      { "B": "Kağızda" },
+      { "C": "Floppy disklərdə" },
+      { "D": "CD vasitəsilə" },
+      { "E": "Telefon zəngi ilə" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məlumatların şifrələnməsi standartı DES açılması nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Data Encryption Standard" },
+      { "B": "Digital Encoding System" },
+      { "C": "Data Exit Service" },
+      { "D": "Document Encrypted Source" },
+      { "E": "Default Encryption Structure" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məlumatların şifrələnməsi standartı DES hansı firma tərəfindən işlənib?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "IBM" },
+      { "B": "Microsoft" },
+      { "C": "Intel" },
+      { "D": "Oracle" },
+      { "E": "Google" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "DES standartı hansı uzunluqda şifrdən istifadə edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "64 Bit" },
+      { "B": "32 Bit" },
+      { "C": "128 Bit" },
+      { "D": "256 Bit" },
+      { "E": "512 Bit" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məlumatların şifrələnməsi standartı DES nə cür olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Simmetrik" },
+      { "B": "Assimetrik" },
+      { "C": "Paralel" },
+      { "D": "Təsadüfi" },
+      { "E": "Modullu" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məlumatların şifrələnməsi standartı RSA nə cür olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Assimetrik" },
+      { "B": "Simmetrik" },
+      { "C": "Riyazi" },
+      { "D": "Binar" },
+      { "E": "Lineer" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "RSA standartı yaradılıb...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3 alim tərəfindən yaradılmışdır" },
+      { "B": "Bir mühəndis tərəfindən" },
+      { "C": "Avtomatik proqramla" },
+      { "D": "Alqoritm tərəfindən" },
+      { "E": "Tələbələr qrupu tərəfindən" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Məxfilik" },
+      { "B": "Rəng" },
+      { "C": "Yaddaş" },
+      { "D": "Tərcümə" },
+      { "E": "Printer bağlantısı" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütövlük" },
+      { "B": "Format" },
+      { "C": "Əlaqə" },
+      { "D": "Qovluq adı" },
+      { "E": "Dil seçimi" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Müəllifin eynliyi" },
+      { "B": "Tarix" },
+      { "C": "Fayl adı" },
+      { "D": "İşarələr" },
+      { "E": "Rəqəmlər" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Apelyasiyalaşma" },
+      { "B": "Baxış sayı" },
+      { "C": "Təkrar sorğu" },
+      { "D": "Yaddaş azlığı" },
+      { "E": "Rəng uyğunluğu" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Etibarlılıq" },
+      { "B": "Monitor parlaqlığı" },
+      { "C": "Brauzer tarixi" },
+      { "D": "Ekran qətnaməsi" },
+      { "E": "Fayl uzantısı" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dəqiqlik" },
+      { "B": "Yaddaş tipi" },
+      { "C": "Şrift ölçüsü" },
+      { "D": "Dosya formatı" },
+      { "E": "Kompüter markası" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dəqiqliyə nəzarət" },
+      { "B": "Sürət artırılması" },
+      { "C": "Əlaqə quraşdırılması" },
+      { "D": "Parol dəyişməsi" },
+      { "E": "Brauzer seçimi" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Nəzarət olunma" },
+      { "B": "Mobil tətbiq" },
+      { "C": "Disk formatlama" },
+      { "D": "Kameraya qoşulma" },
+      { "E": "Məlumat sıralama" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanın təhlükəsizlik kateqoriyasına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İdentifikasiyaya nəzarət" },
+      { "B": "Şəkil ölçüləri" },
+      { "C": "Dil dəyişikliyi" },
+      { "D": "Video keyfiyyəti" },
+      { "E": "Fayl yeri" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Üz gizgiləri" },
+      { "B": "Parol kodu" },
+      { "C": "IP ünvanı" },
+      { "D": "Login adı" },
+      { "E": "Kart nömrəsi" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Barmaq izi" },
+      { "B": "Sosial şəbəkə" },
+      { "C": "E-poçt ünvanı" },
+      { "D": "Şifrə sualı" },
+      { "E": "Telefon nömrəsi" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Gözün tor qişası" },
+      { "B": "Qovluq adı" },
+      { "C": "Səsli əmrlər" },
+      { "D": "İnternet bağlantısı" },
+      { "E": "Tarixçə faylı" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Əl forması" },
+      { "B": "Məktub şablonu" },
+      { "C": "Daxili yaddaş" },
+      { "D": "Ekran ölçüsü" },
+      { "E": "Router növü" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Səs parametri" },
+      { "B": "Mesaj məzmunu" },
+      { "C": "QR kod" },
+      { "D": "İstifadəçi adı" },
+      { "E": "Fayl uzantısı" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İmza forması" },
+      { "B": "IP ünvanı" },
+      { "C": "Qovluq adı" },
+      { "D": "Şifrə göstəricisi" },
+      { "E": "Monitor parametri" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "“Məntiq bombalarının” müxtəlifliyi hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Müvəqqəti" },
+      { "B": "Yaddaşlı" },
+      { "C": "Zamanla əlaqəli deyil" },
+      { "D": "Təhlükəsiz" },
+      { "E": "Şifrəli" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "“Məntiq bombalarının” müxtəlifliyi hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Troyan Atı" },
+      { "B": "Firewall" },
+      { "C": "Antivirus" },
+      { "D": "Skaner" },
+      { "E": "Proxy" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "“Məntiq bombalarının” müxtəlifliyi hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Məntiq bomba və Troyan Atı" },
+      { "B": "Yalnız virus" },
+      { "C": "Sadəcə şəbəkə" },
+      { "D": "Backup proqramı" },
+      { "E": "Proqramlaşdırma dili" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter viruslarının müxtəlifliyi hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sadə" },
+      { "B": "Əlavə" },
+      { "C": "Gizli" },
+      { "D": "Virtual" },
+      { "E": "Çoxsaylı" }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter viruslarının müxtəlifliyi hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Parçalanmış" },
+      { "B": "Yenilənmiş" },
+      { "C": "Kompilyasiya olunmuş" },
+      { "D": "Onlayn rejimli" },
+      { "E": "Dinamik" }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları yayılma vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Disket" },
+      { "B": "Şəbəkə kartı" },
+      { "C": "Printer" },
+      { "D": "Monitor" },
+      { "E": "Web kamera" }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları yayılma vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "CD diskləri" },
+      { "B": "RAM" },
+      { "C": "Ana platan" },
+      { "D": "Şəbəkə kabeli" },
+      { "E": "Qulaqlıq" }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları yayılma vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dividi diskləri" },
+      { "B": "Mouse" },
+      { "C": "Klaviatura" },
+      { "D": "Bluetooth" },
+      { "E": "UPS cihazı" }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları yayılma vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fləşkart" },
+      { "B": "Skaner" },
+      { "C": "Printer" },
+      { "D": "USB kabeli" },
+      { "E": "Adapter" }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları hansı vasitələrlə yayıla bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Kompüter şəbəkəsi ilə" },
+      { "B": "Modemlə" },
+      { "C": "Səs sistemi ilə" },
+      { "D": "Qrafik kartı ilə" },
+      { "E": "Ekran vasitəsilə" }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları hansı vasitələrlə yayıla bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnternetlə" },
+      { "B": "Projektorla" },
+      { "C": "Mobil telefonla" },
+      { "D": "Mouse ilə" },
+      { "E": "CD oxuyucu ilə" }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları yayılma vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Əməliyyat sistemi ilə" },
+      { "B": "Video kartı ilə" },
+      { "C": "Batareya ilə" },
+      { "D": "Klaviatura ilə" },
+      { "E": "Ruter ilə" }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları yayılma vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Tətbiqi proqramla" },
+      { "B": "Monitor ayarları ilə" },
+      { "C": "Səs faylları ilə" },
+      { "D": "Sistem parametrləri ilə" },
+      { "E": "Fan sürəti ilə" }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter virusları yayılma vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şəbəkə drayveri ilə" },
+      { "B": "E-poçt hesabı ilə" },
+      { "C": "IP ünvanı ilə" },
+      { "D": "Browserlə" },
+      { "E": "Proyektorla" }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fasiləsiz elektrik qida mənbəyi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "UPS" },
+      { "B": "Printer" },
+      { "C": "Scanner" },
+      { "D": "Mouse" },
+      { "E": "Switch" }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fasiləsiz elektrik qida mənbəyi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "UBS" },
+      { "B": "LCD" },
+      { "C": "HUB" },
+      { "D": "BIOS" },
+      { "E": "LAN" }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fasiləsiz elektrik qida mənbəyi eyni zamanda hansı funksiyanı yerinə yetirir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Gərginlik stabilizator" },
+      { "B": "Soyutma sistemi" },
+      { "C": "Səs tənzimləyici" },
+      { "D": "Ekran koruyucu" },
+      { "E": "Yaddaş artımı" }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fasiləsiz elektrik qida mənbəyi necə olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "UPS və UBS" },
+      { "B": "CD və DVD" },
+      { "C": "RAM və ROM" },
+      { "D": "HDD və SSD" },
+      { "E": "LAN və WAN" }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxusi elektrik qida sistemləri hansı qurğularda olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Serverlər" },
+      { "B": "Mouse" },
+      { "C": "Printer" },
+      { "D": "Monitor" },
+      { "E": "Klaviatura" }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxusi elektrik qida sistemləri hansı qurğularda olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Konsentratorlar" },
+      { "B": "Skamyalar" },
+      { "C": "Modemlər" },
+      { "D": "Kondisionerlər" },
+      { "E": "Projektorlar" }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxusi elektrik qida sistemləri hansı qurğularda olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Körpülər" },
+      { "B": "Printerlər" },
+      { "C": "Monitorlar" },
+      { "D": "Mouse-lar" },
+      { "E": "Klaviaturalar" }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxusi elektrik qida sistemləri hansı qurğularda olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "HUB" },
+      { "B": "Router" },
+      { "C": "Skaner" },
+      { "D": "Web kamera" },
+      { "E": "Ekran kartı" }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fasiləsiz elektrik qida mənbəyi hansı qurğuları elektrik enerjisi ilə təmin edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Serverlər" },
+      { "C": "Routerlər" },
+      { "D": "Konsentratorlar" },
+      { "E": "Körpülər" }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fasiləsiz elektrik qida mənbəyi hansı qurğuları elektrik enerjisi ilə təmin edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "HUB" },
+      { "C": "Switch" },
+      { "D": "Modem" },
+      { "E": "Skaner" }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fasiləsiz elektrik qida üçün nə istifadə olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "UPS" },
+      { "C": "UBS" },
+      { "D": "Akkumulyator" },
+      { "E": "Gərginlik stabilizatoru" }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Arxiv faylının genişlənməsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ARJ" },
+      { "B": "TXT" },
+      { "C": "MP4" },
+      { "D": "EXE" },
+      { "E": "HTML" }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Arxiv faylının genişlənməsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ZIP" },
+      { "B": "DOC" },
+      { "C": "PDF" },
+      { "D": "XLS" },
+      { "E": "PNG" }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Arxiv faylının genişlənməsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "CAB" },
+      { "B": "JPG" },
+      { "C": "GIF" },
+      { "D": "PSD" },
+      { "E": "MP3" }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Arxiv faylının genişlənməsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "RAR" },
+      { "B": "PDF" },
+      { "C": "EXE" },
+      { "D": "DLL" },
+      { "E": "TXT" }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Xüsusi qiymətli arxivlərin dublikatlarını harada saxlamaq lazımdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Başqa bina" },
+      { "B": "Aynı otaq" },
+      { "C": "USB-də" },
+      { "D": "Ekran arxasında" },
+      { "E": "Sərt diskin üstündə" }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlarına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Dr.Web" },
+      { "B": "Firefox" },
+      { "C": "Word" },
+      { "D": "Windows Media" },
+      { "E": "Google Chrome" }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlarına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "NOD32" },
+      { "B": "Excel" },
+      { "C": "Paint" },
+      { "D": "Skype" },
+      { "E": "Notepad" }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlarına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "NORTON antivirus" },
+      { "B": "Opera" },
+      { "C": "VLC" },
+      { "D": "Discord" },
+      { "E": "Visual Studio" }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlarına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Kaspersky" },
+      { "B": "PowerPoint" },
+      { "C": "Safari" },
+      { "D": "Gmail" },
+      { "E": "Zoom" }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlarına hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "McAfee" },
+      { "B": "Teams" },
+      { "C": "Trello" },
+      { "D": "Slack" },
+      { "E": "Audacity" }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter viruslarından müdafiə vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzgündür" },
+      { "B": "Antivirus proqramları" },
+      { "C": "Firewall" },
+      { "D": "Şifrə sistemi" },
+      { "E": "Ehtiyat nüsxə" }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanı mühafizə edən aparat qurğusu hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Antivirus platası" },
+      { "B": "Monitor" },
+      { "C": "Printer" },
+      { "D": "Mouse" },
+      { "E": "Speaker" }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiyanı mühafizə edən aparat qurğu?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şəbəkə adaptərlərinin flash yaddaşı" },
+      { "B": "CD sürücüsü" },
+      { "C": "Hard disk" },
+      { "D": "Kamera" },
+      { "E": "Toz filtri" }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkələrində informasiyanın mühafizəsi hansı müraciət nəzarət üçündür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzgündür" },
+      { "B": "Səlahiyyət bölgüsü" },
+      { "C": "Şifrə qorunması" },
+      { "D": "Firewall istifadəsi" },
+      { "E": "Kodlaşdırma" }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkələrində informasiyanın mühafizəsi hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzgündür" },
+      { "B": "Kodlaşdırma" },
+      { "C": "Firewall" },
+      { "D": "Şifrə sistemi" },
+      { "E": "Məhdud giriş" }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İstifadəçilərin müraciət nəzarətinin təşkili vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şəbəkə əməliyyat sistemləri" },
+      { "B": "Elektrik kabelləri" },
+      { "C": "Ekran qoruyucular" },
+      { "D": "Printer proqramları" },
+      { "E": "İnternet brauzerləri" }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İstifadəçilərin səlahiyyətlərinin məhdudiyyəti hansı vasitələri ilə təşkil olunur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şəbəkə əməliyyat sistemləri" },
+      { "B": "USB portları" },
+      { "C": "Printer parametrləri" },
+      { "D": "Kamera proqramları" },
+      { "E": "Ofis şablonları" }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Müraciət məhdudiyyət vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Parollar sistemi" },
+      { "B": "Kompüter səsi" },
+      { "C": "Monitor ölçüsü" },
+      { "D": "Wi-Fi adı" },
+      { "E": "Klaviatura dili" }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Müraciət məhdudiyyət vasitələri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Verilənlərin kodlaşdırılması" },
+      { "B": "Qrafik dizayn" },
+      { "C": "Ekran parlaqılığı" },
+      { "D": "Sistem saatı" },
+      { "E": "Arxa fon" }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücuma məruz qalan şəbəkə komponentləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Server" },
+      { "B": "Kabel" },
+      { "C": "Monitor" },
+      { "D": "Modem" },
+      { "E": "Router" }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücuma məruz qalan şəbəkə komponentləri...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İşçi stansiyası" },
+      { "B": "Mouse" },
+      { "C": "Printer" },
+      { "D": "HDD" },
+      { "E": "Skamyalar" }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücuma məruz qalan şəbəkə komponentləri...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Kommunikasiya qovşaqları" },
+      { "B": "Web saytlar" },
+      { "C": "İnternet provayderi" },
+      { "D": "Mobil cihazlar" },
+      { "E": "Routerlər" }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücumun ehtimalı (3) göstərir ki, hücum olub?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Təxminən ayda bir dəfə" },
+      { "B": "İldə bir dəfə" },
+      { "C": "Hər gün" },
+      { "D": "Heç vaxt" },
+      { "E": "Gündə bir neçə dəfə" }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücumun ehtimalı (4) göstərir ki, hücum olub?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Təxminən həftədə bir dəfə" },
+      { "B": "Gündəlik" },
+      { "C": "Ayda bir dəfə" },
+      { "D": "İldə iki dəfə" },
+      { "E": "Heç vaxt" }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücumun ehtimalı (5) göstərir ki, hücum olub?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Praktiki olaraq hər gün" },
+      { "B": "Ayda bir dəfə" },
+      { "C": "İldə bir dəfə" },
+      { "D": "Heç vaxt" },
+      { "E": "Həftədə bir dəfə" }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İldə bir dəfədən az olan hücumun ehtimalı hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "5" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hücuma ən çox məruz qalan xidmət serviri hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "DNS serverləri" },
+      { "B": "FTP serverləri" },
+      { "C": "SMTP serverləri" },
+      { "D": "DHCP serverləri" },
+      { "E": "Proxy serverləri" }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Təxminən ildə 1 dəfə olan hücumun ehtimalı hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "4" },
+      { "C": "5" },
+      { "D": "1" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Advizor proqramı hansı dəyişiklikləri nəzarət edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sistem faylları" },
+      { "B": "Mətn faylları" },
+      { "C": "Qrafiklər" },
+      { "D": "Sənədlər" },
+      { "E": "PDF fayllar" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Advizor proqramı hansı dəyişiklikləri nəzarət edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Reyestrlər" },
+      { "B": "Slaydlar" },
+      { "C": "Brauzer tarixçəsi" },
+      { "D": "İnternet parametrləri" },
+      { "E": "Arxiv faylları" }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Advizor proqramı hansı dəyişiklikləri nəzarət edir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yükləmə sahələri" },
+      { "B": "Monitor" },
+      { "C": "Printer" },
+      { "D": "Ağ kart" },
+      { "E": "Mühasibatlıq" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Təxminən ayda 1 dəfə olan hücumun ehtimalı hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "4" },
+      { "D": "5" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Təxminən həftədə 1 dəfə olan hücumun ehtimalı hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "3" },
+      { "C": "5" },
+      { "D": "1" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Praktiki olaraq hər gün olan hücumun ehtimalı hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "4" },
+      { "C": "3" },
+      { "D": "2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firmanın azacıq maliyyə zərərinin həcmi hansı rəqəmlə göstərilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firmanın cüzi maliyyə zərərinin həcmi hansı rəqəmlə göstərilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firma zərər məruz qalıb. Zərərin həcmi hansı rəqəmlə göstərilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Gəlir xeyli itirilib. Firmanın zərərinin həcmi hansı rəqəmlə göstərilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "4" },
+      { "D": "5" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firma bazarda mövqeyini itirir. Zərərin həcmi hansı rəqəmlə göstərilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "3" },
+      { "C": "5" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firma fəaliyyətini dayandırır. Zərərin həcmi hansı rəqəmlə göstərilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "4" },
+      { "C": "3" },
+      { "D": "2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Şəbəkə əməliyyat sisteminə hansı aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "UNIX" },
+      { "B": "Windows 98" },
+      { "C": "Android" },
+      { "D": "iOS" },
+      { "E": "MS-DOS" }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Paketlərin seqmentasiyası harda istifadə olunur...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Körpülərdə və marşrutizatorlarda" },
+      { "B": "Printerlərdə" },
+      { "C": "Monitorlarda" },
+      { "D": "USB portlarında" },
+      { "E": "Klaviaturalarda" }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kabel sisteminin mühafizə vasitələri hansına aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fiziki" },
+      { "B": "proqram" },
+      { "C": "loji" },
+      { "D": "analitik" },
+      { "E": "vizual" }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Elektrik qida sistemi hansı informasiya mühafizə vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fiziki" },
+      { "B": "proqram" },
+      { "C": "inzibati" },
+      { "D": "logiki" },
+      { "E": "nəzəri" }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Arxivləşdirmə vasitələri hansı informasiya mühafizə vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fiziki" },
+      { "B": "Proqram" },
+      { "C": "İnzibati" },
+      { "D": "Texniki" },
+      { "E": "Kodlaşdırıcı" }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Disk massivləri hansı informasiya mühafizə vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "fiziki" },
+      { "B": "inzibati" },
+      { "C": "məntiqi" },
+      { "D": "protokol" },
+      { "E": "təhlükəsizlik" }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramlar hansılara aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnformasiya mühafizəsinin proqram vasitələri" },
+      { "B": "Texniki dəstək" },
+      { "C": "Verilənlər bazası" },
+      { "D": "Avadanlıq" },
+      { "E": "Serverlər" }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Səlahiyyətlərin məhdudiyyət sistemləri hansı informasiya mühafizə vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Proqram" },
+      { "B": "Fiziki" },
+      { "C": "İnzibati" },
+      { "D": "Logiki" },
+      { "E": "Vizual" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "UNIX nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Əməliyyat sistemi" },
+      { "B": "Virus" },
+      { "C": "Brauzer" },
+      { "D": "Proqramlaşdırma dili" },
+      { "E": "Sənəd tipi" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Otağa müraciətin nəzarəti hansı mühafizə ölçülərinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnzibati" },
+      { "B": "Fiziki" },
+      { "C": "Texniki" },
+      { "D": "Əlavə" },
+      { "E": "Optik" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Firmanın təhlükəsizlik strategiyasının işlənməsi hansı mühafizə ölçülərinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnzibati" },
+      { "B": "Fiziki" },
+      { "C": "Kodlaşdırma" },
+      { "D": "Serverlər" },
+      { "E": "Backup" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fövqəladə hallarda fəaliyyət planı hansı mühafizə ölçülərinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnzibati" },
+      { "B": "Mühasibatlıq" },
+      { "C": "Vizual" },
+      { "D": "İnfrastruktur" },
+      { "E": "Fiziki" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kabel sisteminin korlanması nəyin korlanmasına aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Avadanlığın" },
+      { "B": "Proqramın" },
+      { "C": "Sistemin" },
+      { "D": "Kodların" },
+      { "E": "Verilənlərin" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Elektrik qida sisteminin korlanması nəyin korlanmasına aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Avadanlığın" },
+      { "B": "Proqram təminatının" },
+      { "C": "İstifadəçinin" },
+      { "D": "İnformasiyanın" },
+      { "E": "Şəbəkənin" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Disk sistemlərinin korlanması nəyin korlanmasına aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Avadanlığın" },
+      { "B": "Şəbəkənin" },
+      { "C": "İstifadəçinin" },
+      { "D": "İnformasiyanın" },
+      { "E": "Proqram təminatının" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Arxivləşdirmə sisteminin korlanması nəyin korlanmasına aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Avadanlığın" },
+      { "B": "Şəbəkənin" },
+      { "C": "İstifadəçinin" },
+      { "D": "Proqram təminatının" },
+      { "E": "İnformasiyanın" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Serverlərin korlanması nəyin korlanmasına aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Avadanlığın" },
+      { "B": "İnformasiyanın" },
+      { "C": "İstifadəçinin" },
+      { "D": "Şəbəkənin" },
+      { "E": "Proqram təminatının" }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İşçi stansiyalarının korlanması nəyin korlanmasına aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Avadanlığın" },
+      { "B": "İstifadəçinin" },
+      { "C": "Proqram təminatının" },
+      { "D": "İnformasiyanın" },
+      { "E": "Şəbəkənin" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqram təminatında səhvlər informasiyanın harada itirilməsinə gətirib çıxarır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız istifadəçi səhvi" },
+      { "C": "Yalnız proqram təminatı" },
+      { "D": "Yalnız şəbəkə" },
+      { "E": "Yalnız aparat" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "WINDOWS 2000 nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Əməliyyat sistemi" },
+      { "B": "Tətbiq proqramı" },
+      { "C": "Brauzer" },
+      { "D": "Avadanlıq" },
+      { "E": "Sürücü" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Nəyi icazəsiz kopya edə bilərlər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız proqram təminatı" },
+      { "C": "Yalnız aparat" },
+      { "D": "Yalnız istifadəçi səhvi" },
+      { "E": "Yalnız şəbəkə" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Harada informasiyanın icazəsiz pozulması ola bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız proqram təminatı" },
+      { "C": "Yalnız şəbəkə" },
+      { "D": "Yalnız aparat" },
+      { "E": "Yalnız istifadəçi səhvi" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Harada informasiyanın icazəsiz saxtalaşdırılması ola bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız aparat" },
+      { "C": "Yalnız proqram təminatı" },
+      { "D": "Yalnız şəbəkə" },
+      { "E": "Yalnız istifadəçi səhvi" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Harada məxfi informasiya ilə icazəsiz tanış olmaq olar?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız şəbəkə" },
+      { "C": "Yalnız aparat" },
+      { "D": "Yalnız proqram təminatı" },
+      { "E": "Yalnız istifadəçi səhvi" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məlumatların təsadüfən silinməsi kimin səhvlərinə görə ola bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız proqram təminatı" },
+      { "C": "Yalnız istifadəçi səhvi" },
+      { "D": "Yalnız aparat" },
+      { "E": "Yalnız şəbəkə" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqram və aparat təminatının qeyri düzgün istifadəsi kimin səhvlərindəndir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız proqram təminatı" },
+      { "C": "Yalnız şəbəkə" },
+      { "D": "Yalnız istifadəçi səhvi" },
+      { "E": "Yalnız aparat" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Aparat təminatının qeyri düzgün istifadəsi kimin səhvlərindəndir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız istifadəçi səhvi" },
+      { "C": "Yalnız şəbəkə" },
+      { "D": "Yalnız aparat" },
+      { "E": "Yalnız proqram təminatı" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İcazəsiz müraciətdən mühafiz hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Texniki" },
+      { "B": "Fiziki" },
+      { "C": "İnzibati" },
+      { "D": "Təşkilati" },
+      { "E": "Hüquqi" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Xüsusi mühüm kompüter altsistemlərinin ehtiyatda saxlanması hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Texniki" },
+      { "B": "Təşkilati" },
+      { "C": "İnzibati" },
+      { "D": "Hüquqi" },
+      { "E": "Fiziki" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Yanğının aşkar edilmə və söndürülmə avadanlığının quraşdırılması hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Texniki" },
+      { "B": "Fiziki" },
+      { "C": "Hüquqi" },
+      { "D": "İnzibati" },
+      { "E": "Təşkilati" }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Suyun aşkar edilmə avadanlığı hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Texniki" },
+      { "B": "Fiziki" },
+      { "C": "Təşkilati" },
+      { "D": "İnzibati" },
+      { "E": "Hüquqi" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Oğurlanmadan mühafizənin konstruktiv tədbirləri hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Texniki" },
+      { "B": "Hüquqi" },
+      { "C": "Fiziki" },
+      { "D": "İnzibati" },
+      { "E": "Təşkilati" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ehtiyat elektrik qida sistemlərinin quraşdırılması hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Texniki" },
+      { "B": "Fiziki" },
+      { "C": "İnzibati" },
+      { "D": "Təşkilati" },
+      { "E": "Hüquqi" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Siqnalizasiya sisteminin quraşdırılması hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Texniki" },
+      { "B": "Fiziki" },
+      { "C": "İnzibati" },
+      { "D": "Təşkilati" },
+      { "E": "Hüquqi" }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Əməliyyat sistemi hansı xüsusiyyətlərə malik olmalıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız proqram təminatı" },
+      { "C": "Yalnız aparat" },
+      { "D": "Yalnız şəbəkə" },
+      { "E": "Yalnız istifadəçi səhvi" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hesablama mərkəzinin mühafizəsi hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Təşkilati" },
+      { "B": "İctimai" },
+      { "C": "İnzibati" },
+      { "D": "Hüquqi" },
+      { "E": "Texniki" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Personalın diqqətli seçilməsi hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Təşkilati" },
+      { "B": "İctimai" },
+      { "C": "Hüquqi" },
+      { "D": "Texniki" },
+      { "E": "İnzibati" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hesablama mərkəzinin işləmə qabiliyyətinin bərpa planı hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Təşkilati" },
+      { "B": "Texniki" },
+      { "C": "İnzibati" },
+      { "D": "Hüquqi" },
+      { "E": "İctimai" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter cinayətlərinə görə məsuliyyət normaları hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hüquqi" },
+      { "B": "Etik" },
+      { "C": "Maliyyə" },
+      { "D": "Təşkilati" },
+      { "E": "Texniki" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Proqramçıların müəllif hüquqlarının mühafizəsi hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hüquqi" },
+      { "B": "Maliyyə" },
+      { "C": "Etik" },
+      { "D": "Texniki" },
+      { "E": "Təşkilati" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Cinayət və vətəndaş qanunvericiliyinin təkmilləşdirilməsi hansı ölçülərə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hüquqi" },
+      { "B": "Maliyyə" },
+      { "C": "Texniki" },
+      { "D": "Etik" },
+      { "E": "Təşkilati" }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İcazəsiz müraciət zamanı harada informasiyanı oğurlana bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Yalnız şəbəkə" },
+      { "C": "Yalnız istifadəçi səhvi" },
+      { "D": "Yalnız aparat" },
+      { "E": "Yalnız proqram təminatı" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Filtrasiya edən proqramlar hansı proqramlara aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Antivirus" },
+      { "B": "Brauzer" },
+      { "C": "Emulator" },
+      { "D": "Redaktor" },
+      { "E": "Kompilyator" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Yoluxmaya qarşı proqramlar hansı proqramlara aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Antivirus" },
+      { "B": "Sürücü proqramları" },
+      { "C": "Qrafik redaktorlar" },
+      { "D": "Ofis proqramları" },
+      { "E": "Tərcümə proqramları" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Viruslara qarşı proqramlar hansı proqramlara aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Antivirus" },
+      { "B": "Brauzerlər" },
+      { "C": "Əməliyyat sistemləri" },
+      { "D": "Kodlaşdırma vasitələri" },
+      { "E": "Disk formatlaşdırıcılar" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Virusların müdaxiləsinə maneçilik törədən proqramlar hansı proqramlara aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Filtrasiya edən" },
+      { "B": "Redaktə edən" },
+      { "C": "Çap edən" },
+      { "D": "Arxivləşdirən" },
+      { "E": "Kodlaşdıran" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sistemdə proseslərdə daim nəzarət edən proqramlar necə adlanır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yoluxmaya qarşı antivirus" },
+      { "B": "Mətn redaktoru" },
+      { "C": "Qrafik interfeys" },
+      { "D": "Sistem saatı" },
+      { "E": "Sürücü yeniləyici" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Antivirus proqramları hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün cavablar düzdür" },
+      { "B": "Avast" },
+      { "C": "Kaspersky" },
+      { "D": "Norton" },
+      { "E": "McAfee" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məlumatların şifrlənməsinin simmetrik standartı hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "DES" },
+      { "B": "RSA" },
+      { "C": "SHA" },
+      { "D": "HTTPS" },
+      { "E": "SSL" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məlumatların şifrlənməsinin asimmetrik standartı hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "RSA" },
+      { "B": "DES" },
+      { "C": "AES" },
+      { "D": "MD5" },
+      { "E": "FTP" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Məxfilik nəyin kateqoriyasıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnformasiya təhlükəsizliyi" },
+      { "B": "Proqram təminatı" },
+      { "C": "Qrafik interfeys" },
+      { "D": "Əlaqə vasitəsi" },
+      { "E": "Əməliyyat sistemi" }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bütövlük nəyin kateqoriyasıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnformasiya təhlükəsizliyi" },
+      { "B": "Şəbəkə əlaqəsi" },
+      { "C": "Təhlükəsizlik kameraları" },
+      { "D": "Kompüter texnikası" },
+      { "E": "Fayl sistemi" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Müəllif eynilikliyi nəyin kateqoriyasıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnformasiya təhlükəsizliyi" },
+      { "B": "Proqramlaşdırma dili" },
+      { "C": "Kompüter arxitekturası" },
+      { "D": "Disk strukturu" },
+      { "E": "Verilənlər bazası" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Apelyasiyalıq nəyin kateqoriyasıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnformasiya təhlükəsizliyi" },
+      { "B": "Əlaqə sistemləri" },
+      { "C": "İnternet texnologiyaları" },
+      { "D": "Mətn emalı" },
+      { "E": "Qrafik dizayn" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Etibarlılıq nəyin kateqoriyasıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnformasiya təhlükəsizliyi" },
+      { "B": "Əməliyyat sistemi" },
+      { "C": "Tətbiqi proqramlar" },
+      { "D": "Brauzer texnologiyaları" },
+      { "E": "Verilənlər bazası" }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Üzün cizgiləri hansı identifikasiya vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Biometrik autentifikasiya" },
+      { "B": "Parol identifikasiyası" },
+      { "C": "Elektron imza" },
+      { "D": "Kart oxuyucu" },
+      { "E": "Şəbəkə şifrlənməsi" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Barmaq izləri hansı identifikasiya vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Biometrik autentifikasiya" },
+      { "B": "USB açar" },
+      { "C": "Kod kartı" },
+      { "D": "Giriş şifrəsi" },
+      { "E": "PIN kodu" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Gözün tor qişası hansı identifikasiya vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Biometrik autentifikasiya" },
+      { "B": "Barmaq izi oxuyucu" },
+      { "C": "Mobil təsdiq" },
+      { "D": "Şifrə girişi" },
+      { "E": "Kart sistemi" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Əl forması hansı identifikasiya vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Biometrik autentifikasiya" },
+      { "B": "Şifrə ilə girişi" },
+      { "C": "Elektron ünvan" },
+      { "D": "İnternet bağlantısı" },
+      { "E": "Əlaqə məlumatları" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Səsin parametri hansı identifikasiya vasitələrinə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Biometrik autentifikasiya" },
+      { "B": "Barmaq izi" },
+      { "C": "İstifadəçi adı" },
+      { "D": "Elektron məktub" },
+      { "E": "Kamera yoxlaması" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitəsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Üzün həndəsəsi" },
+      { "B": "Şifrə" },
+      { "C": "Elektron açar" },
+      { "D": "İcazə kodu" },
+      { "E": "Verilənlər bazası" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitəsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Klaviyatura yazı xətdi" },
+      { "B": "Şəbəkə parolu" },
+      { "C": "Əl skaneri" },
+      { "D": "Mobil şifrə" },
+      { "E": "İcazə sənədi" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Biometrik identifikasiya vasitəsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Üzün termoqrafiyası" },
+      { "B": "Telefon nömrəsi" },
+      { "C": "Kodlaşdırma cihazı" },
+      { "D": "Şifrə generatoru" },
+      { "E": "Sürətli cavab kodu" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter sistemi necə yoluxa bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Elektron poçt" },
+      { "B": "Yaddaş artımı" },
+      { "C": "Sistem yenilənməsi" },
+      { "D": "Printer bağlantısı" },
+      { "E": "Monitor dəyişimi" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter sistemi necə yoluxa bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnternet saytı" },
+      { "B": "Qrafik proqramlar" },
+      { "C": "Ofis sənədləri" },
+      { "D": "Audio fayllar" },
+      { "E": "Sistem saatı" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter sistemi necə yoluxa bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sosial şəbəkə" },
+      { "B": "Kalkulyator tətbiqi" },
+      { "C": "Bluetooth bağlantısı" },
+      { "D": "Monitor ayarları" },
+      { "E": "Mouse sürəti" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter sistemi necə yoluxa bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Verilənlərin ötürmə şəbəkələrində" },
+      { "B": "Printer əlaqəsi ilə" },
+      { "C": "Əlifba düzəlişləri ilə" },
+      { "D": "Təqvim tətbiqi" },
+      { "E": "Kalkulyatorla hesablamalar" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter sistemi necə yoluxa bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Verilənlərin fiziki köçürülməsi" },
+      { "B": "Monitorun bağlanması" },
+      { "C": "İşlək klaviatura" },
+      { "D": "Fayl sıxılması" },
+      { "E": "USB kabelin doldurulması" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkəsi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Xüsusi aparatylaarla birləşmiş kompüterlər qrupu" },
+      { "B": "Qrafik interfeys" },
+      { "C": "Redaktor proqramı" },
+      { "D": "Elektron kitabxana" },
+      { "E": "Ofis avadanlığı" }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lokal şəbəkələrdə istifadə olunur....",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Rəqəmsal rabitə xətləri" },
+      { "B": "Optik obyektivlər" },
+      { "C": "Kompüter siçanı" },
+      { "D": "CD disklər" },
+      { "E": "Mobil internet" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lokal şəbəkə nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yaxın məsafədə yerləşmiş kompüterlərin birləşməsi" },
+      { "B": "Qlobal əlaqə sistemi" },
+      { "C": "Mobil proqramlaşdırma" },
+      { "D": "Ofis proqram paketi" },
+      { "E": "Kompüter emulyatoru" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Şin topologiyası xarakterizə olunur",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bir kabeldə istifadə" },
+      { "B": "İkiqat bağlantı" },
+      { "C": "Rəqəmsal monitorlar" },
+      { "D": "Simsiz bağlantı" },
+      { "E": "Mobil əlaqə nöqtəsi" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Halqa topologiyası xarakterizə olunur",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bir istiqamətli rabitə kanalı" },
+      { "B": "Təsadüfi əlaqələr" },
+      { "C": "Çox nöqtəli girişi" },
+      { "D": "Rəqəmsal ekranlar" },
+      { "E": "Optik siqnallar" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkəsinin açıq arxitekturası nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Standartlara uyğun kompleklər yığımı" },
+      { "B": "Şifrə siyahısı" },
+      { "C": "Giriş ekranı" },
+      { "D": "Məlumat anbarı" },
+      { "E": "Kamera bağlantısı" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkəsinin qaydalar toplusu nə adlanır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şəbəkə pratoqolu" },
+      { "B": "Məlumat bazası" },
+      { "C": "Server konfiqurasiyası" },
+      { "D": "Disk meneceri" },
+      { "E": "Verilənlər əlaqəsi" }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "OSİ etalon modeli neçə səviyyəlidir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "7" },
+      { "B": "5" },
+      { "C": "6" },
+      { "D": "4" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hansı OSİ səviyyəsi elektrik siqnalı üçündür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fiziki səviyyə" },
+      { "B": "Sessiya səviyyəsi" },
+      { "C": "Nəqliyyat səviyyəsi" },
+      { "D": "Tətbiq səviyyəsi" },
+      { "E": "Şəbəkə səviyyəsi" }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkəsində E-mail-in nöqsanı nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ötürülən fayılların həcim məhdutluğu" },
+      { "B": "Daimi bağlantı tələbi" },
+      { "C": "Parolun unudulması" },
+      { "D": "Qrafik interfeysin olmaması" },
+      { "E": "Mobil uyğunluq problemi" }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkəsində E-mail vasitəsi ilə məlumat ötürmək üçün nə lazımdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Qəbul edənin ünvanı" },
+      { "B": "Şifrə" },
+      { "C": "Kod generatoru" },
+      { "D": "Tarix saat" },
+      { "E": "Brauzer tipi" }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkəsində E-mail vasitəsi ilə faylı ötürmək üçün hansı düymələr basılmalıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Braus send and attchment" },
+      { "B": "Open & view" },
+      { "C": "Control & Upload" },
+      { "D": "Save & Exit" },
+      { "E": "Write & Mark" }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Elektron poçtunda yeni ünvanın qeydiyyatı üçün hansı düymələr basılmalıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sign up" },
+      { "B": "Log in" },
+      { "C": "Settings" },
+      { "D": "Exit" },
+      { "E": "Upload" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lokal şəbəkələrdə hansı qurğuların müştərək istifadəsi təmin edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Printer, skaner və s." },
+      { "B": "Siçan və klaviatura" },
+      { "C": "Monitor və mikrofon" },
+      { "D": "Sistem bloku" },
+      { "E": "Prosessor və RAM" }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ehtiyatda saxlama proqramları hansı məlumatların surətlərini yaradır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bütün məlumatların sürətini yaradır" },
+      { "B": "Sistem sənədlərini" },
+      { "C": "Sadəcə istifadəçi profillərini" },
+      { "D": "Şifrlənmiş faylları" },
+      { "E": "Səhifələnmiş məlumatları" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "194.124.84.0 - şəbəkə hansı sinfə aiddir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "C sinif" },
+      { "B": "A sinif" },
+      { "C": "B sinif" },
+      { "D": "D sinif" },
+      { "E": "E sinif" }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lokal şəbəkələrdə iki işçi stansiya arasında hansı əlaqələr ola bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bir yol" },
+      { "B": "İki monitorlu" },
+      { "C": "Optik bağlantı" },
+      { "D": "Mobil əlaqə" },
+      { "E": "Paralel kabel" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Arxitektura şəbəkəsinin 7 səviyyəsini realizə edən birləşmə şəbəkələrin qurulma vasitəsi hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şlüz" },
+      { "B": "Router" },
+      { "C": "Modem" },
+      { "D": "Hub" },
+      { "E": "Switch" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Düzgün olmayan sualı seçin: Marşrutizator nə üçün lazımdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Müxtəlif tip şəbəkələrin birləşməsi üçün" },
+      { "B": "Verilənlərin istiqamətlənməsi üçün" },
+      { "C": "Şəbəkə bağlantısının paylanması üçün" },
+      { "D": "IP marşrutlaşdırma üçün" },
+      { "E": "İnternet çıxışı təmin etmək üçün" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Təkrarlayıcı (repeater) hansı səviyyədə işləyir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fiziki səviyyədə" },
+      { "B": "Sessiya səviyyəsi" },
+      { "C": "Tətbiq səviyyəsi" },
+      { "D": "Şəbəkə səviyyəsi" },
+      { "E": "Nəqliyyat səviyyəsi" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Müxtəlif şəbəkələrin abonentləri arasında rabitəni təmin edən qurğu hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Körpü" },
+      { "B": "Modem" },
+      { "C": "Server" },
+      { "D": "Yaddaş bloku" },
+      { "E": "Klaviatura" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Elektron poçtu, faylların ötürülməsi, uzaqda yerləşmiş bazaya müraciət nə ilə təmin edilir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şlüz ilə" },
+      { "B": "Printerlə" },
+      { "C": "Mouse ilə" },
+      { "D": "Yaddaş kartı ilə" },
+      { "E": "USB kabel ilə" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Şəbəkə komponentləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Hardware və Software" },
+      { "B": "Yalnız hardware" },
+      { "C": "Yalnız software" },
+      { "D": "Əməliyyat sistemi" },
+      { "E": "Məlumat bazası" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "NetWare şəbəkə əməliyyat sistemindən istifadə edən şəbəkədə nə olmalıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fayl serveri" },
+      { "B": "Mouse" },
+      { "C": "USB portu" },
+      { "D": "Monitor" },
+      { "E": "Qrafik kart" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fayl-serverin sərt diskinin həcmi necə olmalıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Adi PC-dən çox olmalıdır" },
+      { "B": "Eyni olmalıdır" },
+      { "C": "Daha az olmalıdır" },
+      { "D": "Əhəmiyyətli deyil" },
+      { "E": "Müvəqqəti yaddaşa bağlıdır" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Fayl-serverin əməliyyat yaddaşı necə olmalıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Adi PC-dən çox olmalıdır" },
+      { "B": "Əsas sistemə uyğun olmalıdır" },
+      { "C": "Daha az olmalıdır" },
+      { "D": "Eyni səviyyədə olmalıdır" },
+      { "E": "Əlavə ehtiyac yoxdur" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ayrılmış server nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yalnız server kimi istifadə olunan PC" },
+      { "B": "İnternet üçün istifadə olunan kompüter" },
+      { "C": "Printerə qoşulmuş cihaz" },
+      { "D": "Qrafik işləmə sistemi" },
+      { "E": "Fərdi istifadəçi kompüteri" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Sərt diski olmayan işçi stansiyalar nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Sərt disk yüklənməsi olmayan iş stansiyalarıdır; şəbəkə resurslarından və serverlərdən istifadə edirlər."
+      },
+      { "B": "Sadəcə printerlərə qoşulan cihazlardır" },
+      { "C": "Ekransız kompüterlərdir" },
+      { "D": "Mobil sistemlərdir" },
+      { "E": "Simsiz rabitə cihazlarıdır" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kommunikasion sistemin əsas komponentləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şəbəkə adaptırı, kabel sistemi" },
+      { "B": "Mouse və klaviatura" },
+      { "C": "Ekran və skaner" },
+      { "D": "İnternet brauzeri" },
+      { "E": "Səs sistemi" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hesablama şəbəkələri necə olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Regional, lokal, qlobal" },
+      { "B": "Mobil, sabit, keçidli" },
+      { "C": "Paralel, siqnal, təkzamanlı" },
+      { "D": "Şifrə, giriş, icazə" },
+      { "E": "Simsiz, optik, maqnit" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kompüter şəbəkələrinin topologiyaları necə olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ulduz, halqa, şin, qarışıq və s." },
+      { "B": "Birbaşa, dolayısı, sürətli" },
+      { "C": "Elektron, fiziki, məntiqi" },
+      { "D": "Kodlu, optik, cihazlı" },
+      { "E": "Sadə, kompleks, açıq" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Arxiv fayllarından ibarət olan internet serverlərin imkanları nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Onlarda lazımı fayılların alınması üçün istifadə olunur" },
+      { "B": "Yalnız e-mail göndərmək üçündür" },
+      { "C": "Kompüter proqramları yükləmək olmur" },
+      { "D": "Yalnız yerli faylları göstərir" },
+      { "E": "Faylları silmək üçündür" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hipermətn nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Seçilmiş əlaqələrlə strukturlanmış mətn" },
+      { "B": "Sadə mətn sənədi" },
+      { "C": "Şifrələnmiş mesaj" },
+      { "D": "Səs faylı" },
+      { "E": "Qrafik təsvir" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnformasiya ehtiyatlarına müraciət üçün internetə hansı qoşulma üsulu daha böyük imkanlar verir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Optik lifli kanal" },
+      { "B": "Dial-up bağlantı" },
+      { "C": "Mobil internet" },
+      { "D": "Telefon xətti" },
+      { "E": "Wi-Fi nöqtəsi" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Rabitə kanallarının (telefon, optiklifli, peyk və s.) imkanları nələrdir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnformasiyanı ötürmək" },
+      { "B": "Qrafik çəkmək" },
+      { "C": "Video düzəltmək" },
+      { "D": "Proqram quraşdırmaq" },
+      { "E": "Kalkulyator istifadə etmək" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Lokal şəbəkədə maksimum ötürülmə sürəti nə qədər ola bilər?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "100 mbit" },
+      { "B": "10 mbit" },
+      { "C": "1 mbit" },
+      { "D": "1000 mbit" },
+      { "E": "50 mbit" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Magistral optik xətlə informasiyanın ötürülməsi sürəti nə qədər olur?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 mbit/s" },
+      { "B": "10 mbit/s" },
+      { "C": "100 mbit/s" },
+      { "D": "512 kbit/s" },
+      { "E": "128 kbit/s" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "OSİ nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnformasiya ötürmədə beynəlxalq standart" },
+      { "B": "Proqramlaşdırma dili" },
+      { "C": "Tətbiqi proqram" },
+      { "D": "Fayl sistemi" },
+      { "E": "Şifrləmə alqoritmi" }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Kanal səviyyəsi nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fiziki səviyyədə məlumatların etibarlı ötürməsi" },
+      { "B": "Qrafik siqnal emalı" },
+      { "C": "Mobil kod çevirmə" },
+      { "D": "Router konfiqurasiyası" },
+      { "E": "Monitor interfeysi" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "OSİ verilənlərin ötürülməsinin beynəlxalq standartı neçə səviyyəlidir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "7" },
+      { "B": "5" },
+      { "C": "6" },
+      { "D": "4" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "DMA nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yaddaşa bir başa müraciət" },
+      { "B": "Disk məlumat analizi" },
+      { "C": "Dinamik monitor arxitekturası" },
+      { "D": "Modul sistem interfeysi" },
+      { "E": "Kanal əlaqə nöqtəsi" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "10base T – Ethernet şəbəkəsində məlumatların ötürülmə sürəti:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10 mbit/s" },
+      { "B": "100 mbit/s" },
+      { "C": "1 gbit/s" },
+      { "D": "5 mbit/s" },
+      { "E": "50 mbit/s" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Açıq arxitekturanın prinsipi:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Komların müəyyənləşdirən standart" },
+      { "B": "Bağlı sistem" },
+      { "C": "Yalnız proqram təminatı" },
+      { "D": "Avtomatik əlaqə" },
+      { "E": "Heç biri" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnternetin baza protokolu hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "TCP/IP protokolu" },
+      { "B": "HTTP" },
+      { "C": "SMTP" },
+      { "D": "FTP" },
+      { "E": "UDP" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "URL – nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Komputerin şəbəkə ünvanı" },
+      { "B": "Verilənlərin bazası" },
+      { "C": "DNS server" },
+      { "D": "Brauzer adı" },
+      { "E": "İstifadəçi adı" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "URL ünvanları istifadə olunur:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "internetdə" },
+      { "B": "fayl sistemində" },
+      { "C": "lokal şəbəkədə" },
+      { "D": "modemdə" },
+      { "E": "printerdə" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "ARP nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Address Resolution Protocol" },
+      { "B": "Application Repeat Protocol" },
+      { "C": "Advanced Routing Protocol" },
+      { "D": "Access Request Platform" },
+      { "E": "Automatic Response Port" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bridge nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2 və ya bir necə şəbəkəni birləşdirən körpü" },
+      { "B": "İnternet provayderi" },
+      { "C": "Printer növü" },
+      { "D": "Şəbəkə kartı" },
+      { "E": "Firewall növü" }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bus nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Trafikin ötürülməs yolu" },
+      { "B": "E-mail protokolu" },
+      { "C": "Yaddaş cihazı" },
+      { "D": "Video çıxışı" },
+      { "E": "Verilənlər bazası" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Takt generatoru hansı qurğudur?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Kompüter sisteminin müxtəlif komponentlərinin işini sinxronlaşdırmaq üçün istifadə olunan saat siqnallarını yaradan qurğudur."
+      },
+      { "B": "Verilənləri sıxan proqram" },
+      { "C": "Monitor tənzimləyici" },
+      { "D": "Yaddaş artırıcı" },
+      { "E": "Protokol dəyişdirici" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Toqquşma yarandıqda hər iki stansiya:",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Toqquşma aşkar edildikdə, hər iki stansiya məlumat ötürülməsini dayandırır və sonra təkrar toqquşmanın qarşısını almaq üçün təsadüfi vaxt intervalından sonra məlumatı ötürməyə cəhd edir."
+      },
+      { "B": "Əlaqəni bərpa edir" },
+      { "C": "Yenidən sistemə qoşulur" },
+      { "D": "Heç nə etmir" },
+      { "E": "Protokolu dəyişir" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Compression nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Daha səmərəli ötürülməsi və ya saxlanması üçün məlumatın həcmini azaldan verilənlərin sıxılma prosesidir."
+      },
+      { "B": "Ekran sıxlığı" },
+      { "C": "Verilənlərin şifrələnməsi" },
+      { "D": "Yaddaş artırılması" },
+      { "E": "RAM təmizləmə prosesi" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "DNS nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "DNS (Domain Name System)" },
+      { "B": "Verilənlər paylaşım sistemi" },
+      { "C": "Disk nəzarət sistemi" },
+      { "D": "Yaddaş idarəetməsi" },
+      { "E": "Şəbəkə müdafiəsi" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ethernet nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Lokal şəbəkə standartı" },
+      { "B": "Uzaq məsafəli şəbəkə növü" },
+      { "C": "E-mail xidməti" },
+      { "D": "Verilənlərin şifrələmə üsulu" },
+      { "E": "IP ünvan sistemi" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "FDDİ-nin (Fiber Distributed Data Interface) ötürmə mühiti hansıdır?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "FDDI məlumat ötürmə mühiti fiber optik kabeldir." },
+      { "B": "Koaksial kabel" },
+      { "C": "Telefon xətti" },
+      { "D": "Elektrik kabeli" },
+      { "E": "Simsiz dalğalar" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "FTP nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "FTP (Fayl Transfer Protokolu)" },
+      { "B": "Fax Transfer Protokolu" },
+      { "C": "Firewall Test Protocol" },
+      { "D": "Fast Terminal Port" },
+      { "E": "Formal Testing Process" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Full Duplex (tam dupleks) nə rejimdir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İkitərəfli məlumat ötürülməsini təmin edən rejimdir" },
+      { "B": "Yalnız qəbul rejimi" },
+      { "C": "Yalnız göndərmə rejimi" },
+      { "D": "İnteraktiv rejim" },
+      { "E": "Offline rejimi" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Interface nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Qurğular və proqramlar arasında əlaqəni təmin edən interfeysdir."
+      },
+      { "B": "Proqramlaşdırma dili" },
+      { "C": "Məlumat bazası" },
+      { "D": "Giriş-çıxış qurğusu" },
+      { "E": "Ekran qoruyucusu" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnternet – ünvan nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "İnternetdəki cihazın unikal identifikatoru olan IP ünvanıdır." },
+      { "B": "MAC ünvanı" },
+      { "C": "DNS adı" },
+      { "D": "Brauzer identifikatoru" },
+      { "E": "Yaddaş adresi" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "LAN nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "LAN (Local Area Network)" },
+      { "B": "Uzun məsafəli şəbəkə" },
+      { "C": "Açıq şəbəkə platforması" },
+      { "D": "Firewall sistemi" },
+      { "E": "Proqram təminatı" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Network Mask neçə bitdir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "32bit" },
+      { "B": "16bit" },
+      { "C": "64bit" },
+      { "D": "128bit" },
+      { "E": "8bit" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "NIC nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Network interfeyis kartı" },
+      { "B": "Şəbəkə kartı növü" },
+      { "C": "Sürətli yaddaş" },
+      { "D": "Kompüter monitoru" },
+      { "E": "Proqram təminatı" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Node nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şəbəkədəki cihaz və ya nöqtə" },
+      { "B": "Yaddaş hissəsi" },
+      { "C": "Verilənlər bazası" },
+      { "D": "İstifadəçi adı" },
+      { "E": "Brauzer" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "NOS nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Şəbəkə əməliyyat sistemi" },
+      { "B": "Yeni proqram sistemi" },
+      { "C": "Verilənlər bazası" },
+      { "D": "Proqram təminatı" },
+      { "E": "Server növü" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Routing nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Məlumatların ötürülməsi yolu" },
+      { "B": "Şəbəkə qurğusu" },
+      { "C": "IP ünvanı" },
+      { "D": "Firewall" },
+      { "E": "Yaddaş növü" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "RS-232C nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Kompüterləri periferik cihazlara qoşmaq üçün istifadə olunan serial verilənlər interfeysi standartıdır."
+      },
+      { "B": "Simsiz əlaqə protokolu" },
+      { "C": "Şəbəkə kartı növü" },
+      { "D": "Yaddaş protokolu" },
+      { "E": "Brauzer interfeysi" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Şəxsi şəbəkələr üçün aşağıdakı ünvanlar diapazonu götürülmüşdür:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "192.168.0.0" },
+      { "B": "10.0.0.0" },
+      { "C": "172.16.0.0" },
+      { "D": "255.255.255.0" },
+      { "E": "127.0.0.1" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İP ünvanlar neçə sinfə bölünür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5 sinif" },
+      { "B": "3 sinif" },
+      { "C": "4 sinif" },
+      { "D": "6 sinif" },
+      { "E": "7 sinif" }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "ARP Protokolu nə üçündür?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Lokal ünvanın müəyyən edilməsi" },
+      { "B": "İnternetə qoşulma" },
+      { "C": "Şəbəkə təhlükəsizliyi" },
+      { "D": "E-mail göndərmə" },
+      { "E": "Firewall idarəsi" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "DNS nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "DNS (Domain Name System)" },
+      { "B": "Verilənlər bazası" },
+      { "C": "İnternet xidməti" },
+      { "D": "Brauzer" },
+      { "E": "Protokol" }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Qeyri-kommersiya təşkilatların abbreviaturası:",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "QHT" },
+      { "B": "KOM" },
+      { "C": "NST" },
+      { "D": "TŞK" },
+      { "E": "EKF" }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Burulmuş cüt kabel vasitəsi ilə informasiyanı hansı məsafəyə ötürmək olar?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Burulmuş cütdən istifadə edərək, istifadə olunan kabelin növündən və məlumat ötürmə texnologiyasından asılı olaraq bir neçə yüz metrə qədər məsafələrə məlumat ötürə bilərsiniz."
+      },
+      { "B": "10 metrə qədər" },
+      { "C": "1000 kilometrə qədər" },
+      { "D": "1 kilometrə qədər" },
+      { "E": "10 kilometrə qədər" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ethernet kabel vasitəsi ilə informasiyanı hansı məsafəyə ötürmək olar?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Ethernet kabelindən istifadə edərək müxtəlif texnologiyalardan və siqnal gücləndirici qurğulardan istifadə etməklə bir neçə yüz metrdən bir neçə kilometrə qədər məsafəyə məlumat ötürə bilərsiniz."
+      },
+      { "B": "50 metrə qədər" },
+      { "C": "10 metrə qədər" },
+      { "D": "1000 kilometrə qədər" },
+      { "E": "500 kilometrə qədər" }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Regional şəbəkə qovşaqlarının arasındakı məsafə:",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Regional şəbəkənin qovşaqları arasındakı məsafə şəbəkə konfiqurasiyası və istifadə olunan məlumat ötürmə texnologiyalarından asılı olaraq onlarla kilometrdən yüzlərlə kilometrə qədər dəyişə bilər."
+      },
+      { "B": "10 metrə qədər" },
+      { "C": "1 kilometrə qədər" },
+      { "D": "1000 kilometrə qədər" },
+      { "E": "500 metrə qədər" }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Topologiya nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Cihazların qoşulma üsulunu və onlar arasında məlumat ötürülməsinin təşkilini təyin edən şəbəkənin fiziki və ya məntiqi strukturudur."
+      },
+      { "B": "Məlumatın şifrələnmə üsulu" },
+      { "C": "Şəbəkə protokolu" },
+      { "D": "Verilənlərin saxlanma yeri" },
+      { "E": "Kompüterin adıdır" }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Ardıcıl topologiyalarda informasiya ötürülür:",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Məlumat dövrə və ya verilənlər xətti vasitəsilə ardıcıl olaraq bir cihazdan digərinə ötürülür."
+      },
+      { "B": "Paralel ötürülür" },
+      { "C": "Simvol şəklində ötürülür" },
+      { "D": "Birbaşa ötürülür" },
+      { "E": "Şifrələnərək ötürülür" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bod nə ölçür?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Saniyədə ötürülən simvolların və ya siqnal dəyişikliklərinin sayını təyin edən rabitə kanalının məlumat sürətini ölçmək üçün istifadə olunan termin."
+      },
+      { "B": "Verilənlərin həcmini" },
+      { "C": "Elektronların sayını" },
+      { "D": "Siqnal gücünü" },
+      { "E": "Yaddaş tutumunu" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bul cəbri hansı əsas əməliyyatlardır?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Məntiqi dəyərlər və məntiqi ifadələr üzərində əməliyyatları təsvir edən riyazi cəbri strukturdur."
+      },
+      { "B": "Ədədi əməliyyatlar" },
+      { "C": "Statistik əməliyyatlar" },
+      { "D": "Verilənlərin sıralanması" },
+      { "E": "Proqramlaşdırma dilləri" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "OS/2, Windows NT və Windows ХХ ƏS olur...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fərdi kompüterlər üçün əməliyyat sistemləridir." },
+      { "B": "Server əməliyyat sistemləri" },
+      { "C": "Mobil əməliyyat sistemləri" },
+      { "D": "Şəbəkə protokolları" },
+      { "E": "Proqramlaşdırma dilləri" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "FTP nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Fayıl transfer protoqolu" },
+      { "B": "Şəbəkə təhlükəsizliyi" },
+      { "C": "Verilənlərin sıxılması" },
+      { "D": "Elektron poçt protokolu" },
+      { "E": "Brauzer" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "FTP nə üçündür?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "FTP şəbəkədəki kompüterlər arasında faylların mübadiləsi, həmçinin faylları serverə yükləmək və ya serverdən yükləmək üçün nəzərdə tutulmuşdur."
+      },
+      { "B": "E-poçt göndərmək üçün" },
+      { "C": "Məlumatları şifrələmək üçün" },
+      { "D": "Brauzerdə istifadə üçün" },
+      { "E": "Verilənlərin saxlanması üçün" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Axtarış sistemləri hansılardır?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "İstifadəçiyə açar sözlərdən və ya ifadələrdən istifadə etməklə internetdə məlumat axtarmağa imkan verən proqramlar qrupudur."
+      },
+      { "B": "E-poçt proqramları" },
+      { "C": "Brauzerlər" },
+      { "D": "Fayl menecerləri" },
+      { "E": "Şəbəkə kartları" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Brauzer nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "İstifadəçiyə internetə baxmaq, keçidləri izləmək və müxtəlif internet saytları ilə əlaqə saxlamaq imkanı verən proqramdır."
+      },
+      { "B": "E-mail göndərən proqram" },
+      { "C": "Verilənləri sıxan proqram" },
+      { "D": "Antivirus vasitəsi" },
+      { "E": "Şəbəkə kartı" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Brauzer nədir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "İstifadəçiyə internetə baxmaq, keçidləri izləmək və müxtəlif internet saytları ilə əlaqə saxlamaq imkanı verən proqramdır."
+      },
+      { "B": "Sistem proqramı" },
+      { "C": "Əməliyyat sistemi" },
+      { "D": "Proqramlaşdırma dili" },
+      { "E": "Şəbəkə qurğusu" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "URL nəyin hissəsidir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "İnternetdə müxtəlif resursların yerləri tapmaq və onlara daxil olmaq üçün istifadə olunan ünvanlanmadır."
+      },
+      { "B": "MAC ünvan sistemidir" },
+      { "C": "E-mail protokoludur" },
+      { "D": "Yerüstü rabitə vasitəsidir" },
+      { "E": "Verilənlər bazasının strukturu" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "İnternet xidmətlərinə nə aid deyil?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "FTP daxil deyil" },
+      { "B": "E-mail xidməti" },
+      { "C": "Web brauzer" },
+      { "D": "Online chat" },
+      { "E": "Bulud yaddaşı" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Domenin adı nə bildirir?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "İnternetdəki xüsusi veb-saytı və ya resursu müəyyən edən URL-nin hissəsidir."
+      },
+      { "B": "İP ünvanın hissəsidir" },
+      { "C": "Email ünvanıdır" },
+      { "D": "Brauzerin adı" },
+      { "E": "Server tipi" }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Bu dillərdən hansı mətnin nişanlanması ilə işləyir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "HTML" },
+      { "B": "C++" },
+      { "C": "Python" },
+      { "D": "Pascal" },
+      { "E": "Java" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "K@M iki hissəsi elektron ünvanda nə bildirir?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "“K” istifadəçi adını, “m” isə domen adını təmsil edir." },
+      { "B": "“K” şəhəri göstərir" },
+      { "C": "“M” server adıdır" },
+      { "D": "Parolu bildirir" },
+      { "E": "Brauzer növünü göstərir" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Hansı proqram elektron poçtunun proqramı deyil?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Söz emal proqramları" },
+      { "B": "Microsoft Outlook" },
+      { "C": "Gmail" },
+      { "D": "Yahoo Mail" },
+      { "E": "Thunderbird" }
+    ]
+  },
+  {
+    "questionNumber": 306,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "E-mail-in adi poçtdan üstünlüyü:",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Daha sürətli çatdırılma, istənilən yerdən daxil olmaq, çoxlu sayda alıcıya göndərmək və vaxt-resurslara qənaət."
+      },
+      { "B": "Fiziki məktubların daha etibarlı olması" },
+      { "C": "Yalnız əl ilə göndərilməsi" },
+      { "D": "Çatdırılma zamanının uzun olması" },
+      { "E": "İnternet bağlantısına ehtiyac yoxdur" }
+    ]
+  }
+]

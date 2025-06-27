@@ -63,6 +63,12 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './fizika.json';
   } else if (
+    locationPath === '/exams/zad2' ||
+    locationPath === '/exams/zad2.html' ||
+    locationPath === '/SeidExam/zad2.html'
+  ) {
+    endpoint = './zad2.json';
+  } else if (
     locationPath === '/exams/komp-muh-esas-2' ||
     locationPath === '/komp-muh-esas-2.html' ||
     locationPath === '/SeidExam/exams/komp-muh-esas-2.html'
