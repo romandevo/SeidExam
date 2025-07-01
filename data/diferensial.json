@@ -2,14 +2,4413 @@
   {
     "questionNumber": 1,
     "questionUp": "Choose the correct variant.",
-    "questionDown": "Which method is used to remove a specific element from a list by value?",
+    "questionDown": "Which of the following is a correct way to represent an integer in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x = 10" },
+      { "B": "x = \"10\"" },
+      { "C": "x = 10.0" },
+      { "D": "x = '10'" },
+      { "E": "x = [10]" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the data type of the result of 5 / 2 in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "float" },
+      { "B": "int" },
+      { "C": "str" },
+      { "D": "List" },
+      { "E": "tuple" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following represents a complex number in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x = 3 + 4j" },
+      { "B": "x = 3 + 8" },
+      { "C": "x = (3, 4)" },
+      { "D": "x = [3, 4]" },
+      { "E": "x = '3 + 4'" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of 2 ** 3 in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "6" },
+      { "C": "12" },
+      { "D": "5" },
+      { "E": "10" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to convert a string to an integer in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int()" },
+      { "B": "float()" },
+      { "C": "str()" },
+      { "D": "list()" },
+      { "E": "tuple()" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the output of `10 / 3` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3.3333333333333335" },
+      { "B": "3.0" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "2.33" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is not a valid numeric data type in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "char" },
+      { "B": "int" },
+      { "C": "float" },
+      { "D": "complex" },
+      { "E": "bool" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the `%` operator represent in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Modulus" },
+      { "B": "Exponentiation" },
+      { "C": "Division" },
+      { "D": "Multiplication" },
+      { "E": "Addition" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to convert a number to a string in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str()" },
+      { "B": "int()" },
+      { "C": "float()" },
+      { "D": "tuple()" },
+      { "E": "list()" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the value of `abs(5)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": " 5" },
+      { "C": "0" },
+      { "D": "1" },
+      { "E": "10" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a floating point number?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x = 10.0" },
+      { "B": "x = 10" },
+      { "C": "x = \"10.0\"" },
+      { "D": "x = 10j" },
+      { "E": "x = '10.0'" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What will be the result of `7 // 2` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "3.0" },
+      { "C": "2" },
+      { "D": "4" },
+      { "E": "2.5" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to find the maximum of two numbers in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "max()" },
+      { "B": "min()" },
+      { "C": "abs()" },
+      { "D": "len()" },
+      { "E": "sum()" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the data type of the result of `3.14` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "float" },
+      { "B": "int" },
+      { "C": "str" },
+      { "D": "complex" },
+      { "E": "bool" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `4 + 5.0` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "9.0" },
+      { "B": "9" },
+      { "C": "20" },
+      { "D": "1.0" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct way to represent a hexadecimal number in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x = 0xA" },
+      { "B": "x = A" },
+      { "C": "x = \"A\"" },
+      { "D": "x = [A]" },
+      { "E": "x = (A)" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `round(3.14159, 2)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3.14" },
+      { "B": "3.15" },
+      { "C": "3.1" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a valid complex number in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x = 3 + 4j" },
+      { "B": "x = 3 + 4" },
+      { "C": "x = '3 + 4j'" },
+      { "D": "x = (3, 4)" },
+      { "E": "x = [3, 4]" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the `math.floor()` function do in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Rounds down to the nearest integer" },
+      { "B": "Rounds up to the nearest integer" },
+      { "C": "Rounds to the nearest integer" },
+      { "D": "Returns the fractional part of a number" },
+      { "E": "Returns the absolute value of a number" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `pow(2, 3)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "6" },
+      { "C": "12" },
+      { "D": "5" },
+      { "E": "10" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `int(3.9)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "4" },
+      { "C": "3.9" },
+      { "D": "0" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the value of `float('3.14')` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3.14" },
+      { "B": "3" },
+      { "C": "4" },
+      { "D": "0" },
+      { "E": "1.0" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to calculate the square root of a number in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "math.sqrt()" },
+      { "B": "sqrt()" },
+      { "C": "pow()" },
+      { "D": "abs()" },
+      { "E": "max()" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `5 % 2` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "3" },
+      { "D": "0.5" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `round(3.5)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "3" },
+      { "C": "3.0" },
+      { "D": "4.0" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `5 // 2.0` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2.0" },
+      { "B": "2" },
+      { "C": "2.5" },
+      { "D": "3" },
+      { "E": "3.0" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `float(5)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5.0" },
+      { "B": "5" },
+      { "C": "0.0" },
+      { "D": "1.0" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `int(3.7)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "4" },
+      { "C": "3.7" },
+      { "D": "0" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `float('3')` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3.0" },
+      { "B": "3" },
+      { "C": "0.0" },
+      { "D": "1.0" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `True and False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following represents the Boolean value `True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "true" },
+      { "C": "TRUE" },
+      { "D": "1" },
+      { "E": "'True'" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `not True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `True or False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to convert a value to its Boolean equivalent in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "bool()" },
+      { "B": "int()" },
+      { "C": "str()" },
+      { "D": "float()" },
+      { "E": "list()" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `False or False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `True and True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following values is considered `False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "\"\"" },
+      { "C": "[]" },
+      { "D": "All of the above" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `not False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which operator is used for logical AND in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "and" },
+      { "B": "&" },
+      { "C": "|" },
+      { "D": "not" },
+      { "E": "xor" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which operator is used for logical OR in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "or" },
+      { "B": "|" },
+      { "C": "&" },
+      { "D": "not" },
+      { "E": "xor" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is the correct way to assign a Boolean value in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x = True" },
+      { "B": "x = true" },
+      { "C": "x = TRUE" },
+      { "D": "x = 'True'" },
+      { "E": "x = 1" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following values is considered `True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "\"True\"" },
+      { "C": "[]" },
+      { "D": "None" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `True xor False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to check if a variable is of Boolean type in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isinstance()" },
+      { "B": "type()" },
+      { "C": "check()" },
+      { "D": "bool()" },
+      { "E": "int()" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `False and True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `True or True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `False or True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to check if a variable is `True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "bool()" },
+      { "B": "isTrue()" },
+      { "C": "is_true()" },
+      { "D": "check()" },
+      { "E": "validate()" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `not True and False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to convert a Boolean value to an integer in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int()" },
+      { "B": "bool()" },
+      { "C": "str()" },
+      { "D": "float()" },
+      { "E": "list()" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `True and (False or True)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `not (True or False)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `False or (not True)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to convert a Boolean value to a string in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "str()" },
+      { "B": "bool()" },
+      { "C": "int()" },
+      { "D": "float()" },
+      { "E": "list()" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `True and True and False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "False" },
+      { "B": "True" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to check if a variable is `False` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "not" },
+      { "B": "is_false()" },
+      { "C": "bool()" },
+      { "D": "check()" },
+      { "E": "validate()" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `False and False or True` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `not (True and False)` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function can be used to convert a Boolean value to a float in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "float()" },
+      { "B": "bool()" },
+      { "C": "int()" },
+      { "D": "str()" },
+      { "E": "list()" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create an empty list in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "my_list = []" },
+      { "B": "my_list = {}" },
+      { "C": "my_list = ()" },
+      { "D": "my_list = [None]" },
+      { "E": "my_list = \"[]\"" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `len([1, 2, 3])` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "6" },
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following methods adds an element to the end of a list in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "append()" },
+      { "B": "insert()" },
+      { "C": "extend()" },
+      { "D": "remove()" },
+      { "E": "pop()" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you access the third element of a list named `my_list` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "my_list[2]" },
+      { "B": "my_list[3]" },
+      { "C": "my_list(3)" },
+      { "D": "my_list.third()" },
+      { "E": "my_list[\"third\"]" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `[1, 2] + [3, 4]` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4]" },
+      { "B": "[4, 3, 2, 1]" },
+      { "C": "[1, 3, 2, 4]" },
+      { "D": "[[1, 2], [3, 4]]" },
+      { "E": "TypeError" }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method removes the first occurrence of a value from a list in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "remove()" },
+      { "B": "pop()" },
+      { "C": "clear()" },
+      { "D": "delete()" },
+      { "E": "discard()" }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.reverse()` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Reverses `my_list` in place" },
+      { "B": "Returns a new reversed list" },
+      { "C": "Raises an error" },
+      { "D": "Clears `my_list`" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.index(2)` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "3" },
+      { "D": "0" },
+      { "E": "`ValueError`" }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you remove an element at a specific index from a list in Python?",
     "correctAnswer": "A",
     "answers": [
       { "A": "pop()" },
-      { "B": "clear()" },
-      { "C": "remove()" },
-      { "D": "delete()" },
-      { "E": "cut()" }
+      { "B": "remove()" },
+      { "C": "del" },
+      { "D": "clear()" },
+      { "E": "discard()" }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.count(2)` if `my_list = [1, 2, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct way to create a list of numbers from 0 to 4?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "my_list = list(range(5))" },
+      { "B": "my_list = [0, 1, 2, 3, 4]" },
+      { "C": "my_list = (0, 1, 2, 3, 4)" },
+      { "D": "my_list = {0, 1, 2, 3, 4}" },
+      { "E": "my_list = \"0 1 2 3 4\".split()" }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.sort()` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sorts `my_list` in place" },
+      { "B": "Returns a new sorted list" },
+      { "C": "Raises an error" },
+      { "D": "Clears `my_list`" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list[1]` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "1" },
+      { "D": "IndexError" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert an element at a specific index in a list in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "insert()" },
+      { "B": "add()" },
+      { "C": "append()" },
+      { "D": "push()" },
+      { "E": "extend()" }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.remove(2)` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Removes 2 from `my_list`" },
+      { "B": "Removes 3 from `my_list`" },
+      { "C": "Raises an error" },
+      { "D": "Removes the first element" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list[1:3]` if `my_list = [0, 1, 2, 3, 4]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2]" },
+      { "B": "[0, 1]" },
+      { "C": "[2, 3]" },
+      { "D": "[1, 2, 3]" },
+      { "E": "[]" }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method can be used to clear all elements from a list in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "clear()" },
+      { "B": "remove()" },
+      { "C": "pop()" },
+      { "D": "del" },
+      { "E": "discard()" }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.extend([4, 5])` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Extends `my_list` with `[4, 5]`" },
+      { "B": "Replaces `my_list` with `[4, 5]`" },
+      { "C": "Raises an error" },
+      { "D": "Returns a new list" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.pop()` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Removes and returns the last element" },
+      { "B": "Removes and returns the first element" },
+      { "C": "Removes the last element" },
+      { "D": "Raises an error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you check if a value is in a list in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "value in my_list" },
+      { "B": "my_list.contains(value)" },
+      { "C": "my_list.has(value)" },
+      { "D": "value == my_list" },
+      { "E": "value not in my_list" }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method can be used to copy a list in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "copy()" },
+      { "B": "clone()" },
+      { "C": "slice()" },
+      { "D": "extend()" },
+      { "E": "list()" }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list[2:]` if `my_list = [1, 2, 3, 4]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[3, 4]" },
+      { "B": "[2, 3]" },
+      { "C": "[1, 2]" },
+      { "D": "[1, 2, 3]" },
+      { "E": "[]" }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list[::1]` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Reverses `my_list`" },
+      { "B": "Returns a new reversed list" },
+      { "C": "Raises an error" },
+      { "D": "Clears `my_list`" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list + [4]` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1, 2, 3, 4]" },
+      { "B": "[4, 3, 2, 1]" },
+      { "C": "[1, 2, 3, [4]]" },
+      { "D": "TypeError" },
+      { "E": "ValueError" }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct way to remove an element at a specific index from a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "del my_list[index]" },
+      { "B": "my_list.remove(index)" },
+      { "C": "my_list.pop(index)" },
+      { "D": "Both A and C" },
+      { "E": "All of the above" }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.insert(1, 'a')` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Inserts `'a'` at index 1" },
+      { "B": "Inserts `'a'` at index 2" },
+      { "C": "Inserts `'a'` at the end" },
+      { "D": "Raises an error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list[2]` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "3" },
+      { "C": "1" },
+      { "D": "IndexError" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method can be used to find the maximum value in a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "max()" },
+      { "B": "maximum()" },
+      { "C": "largest()" },
+      { "D": "top()" },
+      { "E": "high()" }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.pop(1)` if `my_list = [1, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Removes and returns the element at index 1" },
+      { "B": "Removes and returns the last element" },
+      { "C": "Removes the element at index 1" },
+      { "D": "Raises an error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `my_list.count(2)` if `my_list = [1, 2, 2, 3]`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which statement is used to execute a block of code if a condition is true?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "if" },
+      { "B": "else" },
+      { "C": "elif" },
+      { "D": "while" },
+      { "E": "for" }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `if True: print(\"True\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "\"True\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which keyword is used to define the block of code to be executed if the condition is false?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "else" },
+      { "B": "elif" },
+      { "C": "while" },
+      { "D": "for" },
+      { "E": "if" }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `if False: print(\"False\") else: print(\"True\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"True\"" },
+      { "B": "\"False\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which keyword is used to combine multiple conditions?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "and" },
+      { "B": "or" },
+      { "C": "not" },
+      { "D": "elif" },
+      { "E": "if" }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `if x > 10: print(\"Greater\") elif x < 10: print(\"Smaller\") else: print(\"Equal\")` if `x = 10`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"Equal\"" },
+      { "B": "\"Greater\"" },
+      { "C": "\"Smaller\"" },
+      { "D": "Error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct if else statement?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "if x > 10: print(\"Greater\") else: print(\"Smaller\")" },
+      { "B": "if x > 10: print(\"Greater\") if x < 10: print(\"Smaller\")" },
+      { "C": "if x > 10 { print(\"Greater\") } else { print(\"Smaller\") }" },
+      { "D": "if x > 10 print(\"Greater\") else print(\"Smaller\")" },
+      {
+        "E": "if x > 10: print(\"Greater\") if x < 10: print(\"Smaller\") else: print(\"Equal\")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `if 0: print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"False\"" },
+      { "B": "\"True\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which keyword is used to check multiple conditions in a sequence?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "elif" },
+      { "B": "else" },
+      { "C": "if" },
+      { "D": "while" },
+      { "E": "for" }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `if not True: print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"False\"" },
+      { "B": "\"True\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct nested if else statement?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "if x > 10: if x < 20: print(\"Between\") else: print(\"Greater\")"
+      },
+      {
+        "B": "if x > 10 { if x < 20 { print(\"Between\") } else { print(\"Greater\") } }"
+      },
+      {
+        "C": "if x > 10: if x < 20: print(\"Between\") elif x > 20: print(\"Greater\")"
+      },
+      {
+        "D": "if x > 10: if x < 20: print(\"Between\") if x > 20: print(\"Greater\")"
+      },
+      {
+        "E": "if x > 10: if x < 20: print(\"Between\") else: print(\"Greater\")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if \"\": print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"False\"" },
+      { "B": "\"True\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Choose the correct keyword.",
+    "questionDown": "Which keyword is used to define multiple possible conditions?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "elif" },
+      { "B": "else" },
+      { "C": "if" },
+      { "D": "while" },
+      { "E": "for" }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if []: print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"False\"" },
+      { "B": "\"True\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct if elif else statement?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "if x > 10: print(\"Greater\") elif x < 10: print(\"Smaller\") else: print(\"Equal\")"
+      },
+      {
+        "B": "if x > 10: print(\"Greater\") if x < 10: print(\"Smaller\") else: print(\"Equal\")"
+      },
+      {
+        "C": "if x > 10: print(\"Greater\") elif x < 10: print(\"Smaller\") if x == 10: print(\"Equal\")"
+      },
+      {
+        "D": "if x > 10: print(\"Greater\") else if x < 10: print(\"Smaller\") else: print(\"Equal\")"
+      },
+      {
+        "E": "if x > 10: print(\"Greater\") elif x < 10: print(\"Smaller\") if x > 10: print(\"Equal\")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if \"0\": print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"True\"" },
+      { "B": "\"False\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Choose the correct keyword.",
+    "questionDown": "Which keyword is used to define the block of code to be executed if none of the conditions are true?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "else" },
+      { "B": "elif" },
+      { "C": "if" },
+      { "D": "while" },
+      { "E": "for" }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if None: print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"False\"" },
+      { "B": "\"True\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct if else statement to check if a number is positive, negative, or zero?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "if x > 0: print(\"Positive\") elif x < 0: print(\"Negative\") else: print(\"Zero\")"
+      },
+      {
+        "B": "if x > 0: print(\"Positive\") else if x < 0: print(\"Negative\") else: print(\"Zero\")"
+      },
+      {
+        "C": "if x > 0: print(\"Positive\") elif x < 0: print(\"Negative\") if x == 0: print(\"Zero\")"
+      },
+      {
+        "D": "if x > 0: print(\"Positive\") elif x < 0: print(\"Negative\") elif x == 0: print(\"Zero\")"
+      },
+      {
+        "E": "if x > 0: print(\"Positive\") elif x < 0: print(\"Negative\") else if x == 0: print(\"Zero\")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if \"False\": print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"True\"" },
+      { "B": "\"False\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Choose the correct keyword.",
+    "questionDown": "Which keyword is used to check if a value is not in a sequence?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "not in" },
+      { "B": "is not" },
+      { "C": "not" },
+      { "D": "!=" },
+      { "E": "else" }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if 10 == \"10\": print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"False\"" },
+      { "B": "\"True\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct if else statement to check if a number is even or odd?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "if x % 2 == 0: print(\"Even\") else: print(\"Odd\")" },
+      { "B": "if x % 2: print(\"Even\") else: print(\"Odd\")" },
+      { "C": "if x % 2 == 0: print(\"Even\") elif x % 2: print(\"Odd\")" },
+      { "D": "if x % 2: print(\"Even\") elif x % 2 == 0: print(\"Odd\")" },
+      { "E": "if x % 2 == 0: print(\"Even\") elif x % 2 == 1: print(\"Odd\")" }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if not 0: print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"True\"" },
+      { "B": "\"False\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Choose the correct keyword.",
+    "questionDown": "Which keyword is used to check if a value is in a sequence?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "in" },
+      { "B": "is" },
+      { "C": "==" },
+      { "D": "not" },
+      { "E": "else" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if \"\": print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"False\"" },
+      { "B": "\"True\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following is a correct if else statement to check if a number is positive and even?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "if x > 0 and x % 2 == 0: print(\"Positive and Even\") else: print(\"Not Positive and Even\")"
+      },
+      {
+        "B": "if x > 0: if x % 2 == 0: print(\"Positive and Even\") else: print(\"Not Positive and Even\")"
+      },
+      {
+        "C": "if x > 0: if x % 2 == 0: print(\"Positive and Even\") elif x % 2: print(\"Not Positive and Even\")"
+      },
+      {
+        "D": "if x > 0 and x % 2: print(\"Positive and Even\") else: print(\"Not Positive and Even\")"
+      },
+      {
+        "E": "if x > 0: if x % 2 == 0: print(\"Positive and Even\") if x % 2: print(\"Not Positive and Even\")"
+      }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if not \"\": print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"True\"" },
+      { "B": "\"False\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the result of `if 10 != \"10\": print(\"True\") else: print(\"False\")` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"True\"" },
+      { "B": "\"False\"" },
+      { "C": "Error" },
+      { "D": "None" },
+      { "E": "Empty output" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a string in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "my_string = \"Hello\"" },
+      { "B": "my_string = 'Hello'" },
+      { "C": "my_string = \"\"\"Hello\"\"\"" },
+      { "D": "my_string = 'Hello\"" },
+      { "E": "my_string = \"Hello'" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of `len(\"Python\")`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "5" },
+      { "C": "7" },
+      { "D": "4" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to convert a string to uppercase in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "upper()" },
+      { "B": "capitalize()" },
+      { "C": "lower()" },
+      { "D": "swapcase()" },
+      { "E": "title()" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Choose the correct way.",
+    "questionDown": "How do you access the first character of a string named `my_string` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "my_string[0]" },
+      { "B": "my_string[1]" },
+      { "C": "my_string[ 1]" },
+      { "D": "my_string[2]" },
+      { "E": "my_string[first]" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\" + \" is fun\"?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Python is fun" },
+      { "B": "Pythonisfun" },
+      { "C": "Python + is fun" },
+      { "D": "Error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to find the index of a substring in a string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "find()" },
+      { "B": "index()" },
+      { "C": "search()" },
+      { "D": "locate()" },
+      { "E": "substring()" }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\"[1:4]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "yth" },
+      { "B": "Pyt" },
+      { "C": "thon" },
+      { "D": "Pyth" },
+      { "E": "P" }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to check if a string starts with a specified substring?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "startswith()" },
+      { "B": "endswith()" },
+      { "C": "isstart()" },
+      { "D": "isbegin()" },
+      { "E": "beginwith()" }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\".lower()?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "python" },
+      { "B": "PYTHON" },
+      { "C": "Python" },
+      { "D": "pyThon" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to replace a substring in a string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "replace()" },
+      { "B": "sub()" },
+      { "C": "switch()" },
+      { "D": "update()" },
+      { "E": "change()" }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\"[-1]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "n" },
+      { "B": "o" },
+      { "C": "P" },
+      { "D": "y" },
+      { "E": "h" }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to split a string into a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "split()" },
+      { "B": "cut()" },
+      { "C": "divide()" },
+      { "D": "explode()" },
+      { "E": "slice()" }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\".upper().lower()?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "python" },
+      { "B": "PYTHON" },
+      { "C": "Python" },
+      { "D": "pyThon" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to remove whitespace from the beginning and end of a string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "strip()" },
+      { "B": "trim()" },
+      { "C": "clean()" },
+      { "D": "clear()" },
+      { "E": "remove()" }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\"[::-1]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "nohtyP" },
+      { "B": "Pytho" },
+      { "C": "Python" },
+      { "D": "n" },
+      { "E": "P" }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to join a list of strings into one string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "join()" },
+      { "B": "concat()" },
+      { "C": "merge()" },
+      { "D": "link()" },
+      { "E": "connect()" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\".find(\"th\")?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "3" },
+      { "C": "1" },
+      { "D": " 1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to check if all characters in a string are alphanumeric?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isalnum()" },
+      { "B": "isalpha()" },
+      { "C": "isdigit()" },
+      { "D": "isnumeric()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\" * 3?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "PythonPythonPython" },
+      { "B": "3Python" },
+      { "C": "Python3" },
+      { "D": "Error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to check if a string contains only digits?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isdigit()" },
+      { "B": "isnumeric()" },
+      { "C": "isalnum()" },
+      { "D": "isalpha()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\".replace(\"Py\", \"Jy\")?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Jython" },
+      { "B": "Python" },
+      { "C": "PyJy" },
+      { "D": "Py thon" },
+      { "E": "Jy thon" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to check if a string is a valid identifier?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isidentifier()" },
+      { "B": "isvalid()" },
+      { "C": "check()" },
+      { "D": "validate()" },
+      { "E": "identify()" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\".split(\"t\")?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "['Py', 'hon']" },
+      { "B": "['Pyth', 'on']" },
+      { "C": "['P', 'y', 'h', 'o', 'n']" },
+      { "D": "['Pyton']" },
+      { "E": "['Pthon']" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to check if all characters in a string are lowercase?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "islower()" },
+      { "B": "isupper()" },
+      { "C": "tolovrer()" },
+      { "D": "isalpha()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to check if a string contains only alphabetic characters?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isalpha()" },
+      { "B": "isalnum()" },
+      { "C": "isnumeric()" },
+      { "D": "isdigit()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\".startswith(\"Py\")?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "True" },
+      { "B": "False" },
+      { "C": "None" },
+      { "D": "Error" },
+      { "E": "Falses" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to check if a string contains only uppercase characters?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isupper()" },
+      { "B": "islower()" },
+      { "C": "touparr()" },
+      { "D": "isalpha()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Choose the correct result.",
+    "questionDown": "What is the result of \"Python\".count(\"o\")?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "0" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Choose the correct method.",
+    "questionDown": "Which method is used to check if a string contains only whitespace characters?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isspace()" },
+      { "B": "irrspece()" },
+      { "C": "isblank()" },
+      { "D": "isempty()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Choose the correct way.",
+    "questionDown": "How do you create a single line comment in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "# This is a comment" },
+      { "B": "/* This is a comment */" },
+      { "C": "<!   This is a comment   >" },
+      { "D": "   This is a comment" },
+      { "E": "// This is a comment" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Choose the correct purpose.",
+    "questionDown": "What is the purpose of comments in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "To make the code more readable and understandable" },
+      { "B": "To execute the code" },
+      { "C": "To add styling to the code" },
+      { "D": "To test the code" },
+      { "E": "To remove the code" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a multi line comment in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "''' This is a multi line comment '''" },
+      { "B": "/* This is a multi line comment */" },
+      { "C": "<!   This is a multi line comment   >" },
+      { "D": "   This is a multi line comment" },
+      { "E": "// This is a multi line comment" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which character is used to denote a comment in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "#" },
+      { "B": "//" },
+      { "C": "/* */" },
+      { "D": "-" },
+      { "E": "<!>" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens to comments when you run a Python program?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "They are ignored by the Python interpreter" },
+      { "B": "They are executed by the Python interpreter" },
+      { "C": "They are highlighted in the output" },
+      { "D": "They cause errors in the program" },
+      { "E": "They are displayed as part of the output" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a string in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "my_string = \"Hello\"" },
+      { "B": "my_string = 'Hello'" },
+      { "C": "my_string = \"\"\"Hello\"\"\"" },
+      { "D": "my_string = 'Hello\"" },
+      { "E": "my_string = \"Hello'" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `len(\"Python\")`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "5" },
+      { "C": "7" },
+      { "D": "4" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to convert a string to uppercase in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "upper()" },
+      { "B": "capitalize()" },
+      { "C": "lower()" },
+      { "D": "swapcase()" },
+      { "E": "title()" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you access the first character of a string named `my_string` in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "my_string[0]" },
+      { "B": "my_string[1]" },
+      { "C": "my_string[ 1]" },
+      { "D": "my_string[2]" },
+      { "E": "my_string[first]" }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\" + \" is fun\"?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Python is fun" },
+      { "B": "Pythonisfun" },
+      { "C": "Python + is fun" },
+      { "D": "Error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to find the index of a substring in a string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "find()" },
+      { "B": "index()" },
+      { "C": "search()" },
+      { "D": "locate()" },
+      { "E": "substring()" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\"[1:4]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "yth" },
+      { "B": "Pyt" },
+      { "C": "thon" },
+      { "D": "Pyth" },
+      { "E": "P" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to check if a string starts with a specified substring?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "startswith()" },
+      { "B": "endswith()" },
+      { "C": "isstart()" },
+      { "D": "isbegin()" },
+      { "E": "beginwith()" }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\".lower()?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "python" },
+      { "B": "PYTHON" },
+      { "C": "Python" },
+      { "D": "pyThon" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to replace a substring in a string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "replace()" },
+      { "B": "sub()" },
+      { "C": "switch()" },
+      { "D": "update()" },
+      { "E": "change()" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\"[-1]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "n" },
+      { "B": "o" },
+      { "C": "P" },
+      { "D": "y" },
+      { "E": "h" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to split a string into a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "split()" },
+      { "B": "cut()" },
+      { "C": "divide()" },
+      { "D": "explode()" },
+      { "E": "slice()" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\".upper().lower()?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "python" },
+      { "B": "PYTHON" },
+      { "C": "Python" },
+      { "D": "pyThon" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to remove whitespace from the beginning and end of a string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "strip()" },
+      { "B": "trim()" },
+      { "C": "clean()" },
+      { "D": "clear()" },
+      { "E": "remove()" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\"[::-3]?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "htyP" },
+      { "B": "Pytho" },
+      { "C": "Pytn" },
+      { "D": "hon" },
+      { "E": "Pkgf" }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to join a list of strings into one string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "join()" },
+      { "B": "concat()" },
+      { "C": "merge()" },
+      { "D": "link()" },
+      { "E": "connect()" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\".find(\"th\")?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "3" },
+      { "C": "1" },
+      { "D": " 1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to check if all characters in a string are alphanumeric?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isalnum()" },
+      { "B": "isalpha()" },
+      { "C": "isdigit()" },
+      { "D": "isnumeric()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\" * 2?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "PythonPython" },
+      { "B": "2Python" },
+      { "C": "Python22Python" },
+      { "D": "Error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to check if a string contains only digits?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isdigit()" },
+      { "B": "isnumeric()" },
+      { "C": "isalnum()" },
+      { "D": "isalpha()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\".replace(\"Py\", \"Jy\")?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Jython" },
+      { "B": "Python" },
+      { "C": "PyJy" },
+      { "D": "Py thon" },
+      { "E": "Jy thon" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to check if a string is a valid identifier?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "isidentifier()" },
+      { "B": "isvalid()" },
+      { "C": "check()" },
+      { "D": "validate()" },
+      { "E": "identify()" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \"Python\".split(\"t\")?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "['Py', 'hon']" },
+      { "B": "['Pyth', 'on']" },
+      { "C": "['P', 'y', 'h', 'o', 'n']" },
+      { "D": "['Pyton']" },
+      { "E": "['Pthon']" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to check if all characters in a string are lowercase?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "islower()" },
+      { "B": "isupper()" },
+      { "C": "tolower()" },
+      { "D": "isalpha()" },
+      { "E": "ischar()" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of \" Python \".strip()?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\"Python\"" },
+      { "B": "\" Python\"" },
+      { "C": "\"Python \"" },
+      { "D": "\"Python\"" },
+      { "E": "\" Python\"" }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to sort data in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort" },
+      { "B": "Filter" },
+      { "C": "Formula" },
+      { "D": "Format" },
+      { "E": "Search" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you access the sort feature in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Data tab  > Sort" },
+      { "B": "Home tab  > Sort" },
+      { "C": "Insert tab  > Sort" },
+      { "D": "Review tab  > Sort" },
+      { "E": "View tab  > Sort" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which sorting order puts numbers in descending order in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Z to A" },
+      { "B": "A to Z" },
+      { "C": "Smallest to Largest" },
+      { "D": "Largest to Smallest" },
+      { "E": "Oldest to Newest" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort by multiple columns in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Add Level" },
+      { "B": "Sort > Multiple Sort" },
+      { "C": "Sort > By Columns" },
+      { "D": "Sort > Sort by Multiple" },
+      { "E": "Sort > Group" }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What happens when you sort data in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Rows are rearranged based on the selected criteria" },
+      { "B": "Columns are rearranged based on the selected criteria" },
+      { "C": "Data is deleted" },
+      { "D": "Data is copied" },
+      { "E": "Data is encrypted" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to sort numbers and text together in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort" },
+      { "B": "Filter" },
+      { "C": "AutoSum" },
+      { "D": "Format" },
+      { "E": "Search" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the keyboard shortcut to open the sort dialog box in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Alt + A + S" },
+      { "B": "Ctrl + A + S" },
+      { "C": "Alt + S + T" },
+      { "D": "Ctrl + S" },
+      { "E": "Alt + S" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which sorting option is used to sort data based on cell color or font color in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Custom Sort" },
+      { "B": "Sort by Color" },
+      { "C": "Sort by Format" },
+      { "D": "Advanced Sort" },
+      { "E": "Conditional Sort" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort a range of cells excluding header rows in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Select the range > Sort > No Header" },
+      { "B": "Select the range > Sort > Header Off" },
+      { "C": "Select the range > Sort > Header Row" },
+      { "D": "Select the range > Sort > Skip Header" },
+      { "E": "Select the range > Sort > Exclude Header" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to sort by values that are not visible in the current view in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Sort Hidden Rows" },
+      { "B": "Sort > Sort by Criteria" },
+      { "C": "Sort > Sort by Filter" },
+      { "D": "Sort > Sort by Condition" },
+      { "E": "Sort > Sort by Range" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort data based on the cell's fill color in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Sort by Color" },
+      { "B": "Sort > Sort by Fill" },
+      { "C": "Sort > Sort by Background" },
+      { "D": "Sort > Sort by Format" },
+      { "E": "Sort > Sort by Cell Color" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which sorting option is used to sort by cell icons or conditional formatting in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Sort by Icon" },
+      { "B": "Sort > Sort by Conditional" },
+      { "C": "Sort > Sort by Rule" },
+      { "D": "Sort > Sort by Symbol" },
+      { "E": "Sort > Sort by Marker" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of sorting text data in ascending order in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A to Z" },
+      { "B": "Z to A" },
+      { "C": "Smallest to Largest" },
+      { "D": "Largest to Smallest" },
+      { "E": "Oldest to Newest" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort data based on a custom list in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Custom Sort" },
+      { "B": "Sort > List Sort" },
+      { "C": "Sort > Order Sort" },
+      { "D": "Sort > Pattern Sort" },
+      { "E": "Sort > Sequence Sort" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to sort data based on the number of characters in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Sort by Length" },
+      { "B": "Sort > Character Sort" },
+      { "C": "Sort > String Sort" },
+      { "D": "Sort > Text Sort" },
+      { "E": "Sort > Word Count Sort" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort data based on the last name in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Last Name" },
+      { "B": "Sort > Surname" },
+      { "C": "Sort > Family Name" },
+      { "D": "Sort > Name" },
+      { "E": "Sort > Personal Name" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which sorting option is used to sort data based on weekdays, weekends, or dates in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Date Sort" },
+      { "B": "Sort > Day Sort" },
+      { "C": "Sort > Weekday Sort" },
+      { "D": "Sort > Weekend Sort" },
+      { "E": "Sort > Time Sort" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the keyboard shortcut to sort data in descending order in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Alt + D" },
+      { "B": "Ctrl + D" },
+      { "C": "Alt + Z" },
+      { "D": "Ctrl + Z" },
+      { "E": "Alt + A" }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort data based on the number of words in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Word Count Sort" },
+      { "B": "Sort > Text Length Sort" },
+      { "C": "Sort > Word Sort" },
+      { "D": "Sort > Content Sort" },
+      { "E": "Sort > Phrase Sort" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to sort by cell values, cell color, or font color in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Custom Sort" },
+      { "B": "Conditional Sort" },
+      { "C": "Format Sort" },
+      { "D": "Advanced Sort" },
+      { "E": "Filter Sort" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort data based on the cell's font color in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Sort by Color" },
+      { "B": "Sort > Sort by Font" },
+      { "C": "Sort > Sort by Style" },
+      { "D": "Sort > Sort by Format" },
+      { "E": "Sort > Sort by Attribute" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the keyboard shortcut to sort data based on cell color or font color in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Alt + H + S" },
+      { "B": "Ctrl + H + S" },
+      { "C": "Alt + S + C" },
+      { "D": "Ctrl + S + C" },
+      { "E": "Alt + C + S" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort data based on the number of cells in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Cell Count Sort" },
+      { "B": "Sort > Number Sort" },
+      { "C": "Sort > Numeric Sort" },
+      { "D": "Sort > Quantity Sort" },
+      { "E": "Sort > Total Sort" }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to sort data based on the cell's background color in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Sort by Fill" },
+      { "B": "Sort > Sort by Background" },
+      { "C": "Sort > Sort by Color" },
+      { "D": "Sort > Sort by Format" },
+      { "E": "Sort > Sort by Cell Color" }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you sort data based on the cell's conditional formatting in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Sort > Sort by Conditional" },
+      { "B": "Sort > Sort by Rule" },
+      { "C": "Sort > Sort by Format" },
+      { "D": "Sort > Sort by Condition" },
+      { "E": "Sort > Sort by Formatting" }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is a range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A group of cells" },
+      { "B": "A single cell" },
+      { "C": "A formula" },
+      { "D": "A chart" },
+      { "E": "A worksheet" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select a range of cells in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Click and drag" },
+      { "B": "Double click" },
+      { "C": "Right click" },
+      { "D": "Ctrl + Click" },
+      { "E": "Shift + Click" }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to name a range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Name Box" },
+      { "B": "Formula Bar" },
+      { "C": "Cell Format" },
+      { "D": "Sort" },
+      { "E": "Filter" }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range A1:A10 represent in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A column from cell A1 to A10" },
+      { "B": "A row from cell A1 to A10" },
+      { "C": "A single cell A1" },
+      { "D": "A single cell A10" },
+      { "E": "A column from A10 to A1" }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you refer to a range in a formula in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A1:A10" },
+      { "B": "A1 to A10" },
+      { "C": "Range(A1:A10)" },
+      { "D": "A1:A10()" },
+      { "E": "@A1:A10" }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to sum a range of cells in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "SUM" },
+      { "B": "AVERAGE" },
+      { "C": "COUNT" },
+      { "D": "MAX" },
+      { "E": "MIN" }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a range that includes multiple non adjacent cells in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl + Click" },
+      { "B": "Shift + Click" },
+      { "C": "Alt + Click" },
+      { "D": "Ctrl + Shift + Click" },
+      { "E": "Alt + Shift + Click" }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range `B2:D4` represent in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Cells from B2 to D4" },
+      { "B": "Columns B2 to D4" },
+      { "C": "Rows B2 to D4" },
+      { "D": "A single cell B2" },
+      { "E": "A single cell D4" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to define a named range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Formulas  > Define Name" },
+      { "B": "Data  > Named Range" },
+      { "C": "Insert  > Name" },
+      { "D": "Review  > Name Manager" },
+      { "E": "View  > Name" }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select all cells in a worksheet in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl + A" },
+      { "B": "Shift + A" },
+      { "C": "Alt + A" },
+      { "D": "Ctrl + Shift + A" },
+      { "E": "Alt + Shift + A" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range `C:C` represent in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Column C" },
+      { "B": "Row C" },
+      { "C": "Cell C" },
+      { "D": "A single cell C" },
+      { "E": "Cells from C1 to C" }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to count the number of cells in a range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "COUNT" },
+      { "B": "SUM" },
+      { "C": "AVERAGE" },
+      { "D": "MAX" },
+      { "E": "MIN" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you reference a cell range in another worksheet in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "SheetName!Range" },
+      { "B": "Range(SheetName)" },
+      { "C": "SheetName:Range" },
+      { "D": "Range:SheetName" },
+      { "E": "SheetName/Range" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range `1:1` represent in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Row 1" },
+      { "B": "Column 1" },
+      { "C": "Cell 1" },
+      { "D": "Cells from 1A to 1" },
+      { "E": "Cells from A1 to 1" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you create a named range that includes a constant value in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Formulas  > Define Name" },
+      { "B": "Data  > Named Range" },
+      { "C": "Insert  > Name" },
+      { "D": "Review  > Name Manager" },
+      { "E": "View  > Name" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to find the largest value in a range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "MAX" },
+      { "B": "MIN" },
+      { "C": "SUM" },
+      { "D": "AVERAGE" },
+      { "E": "COUNT" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the maximum number of rows in a range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1,048,576" },
+      { "B": "16,384" },
+      { "C": "32,768" },
+      { "D": "65,536" },
+      { "E": "256" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you select a range using the keyboard in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Arrow keys" },
+      { "B": "Ctrl + Arrow keys" },
+      { "C": "Shift + Arrow keys" },
+      { "D": "Alt + Arrow keys" },
+      { "E": "Ctrl + Shift + Arrow keys" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which option is used to edit a named range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Formulas  > Define Name" },
+      { "B": "Data  > Named Range" },
+      { "C": "Insert  > Name" },
+      { "D": "Review  > Name Manager" },
+      { "E": "View  > Name" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range `A:B` represent in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Columns A and B" },
+      { "B": "Rows A and B" },
+      { "C": "Cells from A1 to B" },
+      { "D": "Cells from A to B1" },
+      { "E": "A single cell A:B" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function is used to find the smallest value in a range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "MIN" },
+      { "B": "MAX" },
+      { "C": "SUM" },
+      { "D": "AVERAGE" },
+      { "E": "COUNT" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you delete a named range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Formulas  > Define Name" },
+      { "B": "Data  > Named Range" },
+      { "C": "Insert  > Name" },
+      { "D": "Review  > Name Manager  > Delete" },
+      { "E": "View  > Name" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range `A1:Z1` represent in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Row 1" },
+      { "B": "Column A to Z" },
+      { "C": "Cells from A1 to Z1" },
+      { "D": "A single cell A1" },
+      { "E": "A single cell Z1" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you copy a named range in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl + C" },
+      { "B": "Ctrl + X" },
+      { "C": "Ctrl + V" },
+      { "D": "Ctrl + Shift + C" },
+      { "E": "Ctrl + Shift + V" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the range `Sheet1!A1:B2` represent in Excel?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Cells from A1 to B2 on Sheet1" },
+      { "B": "Cells from A1 to B2" },
+      { "C": "Row 1 on Sheet1" },
+      { "D": "Column A to B2 on Sheet1" },
+      { "E": "A single cell A1 on Sheet1" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is MS Word primarily used for?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Word processing" },
+      { "B": "Spreadsheets" },
+      { "C": "Presentations" },
+      { "D": "Graphics editing" },
+      { "E": "Database management" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the default file extension for a MS Word document?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": ".docx" },
+      { "B": ".xlsx" },
+      { "C": ".pptx" },
+      { "D": ".pdf" },
+      { "E": ".txt" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you save a document in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "File  > Save" },
+      { "B": "File  > New" },
+      { "C": "Edit  > Save" },
+      { "D": "View  > Save" },
+      { "E": "Format  > Save" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options related to font formatting in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Home" },
+      { "B": "Insert" },
+      { "C": "Page Layout" },
+      { "D": "Review" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut `Ctrl + S` do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Save" },
+      { "B": "Select All" },
+      { "C": "Copy" },
+      { "D": "Paste" },
+      { "E": "Print" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you undo the last action in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Ctrl + Z" },
+      { "B": "Ctrl + Y" },
+      { "C": "Ctrl + X" },
+      { "D": "Ctrl + C" },
+      { "E": "Ctrl + V" }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut `Ctrl + B` do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Bold" },
+      { "B": "Italic" },
+      { "C": "Underline" },
+      { "D": "Strikethrough" },
+      { "E": "Highlight" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a page break in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert  > Page Break" },
+      { "B": "File  > Page Break" },
+      { "C": "Format  > Page Break" },
+      { "D": "View  > Page Break" },
+      { "E": "Layout  > Page Break" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which view in MS Word displays the document as it will appear when printed?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Print Layout" },
+      { "B": "Web Layout" },
+      { "C": "Outline" },
+      { "D": "Draft" },
+      { "E": "Full Screen" }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a table in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert  > Table" },
+      { "B": "File  > Table" },
+      { "C": "Format  > Table" },
+      { "D": "View  > Table" },
+      { "E": "Layout  > Table" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut `Ctrl + I` do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Italic" },
+      { "B": "Bold" },
+      { "C": "Underline" },
+      { "D": "Strikethrough" },
+      { "E": "Highlight" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the page orientation to landscape in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Page Layout  > Orientation" },
+      { "B": "File  > Orientation" },
+      { "C": "Format  > Orientation" },
+      { "D": "View  > Orientation" },
+      { "E": "Layout  > Orientation" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the default font size in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "11" },
+      { "B": "10" },
+      { "C": "12" },
+      { "D": "14" },
+      { "E": "16" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a hyperlink in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert  > Hyperlink" },
+      { "B": "File  > Hyperlink" },
+      { "C": "Format  > Hyperlink" },
+      { "D": "View  > Hyperlink" },
+      { "E": "Layout  > Hyperlink" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + U do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Underline" },
+      { "B": "Bold" },
+      { "C": "Italic" },
+      { "D": "Strikethrough" },
+      { "E": "Highlight" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you align text to the right in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Home  > Align Right" },
+      { "B": "Format  > Align Right" },
+      { "C": "Layout  > Align Right" },
+      { "D": "Page Layout  > Align Right" },
+      { "E": "View  > Align Right" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options related to inserting images in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Home" },
+      { "C": "Design" },
+      { "D": "Page Layout" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + L do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Left align" },
+      { "B": "Center align" },
+      { "C": "Right align" },
+      { "D": "Justify" },
+      { "E": "Line spacing" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the line spacing to double in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Home  > Line Spacing  > 2.0" },
+      { "B": "Format  > Line Spacing  > Double" },
+      { "C": "Layout  > Line Spacing  > Double" },
+      { "D": "Page Layout  > Line Spacing  > Double" },
+      { "E": "View  > Line Spacing  > Double" }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which view in MS Word displays the document in a simplified format without formatting?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Draft" },
+      { "B": "Web Layout" },
+      { "C": "Outline" },
+      { "D": "Print Layout" },
+      { "E": "Reading" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + P do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Print" },
+      { "B": "Page Setup" },
+      { "C": "Paste" },
+      { "D": "Preview" },
+      { "E": "Paragraph" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a header in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert  > Header" },
+      { "B": "File  > Header" },
+      { "C": "Format  > Header" },
+      { "D": "View  > Header" },
+      { "E": "Layout  > Header" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options related to page setup in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Page Layout" },
+      { "B": "Home" },
+      { "C": "Insert" },
+      { "D": "Review" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + X do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Cut" },
+      { "B": "Copy" },
+      { "C": "Paste" },
+      { "D": "Undo" },
+      { "E": "Redo" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a footer in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert  > Footer" },
+      { "B": "File  > Footer" },
+      { "C": "Format  > Footer" },
+      { "D": "View  > Footer" },
+      { "E": "Layout  > Footer" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + C do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Copy" },
+      { "B": "Cut" },
+      { "C": "Paste" },
+      { "D": "Undo" },
+      { "E": "Redo" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a page number in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert  > Page Number" },
+      { "B": "File  > Page Number" },
+      { "C": "Format  > Page Number" },
+      { "D": "View  > Page Number" },
+      { "E": "Layout  > Page Number" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options related to reviewing and editing content in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Review" },
+      { "B": "Home" },
+      { "C": "Insert" },
+      { "D": "Page Layout" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + V do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Paste" },
+      { "B": "Copy" },
+      { "C": "Cut" },
+      { "D": "Undo" },
+      { "E": "Redo" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the page margins in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Page Layout  > Margins" },
+      { "B": "Home  > Margins" },
+      { "C": "Format  > Margins" },
+      { "D": "View  > Margins" },
+      { "E": "Layout  > Margins" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + A do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Select All" },
+      { "B": "Align Left" },
+      { "C": "Align Right" },
+      { "D": "Bold" },
+      { "E": "Italic" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a footnote in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "References  > Footnote" },
+      { "B": "Insert  > Footnote" },
+      { "C": "Format  > Footnote" },
+      { "D": "View  > Footnote" },
+      { "E": "Layout  > Footnote" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options related to inserting shapes and diagrams in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert" },
+      { "B": "Home" },
+      { "C": "Design" },
+      { "D": "Page Layout" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + Y do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Redo" },
+      { "B": "Undo" },
+      { "C": "Copy" },
+      { "D": "Cut" },
+      { "E": "Paste" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a watermark in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Design  > Watermark" },
+      { "B": "Insert  > Watermark" },
+      { "C": "Format  > Watermark" },
+      { "D": "View  > Watermark" },
+      { "E": "Layout  > Watermark" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + Z do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Undo" },
+      { "B": "Redo" },
+      { "C": "Copy" },
+      { "D": "Cut" },
+      { "E": "Paste" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a text box in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Insert  > Text Box" },
+      { "B": "File  > Text Box" },
+      { "C": "Format  > Text Box" },
+      { "D": "View  > Text Box" },
+      { "E": "Layout  > Text Box" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options related to mailings and envelopes in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Mailings" },
+      { "B": "Home" },
+      { "C": "Insert" },
+      { "D": "Review" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + F do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Find" },
+      { "B": "Font" },
+      { "C": "Footer" },
+      { "D": "Footnote" },
+      { "E": "Format" }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you insert a comment in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Review  > New Comment" },
+      { "B": "Insert  > Comment" },
+      { "C": "Format  > Comment" },
+      { "D": "View  > Comment" },
+      { "E": "Layout  > Comment" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options related to themes and styles in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Design" },
+      { "B": "Home" },
+      { "C": "Insert" },
+      { "D": "Page Layout" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the shortcut Ctrl + G do in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Go To" },
+      { "B": "Grow Font" },
+      { "C": "Gridlines" },
+      { "D": "Group" },
+      { "E": "Grid" }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you change the bullet style in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Home  > Bullets" },
+      { "B": "Insert  > Bullets" },
+      { "C": "Format  > Bullets" },
+      { "D": "View  > Bullets" },
+      { "E": "Layout  > Bullets" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which ribbon tab contains options related to tracking changes in MS Word?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Review" },
+      { "B": "Home" },
+      { "C": "Insert" },
+      { "D": "Page Layout" },
+      { "E": "View" }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function returns the absolute value of a number in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "abs()" },
+      { "B": "fabs()" },
+      { "C": "absval()" },
+      { "D": "absolute()" },
+      { "E": "value()" }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you calculate the square root of a number in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "math.sqrt()" },
+      { "B": "sqrt()" },
+      { "C": "math.square()" },
+      { "D": "square_root()" },
+      { "E": "math.rsqrt()" }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which module provides mathematical functions in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "math" },
+      { "B": "cmath" },
+      { "C": "mathematics" },
+      { "D": "calc" },
+      { "E": "num" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function returns the maximum value in a list or tuple in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "max()" },
+      { "B": "maximum()" },
+      { "C": "math.max()" },
+      { "D": "largest()" },
+      { "E": "peak()" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you calculate the factorial of a number in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "math.factorial()" },
+      { "B": "factorial()" },
+      { "C": "math.calc()" },
+      { "D": "calculate_factorial()" },
+      { "E": "math.fact()" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which function returns the minimum value in a list or tuple in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "min()" },
+      { "B": "minimum()" },
+      { "C": "math.min()" },
+      { "D": "smallest()" },
+      { "E": "trough()" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "How do you calculate the power of a number in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "math.pow()" },
+      { "B": "power()" },
+      { "C": "math.calculate_power()" },
+      { "D": "pow_of()" },
+      { "E": "exponent()" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the `abs()` function in Python return?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Absolute value" },
+      { "B": "Square root" },
+      { "C": "Factorial" },
+      { "D": "Ceiling value" },
+      { "E": "Floor value" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `abs(-10)`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10" },
+      { "B": " 10" },
+      { "C": "0" },
+      { "D": "1" },
+      { "E": "100" }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of the following statements about the `abs()` function is true?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It always returns a non negative value" },
+      { "B": "It returns a negative value if the input is negative" },
+      { "C": "It rounds the input value" },
+      { "D": "It returns the square of the input" },
+      { "E": "It returns the integer part of the input" }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `abs(0)`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": " 1" },
+      { "C": "1" },
+      { "D": "NaN" },
+      { "E": "Infinity" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which data types can be used as an argument for the `abs()` function in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int, float" },
+      { "B": "str, int" },
+      { "C": "bool, list" },
+      { "D": "dict, tuple" },
+      { "E": "float, complex" }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of `abs(10.5)`?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10.5" },
+      { "B": " 10.5" },
+      { "C": "10" },
+      { "D": "11" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What does the pow() function in Python do?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Raises a number to a power" },
+      { "B": "Calculates the square root" },
+      { "C": "Finds the factorial" },
+      { "D": "Returns the absolute value" },
+      { "E": "Finds the logarithm" }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of pow(2, 3)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "6" },
+      { "C": "5" },
+      { "D": "9" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which data types can be used as arguments for the pow() function in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "int, float" },
+      { "B": "str, int" },
+      { "C": "bool, list" },
+      { "D": "dict, tuple" },
+      { "E": "float, complex" }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of pow(4, 2)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "16" },
+      { "B": "64" },
+      { "C": "54" },
+      { "D": "95" },
+      { "E": "43" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the result of pow(8, 2)?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "64" },
+      { "B": "16" },
+      { "C": "78" },
+      { "D": "90" },
+      { "E": "88" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "Choose the correct keyword to initiate a loop.",
+    "questionDown": "What keyword initiates a while loop in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "while" },
+      { "B": "for" },
+      { "C": "until" },
+      { "D": "loop" },
+      { "E": "whilst" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Choose the correct syntax.",
+    "questionDown": "How is the condition in a while loop expressed in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "After the keyword 'while'" },
+      { "B": "Before the keyword 'while'" },
+      { "C": "Inside parentheses after 'while'" },
+      { "D": "Separated by a colon after 'while'" },
+      { "E": "In a separate line after 'while'" }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "Understand while loop behavior.",
+    "questionDown": "In a while loop, how many times is the block of code executed?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Until the condition becomes False" },
+      { "B": "Until the condition becomes True" },
+      { "C": "A fixed number of times" },
+      { "D": "Indefinitely" },
+      { "E": "Only once" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "Identify the appropriate operator.",
+    "questionDown": "What operator is commonly used to construct conditions in a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Comparison operators" },
+      { "B": "Assignment operators" },
+      { "C": "Arithmetic operators" },
+      { "D": "Logical operators" },
+      { "E": "Bitwise operators" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Control loop execution.",
+    "questionDown": "How do you terminate a while loop prematurely in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "By using the 'break' statement" },
+      { "B": "By using the 'end' statement" },
+      { "C": "By using the 'terminate' statement" },
+      { "D": "By using the 'exit' statement" },
+      { "E": "By using the 'stop' statement" }
+    ]
+  },
+  {
+    "questionNumber": 306,
+    "questionUp": "Choose the correct statement.",
+    "questionDown": "What does the 'continue' statement do in a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "Skips the rest of the code block and continues with the next iteration"
+      },
+      { "B": "Ends the loop immediately" },
+      { "C": "Restarts the loop from the beginning" },
+      { "D": "Pauses the loop for a specified duration" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 307,
+    "questionUp": "Evaluate the statement about loops.",
+    "questionDown": "Which of the following statements is true about while loops?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "They are always faster than for loops" },
+      { "B": "They are not commonly used in Python programming" },
+      {
+        "C": "They execute the code block at least once, even if the condition is False initially"
+      },
+      {
+        "D": "They can only iterate over collections like lists and dictionaries"
+      },
+      { "E": "They cannot be nested within other loops" }
+    ]
+  },
+  {
+    "questionNumber": 308,
+    "questionUp": "Create infinite loops.",
+    "questionDown": "How do you create an infinite loop in Python using a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "By omitting the condition altogether" },
+      { "B": "By setting the condition to True" },
+      { "C": "By using the keyword 'infinite'" },
+      { "D": "By setting the condition to False" },
+      { "E": "By using the keyword 'forever'" }
+    ]
+  },
+  {
+    "questionNumber": 309,
+    "questionUp": "Understand loop initiation.",
+    "questionDown": "What happens if the condition in a while loop is never met?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "The loop executes indefinitely" },
+      { "B": "The loop exits immediately" },
+      { "C": "Python raises an error" },
+      { "D": "The code inside the loop is skipped" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 310,
+    "questionUp": "Minimum iterations in loops.",
+    "questionDown": "What is the minimum number of times a while loop can execute?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "3" },
+      { "E": "4" }
+    ]
+  },
+  {
+    "questionNumber": 311,
+    "questionUp": "Handling multiple conditions.",
+    "questionDown": "Can you have multiple conditions in a single while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Yes, using the '&&' operator" },
+      { "B": "Yes, by separating them with commas" },
+      { "C": "Yes, by using nested while loops" },
+      { "D": "No, while loops only accept one condition" },
+      { "E": "No, conditions are not allowed in while loops" }
+    ]
+  },
+  {
+    "questionNumber": 312,
+    "questionUp": "Purpose of 'else' in loops.",
+    "questionDown": "What does the 'else' statement do in a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It defines an alternative condition for the loop" },
+      { "B": "It is executed if the loop terminates normally" },
+      {
+        "C": "It defines a condition that must be met for the loop to continue"
+      },
+      { "D": "It is executed if the loop encounters an error" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 313,
+    "questionUp": "Understand infinite loops.",
+    "questionDown": "How do you make a while loop run forever until interrupted?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "By setting the condition to True and using the 'break' statement"
+      },
+      {
+        "B": "By setting the condition to False and using the 'break' statement"
+      },
+      {
+        "C": "By setting the condition to True and not using any termination statement"
+      },
+      {
+        "D": "By setting the condition to False and not using any termination statement"
+      },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 314,
+    "questionUp": "Distinguish loop types.",
+    "questionDown": "What is the difference between 'while' and 'for' loops in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "'while' loops are used for indefinite iterations, whereas 'for' loops are used for definite iterations"
+      },
+      {
+        "B": "'while' loops can only iterate over collections, whereas 'for' loops can iterate over any sequence"
+      },
+      {
+        "C": "'while' loops must have an incrementing counter, whereas 'for' loops do not require one"
+      },
+      {
+        "D": "'while' loops cannot be nested, whereas 'for' loops can be nested"
+      },
+      { "E": "There is no difference between them" }
+    ]
+  },
+  {
+    "questionNumber": 315,
+    "questionUp": "Understand loop condition evaluation.",
+    "questionDown": "In a while loop, how is the condition evaluated?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Once before each iteration" },
+      { "B": "Once after each iteration" },
+      { "C": "Continuously throughout each iteration" },
+      { "D": "Only when the loop is started" },
+      { "E": "Only when the loop is terminated" }
+    ]
+  },
+  {
+    "questionNumber": 316,
+    "questionUp": "Identify invalid loop termination.",
+    "questionDown": "Which of the following is NOT a valid way to end a while loop in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Using the 'break' statement" },
+      { "B": "Using the 'continue' statement" },
+      { "C": "Changing the condition to False" },
+      { "D": "Exiting the program" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 317,
+    "questionUp": "Understand truthy/falsy values.",
+    "questionDown": "What happens if the condition in a while loop is an empty string?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "It raises a syntax error" },
+      { "B": "It evaluates to True" },
+      { "C": "It evaluates to False" },
+      { "D": "It raises a runtime error" },
+      { "E": "It enters an infinite loop" }
+    ]
+  },
+  {
+    "questionNumber": 318,
+    "questionUp": "Manage loop flow.",
+    "questionDown": "How do you skip the current iteration and continue with the next iteration of a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "By using the 'skip' statement" },
+      { "B": "By using the 'next' statement" },
+      { "C": "By using the 'pass' statement" },
+      { "D": "By using the 'continue' statement" },
+      { "E": "By using the 'jump' statement" }
+    ]
+  },
+  {
+    "questionNumber": 319,
+    "questionUp": "Understand loop capacity.",
+    "questionDown": "What is the maximum number of iterations a while loop can have in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "There is no maximum limit" },
+      { "B": "1000" },
+      { "C": "10,000" },
+      { "D": "1,000,000" },
+      { "E": "1,000,000,000" }
+    ]
+  },
+  {
+    "questionNumber": 320,
+    "questionUp": "Understand loop purpose.",
+    "questionDown": "What is the purpose of a while loop in Python?",
+    "correctAnswer": "A",
+    "answers": [
+      {
+        "A": "To execute a block of code repeatedly until a condition is no longer met"
+      },
+      { "B": "To execute a block of code once" },
+      { "C": "To execute a block of code in parallel" },
+      { "D": "To execute a block of code only if a condition is met" },
+      {
+        "E": "To execute a block of code based on a fixed number of iterations"
+      }
+    ]
+  },
+  {
+    "questionNumber": 321,
+    "questionUp": "Analyze output of loop.",
+    "questionDown": "What will be the output of the following code snippet?\n\nx = 5\nwhile x > 0:\n    print(x)\n    x -= 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5 4 3 2 1" },
+      { "B": "1 2 3 4 5" },
+      { "C": "0 1 2 3 4" },
+      { "D": "5 5 5 5 5" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 322,
+    "questionUp": "Count loop iterations.",
+    "questionDown": "How many times will the following loop execute?\n\ncount = 0\nwhile count < 3:\n    count += 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "3" },
+      { "C": "4" },
+      { "D": "Infinite loop" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 323,
+    "questionUp": "Compute sum using loop.",
+    "questionDown": "What is the sum of the first 10 positive integers using a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "55" },
+      { "B": "45" },
+      { "C": "10" },
+      { "D": "100" },
+      { "E": "25" }
+    ]
+  },
+  {
+    "questionNumber": 324,
+    "questionUp": "Analyze loop with break.",
+    "questionDown": "What is the output of the following code?\n\ni = 1\nwhile i < 5:\n    print(i)\n    if i == 3:\n        break\n    i += 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 2 3" },
+      { "B": "1 2 3 4" },
+      { "C": "1 2" },
+      { "D": "1 2 3 4 5" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 325,
+    "questionUp": "Interpret loop behavior.",
+    "questionDown": "What does the following while loop do?\n\nnum = 0\nwhile num < 10:\n    num += 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Prints even numbers from 0 to 10" },
+      { "B": "Prints odd numbers from 1 to 9" },
+      { "C": "Prints even numbers from 2 to 10" },
+      { "D": "Prints numbers from 0 to 10" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 326,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the output of the following code?\nnum = 2\nwhile num < 10:\n    print(num)\n    num += 3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2 5 8" },
+      { "B": "2 3 4 5 6 7 8 9" },
+      { "C": "2 3 4 5 6 7 8 9 10" },
+      { "D": "2 3 5 8" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 327,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the output of the following code?\nnum = 1\nwhile num < 5:\n    print(num)\n    if num == 3:\n        continue\n    num += 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 2 3" },
+      { "B": "1 2" },
+      { "C": "1 2 3 4" },
+      { "D": "1 2 4" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 328,
+    "questionUp": "Choose the correct answer.",
+    "questionDown": "What will be the value of x after the following loop?\nx = 0\nwhile x < 10:\n    x += 1\nelse:\n    x += 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10" },
+      { "B": "11" },
+      { "C": "9" },
+      { "D": "20" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 329,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the output of the following code?\nx = 5\nwhile x > 0:\n    x -= 1\nprint(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "5" },
+      { "D": "-1" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 330,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What will be the output of the following code?\nx = 0\nwhile x < 5:\n    x += 2\nprint(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "6" },
+      { "C": "4" },
+      { "D": "3" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 331,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the output of the following code?\nnum = 10\nwhile num > 0:\n    print(num)\n    num -= 1\nelse:\n    print(\"Loop ended\")",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10 9 8 ... 1 Loop ended" },
+      { "B": "Loop ended 10 9 8 ... 1" },
+      { "C": "Loop ended" },
+      { "D": "1 2 3 ... 10 Loop ended" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 332,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What will be the output of the following code?\nx = 1\nwhile x < 5:\n    if x == 3:\n        x += 1\n        continue\n    print(x)\n    x += 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 2 3 4" },
+      { "B": "1 2 4" },
+      { "C": "1 3 4" },
+      { "D": "2 3 4" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 333,
+    "questionUp": "Choose the correct answer.",
+    "questionDown": "What will be the value of x after the following loop?\nx = 0\nwhile x < 5:\n    x += 1\n    if x == 3:\n        break\nelse:\n    x += 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "3" },
+      { "C": "4" },
+      { "D": "5" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 334,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What is the output of the following code?\nx = 0\nwhile x < 5:\n    if x == 3:\n        x += 1\n        continue\n    print(x)\n    x += 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0 1 2" },
+      { "B": "0 1 2 4" },
+      { "C": "0 1 2 3" },
+      { "D": "1 2 4" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 335,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What will be the output of the following code?\nx = 0\nwhile x < 5:\n    x += 1\nprint(x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "4" },
+      { "C": "6" },
+      { "D": "0" },
+      { "E": "None of the above" }
+    ]
+  },
+  {
+    "questionNumber": 336,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What will be the output of the following code?\nx = 5\nif x > 3:\n    print(\"A\")\nelse:\n    print(\"B\")",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A" },
+      { "B": "B" },
+      { "C": "A B" },
+      { "D": "None" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 337,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What will be the output of the following code?\nx = 10\nif x > 5:\n    print(\"A\")\nif x < 15:\n    print(\"B\")",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A B" },
+      { "B": "A" },
+      { "C": "B" },
+      { "D": "Error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 338,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What will be the output of the following code?\nx = 10\nif x > 5:\n    print(\"A\")\nelif x < 15:\n    print(\"B\")",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A" },
+      { "B": "B" },
+      { "C": "A B" },
+      { "D": "None" },
+      { "E": "Error" }
+    ]
+  },
+  {
+    "questionNumber": 339,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What will be the output of the following code?\nx = 5\nif x > 3:\n    print(\"A\")\nif x < 7:\n    print(\"B\")",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A B" },
+      { "B": "A" },
+      { "C": "B" },
+      { "D": "Error" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 340,
+    "questionUp": "Choose the correct output.",
+    "questionDown": "What will be the output of the following code?\nx = 5\nif x < 5:\n    print(\"A\")\nelif x == 5:\n    print(\"B\")\nelse:\n    print(\"C\")",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "A" },
+      { "B": "B" },
+      { "C": "C" },
+      { "D": "B C" },
+      { "E": "None" }
+    ]
+  },
+  {
+    "questionNumber": 341,
+    "questionUp": "Choose the correct sum.",
+    "questionDown": "What is the sum of the first 11 positive integers using a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "66" },
+      { "B": "45" },
+      { "C": "10" },
+      { "D": "100" },
+      { "E": "25" }
+    ]
+  },
+  {
+    "questionNumber": 342,
+    "questionUp": "Choose the correct sum.",
+    "questionDown": "What is the sum of the first 12 positive integers using a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "78" },
+      { "B": "45" },
+      { "C": "104" },
+      { "D": "100" },
+      { "E": "25" }
+    ]
+  },
+  {
+    "questionNumber": 343,
+    "questionUp": "Choose the correct sum.",
+    "questionDown": "What is the sum of the first 13 positive integers using a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "91" },
+      { "B": "45" },
+      { "C": "108" },
+      { "D": "100" },
+      { "E": "25" }
+    ]
+  },
+  {
+    "questionNumber": 344,
+    "questionUp": "Choose the correct sum.",
+    "questionDown": "What is the sum of the first 14 positive integers using a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "105" },
+      { "B": "45" },
+      { "C": "10" },
+      { "D": "100" },
+      { "E": "250" }
+    ]
+  },
+  {
+    "questionNumber": 345,
+    "questionUp": "Choose the correct sum.",
+    "questionDown": "What is the sum of the first 15 positive integers using a while loop?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "120" },
+      { "B": "45" },
+      { "C": "100" },
+      { "D": "100" },
+      { "E": "25" }
     ]
   }
 ]
