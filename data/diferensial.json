@@ -1,0 +1,41 @@
+[
+  {
+    "questionNumber": 1,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tənliyi həll edin:  y’ – tg x = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = - ln |cosx| +C" },
+      { "B": "y = ln |sinx| +C" },
+      { "C": "y =lntg x +C" },
+      { "D": "y =tg x +C" },
+      { "E": "y = cosx + C" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tənliyi həll edin:  y’ – ctg x = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ln |sinx| +C" },
+      { "B": "y = - ln |cosx| +C" },
+      { "C": "y =lntg x +C" },
+      { "D": "y =ctg x +C" },
+      { "E": "y = sinx + C" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Düzgün cavabı seçin.",
+    "questionDown": "Tənliyi həll edin:  y’ – xex = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x-1)ex +C" },
+      { "B": "y = (1- x)ex +C" },
+      { "C": "y = xex + C" },
+      { "D": "y = ex + C" },
+      { "E": "y = x2ex + C" }
+    ]
+  }
+]

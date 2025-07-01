@@ -69,6 +69,12 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './zad2.json';
   } else if (
+    locationPath === '/exams/diferensial.html' ||
+    locationPath === '/exams/diferensial.html' ||
+    locationPath === '/SeidExam/diferensial.html'
+  ) {
+    endpoint = './diferensial.json';
+  } else if (
     locationPath === '/exams/komp-muh-esas-2' ||
     locationPath === '/komp-muh-esas-2.html' ||
     locationPath === '/SeidExam/exams/komp-muh-esas-2.html'
