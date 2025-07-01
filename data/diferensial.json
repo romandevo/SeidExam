@@ -1,5 +1,18 @@
 [
   {
+    "questionNumber": 297,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which method is used to remove a specific element from a list by value?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "pop()" },
+      { "B": "clear()" },
+      { "C": "remove()" },
+      { "D": "delete()" },
+      { "E": "cut()" }
+    ]
+  },
+  {
     "questionNumber": 1,
     "questionUp": "Düzgün cavabı seçin.",
     "questionDown": "Tənliyi həll edin:  y’ – tg x = 0",
@@ -36,6 +49,34 @@
       { "C": "y = xex + C" },
       { "D": "y = ex + C" },
       { "E": "y = x2ex + C" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "What is the difference between append() and extend() in lists?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "No difference" },
+      {
+        "B": "append() adds an element; extend() adds each element from an iterable"
+      },
+      { "C": "append() sorts the list; extend() adds an element" },
+      { "D": "extend() removes duplicates; append() doesn't" },
+      { "E": "append() replaces the list; extend() creates a new one" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Choose the correct variant.",
+    "questionDown": "Which of these creates a shallow copy of a list?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "list.copy()" },
+      { "B": "list()" },
+      { "C": "list.clone()" },
+      { "D": "list.deepcopy()" },
+      { "E": "list.shallow()" }
     ]
   }
 ]
