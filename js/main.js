@@ -12,66 +12,124 @@ const currentLocation = window.location.pathname;
 function getEndpoint(locationPath) {
   let endpoint;
 
+  //S1-P1 (5 Exams)
+
+  if (
+    locationPath === '/exams/it-esaslari' ||
+    locationPath === '/exams/it-esaslari.html' ||
+    locationPath === '/SeidExam/exmas/it-esaslari.html'
+  ) {
+    endpoint = './it-esaslari.json';
+  }
+
   if (
     locationPath === '/exams/xarici-dil' ||
     locationPath === '/exams/xarici-dil.html' ||
     locationPath === '/SeidExam/exams/xarici-dil.html'
   ) {
     endpoint = './xarici-dil.json';
-  } else if (
-    locationPath === '/exams/xarici-dil-2' ||
-    locationPath === '/exams/xarici-dil-2.html' ||
-    locationPath === '/SeidExam/exams/xarici-dil-2.html'
-  ) {
-    endpoint = './xarici-dil-2.json';
-  } else if (
-    locationPath === '/exams/komp-muh-esas-2' ||
-    locationPath === '/komp-muh-esas-2.html' ||
-    locationPath === '/SeidExam/exams/komp-muh-esas-2.html'
-  ) {
-    endpoint = './komp-muh-esas-2.json';
-  } else if (
-    locationPath === '/exams/instrumental-ve-tetbiqi-programlar' ||
-    locationPath === '/exams/instrumental-ve-tetbiqi-programlar.html' ||
-    locationPath === '/SeidExam/exams/instrumental-ve-tetbiqi-programlar.html'
-  ) {
-    endpoint = './instrumental-ve-tetbiqi-programlar.json';
-  } else if (
+  }
+
+  if (
     locationPath === '/exams/information-technologies' ||
     locationPath === '/exams/information-technologies.html' ||
     locationPath === '/SeidExam/exams/information-technologies.html'
   ) {
     endpoint = './information-technologies.json';
-  } else if (
-    locationPath === '/exams/it-esaslari2' ||
-    locationPath === '/exams/it-esaslari2.html' ||
-    locationPath === '/SeidExam/exmas/it-esaslari2.html'
-  ) {
-    endpoint = './it-esaslari2.json';
-  } else if (
-    locationPath === '/exams/it-esaslari' ||
-    locationPath === '/exams/it-esaslari.html' ||
-    locationPath === '/SeidExam/exmas/it-esaslari.html'
-  ) {
-    endpoint = './it-esaslari.json';
-  } else if (
+  }
+
+  if (
     locationPath === '/exams/az-dili' ||
     locationPath === '/exams/az-dili.html' ||
     locationPath === '/SeidExam/exams/az-dili.html'
   ) {
     endpoint = './az-dili.json';
-  } else if (
+  }
+
+  if (
     locationPath === '/exams/mathematical-analysis' ||
     locationPath === '/exams/mathematical-analysis.html' ||
     locationPath === '/SeidExam/exams/mathematical-analysis.html'
   ) {
     endpoint = './mathematical-analysis.json';
-  } else if (
+  }
+
+  //S1-P2 (7 Exams)
+
+  if (
+    locationPath === '/exams/it-esaslari2' ||
+    locationPath === '/exams/it-esaslari2.html' ||
+    locationPath === '/SeidExam/exmas/it-esaslari2.html'
+  ) {
+    endpoint = './it-esaslari2.json';
+  }
+
+  if (
+    locationPath === '/exams/xarici-dil-2' ||
+    locationPath === '/exams/xarici-dil-2.html' ||
+    locationPath === '/SeidExam/exams/xarici-dil-2.html'
+  ) {
+    endpoint = './xarici-dil-2.json';
+  }
+
+  if (
     locationPath === '/exams/fizika' ||
     locationPath === '/exams/fizika.html' ||
     locationPath === '/SeidExam/exams/fizika.html'
   ) {
     endpoint = './fizika.json';
+  }
+
+  if (
+    locationPath === '/exams/programlasdirmanin-esaslari' ||
+    locationPath === '/exams/programlasdirmanin-esaslari.html' ||
+    locationPath === '/SeidExam/exams/programlasdirmanin-esaslari.html'
+  ) {
+    endpoint = './programlasdirmanin-esaslari.json';
+  }
+
+  if (
+    locationPath === '/exams/diferensial.html' ||
+    locationPath === '/exams/diferensial.html' ||
+    locationPath === '/SeidExam/diferensial.html'
+  ) {
+    endpoint = './diferensial.json';
+  }
+
+  if (
+    locationPath === '/exams/instrumental-ve-tetbiqi-programlar' ||
+    locationPath === '/exams/instrumental-ve-tetbiqi-programlar.html' ||
+    locationPath === '/SeidExam/exams/instrumental-ve-tetbiqi-programlar.html'
+  ) {
+    endpoint = './instrumental-ve-tetbiqi-programlar.json';
+  }
+
+  // Special for T
+
+  if (
+    locationPath === '/exams/komp-muh-esas-2' ||
+    locationPath === '/exams/komp-muh-esas-2.html' ||
+    locationPath === '/SeidExam/exams/komp-muh-esas-2.html'
+  ) {
+    endpoint = './komp-muh-esas-2.json';
+  }
+
+  // Special for E
+
+  if (
+    locationPath === '/exams/zad' ||
+    locationPath === '/exams/zad.html' ||
+    locationPath === '/SeidExam/zad.html'
+  ) {
+    endpoint = './zad.json';
+  }
+
+  if (
+    locationPath === '/exams/zad2' ||
+    locationPath === '/exams/zad2.html' ||
+    locationPath === '/SeidExam/zad2.html'
+  ) {
+    endpoint = './zad2.json';
   }
 
   return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
