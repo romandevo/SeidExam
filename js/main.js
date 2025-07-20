@@ -59,7 +59,7 @@ function getEndpoint(locationPath) {
   } else if (
     locationPath === '/exams/fizika' ||
     locationPath === '/exams/fizika.html' ||
-    locationPath === '/SeidExam/fizika.html'
+    locationPath === '/SeidExam/exams/fizika.html'
   ) {
     endpoint = './fizika.json';
   } else if (
