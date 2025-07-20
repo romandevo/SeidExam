@@ -2610,1248 +2610,1350 @@
     "questionUp": "What is the amount of heat required to cause a change of 35 J/K in the entropy of a system at 400K?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "1.4×10⁴ J",
-      "B": "1.1×10² J",
-      "C": "1.4×10³ J",
-      "D": "1.1×10¹ J",
-      "E": "1.1 J"
-    }
+    "answers": [
+      { "A": "1.4×10⁴ J" },
+      { "B": "1.1×10² J" },
+      { "C": "1.4×10³ J" },
+      { "D": "1.1×10¹ J" },
+      { "E": "1.1 J" }
+    ]
   },
   {
     "questionNumber": 182,
     "questionUp": "What is a wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "A wave is a disturbance that propagates from the place where it was created",
-      "B": "A wave is a force that propagates from the place where it was created",
-      "C": "A wave is matter that provides volume to an object",
-      "D": "A wave is matter that provides mass to an object",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "A wave is a disturbance that propagates from the place where it was created"
+      },
+      {
+        "B": "A wave is a force that propagates from the place where it was created"
+      },
+      { "C": "A wave is matter that provides volume to an object" },
+      { "D": "A wave is matter that provides mass to an object" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 183,
     "questionUp": "Do all waves require a medium to travel?",
     "questionDown": "Explain.",
     "correctAnswer": "A",
-    "answers": {
-      "A": "No, electromagnetic waves do not require any medium to propagate",
-      "B": "No, mechanical waves do not require any medium to propagate",
-      "C": "Yes, both mechanical and electromagnetic waves require a medium to propagate",
-      "D": "Yes, all transverse waves require a medium to travel",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "No, electromagnetic waves do not require any medium to propagate"
+      },
+      { "B": "No, mechanical waves do not require any medium to propagate" },
+      {
+        "C": "Yes, both mechanical and electromagnetic waves require a medium to propagate"
+      },
+      { "D": "Yes, all transverse waves require a medium to travel" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 184,
     "questionUp": "What are the categories of mechanical waves based on the type of motion?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Both transverse and longitudinal waves",
-      "B": "Only longitudinal waves",
-      "C": "Only transverse waves",
-      "D": "Only surface waves",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "Both transverse and longitudinal waves" },
+      { "B": "Only longitudinal waves" },
+      { "C": "Only transverse waves" },
+      { "D": "Only surface waves" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 185,
     "questionUp": "The frequency of a wave is 10 Hz. What is its period?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The period of the wave is 0.1 s",
-      "B": "The period of the wave is 10 s",
-      "C": "The period of the wave is 0.01 s",
-      "D": "The period of the wave is 100 s",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "The period of the wave is 0.1 s" },
+      { "B": "The period of the wave is 10 s" },
+      { "C": "The period of the wave is 0.01 s" },
+      { "D": "The period of the wave is 100 s" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 186,
     "questionUp": "What is the velocity of a wave whose wavelength is 2 m and whose frequency is 5 Hz?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "10 m/s",
-      "B": "2.5 m/s",
-      "C": "0.4 m/s",
-      "D": "20 m/s",
-      "E": "0 m/s"
-    }
+    "answers": [
+      { "A": "10 m/s" },
+      { "B": "2.5 m/s" },
+      { "C": "0.4 m/s" },
+      { "D": "20 m/s" },
+      { "E": "0 m/s" }
+    ]
   },
   {
     "questionNumber": 187,
     "questionUp": "What is the amplitude of a wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Half of the total height of the wave",
-      "B": "A quarter of the total height of the wave",
-      "C": "Two times the total height of the wave",
-      "D": "Four times the total height of the wave",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "Half of the total height of the wave" },
+      { "B": "A quarter of the total height of the wave" },
+      { "C": "Two times the total height of the wave" },
+      { "D": "Four times the total height of the wave" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 188,
     "questionUp": "What is meant by the wavelength of a wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The wavelength is the distance between adjacent identical parts of a wave, parallel to the direction of propagation",
-      "B": "The wavelength is the distance between adjacent identical parts of a wave, perpendicular to the direction of propagation",
-      "C": "The wavelength is the distance between a crest and the adjacent trough of a wave, parallel to the direction of propagation",
-      "D": "The wavelength is the distance between a crest and the adjacent trough of a wave, perpendicular to the direction of propagation",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "The wavelength is the distance between adjacent identical parts of a wave, parallel to the direction of propagation"
+      },
+      {
+        "B": "The wavelength is the distance between adjacent identical parts of a wave, perpendicular to the direction of propagation"
+      },
+      {
+        "C": "The wavelength is the distance between a crest and the adjacent trough of a wave, parallel to the direction of propagation"
+      },
+      {
+        "D": "The wavelength is the distance between a crest and the adjacent trough of a wave, perpendicular to the direction of propagation"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 189,
     "questionUp": "How can you mathematically express wave frequency in terms of wave period?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "f = 1/T",
-      "B": "f = 1T",
-      "C": "f = 1/4T",
-      "D": "f = T",
-      "E": "f = 1/2T"
-    }
+    "answers": [
+      { "A": "f = 1/T" },
+      { "B": "f = 1T" },
+      { "C": "f = 1/4T" },
+      { "D": "f = T" },
+      { "E": "f = 1/2T" }
+    ]
   },
   {
     "questionNumber": 190,
     "questionUp": "When is the wavelength directly proportional to the period of a wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "When the velocity of the wave is constant",
-      "B": "When the velocity of the wave is halved",
-      "C": "When the velocity of the wave is doubled",
-      "D": "When the velocity of the wave is tripled",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "When the velocity of the wave is constant" },
+      { "B": "When the velocity of the wave is halved" },
+      { "C": "When the velocity of the wave is doubled" },
+      { "D": "When the velocity of the wave is tripled" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 191,
     "questionUp": "What is interference of waves?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Interference is a superposition of two waves to form a wave of larger or smaller amplitude",
-      "B": "Interference is a superposition of two waves to form a resultant wave with higher or lower frequency",
-      "C": "Interference is a superposition of two waves to form a resultant wave with higher or lower velocity",
-      "D": "Interference is a superposition of two waves to form a resultant wave with longer or shorter wavelength",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "Interference is a superposition of two waves to form a wave of larger or smaller amplitude"
+      },
+      {
+        "B": "Interference is a superposition of two waves to form a resultant wave with higher or lower frequency"
+      },
+      {
+        "C": "Interference is a superposition of two waves to form a resultant wave with higher or lower velocity"
+      },
+      {
+        "D": "Interference is a superposition of two waves to form a resultant wave with longer or shorter wavelength"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 192,
     "questionUp": "What is the reflection of a wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The reflection of a wave is the change in direction of a wave when it bounces off a barrier",
-      "B": "The reflection of a wave is the change in frequency of a wave when it bounces off a barrier",
-      "C": "The reflection of a wave is the change in velocity of a wave when it bounces off a barrier",
-      "D": "The reflection of a wave is the change in amplitude of a wave when it bounces off a barrier",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "The reflection of a wave is the change in direction of a wave when it bounces off a barrier"
+      },
+      {
+        "B": "The reflection of a wave is the change in frequency of a wave when it bounces off a barrier"
+      },
+      {
+        "C": "The reflection of a wave is the change in velocity of a wave when it bounces off a barrier"
+      },
+      {
+        "D": "The reflection of a wave is the change in amplitude of a wave when it bounces off a barrier"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 193,
     "questionUp": "With reference to waves, what is a trough?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "the lowermost position of a wave",
-      "B": "the uppermost position of a wave",
-      "C": "the final position of a wave",
-      "D": "the initial position of the wave",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "the lowermost position of a wave" },
+      { "B": "the uppermost position of a wave" },
+      { "C": "the final position of a wave" },
+      { "D": "the initial position of the wave" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 194,
     "questionUp": "Give an example of longitudinal waves.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "sound waves in air",
-      "B": "water waves in a lake",
-      "C": "light waves",
-      "D": "seismic waves in Earth’s surface",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "sound waves in air" },
+      { "B": "water waves in a lake" },
+      { "C": "light waves" },
+      { "D": "seismic waves in Earth’s surface" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 195,
     "questionUp": "What does the speed of a mechanical wave depend on?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "the properties of the material through which it travels",
-      "B": "the shape of the material through which it travels",
-      "C": "the size of the material through which it travels",
-      "D": "the color of the material through which it travels",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "the properties of the material through which it travels" },
+      { "B": "the shape of the material through which it travels" },
+      { "C": "the size of the material through which it travels" },
+      { "D": "the color of the material through which it travels" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 196,
     "questionUp": "What is the period of a wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "the time that a wave takes to complete one cycle",
-      "B": "the time that a wave takes to complete a half cycle",
-      "C": "the time that a wave takes to complete two cycles",
-      "D": "the time that a wave takes to complete four cycles",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "the time that a wave takes to complete one cycle" },
+      { "B": "the time that a wave takes to complete a half cycle" },
+      { "C": "the time that a wave takes to complete two cycles" },
+      { "D": "the time that a wave takes to complete four cycles" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 197,
     "questionUp": "In a sound wave, which parameter of the medium varies with every cycle?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The density of the medium varies with every cycle",
-      "B": "The mass of the medium varies with every cycle",
-      "C": "The resistivity of the medium varies with every cycle",
-      "D": "The volume of the medium varies with every cycle",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "The density of the medium varies with every cycle" },
+      { "B": "The mass of the medium varies with every cycle" },
+      { "C": "The resistivity of the medium varies with every cycle" },
+      { "D": "The volume of the medium varies with every cycle" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 198,
     "questionUp": "If the horizontal distance between a crest and the adjacent trough of a sine wave is 1 m, what is the wavelength?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "2 m",
-      "B": "1 m",
-      "C": "0.5 m",
-      "D": "4 m",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "2 m" },
+      { "B": "1 m" },
+      { "C": "0.5 m" },
+      { "D": "4 m" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 199,
     "questionUp": "Two identical waves superimpose in pure constructive interference. What is the height of the resultant wave if the amplitude of each of the waves is 1 m?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "2 m",
-      "B": "1 m",
-      "C": "3 m",
-      "D": "4 m",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "2 m" },
+      { "B": "1 m" },
+      { "C": "3 m" },
+      { "D": "4 m" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 200,
     "questionUp": "In which kind of wave is the amplitude at each point constant?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Standing waves",
-      "B": "Pulse wave",
-      "C": "Seismic waves",
-      "D": "Electromagnetic waves",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "Standing waves" },
+      { "B": "Pulse wave" },
+      { "C": "Seismic waves" },
+      { "D": "Electromagnetic waves" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 201,
     "questionUp": "Which property of a medium causes refraction?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Density",
-      "B": "Opacity",
-      "C": "Ductility",
-      "D": "Conductivity",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "Density" },
+      { "B": "Opacity" },
+      { "C": "Ductility" },
+      { "D": "Conductivity" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 202,
     "questionUp": "A seagull bobs once every 2 seconds and the distance between two crests of the water wave is 3 m. What is the velocity of the wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "1.5 m/s",
-      "B": "3 m/s",
-      "C": "6 m/s",
-      "D": "2 m/s",
-      "E": "1 m/s"
-    }
+    "answers": [
+      { "A": "1.5 m/s" },
+      { "B": "3 m/s" },
+      { "C": "6 m/s" },
+      { "D": "2 m/s" },
+      { "E": "1 m/s" }
+    ]
   },
   {
     "questionNumber": 203,
     "questionUp": "A boat in the trough of a wave takes 3 seconds to reach the crest. The wave velocity is 5 m/s. What is its wavelength?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "30 m",
-      "B": "15 m",
-      "C": "0.83 m",
-      "D": "180 m",
-      "E": "16 m"
-    }
+    "answers": [
+      { "A": "30 m" },
+      { "B": "15 m" },
+      { "C": "0.83 m" },
+      { "D": "180 m" },
+      { "E": "16 m" }
+    ]
   },
   {
     "questionNumber": 205,
     "questionUp": "What kind of waves are electromagnetic waves?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Transverse waves",
-      "B": "Longitudinal waves",
-      "C": "Mechanical waves",
-      "D": "P-waves",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "Transverse waves" },
+      { "B": "Longitudinal waves" },
+      { "C": "Mechanical waves" },
+      { "D": "P-waves" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 206,
     "questionUp": "Which of these is not a characteristic of a wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "mass",
-      "B": "period",
-      "C": "amplitude",
-      "D": "velocity",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "mass" },
+      { "B": "period" },
+      { "C": "amplitude" },
+      { "D": "velocity" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 207,
     "questionUp": "What is the period of a wave with a frequency of 0.5 Hz?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "2 s",
-      "B": "1 s",
-      "C": "0.2 s",
-      "D": "3 s",
-      "E": "5 s"
-    }
+    "answers": [
+      { "A": "2 s" },
+      { "B": "1 s" },
+      { "C": "0.2 s" },
+      { "D": "3 s" },
+      { "E": "5 s" }
+    ]
   },
   {
     "questionNumber": 210,
     "questionUp": "What is the relation between the amplitude of a wave and its speed?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The amplitude of a wave is independent of its speed.",
-      "B": "The amplitude of a wave is directly proportional to its speed.",
-      "C": "The amplitude of a wave is directly proportional to the square of the inverse of its speed.",
-      "D": "The amplitude of a wave is directly proportional to the inverse of its speed.",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "The amplitude of a wave is independent of its speed." },
+      { "B": "The amplitude of a wave is directly proportional to its speed." },
+      {
+        "C": "The amplitude of a wave is directly proportional to the square of the inverse of its speed."
+      },
+      {
+        "D": "The amplitude of a wave is directly proportional to the inverse of its speed."
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 211,
     "questionUp": "What term refers to the bending of light at the junction of two media?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "refraction",
-      "B": "diffraction",
-      "C": "scattering",
-      "D": "interference",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "refraction" },
+      { "B": "diffraction" },
+      { "C": "scattering" },
+      { "D": "interference" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 212,
     "questionUp": "Which parameter of a wave gets affected after superposition?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "frequency",
-      "B": "direction",
-      "C": "amplitude",
-      "D": "wavelength",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "frequency" },
+      { "B": "direction" },
+      { "C": "amplitude" },
+      { "D": "wavelength" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 213,
     "questionUp": "What is the relation between the amplitude and height of a transverse wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The height of a wave is twice its amplitude",
-      "B": "The height of a wave is equal to its amplitude",
-      "C": "The height of a wave is half of its amplitude",
-      "D": "The height of a wave is four times its amplitude",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "The height of a wave is twice its amplitude" },
+      { "B": "The height of a wave is equal to its amplitude" },
+      { "C": "The height of a wave is half of its amplitude" },
+      { "D": "The height of a wave is four times its amplitude" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 214,
     "questionUp": "What is the relation between the amplitude and the frequency of a wave?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The amplitude and the frequency of a wave are independent of each other",
-      "B": "The amplitude and the frequency of a wave are equal",
-      "C": "The amplitude decreases with an increase in the frequency of a wave",
-      "D": "The amplitude increases with an increase in the frequency of a wave",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "The amplitude and the frequency of a wave are independent of each other"
+      },
+      { "B": "The amplitude and the frequency of a wave are equal" },
+      {
+        "C": "The amplitude decreases with an increase in the frequency of a wave"
+      },
+      {
+        "D": "The amplitude increases with an increase in the frequency of a wave"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 215,
     "questionUp": "What is the relation between a wave’s energy and its amplitude?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The energy of a wave increases with an increase in the amplitude of the wave",
-      "B": "The magnitude of the energy is equal to the magnitude of the amplitude of a wave",
-      "C": "There is no relation between the energy and the amplitude of a wave",
-      "D": "The energy of a wave decreases with an increase in the amplitude of a wave",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "The energy of a wave increases with an increase in the amplitude of the wave"
+      },
+      {
+        "B": "The magnitude of the energy is equal to the magnitude of the amplitude of a wave"
+      },
+      {
+        "C": "There is no relation between the energy and the amplitude of a wave"
+      },
+      {
+        "D": "The energy of a wave decreases with an increase in the amplitude of a wave"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 216,
     "questionUp": "What is the speed of a sound wave with frequency 2000 Hz and wavelength 0.4m?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "8 × 10 m/s",
-      "B": "5 × 10³ m/s",
-      "C": "4 × 10⁻² m/s",
-      "D": "3.2 × 10² m/s",
-      "E": "8.0 × 10² m/s"
-    }
+    "answers": [
+      { "A": "8 × 10 m/s" },
+      { "B": "5 × 10³ m/s" },
+      { "C": "4 × 10⁻² m/s" },
+      { "D": "3.2 × 10² m/s" },
+      { "E": "8.0 × 10² m/s" }
+    ]
   },
   {
     "questionNumber": 217,
     "questionUp": "Dogs can hear frequencies of up to 45 kHz. What is the wavelength of a sound wave with this frequency traveling in air at 0°C? (v = 331 m/s)",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "7.4 × 10⁻³ m",
-      "B": "1.5 × 10⁵ m",
-      "C": "1.4 × 10⁴ m",
-      "D": "2.0 × 10⁷ m",
-      "E": "5 × 10³ m"
-    }
+    "answers": [
+      { "A": "7.4 × 10⁻³ m" },
+      { "B": "1.5 × 10⁵ m" },
+      { "C": "1.4 × 10⁴ m" },
+      { "D": "2.0 × 10⁷ m" },
+      { "E": "5 × 10³ m" }
+    ]
   },
   {
     "questionNumber": 218,
     "questionUp": "Calculate the intensity of a wave if the power transferred is 10 W and the area through which the wave is transferred is 5 square meters.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "2 W/m²",
-      "B": "50 W/m²",
-      "C": "0.5 W/m²",
-      "D": "200 W/m²",
-      "E": "2.4 W/m²"
-    }
+    "answers": [
+      { "A": "2 W/m²" },
+      { "B": "50 W/m²" },
+      { "C": "0.5 W/m²" },
+      { "D": "200 W/m²" },
+      { "E": "2.4 W/m²" }
+    ]
   },
   {
     "questionNumber": 219,
     "questionUp": "What is sound intensity?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Intensity is the energy per unit area carried by a wave",
-      "B": "Intensity is the energy per unit volume carried by a wave",
-      "C": "Intensity is the power per unit area carried by a wave",
-      "D": "Intensity is the power per unit volume carried by a wave",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "Intensity is the energy per unit area carried by a wave" },
+      { "B": "Intensity is the energy per unit volume carried by a wave" },
+      { "C": "Intensity is the power per unit area carried by a wave" },
+      { "D": "Intensity is the power per unit volume carried by a wave" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 220,
     "questionUp": "What is the range of frequencies that humans are capable of hearing?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "20Hz to 20,000Hz",
-      "B": "2Hz to 50,000Hz",
-      "C": "20Hz to 2,000Hz",
-      "D": "2Hz to 20,000Hz",
-      "E": "2Hz to 2,000Hz"
-    }
+    "answers": [
+      { "A": "20Hz to 20,000Hz" },
+      { "B": "2Hz to 50,000Hz" },
+      { "C": "20Hz to 2,000Hz" },
+      { "D": "2Hz to 20,000Hz" },
+      { "E": "2Hz to 2,000Hz" }
+    ]
   },
   {
     "questionNumber": 221,
     "questionUp": "What is the mathematical relationship between intensity, power, and area?",
     "questionDown": "I =",
     "correctAnswer": "A",
-    "answers": {
-      "A": "P / A",
-      "B": "P × A",
-      "C": "A / P",
-      "D": "P / A²",
-      "E": "P / A³"
-    }
+    "answers": [
+      { "A": "P / A" },
+      { "B": "P × A" },
+      { "C": "A / P" },
+      { "D": "P / A²" },
+      { "E": "P / A³" }
+    ]
   },
   {
     "questionNumber": 222,
     "questionUp": "X-rays carry more energy than visible light.",
     "questionDown": "Compare the frequencies and wavelengths of these two types of EM radiation.",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Visible light has lower frequencies and longer wavelengths than X-rays",
-      "B": "Visible light has lower frequencies and shorter wavelengths than X-rays",
-      "C": "Visible light has higher frequencies and longer wavelengths than X-rays",
-      "D": "Visible light has higher frequencies and shorter wavelengths than X-rays",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "Visible light has lower frequencies and longer wavelengths than X-rays"
+      },
+      {
+        "B": "Visible light has lower frequencies and shorter wavelengths than X-rays"
+      },
+      {
+        "C": "Visible light has higher frequencies and longer wavelengths than X-rays"
+      },
+      {
+        "D": "Visible light has higher frequencies and shorter wavelengths than X-rays"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 223,
     "questionUp": "How does wavelength change as frequency increases across the EM spectrum?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The wavelength decreases",
-      "B": "The wavelength first increases and then decreases",
-      "C": "The wavelength first decreases and then increases",
-      "D": "The wavelength increases",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "The wavelength decreases" },
+      { "B": "The wavelength first increases and then decreases" },
+      { "C": "The wavelength first decreases and then increases" },
+      { "D": "The wavelength increases" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 224,
     "questionUp": "Why are X-rays used in imaging of broken bones, rather than radio waves?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "X-rays have higher penetrating energy than radio waves",
-      "B": "X-rays have lower penetrating energy than radio waves",
-      "C": "X-rays have a lower frequency range than radio waves",
-      "D": "X-rays have longer wavelengths than radio waves",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "X-rays have higher penetrating energy than radio waves" },
+      { "B": "X-rays have lower penetrating energy than radio waves" },
+      { "C": "X-rays have a lower frequency range than radio waves" },
+      { "D": "X-rays have longer wavelengths than radio waves" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 225,
     "questionUp": "Identify the fields that make up an electromagnetic wave.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "both an electric field and a magnetic field",
-      "B": "neither a magnetic field nor an electric field",
-      "C": "only a magnetic field, but no electric field",
-      "D": "only an electric field, but no magnetic field",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "both an electric field and a magnetic field" },
+      { "B": "neither a magnetic field nor an electric field" },
+      { "C": "only a magnetic field, but no electric field" },
+      { "D": "only an electric field, but no magnetic field" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 226,
     "questionUp": "Red light has a wavelength of 7.0 × 10⁻⁷ m and a frequency of 4.3 × 10¹⁴ Hz.",
     "questionDown": "Use these values to calculate the speed of light in a vacuum.",
     "correctAnswer": "A",
-    "answers": {
-      "A": "3 × 10⁸ m/s",
-      "B": "3 × 10¹⁵ m/s",
-      "C": "3 × 10¹⁴ m/s",
-      "D": "3 × 10²⁰ m/s",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "3 × 10⁸ m/s" },
+      { "B": "3 × 10¹⁵ m/s" },
+      { "C": "3 × 10¹⁴ m/s" },
+      { "D": "3 × 10²⁰ m/s" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 227,
     "questionUp": "Give an example of a place where light travels at the speed of 3.00 × 10⁸ m/s.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "outer space",
-      "B": "water",
-      "C": "Earth’s atmosphere",
-      "D": "quartz glass",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "outer space" },
+      { "B": "water" },
+      { "C": "Earth’s atmosphere" },
+      { "D": "quartz glass" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 228,
     "questionUp": "Describe the location of gamma rays on the electromagnetic spectrum.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "At the high-frequency and short-wavelength end of the spectrum",
-      "B": "At the high-frequency and long-wavelength end of the spectrum",
-      "C": "At the low-frequency and long-wavelength end of the spectrum",
-      "D": "At the low-frequency and short-wavelength end of the spectrum",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "At the high-frequency and short-wavelength end of the spectrum" },
+      { "B": "At the high-frequency and long-wavelength end of the spectrum" },
+      { "C": "At the low-frequency and long-wavelength end of the spectrum" },
+      { "D": "At the low-frequency and short-wavelength end of the spectrum" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 229,
     "questionUp": "In which region of the electromagnetic spectrum would you find radiation that is invisible to the human eye and has low energy?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Long-wavelength and low-frequency region",
-      "B": "Long-wavelength and high-frequency region",
-      "C": "Short-wavelength and high-frequency region",
-      "D": "Short-wavelength and low-frequency region",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "Long-wavelength and low-frequency region" },
+      { "B": "Long-wavelength and high-frequency region" },
+      { "C": "Short-wavelength and high-frequency region" },
+      { "D": "Short-wavelength and low-frequency region" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 230,
     "questionUp": "Light travels at different speeds in different media.",
     "questionDown": "Put these media in order, from the slowest light speed to the fastest light speed: air, diamond, vacuum, water.",
     "correctAnswer": "A",
-    "answers": {
-      "A": "diamond, water, air, vacuum",
-      "B": "vacuum, diamond, air, water",
-      "C": "diamond, air, water, vacuum",
-      "D": "air, diamond, water, vacuum",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "diamond, water, air, vacuum" },
+      { "B": "vacuum, diamond, air, water" },
+      { "C": "diamond, air, water, vacuum" },
+      { "D": "air, diamond, water, vacuum" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 231,
     "questionUp": "Standing in front of a fire, we can sense both its heat and its light. How are the light and heat radiated by the fire the same, and how are they different?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Heat and light are both forms of electromagnetic radiation, but light waves have higher frequencies",
-      "B": "Both travel as waves, but only light waves are a form of electromagnetic radiation.",
-      "C": "Heat and light are both forms of electromagnetic radiation, but heat waves have higher frequencies",
-      "D": "Heat and light are both forms of electromagnetic radiation, but light waves have higher wavelengths",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "Heat and light are both forms of electromagnetic radiation, but light waves have higher frequencies"
+      },
+      {
+        "B": "Both travel as waves, but only light waves are a form of electromagnetic radiation."
+      },
+      {
+        "C": "Heat and light are both forms of electromagnetic radiation, but heat waves have higher frequencies"
+      },
+      {
+        "D": "Heat and light are both forms of electromagnetic radiation, but light waves have higher wavelengths"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 232,
     "questionUp": "Visible light has a range of wavelengths from about 400 nm to 800 nm. What is the range of frequencies for visible light?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "3.75 × 10¹⁴ Hz to 7.50 × 10¹⁴ Hz",
-      "B": "3.75 Hz to 7.50 Hz",
-      "C": "3.75 × 10⁻⁷ Hz to 7.50 × 10⁻⁷ Hz",
-      "D": "3.75 × 10⁶ Hz to 7.50 × 10⁶ Hz",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "3.75 × 10¹⁴ Hz to 7.50 × 10¹⁴ Hz" },
+      { "B": "3.75 Hz to 7.50 Hz" },
+      { "C": "3.75 × 10⁻⁷ Hz to 7.50 × 10⁻⁷ Hz" },
+      { "D": "3.75 × 10⁶ Hz to 7.50 × 10⁶ Hz" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 233,
     "questionUp": "Which type of EM radiation has the shortest wavelengths?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "gamma rays",
-      "B": "infrared waves",
-      "C": "blue light",
-      "D": "microwaves",
-      "E": "red light"
-    }
+    "answers": [
+      { "A": "gamma rays" },
+      { "B": "infrared waves" },
+      { "C": "blue light" },
+      { "D": "microwaves" },
+      { "E": "red light" }
+    ]
   },
   {
     "questionNumber": 234,
     "questionUp": "Which form of EM radiation has the most penetrating ability?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "gamma rays",
-      "B": "microwaves",
-      "C": "red light",
-      "D": "infrared radiation",
-      "E": "blue light"
-    }
+    "answers": [
+      { "A": "gamma rays" },
+      { "B": "microwaves" },
+      { "C": "red light" },
+      { "D": "infrared radiation" },
+      { "E": "blue light" }
+    ]
   },
   {
     "questionNumber": 235,
     "questionUp": "What is the distance of one light year in kilometers?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "9.46 × 10¹² km",
-      "B": "1.58 × 10¹¹ km",
-      "C": "2.63 × 10⁹ km",
-      "D": "2.59 × 10¹⁰ km",
-      "E": "2.2 × 10¹⁸ km"
-    }
+    "answers": [
+      { "A": "9.46 × 10¹² km" },
+      { "B": "1.58 × 10¹¹ km" },
+      { "C": "2.63 × 10⁹ km" },
+      { "D": "2.59 × 10¹⁰ km" },
+      { "E": "2.2 × 10¹⁸ km" }
+    ]
   },
   {
     "questionNumber": 236,
     "questionUp": "Describe the electric and magnetic fields that make up an electromagnetic wave in terms of their orientation relative to each other and their phases.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "They are perpendicular to and in phase with each other",
-      "B": "They are perpendicular to and out of phase with each other",
-      "C": "They are parallel to and out of phase with each other",
-      "D": "They are parallel to and in phase with each other",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "They are perpendicular to and in phase with each other" },
+      { "B": "They are perpendicular to and out of phase with each other" },
+      { "C": "They are parallel to and out of phase with each other" },
+      { "D": "They are parallel to and in phase with each other" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 237,
     "questionUp": "Saturn is 1.43 × 10¹² m from the Sun. How many minutes does it take the Sun’s light to reach Saturn?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "79.4 minutes",
-      "B": "3.4 × 10⁴ minutes",
-      "C": "3.4 × 10⁻⁶ minutes",
-      "D": "79.4 × 10⁹ minutes",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "79.4 minutes" },
+      { "B": "3.4 × 10⁴ minutes" },
+      { "C": "3.4 × 10⁻⁶ minutes" },
+      { "D": "79.4 × 10⁹ minutes" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 238,
     "questionUp": "The refractive index of ethanol is 1.36. What is the speed of light in ethanol?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "2.21×10⁸ m/s",
-      "B": "2.21×10⁷ m/s",
-      "C": "2.25×10⁹ m/s",
-      "D": "2.25×10⁸ m/s",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "2.21×10⁸ m/s" },
+      { "B": "2.21×10⁷ m/s" },
+      { "C": "2.25×10⁹ m/s" },
+      { "D": "2.25×10⁸ m/s" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 239,
     "questionUp": "Which law is expressed by the equation n₁·sinθ₁ = n₂·sinθ₂?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "This is Snell’s law",
-      "B": "This is Wien’s displacement law",
-      "C": "This is Ohm’s law",
-      "D": "This is Newton’s law",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "This is Snell’s law" },
+      { "B": "This is Wien’s displacement law" },
+      { "C": "This is Ohm’s law" },
+      { "D": "This is Newton’s law" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 240,
     "questionUp": "Write an equation that expresses the law of refraction.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": " n₁/n₂= sinθ₂/sinθ₁",
-      "B": "n₂/n₁ = (sinθ₂ / sinθ₁)²",
-      "C": "n₁ / n₂ = (sinθ₂/sinθ₁)²",
-      "D": "n₁ / n₂ = sinθ₁ / sinθ₂",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": " n₁/n₂= sinθ₂/sinθ₁" },
+      { "B": "n₂/n₁ = (sinθ₂ / sinθ₁)²" },
+      { "C": "n₁ / n₂ = (sinθ₂/sinθ₁)²" },
+      { "D": "n₁ / n₂ = sinθ₁ / sinθ₂" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 241,
     "questionUp": "A lens has a focal length of 12.5cm. What is the power of the lens?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The power of the lens is 8.00 D",
-      "B": "The power of the lens is 0.0800 D",
-      "C": "The power of the lens is 4.00 D",
-      "D": "The power of the lens is 0.0400 D",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "The power of the lens is 8.00 D" },
+      { "B": "The power of the lens is 0.0800 D" },
+      { "C": "The power of the lens is 4.00 D" },
+      { "D": "The power of the lens is 0.0400 D" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 242,
     "questionUp": "Which part of the eye has the greatest density of light receptors?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "the optic nerve",
-      "B": "the fovea",
-      "C": "the lens",
-      "D": "the vitreous humor",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "the optic nerve" },
+      { "B": "the fovea" },
+      { "C": "the lens" },
+      { "D": "the vitreous humor" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 243,
     "questionUp": "What is the power of a lens with a focal length of 10 cm?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "10 m–1, or 10 D",
-      "B": "10 cm–1, or 10 D",
-      "C": "10 m, or 10 D",
-      "D": "10 cm, or 10 D",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "10 m–1, or 10 D" },
+      { "B": "10 cm–1, or 10 D" },
+      { "C": "10 m, or 10 D" },
+      { "D": "10 cm, or 10 D" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 244,
     "questionUp": "What is the width of a single slit through which 610-nm orange light passes to form a first diffraction minimum at an angle of 30.0°?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "1.22 µm",
-      "B": "0.704 µm",
-      "C": "0.610 µm",
-      "D": "0.863 µm",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "1.22 µm" },
+      { "B": "0.704 µm" },
+      { "C": "0.610 µm" },
+      { "D": "0.863 µm" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 245,
     "questionUp": "A beam of yellow light has a wavelength of 600 nm in a vacuum and a wavelength of 397 nm in Plexiglas. What is the refractive index of Plexiglas?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "1.51",
-      "B": "2.61",
-      "C": "3.02",
-      "D": "3.77",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "1.51" },
+      { "B": "2.61" },
+      { "C": "3.02" },
+      { "D": "3.77" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 246,
     "questionUp": "How is an interference pattern formed by a diffraction grating different from the pattern formed by a double slit?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The pattern is sharper",
-      "B": "The pattern is faded",
-      "C": "The pattern is colorful",
-      "D": "The pattern is curved",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "The pattern is sharper" },
+      { "B": "The pattern is faded" },
+      { "C": "The pattern is colorful" },
+      { "D": "The pattern is curved" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 247,
     "questionUp": "Compare interference patterns formed by a double slit and by a diffraction grating in terms of brightness and narrowness of bands.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The pattern formed has narrower and brighter bands",
-      "B": "The pattern formed has broader and duller bands",
-      "C": "The pattern formed has narrower and duller bands",
-      "D": "The pattern formed has broader and brighter bands",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "The pattern formed has narrower and brighter bands" },
+      { "B": "The pattern formed has broader and duller bands" },
+      { "C": "The pattern formed has narrower and duller bands" },
+      { "D": "The pattern formed has broader and brighter bands" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 248,
     "questionUp": "Suppose that Millikan observed an oil drop carrying three fundamental units of charge. What would be the net charge on this oil drop?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "−4.81×10⁻¹⁹ C",
-      "B": "−1.602×10⁻¹⁹ C",
-      "C": "1.602×10⁻¹⁹ C",
-      "D": "3.20×10⁻¹⁹ C",
-      "E": "1.602 C"
-    }
+    "answers": [
+      { "A": "−4.81×10⁻¹⁹ C" },
+      { "B": "−1.602×10⁻¹⁹ C" },
+      { "C": "1.602×10⁻¹⁹ C" },
+      { "D": "3.20×10⁻¹⁹ C" },
+      { "E": "1.602 C" }
+    ]
   },
   {
     "questionNumber": 249,
     "questionUp": "Which equation describes conservation of charge?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "qinitial = qfinal = constant",
-      "B": "qinitial = qfinal = 0",
-      "C": "qinitial + qfinal = 0",
-      "D": "qinitial /qfinal = constant",
-      "E": "qinitial > qfinal"
-    }
+    "answers": [
+      { "A": "qinitial = qfinal = constant" },
+      { "B": "qinitial = qfinal = 0" },
+      { "C": "qinitial + qfinal = 0" },
+      { "D": "qinitial /qfinal = constant" },
+      { "E": "qinitial > qfinal" }
+    ]
   },
   {
     "questionNumber": 250,
     "questionUp": "An isolated system contains two objects with charges q1 and q2. If object 1 loses half of its charge, what is the final charge on object 2?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "q₂ + q₁/ 2",
-      "B": "3q₂ / 2",
-      "C": "q₂ - q₁/ 2",
-      "D": "q₂ / 2",
-      "E": "q₂ = 0"
-    }
+    "answers": [
+      { "A": "q₂ + q₁/ 2" },
+      { "B": "3q₂ / 2" },
+      { "C": "q₂ - q₁/ 2" },
+      { "D": "q₂ / 2" },
+      { "E": "q₂ = 0" }
+    ]
   },
   {
     "questionNumber": 251,
     "questionUp": "How many protons are needed to make 1 nC of charge? 1 nC = 10⁻⁹ C",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "6×10⁹",
-      "B": "1.6×10⁻¹⁰",
-      "C": "3×10⁹",
-      "D": "1.6×10⁻²⁸",
-      "E": "100"
-    }
+    "answers": [
+      { "A": "6×10⁹" },
+      { "B": "1.6×10⁻¹⁰" },
+      { "C": "3×10⁹" },
+      { "D": "1.6×10⁻²⁸" },
+      { "E": "100" }
+    ]
   },
   {
     "questionNumber": 252,
     "questionUp": "In a physics lab, you charge up three metal spheres, two with +3 nC and one with -5 nC. When you bring all three spheres together so that they all touch one another, what is the total charge on the three spheres?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "+1 nC",
-      "B": "+3 nC",
-      "C": "+5 nC",
-      "D": "+6 nC",
-      "E": "-2 nC"
-    }
+    "answers": [
+      { "A": "+1 nC" },
+      { "B": "+3 nC" },
+      { "C": "+5 nC" },
+      { "D": "+6 nC" },
+      { "E": "-2 nC" }
+    ]
   },
   {
     "questionNumber": 253,
     "questionUp": "How many types of electric charge exist?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "two types",
-      "B": "one type",
-      "C": "three types",
-      "D": "four type",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "two types" },
+      { "B": "one type" },
+      { "C": "three types" },
+      { "D": "four type" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 254,
     "questionUp": "Which are the two main electrical classifications of materials based on how easily charges can move through them?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "conductor and insulator",
-      "B": "semiconductor and insulator",
-      "C": "conductor and superconductor",
-      "D": "conductor and semiconductor",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "conductor and insulator" },
+      { "B": "semiconductor and insulator" },
+      { "C": "conductor and superconductor" },
+      { "D": "conductor and semiconductor" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 255,
     "questionUp": "Describe the force between two positive point charges that interact.",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The force is repulsive and acts along the line joining the two point charges",
-      "B": "The force is attractive and acts tangential to the line joining the two point charges",
-      "C": "The force is attractive and acts along the line joining the two point charges",
-      "D": "The force is repulsive and acts tangential to the line joining the two point charges",
-      "E": "The force is zero"
-    }
+    "answers": [
+      {
+        "A": "The force is repulsive and acts along the line joining the two point charges"
+      },
+      {
+        "B": "The force is attractive and acts tangential to the line joining the two point charges"
+      },
+      {
+        "C": "The force is attractive and acts along the line joining the two point charges"
+      },
+      {
+        "D": "The force is repulsive and acts tangential to the line joining the two point charges"
+      },
+      { "E": "The force is zero" }
+    ]
   },
   {
     "questionNumber": 256,
     "questionUp": "A charge of −4×10⁻⁹ C is a distance of 3 cm from a charge of +3×10⁻⁹ C. What is the magnitude and direction of the force between them?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "1.2×10⁻¹⁴ N, and the force is attractive",
-      "B": "1.2×10¹⁴ N, and the force is attractive",
-      "C": "6.74×10²³ N, and the force is attractive",
-      "D": "1 N, and the force is attractive",
-      "E": "0"
-    }
+    "answers": [
+      { "A": "1.2×10⁻¹⁴ N, and the force is attractive" },
+      { "B": "1.2×10¹⁴ N, and the force is attractive" },
+      { "C": "6.74×10²³ N, and the force is attractive" },
+      { "D": "1 N, and the force is attractive" },
+      { "E": "0" }
+    ]
   },
   {
     "questionNumber": 257,
     "questionUp": "Two charges are repelled by a force of 2.0 N. If the distance between them triples, what is the force between the charges?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "0.22 N",
-      "B": "0.67 N",
-      "C": "2.0 N",
-      "D": "18.0 N",
-      "E": "1 N"
-    }
+    "answers": [
+      { "A": "0.22 N" },
+      { "B": "0.67 N" },
+      { "C": "2.0 N" },
+      { "D": "18.0 N" },
+      { "E": "1 N" }
+    ]
   },
   {
     "questionNumber": 258,
     "questionUp": "Why is Coulomb’s law called an inverse-square law?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "because the force is proportional to the inverse of the distance squared between charges",
-      "B": "because the force is proportional to the product of two charges",
-      "C": "because the force is proportional to the inverse of the product of two charges",
-      "D": "because the force is proportional to the distance squared between charges",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "because the force is proportional to the inverse of the distance squared between charges"
+      },
+      {
+        "B": "because the force is proportional to the product of two charges"
+      },
+      {
+        "C": "because the force is proportional to the inverse of the product of two charges"
+      },
+      {
+        "D": "because the force is proportional to the distance squared between charges"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 259,
     "questionUp": "What is the magnitude of the electric field from 20 cm from a point charge of q = 33 nC? (k=9×10⁹ N·m²/C²)",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "7.4×10³ N/C",
-      "B": "1.48×10³ N/C",
-      "C": "7.4×10¹² N/C",
-      "D": "0",
-      "E": "1"
-    }
+    "answers": [
+      { "A": "7.4×10³ N/C" },
+      { "B": "1.48×10³ N/C" },
+      { "C": "7.4×10¹² N/C" },
+      { "D": "0" },
+      { "E": "1" }
+    ]
   },
   {
     "questionNumber": 260,
     "questionUp": "When electric field lines get closer together, what does that tell you about the electric field?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The electric field is directly proportional to the density of electric field lines",
-      "B": "The electric field is inversely proportional to the density of electric field lines",
-      "C": "The electric field is not related to the density of electric field lines",
-      "D": "The electric field is inversely proportional to the square root of density of electric field lines",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "The electric field is directly proportional to the density of electric field lines"
+      },
+      {
+        "B": "The electric field is inversely proportional to the density of electric field lines"
+      },
+      {
+        "C": "The electric field is not related to the density of electric field lines"
+      },
+      {
+        "D": "The electric field is inversely proportional to the square root of density of electric field lines"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 261,
     "questionUp": "If five electric-field lines come out of a +5 nC charge, how many electric-field lines should come out of a +20 nC charge?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "20 field lines",
-      "B": "10 field lines",
-      "C": "15 field lines",
-      "D": "five field lines",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "20 field lines" },
+      { "B": "10 field lines" },
+      { "C": "15 field lines" },
+      { "D": "five field lines" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 262,
     "questionUp": "What is the voltage difference between the positions xf = 11 m and xi = 5.0 m in an electric field of (2.0 N/C) x̂?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "12 V",
-      "B": "6 V",
-      "C": "24 V",
-      "D": "32 V",
-      "E": "4 V"
-    }
+    "answers": [
+      { "A": "12 V" },
+      { "B": "6 V" },
+      { "C": "24 V" },
+      { "D": "32 V" },
+      { "E": "4 V" }
+    ]
   },
   {
     "questionNumber": 263,
     "questionUp": "What is the electric potential 10 cm from a −10 nC charge? (k=9 x 10⁹ N·m²/C²)",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "9.0×10² V",
-      "B": "9.0×10³ V",
-      "C": "9.0×10⁴ V",
-      "D": "9.0×10⁵ V",
-      "E": "0"
-    }
+    "answers": [
+      { "A": "9.0×10² V" },
+      { "B": "9.0×10³ V" },
+      { "C": "9.0×10⁴ V" },
+      { "D": "9.0×10⁵ V" },
+      { "E": "0" }
+    ]
   },
   {
     "questionNumber": 264,
     "questionUp": "What is the voltage on a 35 µF capacitor with 25 nC of charge?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "0.71×10⁻³ V",
-      "B": "8.75×10⁻¹³ V",
-      "C": "1.4×10⁻³ V",
-      "D": "1.4×10³ V",
-      "E": "0"
-    }
+    "answers": [
+      { "A": "0.71×10⁻³ V" },
+      { "B": "8.75×10⁻¹³ V" },
+      { "C": "1.4×10⁻³ V" },
+      { "D": "1.4×10³ V" },
+      { "E": "0" }
+    ]
   },
   {
     "questionNumber": 265,
     "questionUp": "Which voltage is across a 100 µF capacitor that stores 10 J of energy?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "4.5×10² V",
-      "B": "−4.5×10² V",
-      "C": "±4.5×10² V",
-      "D": "±9×10² V",
-      "E": "0"
-    }
+    "answers": [
+      { "A": "4.5×10² V" },
+      { "B": "−4.5×10² V" },
+      { "C": "±4.5×10² V" },
+      { "D": "±9×10² V" },
+      { "E": "0" }
+    ]
   },
   {
     "questionNumber": 266,
     "questionUp": "With 12 V across a capacitor, it accepts 10 mC of charge. What is its capacitance?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "830 µF",
-      "B": "83 µF",
-      "C": "120 µF",
-      "D": "0.83 µF",
-      "E": "0"
-    }
+    "answers": [
+      { "A": "830 µF" },
+      { "B": "83 µF" },
+      { "C": "120 µF" },
+      { "D": "0.83 µF" },
+      { "E": "0" }
+    ]
   },
   {
     "questionNumber": 267,
     "questionUp": "A parallel-plate capacitor has an area of 10 cm² and the plates are separated by 100 µm. If the capacitor contains paper between the plates, what is its capacitance?",
     "questionDown": "(Dielectric Constant: k_paper = 3.7, ε₀ = 8.85 × 10⁻¹² F/m)",
     "correctAnswer": "A",
-    "answers": {
-      "A": "3.3×10⁻¹⁰ F",
-      "B": "3.3×10⁻⁸ F",
-      "C": "3.3×10⁻⁶ F",
-      "D": "3.3×10⁻⁴ F",
-      "E": "0"
-    }
+    "answers": [
+      { "A": "3.3×10⁻¹⁰ F" },
+      { "B": "3.3×10⁻⁸ F" },
+      { "C": "3.3×10⁻⁶ F" },
+      { "D": "3.3×10⁻⁴ F" },
+      { "E": "0" }
+    ]
   },
   {
     "questionNumber": 268,
     "questionUp": "If the area of a parallel-plate capacitor doubles, how is the capacitance affected?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The capacitance will double",
-      "B": "The capacitance will remain same",
-      "C": "The capacitance will increase four times",
-      "D": "The capacitance will increase eight times",
-      "E": "0"
-    }
+    "answers": [
+      { "A": "The capacitance will double" },
+      { "B": "The capacitance will remain same" },
+      { "C": "The capacitance will increase four times" },
+      { "D": "The capacitance will increase eight times" },
+      { "E": "0" }
+    ]
   },
   {
     "questionNumber": 269,
     "questionUp": "If you double the area of a parallel-plate capacitor and reduce the distance between the plates by a factor of four, how is the capacitance affected?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "It will increase by a factor of eight",
-      "B": "It will increase by a factor of four",
-      "C": "It will increase by a factor of six",
-      "D": "It will increase by a factor of two",
-      "E": "0"
-    }
+    "answers": [
+      { "A": "It will increase by a factor of eight" },
+      { "B": "It will increase by a factor of four" },
+      { "C": "It will increase by a factor of six" },
+      { "D": "It will increase by a factor of two" },
+      { "E": "0" }
+    ]
   },
   {
     "questionNumber": 270,
     "questionUp": "10 nC of charge flows through a circuit in 3.0×10⁻⁶ s. What is the current during this time?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "The current passes through the circuit is 3.3 × 10⁻³ A",
-      "B": "The current passes through the circuit is 30 A",
-      "C": "The current passes through the circuit is 33 A",
-      "D": "The current passes through the circuit is 0.3 A",
-      "E": "The current passes through the circuit is 1 A"
-    }
+    "answers": [
+      { "A": "The current passes through the circuit is 3.3 × 10⁻³ A" },
+      { "B": "The current passes through the circuit is 30 A" },
+      { "C": "The current passes through the circuit is 33 A" },
+      { "D": "The current passes through the circuit is 0.3 A" },
+      { "E": "The current passes through the circuit is 1 A" }
+    ]
   },
   {
     "questionNumber": 271,
     "questionUp": "How long would it take a 10 mA current to charge a capacitor with 5.0 mC?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "0.50 s",
-      "B": "5 ns",
-      "C": "5 s",
-      "D": "50 µs",
-      "E": "1 s"
-    }
+    "answers": [
+      { "A": "0.50 s" },
+      { "B": "5 ns" },
+      { "C": "5 s" },
+      { "D": "50 µs" },
+      { "E": "1 s" }
+    ]
   },
   {
     "questionNumber": 272,
     "questionUp": "What is the resistance of an automobile headlight through which 2.50 A flows when 12.0 V is applied to it?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "4.8 Ω",
-      "B": "3.5 Ω",
-      "C": "5.6 Ω",
-      "D": "2.4 Ω",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "4.8 Ω" },
+      { "B": "3.5 Ω" },
+      { "C": "5.6 Ω" },
+      { "D": "2.4 Ω" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 274,
     "questionUp": "The current through a 10 Ω resistor is 0.025 A. What is the voltage drop across the resistor?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "0.25 V",
-      "B": "2.5 mV",
-      "C": "2.5 V",
-      "D": "0.25 mV",
-      "E": "1.5 V"
-    }
+    "answers": [
+      { "A": "0.25 V" },
+      { "B": "2.5 mV" },
+      { "C": "2.5 V" },
+      { "D": "0.25 mV" },
+      { "E": "1.5 V" }
+    ]
   },
   {
     "questionNumber": 275,
     "questionUp": "What is electric current?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Electric current is the electric charge that is moving",
-      "B": "Electric current is the electric charge that is at rest",
-      "C": "Electric current is the electric charge that moves only from the positive terminal of a battery to the negative terminal",
-      "D": "Electric current is the electric charge that moves only from a region of lower potential to higher potential",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "Electric current is the electric charge that is moving" },
+      { "B": "Electric current is the electric charge that is at rest" },
+      {
+        "C": "Electric current is the electric charge that moves only from the positive terminal of a battery to the negative terminal"
+      },
+      {
+        "D": "Electric current is the electric charge that moves only from a region of lower potential to higher potential"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 276,
     "questionUp": "What is an ohmic material?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "An ohmic material is a material that obeys Ohm’s law",
-      "B": "An ohmic material is a material that does not obey Ohm’s law",
-      "C": "An ohmic material is a material that has high resistance",
-      "D": "An ohmic material is a material that has low resistance",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "An ohmic material is a material that obeys Ohm’s law" },
+      { "B": "An ohmic material is a material that does not obey Ohm’s law" },
+      { "C": "An ohmic material is a material that has high resistance" },
+      { "D": "An ohmic material is a material that has low resistance" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 277,
     "questionUp": "What is the difference between direct current and alternating current?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "Direct current flows continuously in one direction whereas alternating current reverses its direction at regular time intervals",
-      "B": "Direct current flows continuously in every direction whereas alternating current flows in one direction",
-      "C": "Both direct and alternating current flow in one direction but the magnitude of direct current is fixed whereas the magnitude of alternating current changes at regular intervals of time",
-      "D": "Both direct and alternating current changes its direction of flow but the magnitude of direct current is fixed whereas the magnitude of alternating current changes at regular intervals of time",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      {
+        "A": "Direct current flows continuously in one direction whereas alternating current reverses its direction at regular time intervals"
+      },
+      {
+        "B": "Direct current flows continuously in every direction whereas alternating current flows in one direction"
+      },
+      {
+        "C": "Both direct and alternating current flow in one direction but the magnitude of direct current is fixed whereas the magnitude of alternating current changes at regular intervals of time"
+      },
+      {
+        "D": "Both direct and alternating current changes its direction of flow but the magnitude of direct current is fixed whereas the magnitude of alternating current changes at regular intervals of time"
+      },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 278,
     "questionUp": "What circuit element is represented in the figure below?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "a resistor",
-      "B": "a battery",
-      "C": "a capacitor",
-      "D": "an inductor",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "a resistor" },
+      { "B": "a battery" },
+      { "C": "a capacitor" },
+      { "D": "an inductor" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 279,
     "questionUp": "What circuit element is represented in the figure below?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "a capacitor",
-      "B": "a resistor",
-      "C": "a battery",
-      "D": "an inductor",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "a capacitor" },
+      { "B": "a resistor" },
+      { "C": "a battery" },
+      { "D": "an inductor" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 280,
     "questionUp": "What circuit element is represented in the figure below?",
     "questionDown": "",
     "correctAnswer": "A",
-    "answers": {
-      "A": "a battery",
-      "B": "a resistor",
-      "C": "a capacitor",
-      "D": "an inductor",
-      "E": "There is no right answer"
-    }
+    "answers": [
+      { "A": "a battery" },
+      { "B": "a resistor" },
+      { "C": "a capacitor" },
+      { "D": "an inductor" },
+      { "E": "There is no right answer" }
+    ]
   },
   {
     "questionNumber": 281,
