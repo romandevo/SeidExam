@@ -89,9 +89,9 @@ function getEndpoint(locationPath) {
   }
 
   if (
+    locationPath === '/exams/diferensial' ||
     locationPath === '/exams/diferensial.html' ||
-    locationPath === '/exams/diferensial.html' ||
-    locationPath === '/SeidExam/diferensial.html'
+    locationPath === '/SeidExam/exams/diferensial.html'
   ) {
     endpoint = './diferensial.json';
   }
