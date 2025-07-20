@@ -7,32 +7,6 @@ let isChecked = false; // Flag to track if "Check" has been clicked
 
 // Get the current location
 const currentLocation = window.location.pathname;
-/*
-function getEndpoint(locationPath) {
-  const pathMap = {
-    '/exams/fizika': 'fizika',
-    '/exams/fizika.html': 'fizika',
-    '/exams/xarici-dil': 'xarici-dil',
-    '/exams/xarici-dil.html': 'xarici-dil',
-    '/exams/information-technologies': 'information-technologies',
-    '/exams/instrumental-ve-tetbiqi-programlar':
-      'instrumental-ve-tetbiqi-programlar',
-    '/exams/it-esaslari': 'it-esaslari',
-    '/exams/it-esaslari2': 'it-esaslari2',
-    '/exams/komp-muh-esas-2': 'komp-muh-esas-2',
-    '/exams/mathematical-analysis': 'mathematical-analysis',
-    '/exams/az-dili': 'az-dili',
-  };
-
-  const fileName = pathMap[locationPath];
-
-  if (!fileName) {
-    console.error('No JSON file mapped for:', locationPath);
-    return null;
-  }
-
-  return `https://raw.githubusercontent.com/romandevo/SeidExam/main/data/${fileName}.json`;
-}  */
 
 // Function to determine the endpoint
 function getEndpoint(locationPath) {
@@ -50,30 +24,6 @@ function getEndpoint(locationPath) {
     locationPath === '/SeidExam/exams/xarici-dil-2.html'
   ) {
     endpoint = './xarici-dil-2.json';
-  } else if (
-    locationPath === '/exams/programlasdirmanin-esaslari' ||
-    locationPath === '/exams/programlasdirmanin-esaslari.html' ||
-    locationPath === '/SeidExam/exams/programlasdirmanin-esaslari.html'
-  ) {
-    endpoint = './programlasdirmanin-esaslari.json';
-  } else if (
-    locationPath === '/exams/fizika' ||
-    locationPath === '/exams/fizika.html' ||
-    locationPath === '/SeidExam/exams/fizika.html'
-  ) {
-    endpoint = './fizika.json';
-  } else if (
-    locationPath === '/exams/zad2' ||
-    locationPath === '/exams/zad2.html' ||
-    locationPath === '/SeidExam/zad2.html'
-  ) {
-    endpoint = './zad2.json';
-  } else if (
-    locationPath === '/exams/diferensial.html' ||
-    locationPath === '/exams/diferensial.html' ||
-    locationPath === '/SeidExam/diferensial.html'
-  ) {
-    endpoint = './diferensial.json';
   } else if (
     locationPath === '/exams/komp-muh-esas-2' ||
     locationPath === '/komp-muh-esas-2.html' ||
@@ -111,22 +61,23 @@ function getEndpoint(locationPath) {
   ) {
     endpoint = './az-dili.json';
   } else if (
-    locationPath === '/exams/zad' ||
-    locationPath === '/exams/zad.html' ||
-    locationPath === '/SeidExam/exams/zad.html'
-  ) {
-    endpoint = './zad.json';
-  } else if (
     locationPath === '/exams/mathematical-analysis' ||
     locationPath === '/exams/mathematical-analysis.html' ||
     locationPath === '/SeidExam/exams/mathematical-analysis.html'
   ) {
     endpoint = './mathematical-analysis.json';
+  } else if (
+    locationPath === '/exams/fizika' ||
+    locationPath === '/exams/fizika.html' ||
+    locationPath === '/SeidExam/exams/fizika.html'
+  ) {
+    endpoint = './fizika.json';
   }
 
   return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
   // return endpoint;
 }
+
 // Pass the pathname to the function and store the result
 const endpoint = getEndpoint(currentLocation);
 const fileName = endpoint.split('/').pop().replace('.json', ''); // example: "komp-muh-esas-2"
