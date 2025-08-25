@@ -83,3 +83,73 @@ h5.modal-title {
   display: inline-block; /* Blok içeriği düzenli görünür */
   font-weight: bold; /* Vurgulu metin */
 }
+.pdf-sheet {
+  position: fixed;
+  bottom: -100%;
+  left: 0;
+  right: 0;
+  height: 80%;
+  background: #fff;
+  color: #000;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+  transition: bottom 0.35s ease;
+  display: flex;
+  flex-direction: column;
+  z-index: 1050;
+}
+
+.pdf-sheet.show {
+  bottom: 0;
+}
+
+.pdf-sheet.fullscreen {
+  height: 100%;
+  border-radius: 0;
+}
+
+.pdf-sheet-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px;
+  border-bottom: 1px solid #ddd;
+  background: #f8f9fa;
+}
+
+.drag-handle {
+  width: 40px;
+  height: 5px;
+  background: #bbb;
+  border-radius: 3px;
+  margin: 0 auto;
+}
+
+.pdf-sheet-header button {
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+#pdfFullscreenBtn {
+  background: #fff;
+  color: #000;
+  border: none;
+}
+
+#pdfFullscreenBtn:hover {
+  background: #f0f0f0;
+}
+
+.pdf-sheet-body {
+  flex: 1;
+  overflow: hidden;
+}
+
+.pdf-sheet-body iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
