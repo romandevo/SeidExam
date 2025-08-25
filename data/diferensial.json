@@ -1,5 +1,4035 @@
 [
   {
+    "questionNumber": 1,
+    "questionUp": "Solve the equation: y′ − tgx = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = - ln |cosx| +C" },
+      { "B": "y = ln |sinx| +C" },
+      { "C": "y = lntg x +C" },
+      { "D": "y = tg x +C" },
+      { "E": "y = cosx + C" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionUp": "Solve the equation: y′ − ctgx = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ln |sinx| +C" },
+      { "B": "y = - ln |cosx| +C" },
+      { "C": "y = lntg x +C" },
+      { "D": "y = ctg x +C" },
+      { "E": "y = sinx + C" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionUp": "Solve the equation: y′ − xex = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x-1)ex +C" },
+      { "B": "y = (1- x)ex +C" },
+      { "C": "y = xex + C" },
+      { "D": "y = ex + C" },
+      { "E": "y = x2ex + C" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Solve the equation: y′ + xex = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (1+ x)e-x +C" },
+      { "B": "y = (1- x)e-x +C" },
+      { "C": "y = (x -1)e-x + C" },
+      { "D": "y = xe-x + C" },
+      { "E": "y = e-x + C" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Solve the equation: y′ − xe−x = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -(1+ x)e-x +C" },
+      { "B": "y = (1 + x)e-x +C" },
+      { "C": "y = (x -1)e-x + C" },
+      { "D": "y = xe-x + C" },
+      { "E": "y = e-x + C" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Solve the equation: y′ − xcosx = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = xsinx + cosx + C" },
+      { "B": "y = xcosx + sinx + C" },
+      { "C": "y = cosx + C" },
+      { "D": "y = sinx + C" },
+      { "E": "y = - xcosx + C" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Solve the equation: y′ + xcosx = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -xsinx - cosx + C" },
+      { "B": "y = xcosx + sinx + C" },
+      { "C": "y = -xcosx + sinx + C" },
+      { "D": "y = sinx + C" },
+      { "E": "y = - xcosx + C" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Solve the equation: y′ − (3 − 2x)⁴ = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (2x−3)⁵/10 + C" },
+      { "B": "y = (2x−3)⁵ +C" },
+      { "C": "y = (2x−3)⁴/4" },
+      { "D": "y = (3−2x)⁵/10 +C" },
+      { "E": "y = (3−2x)⁴ +C" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Solve the equation: y′ − 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1/5 tg5x +C" },
+      { "B": "y = tg5x +C" },
+      { "C": "y = ctg5x +C" },
+      { "D": "y = cos5x +C" },
+      { "E": "y = sin5x +C" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Solve the equation: y′ − lnx = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = xln |x| -x +C" },
+      { "B": "y = -xlnx +C" },
+      { "C": "y = xlnx + x + C" },
+      { "D": "y = lnx +C" },
+      { "E": "y = -lnx +C" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Solve the equation: y′ − xlnx = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1/2 x² (ln|x| - 1/2) + C" },
+      { "B": "y = x (ln|x| -1) + C" },
+      { "C": "y = x² (lnx - 1/2) + C" },
+      { "D": "y = x² (lnx +1) + C" },
+      { "E": "y = xlnx +C" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Solve the equation: y′ − tg2x = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = tgx -x +C" },
+      { "B": "y = tgx +x +C" },
+      { "C": "y = 2tgx +C" },
+      { "D": "y = 1/2 tgx + C" },
+      { "E": "y = cosx + C" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Solve the equation: y′ + ctg2x = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + ctgx +C" },
+      { "B": "y = x - ctgx +C" },
+      { "C": "y = -x - ctgx +C" },
+      { "D": "y = 2ctgx + C" },
+      { "E": "y = 1/2 ctgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Solve the equation: y′ + tg2x = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x -tgx +C" },
+      { "B": "y = tgx -x +C" },
+      { "C": "y = -x -tgx +C" },
+      { "D": "y = tgx + C" },
+      { "E": "y = - tgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Solve the equation: y′ − ctg2x = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -x - ctgx +C" },
+      { "B": "y = x + ctgx +C" },
+      { "C": "y = -x + ctgx +C" },
+      { "D": "y = x - ctgx + C" },
+      { "E": "y = xctgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Solve the equation: y′ − lnx = 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = xlnx +C" },
+      { "B": "y = - xlnx +C" },
+      { "C": "y = lnx + C" },
+      { "D": "y = -lnx +C" },
+      { "E": "y = x + lnx +C" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Solve the equation: y′ − (1 + x)ex = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = xex +C" },
+      { "B": "y = -xex +C" },
+      { "C": "y = ex + C" },
+      { "D": "y = x + ex + C" },
+      { "E": "y = -x + ex + C" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Solve the equation: y′ + ctg2x = −1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ctgx +C" },
+      { "B": "y = x - ctgx +C" },
+      { "C": "y = -x - ctgx +C" },
+      { "D": "y = -x + ctgx + C" },
+      { "E": "y = xctgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Solve the equation: y′ − ctg2x = 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = - ctgx +C" },
+      { "B": "y = x + ctgx +C" },
+      { "C": "y = -x + ctgx +C" },
+      { "D": "y = x - ctgx + C" },
+      { "E": "y = xctgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "Solve the equation: y′ − lnx = 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = xln|x| +C" },
+      { "B": "y = -2xlnx +C" },
+      { "C": "y = xlnx + x + C" },
+      { "D": "y = lnx +C" },
+      { "E": "y = -lnx +C" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "Find the solution to the initial-value problem: y′ − tgx − x cos²x, y(0) = 2",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x tgx + 2" },
+      { "B": "y = tgx + 2" },
+      { "C": "y = -x tgx + 2" },
+      { "D": "y = -tgx + 2" },
+      { "E": "y = ctgx + x + 2" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "Find the solution to the initial-value problem: y′ − x²lnx = 0, y(1) = 2",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x² ln x + 2" },
+      { "B": "y = x ln x + 2" },
+      { "C": "y = ln x + 2" },
+      { "D": "y = -x ln x + 2" },
+      { "E": "y = -x² ln x + 2" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Find the solution to the initial-value problem: y′ − tgx = 0, y(0) = 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -ln|cosx| + 1" },
+      { "B": "y = ln|cosx| + 1" },
+      { "C": "y = -ln|cosx| + 2" },
+      { "D": "y = -ln|sinx| + 1" },
+      { "E": "y = ln|sinx| + 1" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Find the solution to the initial-value problem: y′ = ctgx, y(0) = 2",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ln|sinx| + 2" },
+      { "B": "y = ln|cosx| + 1" },
+      { "C": "y = -ln|sinx| + 2" },
+      { "D": "y = -ln|cosx| + 2" },
+      { "E": "y = tgx + 2" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Find the solution to the initial-value problem: y′ − x eˣ = 0, y(1) = -1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x-1)eˣ - 1" },
+      { "B": "y = (1-x)eˣ - 1" },
+      { "C": "y = (1+x)eˣ - 1" },
+      { "D": "y = (1+x)eˣ - 2" },
+      { "E": "y = x eˣ - 1" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Find the solution to the initial-value problem: y′ + x e⁻ˣ = 0, y(-1) = 3",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (1+x)e⁻ˣ + 3" },
+      { "B": "y = -(1+x)e⁻ˣ + 3" },
+      { "C": "y = -x e⁻ˣ + 1" },
+      { "D": "y = x e⁻ˣ - 2" },
+      { "E": "y = x eˣ + C" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Find the solution to the initial-value problem: y′ − x e⁻ˣ = 0, y(-1) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -(1+x)e⁻ˣ" },
+      { "B": "y = (1+x)e⁻ˣ" },
+      { "C": "y = x e⁻ˣ + e" },
+      { "D": "y = x eˣ - 1/2" },
+      { "E": "y = x e⁻ˣ" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Find the solution to the initial-value problem: y′ − x cosx = 0, y(0) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x sinx + cosx - 1" },
+      { "B": "y = x sinx - sinx" },
+      { "C": "y = x cosx" },
+      { "D": "y = x cosx - sinx" },
+      { "E": "y = x sinx + C" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Find the solution to the initial-value problem: y′ + x cosx = 0, y(π) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -x sinx - cosx - 1" },
+      { "B": "y = -x sinx" },
+      { "C": "y = -x sinx + 1" },
+      { "D": "y = -x sinx + cosx - 1" },
+      { "E": "y = x cosx" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Find the solution to the initial-value problem: y′ − (3-2x)⁴ = 0, y(3/2) = 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 0.1(2x-3)⁵ + 1" },
+      { "B": "y = 0.1(2x-3)⁴ + 1" },
+      { "C": "y = (2x-3)⁵ + 1" },
+      { "D": "y = 1/6 (2x-3)⁶ + 1" },
+      { "E": "y = (2x-3)⁴ + 1" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Find the solution to the initial-value problem: y′ = 1/cos²(5x), y(0) = -1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1/5 tg5x - 1" },
+      { "B": "y = tg5x - 1" },
+      { "C": "y = ctg5x - 1" },
+      { "D": "y = 1/5 ctg5x + 1" },
+      { "E": "y = tg5x" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Find the solution to the initial-value problem: y′ − ln x = 0, y(1) = 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x ln|x| - x + 2" },
+      { "B": "y = x ln x + x" },
+      { "C": "y = x ln x + x + 2" },
+      { "D": "y = -x ln|x| - x + 2" },
+      { "E": "y = -x ln x" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Find the solution to the initial-value problem: y′ − x ln x = 0, y(1) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1/2 x² ln|x| - 1/4 x² + 1/4" },
+      { "B": "y = 1/2 x² ln|x|" },
+      { "C": "y = x² ln|x|" },
+      { "D": "y = 1/2 x ln|x| + x" },
+      { "E": "y = 1/2 x² ln|x| - x" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Find the solution to the initial-value problem: y′ − tg2x = 0, y(0) = 3",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = tgx - x + 3" },
+      { "B": "y = x - tgx + 3" },
+      { "C": "y = x + tgx + 3" },
+      { "D": "y = -x - tgx + 3" },
+      { "E": "y = -tgx + x² + 3" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Find the solution to the initial-value problem: y′ + ctg2x = 0, y(π/2) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + ctgx - π/2" },
+      { "B": "y = -x + ctgx + π" },
+      { "C": "y = ctgx - x - π/2" },
+      { "D": "y = x - ctgx - π/2" },
+      { "E": "y = x ctgx + x - π/2" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Find the solution to the initial-value problem: y′ + tg2x = 0, y(0) = -1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x - tgx - 1" },
+      { "B": "y = x tgx + x - 1" },
+      { "C": "y = x tgx - 1" },
+      { "D": "y = -x tgx + x - 1" },
+      { "E": "y = -x tgx + 1" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Find the solution to the initial-value problem: y′ − ctg2x = 0, y(π/2) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -x - ctgx + π/2" },
+      { "B": "y = x - ctgx - π/2" },
+      { "C": "y = ctgx - x - π/2" },
+      { "D": "y = ctgx - π/2" },
+      { "E": "y = x + ctgx - π/2" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Find the solution to the initial-value problem: y′ − tgx - x, y(π/4) = π/4",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x tgx" },
+      { "B": "y = x tgx + π/4" },
+      { "C": "y = -x tgx" },
+      { "D": "y = -x tgx + π/4" },
+      { "E": "y = x tgx - x + π/4" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Find the solution to the initial-value problem: y′ − ln x = 1, y(1) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x ln x" },
+      { "B": "y = ln x + x" },
+      { "C": "y = x ln x - x" },
+      { "D": "y = x ln x + x²" },
+      { "E": "y = -x ln x + x" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Find the solution to the initial-value problem: y′ − ctg2x = 0, y(π/2) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -ctgx - x + C" },
+      { "B": "y = -x - ctgx - π/2" },
+      { "C": "y = x + ctgx" },
+      { "D": "y = x - ctgx" },
+      { "E": "y = ctgx - x" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Find the solution to the initial-value problem: y′ + ln x = -1, y(e) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -x ln x + e" },
+      { "B": "y = -x ln x" },
+      { "C": "y = x ln x + e" },
+      { "D": "y = x ln x - e" },
+      { "E": "y = x ln x" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Find the solution to the initial-value problem: y′ = 1/(9+x²), y(3) = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1/3 arctg(x/3) - π/12" },
+      { "B": "y = -1/3 arctg(x/3) - π/12" },
+      { "C": "y = -arctg(x) - π/12" },
+      { "D": "y = 1/3 arctg(x/3) + π/2" },
+      { "E": "y = 1/3 arctg(x)" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Find the general solution of the separable differential equation: xy’ – y = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx" },
+      { "B": "y = x + C" },
+      { "C": "y = Cx2" },
+      { "D": "y = -x + C" },
+      { "E": "y = x2 + Cx" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Find the general solution of the separable differential equation: xy’ + y = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C/x" },
+      { "B": "y = Cx" },
+      { "C": "y = C/x + x" },
+      { "D": "y = 1/x" },
+      { "E": "y = C/x + Cx - x" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Find the general solution of the separable differential equation: yy’ + x = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x2 + y2 = C" },
+      { "B": "x2 - y2 = C" },
+      { "C": "y2 - x2 = C" },
+      { "D": "y = x2 + C" },
+      { "E": "y = √x + C" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Find the general solution of the separable differential equation: y’ = y",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cex" },
+      { "B": "y = Cx" },
+      { "C": "y = Ce-x" },
+      { "D": "y = Cxe-x" },
+      { "E": "y = e-x + C" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Find the general solution of the separable differential equation: xy’ - 2y = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cex2" },
+      { "B": "y = Cex" },
+      { "C": "y = Ce-x" },
+      { "D": "y = Cex^1/x" },
+      { "E": "y = Ce-1/x" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Find the general solution of the separable differential equation: 2yx2 dy = (1 + x2) dx",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y2 = x - 1/x + C" },
+      { "B": "y = x - 1/x + C" },
+      { "C": "y2 = x + 1/x + C" },
+      { "D": "y2 = 1/x + C" },
+      { "E": "y = x2 - 1/x + C" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Find the general solution of the separable differential equation: y’ = 3√y2 / 3",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x3 + C" },
+      { "B": "y = -x3 + C" },
+      { "C": "y = 3x2 + C" },
+      { "D": "y = -3x2 + C" },
+      { "E": "y = x3" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Find the general solution of the separable differential equation: y’ = 2√y ln x",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (xlnx - x + C)2" },
+      { "B": "y = √(xlnx - x) + C" },
+      { "C": "y = √(xlnx) + C" },
+      { "D": "y = √(xlnx + x) + C" },
+      { "E": "y = √(xlnx + x + C)" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Find the general solution of the separable differential equation: y’ = y ctgx",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Csinx" },
+      { "B": "y = C/cosx" },
+      { "C": "y = Ccosx" },
+      { "D": "y = C/sinx" },
+      { "E": "y = Ctgx" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Find the general solution of the separable differential equation: y’ ctgx = y",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C/cosx" },
+      { "B": "y = C/sinx" },
+      { "C": "y = Ccosx" },
+      { "D": "y = Ctgx" },
+      { "E": "y = ctgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Find the general solution of the separable differential equation: 2x = 0 → y’",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x2 + C" },
+      { "B": "y = Cx3 + x2" },
+      { "C": "y = Cx2 - x3" },
+      { "D": "y = x3 - Cx2" },
+      { "E": "y = x3 + Cx2" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Find the general solution of the separable differential equation: y’ = y tgx",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Csinx" },
+      { "B": "y = Ccosx" },
+      { "C": "y = Ccosx" },
+      { "D": "y = Csinx" },
+      { "E": "y = Ctgx" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Find the general solution of the separable differential equation: y’ tgx – y = 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Csinx - 1" },
+      { "B": "y = Csinx + 1" },
+      { "C": "y = Ccosx - 1" },
+      { "D": "y = Ccosx + 1" },
+      { "E": "y = Ccosx" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Find the general solution of the separable differential equation: yy’ = 2x/y",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = √(3x2 + C)" },
+      { "B": "y = √(x2 + C)" },
+      { "C": "y = Cx2" },
+      { "D": "y = x2 + C" },
+      { "E": "y = √(C - x2)" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Find the general solution of the separable differential equation: 3y2(1 + x2) y’ = 1",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = √(arctgx + C)" },
+      { "B": "y = arctgx + C" },
+      { "C": "y = C/(1 + x2)" },
+      { "D": "y = Carctgx" },
+      { "E": "y = Cex" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Find the general solution of the separable differential equation: (x +1)ydx – xdy =0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cxex" },
+      { "B": "y = Cxe-x" },
+      { "C": "y = Cex" },
+      { "D": "y = Ce-x" },
+      { "E": "y = Cx" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Find the general solution of the separable differential equation: y(x+1)dx + xdy =0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cex/x" },
+      { "B": "y = Ce-x/x" },
+      { "C": "y = Ce-x" },
+      { "D": "y = Cex" },
+      { "E": "y = Cxe-x" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Find the general solution of the separable differential equation: x2y’ + y = 0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Ce^(1/x)" },
+      { "B": "y = Cex" },
+      { "C": "y = Ce-x" },
+      { "D": "y = ex + C" },
+      { "E": "y = e-x + C" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Find the general solution of the separable differential equation: 2y’√x = y",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Ce√x" },
+      { "B": "y = Cex" },
+      { "C": "y = Ce-x" },
+      { "D": "y = ex + C" },
+      { "E": "y = e-x + C" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Find the general solution of the separable differential equation: y’ = (2y +1) ctgx",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (Csin2x - 1)/2" },
+      { "B": "y = Csin2x" },
+      { "C": "y = sin2x + C" },
+      { "D": "y = Csin2x" },
+      { "E": "y = (Csinx - 1)/2" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Find the general solution of the separable differential equation: x2y’ + y2 =0",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/x + 1/y = C" },
+      { "B": "1/x - 1/y = C" },
+      { "C": "x + y = C" },
+      { "D": "x - y = C" },
+      { "E": "x2 + y2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Find the general solution of the separable differential equation: y’(x2 -4) = 2xy",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C(x2 -4)" },
+      { "B": "y = C(x -4)" },
+      { "C": "y = C(x2 +4)" },
+      { "D": "y = x2 + C" },
+      { "E": "y = C(x -4)2" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Find the general solution of the separable differential equation: y’cosx - ysinx = sinx",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C/cosx -1" },
+      { "B": "y = C - cos2x" },
+      { "C": "y = C + cos2x" },
+      { "D": "y = Ccos2x" },
+      { "E": "y = Csin2x" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "xy’ + y = 0, y(1) = 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2/x" },
+      { "B": "y = 2x" },
+      { "C": "y = 1/x + x" },
+      { "D": "y = (x-1)/x" },
+      { "E": "y = 1/x" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "xy’ - y = 0, y(2) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x/2" },
+      { "B": "y = x + 2" },
+      { "C": "y = x^2" },
+      { "D": "y = -x + 2" },
+      { "E": "y = x^2 - x" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "yy’ + x = 0, y(0) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 + y^2 = 1" },
+      { "B": "x^2 - y^2 = 1" },
+      { "C": "y = x^2 - 1" },
+      { "D": "y = x^2 + 1" },
+      { "E": "y = x^2 + 2" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = y, y(0) = 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2e^x" },
+      { "B": "y = 2x" },
+      { "C": "y = 2e^-x" },
+      { "D": "y = e^x - 1" },
+      { "E": "y = e^-x + 1" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ - 2xy = 0, y(0) = 3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 3e^(x^2)" },
+      { "B": "y = 3e^(-x^2)" },
+      { "C": "y = 3e^x" },
+      { "D": "y = 3e^-x" },
+      { "E": "y = e^-x" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "2yx^2dy = (1+x^2)dx, y(1) = 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = x - 1/x" },
+      { "B": "y^2 = x - 1/x + 4" },
+      { "C": "y^2 = x + 1/x" },
+      { "D": "y^2 = x + 1/x + 4" },
+      { "E": "y = x + 1/x + 2" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = ∛(y^2), y(-1) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x^3 + 2" },
+      { "B": "y = -x^3 + 1" },
+      { "C": "y = -x^3 + 2" },
+      { "D": "y = x^2 + 2" },
+      { "E": "y = x^2 - 2" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = 2√y ln(x), y(1) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (xlnx - x + 1)^2" },
+      { "B": "y = √(xlnx)" },
+      { "C": "y = xlnx" },
+      { "D": "y = xlnx - x" },
+      { "E": "y = √(xlnx + 1)" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = y tan(x), y(π) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -1/cos(x)" },
+      { "B": "y = cos(x)" },
+      { "C": "y = sin(x)" },
+      { "D": "y = tan(x)" },
+      { "E": "y = cos(x) + 1" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = x√y, y(0) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x^2/4 + 1" },
+      { "B": "y = x^2/2 + 1" },
+      { "C": "y = x^2 + 1" },
+      { "D": "y = x^3/4 + 1" },
+      { "E": "y = √(x^2 + 1)" }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = e^(x+y), y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -ln(2 - e^x)" },
+      { "B": "y = ln(2 - e^x)" },
+      { "C": "y = e^x - 2" },
+      { "D": "y = ln(e^x - 2)" },
+      { "E": "y = ln(e^x + 2)" }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = (y+1)(y-2), y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (2e^3x - 1)/(e^3x + 1)" },
+      { "B": "y = (e^3x - 1)/(e^3x + 2)" },
+      { "C": "y = (2e^x - 1)/(e^x + 1)" },
+      { "D": "y = (e^x - 2)/(e^x + 1)" },
+      { "E": "y = (e^x - 1)/(e^x + 1)" }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = (1+y^2)sin(x), y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = tan(1 - cos(x))" },
+      { "B": "y = tan(cos(x) - 1)" },
+      { "C": "y = cos(x) - 1" },
+      { "D": "y = sin(x)" },
+      { "E": "y = tan(sin(x))" }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = e^(y-x), y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ln((1+e^(2x))/2)" },
+      { "B": "y = ln((1-e^(2x))/2)" },
+      { "C": "y = ln(1+e^x)" },
+      { "D": "y = e^x - 1" },
+      { "E": "y = e^(2x) - 1" }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = cos^2(y)cos(x), y(0) = π/4",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = arctan((1+sin(x))/2)" },
+      { "B": "y = arctan((1-sin(x))/2)" },
+      { "C": "y = arctan((1+cos(x))/2)" },
+      { "D": "y = arctan((1-sin(x))/cos(x))" },
+      { "E": "y = arctan((1+cos(x))/sin(x))" }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = 2x/(1+y^2), y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = tan(x^2)" },
+      { "B": "y = arctan(x^2)" },
+      { "C": "y = cos(x^2)" },
+      { "D": "y = sin(x^2)" },
+      { "E": "y = x^2" }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = 2xy^2, y(0) = -1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = -1/(x^2 + 1)" },
+      { "B": "y = 1/(x^2 + 1)" },
+      { "C": "y = -1/(2x^2 + 1)" },
+      { "D": "y = 1/(2x^2 + 1)" },
+      { "E": "y = -x^2 - 1" }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = (x^2+1)/(2y), y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = √((x^3/3)+x)" },
+      { "B": "y = (x^3/3)+x" },
+      { "C": "y = √(x^2+1)" },
+      { "D": "y = (x^2+1)/2" },
+      { "E": "y = √(x^3+1)" }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = (x+y)^2, y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x/(1-x))" },
+      { "B": "y = (x/(1+x))" },
+      { "C": "y = (x^2/(1-x))" },
+      { "D": "y = (x^2/(1+x))" },
+      { "E": "y = (x/(1+x^2))" }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = y/x, y(1) = 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2x" },
+      { "B": "y = x/2" },
+      { "C": "y = 2/x" },
+      { "D": "y = x^2" },
+      { "E": "y = √x" }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = (x+1)(y+1), y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^(x + x^2/2) - 1" },
+      { "B": "y = e^(x - x^2/2) - 1" },
+      { "C": "y = e^(x^2/2) - 1" },
+      { "D": "y = e^x - 1" },
+      { "E": "y = e^(x^2) - 1" }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = (1+y^2)/(1+x^2), y(0) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = tan(arctan(x))" },
+      { "B": "y = arctan(x)" },
+      { "C": "y = sin(x)" },
+      { "D": "y = cos(x)" },
+      { "E": "y = ln(x+1)" }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Solve the separable differential equation initial value problem:",
+    "questionDown": "y’ = y ln(y), y(1) = e",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^(e^x)" },
+      { "B": "y = e^(x+1)" },
+      { "C": "y = e^(x-1)" },
+      { "D": "y = e^x" },
+      { "E": "y = ln(e^x)" }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x − y) dx + x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x ln|C/x|" },
+      { "B": "y = x ln|Cx|" },
+      { "C": "y = ln|C/x|" },
+      { "D": "y = x^2 ln|C/x|" },
+      { "E": "x = y ln|C/x|" }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x + y) dx + x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C/x − 1/2 x" },
+      { "B": "y = C/x + 1/2 x" },
+      { "C": "y = C/x − 1/2 x^2" },
+      { "D": "x = C/y − 1/2 x" },
+      { "E": "y = ln C/x − 1/2 x" }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x − y) dx − x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1/2 x − C/x" },
+      { "B": "y = C/x + 1/2 x" },
+      { "C": "y = C/x + 1/2 x^2" },
+      { "D": "x = C/y − 1/2 x" },
+      { "E": "y = ln C/x − x" }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x + y) dx − x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x ln|Cx|" },
+      { "B": "y = x^2 ln|Cx|" },
+      { "C": "y = x ln|C/x|" },
+      { "D": "y = x + ln|Cx|" },
+      { "E": "x = y ln|Cx|" }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x + y) dx − 2x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + C√x" },
+      { "B": "y = x^2 + C√x" },
+      { "C": "y = Cx − x√x" },
+      { "D": "y = ln x + C√x" },
+      { "E": "x = xy + C√x" }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x − 2y) dx + x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + Cx^2" },
+      { "B": "y = x^2 + C√x" },
+      { "C": "y = x + √x" },
+      { "D": "y = ln x + Cx^2" },
+      { "E": "x = xy + C√x" }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x − 2y) dx − x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1/3 x − C/x^2" },
+      { "B": "y = 1/3 x − C/x^2" },
+      { "C": "y = 1/3 x − C/x" },
+      { "D": "y = 3x − C/x^2" },
+      { "E": "y = C/3 x^2 − 3/x^2" }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x + 2y) dx − x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx^2 − x" },
+      { "B": "y = Cx^2 + x" },
+      { "C": "y = Cx + √x" },
+      { "D": "y = Cx^2 − √x" },
+      { "E": "x = y + C√x" }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x + 2y) dx + x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C/x^2" },
+      { "B": "y = C/x − 1/3 x" },
+      { "C": "y = C/x^3 − 1/3 x^2" },
+      { "D": "x = C/x^2 − 1/2 x" },
+      { "E": "y = ln C/x^2 − 1/3 x" }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x sin(y/x) − y cos(y/x)) dx + x cos(y/x) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cx = cos(y/x)" },
+      { "B": "cx = sin(y/x)" },
+      { "C": "cx = tg y/x" },
+      { "D": "cx = cos x/y" },
+      { "E": "cx = ln y/x" }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x^2 − y^2) dx + xy dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = 2x^2 ln|C/x|" },
+      { "B": "y = 2x^2 ln|C/x|" },
+      { "C": "y^2 = x ln|C/x|" },
+      { "D": "y^2 = 2x^3 ln|C/x|" },
+      { "E": "y^2 = x^2 ln|C/x^2|" }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' = y/(x − xy)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = 2x^2 ln|C/x|" },
+      { "B": "y = 2x^2 ln|C/x|" },
+      { "C": "y^2 = x ln|C/x|" },
+      { "D": "y^2 = 2x^3 ln|C/x|" },
+      { "E": "y^2 = x^2 ln|C/x^2|" }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' = y/x + ...",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = 2x^2 ln|Cx|" },
+      { "B": "y = 2x^2 ln|Cx|" },
+      { "C": "y^2 = x ln|Cx|" },
+      { "D": "y^2 = 2x^3 ln|C/x|" },
+      { "E": "x^2 = y ln|C/x^2|" }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "yy' = y^2 + x^2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = 2x^2 ln|Cx|" },
+      { "B": "y = 2x^2 ln|Cx|" },
+      { "C": "y^2 = x ln|Cx|" },
+      { "D": "y^2 = 2x^3 ln|C/x|" },
+      { "E": "x^2 = y ln|C/x^2|" }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "2y' − y^2 = xy",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x / (C − ln x)" },
+      { "B": "y = (C − ln x)/x" },
+      { "C": "y = 1 / (C ln x)" },
+      { "D": "y = C / ln x" },
+      { "E": "y = x / (C + ln x)" }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(x − y)y dx − x^2 dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x ln|Cx|" },
+      { "B": "y = 1 / ln|Cx|" },
+      { "C": "y = 1 / (Cx ln x)" },
+      { "D": "y = C / ln x" },
+      { "E": "y = x / (C + ln x)" }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "yy' = y^2 + 2x^2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = 4x^2 ln|Cx|" },
+      { "B": "y = x^2 ln|Cx|" },
+      { "C": "y^2 = 4x ln|Cx|" },
+      { "D": "y^2 = 2x^3 ln|C/x|" },
+      { "E": "x^2 = 4y ln|C/x^2|" }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' = y/(x − ctg(y/x))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cos(y/x) = Cx" },
+      { "B": "sin(y/x) = Cx" },
+      { "C": "cos(x/y) = Cx" },
+      { "D": "cos(y/x) = Cy" },
+      { "E": "cos(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' = y/(x + tg(y/x))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = Cx" },
+      { "B": "sin(x/y) = Cx" },
+      { "C": "sin(y/x) = Cy" },
+      { "D": "cos(y/x) = Cx" },
+      { "E": "cos(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' = y/(x − tg(y/x))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = C/x" },
+      { "B": "sin(x/y) = Cx" },
+      { "C": "sin(y/x) = C/x" },
+      { "D": "cos(y/x) = Cx" },
+      { "E": "sin(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' = y/(x − ctg(y/x))",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cos(y/x) = C/x" },
+      { "B": "sin(y/x) = C/x" },
+      { "C": "cos(x/y) = C/x" },
+      { "D": "cos(y/x) = Cy" },
+      { "E": "sin(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' = y + x tg(y/x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = Cx" },
+      { "B": "sin(x/y) = Cx" },
+      { "C": "sin(y/x) = Cy" },
+      { "D": "cos(y/x) = Cx" },
+      { "E": "cos(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "x y' = y − x ctg(y/x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cos(y/x) = Cx" },
+      { "B": "sin(y/x) = Cx" },
+      { "C": "cos(x/y) = Cx" },
+      { "D": "cos(y/x) = Cy" },
+      { "E": "cos(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' = y − x tg(y/x)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = C/x" },
+      { "B": "sin(x/y) = Cx" },
+      { "C": "sin(y/x) = C/x" },
+      { "D": "cos(y/x) = Cx" },
+      { "E": "sin(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(y + x tg(y/x)) dx − x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = Cx" },
+      { "B": "sin(x/y) = Cx" },
+      { "C": "sin(y/x) = Cy" },
+      { "D": "cos(y/x) = Cx" },
+      { "E": "cos(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "(y − x tg(y/x)) dx − x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = C/x" },
+      { "B": "sin(x/y) = Cx" },
+      { "C": "sin(y/x) = C/x" },
+      { "D": "cos(y/x) = Cx" },
+      { "E": "sin(y/x) = Cx^2" }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "y' + x e^y / x",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = −x ln(ln|Cx|)" },
+      { "B": "y = −ln(ln|Cx|)" },
+      { "C": "y = −x^2 ln(ln|Cx|)" },
+      { "D": "y^2 = 2x^3 ln|Cx|" },
+      { "E": "x^2 = 4y ln|Cx|" }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Find the general solution of the homogeneous differential equation:",
+    "questionDown": "dy + (x e^y)/x",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = −x ln(ln|Cx|)" },
+      { "B": "y = ln(ln|Cx|)" },
+      { "C": "y = −x^2 ln(ln|Cx|)" },
+      { "D": "y^2 = 2x^2 ln|Cx|" },
+      { "E": "x^2 = y ln(ln|Cx|)" }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x + y) dx + x dy = 0, y(2) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 4/x" },
+      { "B": "y = 6/x" },
+      { "C": "y = 2/x" },
+      { "D": "x = 1/y" },
+      { "E": "y = ln(1/x)" }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x + y) dx + x dy = 0, y(4) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 8/x − 1/2 x" },
+      { "B": "y = −8/x + 1/2 x" },
+      { "C": "y = 4/x − 1/2 x" },
+      { "D": "x = 3/y" },
+      { "E": "y = ln(1/x) − 1/2 x^2" }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x + 2y) dx − x dy = 0, y(2) = 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x^2 − x" },
+      { "B": "y = x^2 + x" },
+      { "C": "y = 2x^2 + x" },
+      { "D": "y = 2x^2 − 3x" },
+      { "E": "x = y + 2√x" }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x + 2y) dx − x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 3x^2 − x" },
+      { "B": "y = x^2 + x" },
+      { "C": "y = 2x^2 + x" },
+      { "D": "y = 2x^2 − 3x" },
+      { "E": "y = x + √x" }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x − 2y) dx + x dy = 0, y(1) = 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + x^2" },
+      { "B": "y = x^2 + √x" },
+      { "C": "y = x + √x" },
+      { "D": "y = ln x + 2x^2" },
+      { "E": "x = xy + 3√x" }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x − 2y) dx + x dy = 0, y(1) = 3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + 2x^2" },
+      { "B": "y = 2x^2 + √x" },
+      { "C": "y = x + 2√x" },
+      { "D": "y = ln x + 3x^2" },
+      { "E": "x = xy + 4√x" }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x − 2y) dx + x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + x^2" },
+      { "B": "y = x^2 − x" },
+      { "C": "y = x + √|x|" },
+      { "D": "y = ln|x| + x" },
+      { "E": "x = xy + 3√|x|" }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x + y) dx − 2x dy = 0, y(−1) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + √x" },
+      { "B": "y = x^2 + √x" },
+      { "C": "y = 3x − x√x" },
+      { "D": "y = ln x + √x" },
+      { "E": "x = xy + 2√x" }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "(x + y) dx − 2x dy = 0, y(1) = 3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x + 2√x" },
+      { "B": "y = 2x^2 + √x" },
+      { "C": "y = 4x − x√x" },
+      { "D": "y = ln x + 3√x" },
+      { "E": "x = xy + 2√x" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "y' = −2 y / x − ctg(y/x), y(2) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cos(y/x) = 2/x" },
+      { "B": "sin(y/x) = 1/x" },
+      { "C": "cos(y/x) = 1/x" },
+      { "D": "cos(y/x) = 4/x" },
+      { "E": "sin(y/x) = 0" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "y' = y/(x − tg(y/x)), y(6) = π",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = 3/x" },
+      { "B": "sin(x/y) = 2x" },
+      { "C": "sin(y/x) = 3/x" },
+      { "D": "cos(y/x) = 2x" },
+      { "E": "sin(y/x) = x^2" }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "y' = y/(x − tg(y/x)), y(2) = π",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = 2/x" },
+      { "B": "cos(x/y) = 0" },
+      { "C": "sin(y/x) = 1/x" },
+      { "D": "cos(y/x) = 2/x" },
+      { "E": "sin(y/x) = 1/4 x^2" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "y' = y − x tg(y/x), y(6) = π",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = 3/x" },
+      { "B": "sin(x/y) = 2x" },
+      { "C": "sin(y/x) = 3/x" },
+      { "D": "cos(y/x) = 2x" },
+      { "E": "sin(y/x) = x^2" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Solve the homogeneous differential equation initial value problem:",
+    "questionDown": "y' = y − x tg(y/x), y(2) = π",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sin(y/x) = 2/x" },
+      { "B": "cos(x/y) = 0" },
+      { "C": "sin(y/x) = 1/x" },
+      { "D": "cos(y/x) = 2/x" },
+      { "E": "sin(y/x) = 1/4 x^2" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "(xy + e^x) dx − x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^x(lnx + C)" },
+      { "B": "y = e^(x lnC)" },
+      { "C": "y = e^-x(lnx + C)" },
+      { "D": "y = e^-x lnC x" },
+      { "E": "y = lnC x" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "xy' − 3y = x^2",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "y = Cx^3 − x^2" },
+      { "B": "y = Cx^2 − x^3" },
+      { "C": "y = Cx^3 + x^2" },
+      { "D": "y = Cx^2 + x^3" },
+      { "E": "y = Cx^3" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' = y + e^x / x",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y = e^x(lnx + C)" },
+      { "B": "y = e^x + C" },
+      { "C": "y = e^-x(lnx + C)" },
+      { "D": "y = e^2x(lnx + C)" },
+      { "E": "y = e^-2x(lnx + C)" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' + 2xy = x e^(-x^2)",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y = e^-x^2(x^2/2 + C)" },
+      { "B": "y = e^x^2(x^2/2 + C)" },
+      { "C": "y = e^-x(x^2/2 + C)" },
+      { "D": "y = e^-x^2(x^2 + C)" },
+      { "E": "y = e^x^2(x^2 + C)" }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "xy' − 2y = 2x^3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x^2(2x + C)" },
+      { "B": "y = x^2(C − x^2)" },
+      { "C": "y = x(x^2 + C)" },
+      { "D": "y = Cx − x^3" },
+      { "E": "y = Cx + x^3" }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' sinx + y cosx = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x + C)/sinx" },
+      { "B": "y = (x + C)/cosx" },
+      { "C": "y = sinx/(x + C)" },
+      { "D": "y = cosx/(x + C)" },
+      { "E": "y = (x − C)/sinx" }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "x dy − 3y dx = x^2 dx",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx^3 − x^2" },
+      { "B": "y = x^2 − 3Cx^3" },
+      { "C": "y = Cx^3 + x^2" },
+      { "D": "y = Cx^2 − x^3" },
+      { "E": "y = x^2 − Cx^3" }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "xy' − 2y = 2x^4",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx^2 + x^4" },
+      { "B": "y = Cx^4 + x^3" },
+      { "C": "y = Cx^3 − x^4" },
+      { "D": "y = Cx^4 − x^3" },
+      { "E": "y = Cx^3" }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' + y tanx = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = sinx + C cosx" },
+      { "B": "y = C cosx − sinx" },
+      { "C": "y = cosx + C sinx" },
+      { "D": "y = C cosx" },
+      { "E": "y = C sinx" }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' + y/x = 0",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "xy = C − ln|x|" },
+      { "B": "xy = C + ln|x|" },
+      { "C": "y = C + x" },
+      { "D": "y = C ln|x|" },
+      { "E": "y = C e^x" }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y = x(y' − x cosx)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x(C + sinx)" },
+      { "B": "y = x(C − sinx)" },
+      { "C": "y = x(C + cosx)" },
+      { "D": "y = x(C − cosx)" },
+      { "E": "y = C cosx" }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' + y cosx = e sinx",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y = (x + C)e^(-sinx)" },
+      { "B": "y = (x + C)e^(sinx)" },
+      { "C": "y = (x + C)e^(cosx)" },
+      { "D": "y = (x + C)e^(-cosx)" },
+      { "E": "y = C e^(-sin^2x)" }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' + y cosx = cosx",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1 + C e^(-sinx)" },
+      { "B": "y = 1 + C e^(sinx)" },
+      { "C": "y = 1 + C e^(cosx)" },
+      { "D": "y = 1 + C e^(-cosx)" },
+      { "E": "y = C e^(-sinx)" }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' + y tanx = cosx",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x + C) cosx" },
+      { "B": "y = (x + C) sinx" },
+      { "C": "y = C cosx" },
+      { "D": "y = C sinx" },
+      { "E": "y = sinx + C cosx" }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − y cosx = e sinx",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y = (x + C)e^(sinx)" },
+      { "B": "y = (x + C)e^(-sinx)" },
+      { "C": "y = (x + C)e^(cosx)" },
+      { "D": "y = (x + C)e^(-cosx)" },
+      { "E": "y = C e^(sinx)" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' + y cosx = 0",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y = 1 + C e^(sinx)" },
+      { "B": "y = 1 + C e^(-sinx)" },
+      { "C": "y = 1 + C e^(cosx)" },
+      { "D": "y = 1 + C e^(-cosx)" },
+      { "E": "y = C e^(sinx)" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − y tanx = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x + C)/cosx" },
+      { "B": "y = (x + C)/sinx" },
+      { "C": "y = (C − x)/cosx" },
+      { "D": "y = C/cosx" },
+      { "E": "y = (C − x)/sinx" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − y cosx = e cosx",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x + C) e^(cosx)" },
+      { "B": "y = (C − x) e^(cosx)" },
+      { "C": "y = C e^(cosx)" },
+      { "D": "y = C e^(-cosx)" },
+      { "E": "y = C e^(sinx)" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − y sinx = sinx",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "y = C e^(-cosx) − 1" },
+      { "B": "y = (x − C)e^(-cosx)" },
+      { "C": "y = (C + x)e^(-cosx)" },
+      { "D": "y = (C − x)e^(-sinx)" },
+      { "E": "y = (C + x) e^(sinx)" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − y cosx = e cosx",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "y = (x + C) e^(cosx)" },
+      { "B": "y = (C − x)e^(-cosx)" },
+      { "C": "y = (x + C)e^(-cosx)" },
+      { "D": "y = (C − x) e^(cosx)" },
+      { "E": "y = C e^(-cosx)" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − y sinx = e^(-cosx)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (x + C) e^(-cosx)" },
+      { "B": "y = (x + C)e^(cosx)" },
+      { "C": "y = (C − x)e^(-cosx)" },
+      { "D": "y = (C − x)e^(cosx)" },
+      { "E": "y = C e^(-cosx)" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − 2y = 2x − 1",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "y = C e^(-2x) + 2x − 1" },
+      { "B": "y = C e^(-2x)" },
+      { "C": "y = C e^(-2x) + 1" },
+      { "D": "y = C e^(-2x) + 2x" },
+      { "E": "y = C e^(-2x) + 2x + 1" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' + 2xy = x e^(-x^2)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^(-x^2)(x^2/2 + C)" },
+      { "B": "y = C e^(x^2)" },
+      { "C": "y = e^(x^2)(x^2/2 + C)" },
+      { "D": "y = C e^(x^2)" },
+      { "E": "y = C e^x" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − 3/x y = ?",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C x^3 − x^2" },
+      { "B": "y = C x^2 − x^3" },
+      { "C": "y = C x^3 + x^2" },
+      { "D": "y = C x^3" },
+      { "E": "y = C x^2 − x" }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − 2xy = 2x",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "y = C e^(x^2) − x^2 − 1" },
+      { "B": "y = C e^(x^2) − 1" },
+      { "C": "y = C x^3 + x^2" },
+      { "D": "y = C e^(x^2) + x^2" },
+      { "E": "y = C e^(x^2)" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Find general solution of linear differential equation:",
+    "questionDown": "y' − y/x = x cosx",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "y = x(C + sinx)" },
+      { "B": "y = x(C − sinx)" },
+      { "C": "y = x(C + cosx)" },
+      { "D": "y = x(C − cosx)" },
+      { "E": "y = C cosx" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "y' = y + e^x / x, y(1) = e",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^x(lnx + 1)" },
+      { "B": "y = e^x ln x" },
+      { "C": "y = e^x" },
+      { "D": "y = e^-x + 1" },
+      { "E": "y = e^(1-x)" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "y' − 3/x y = x^2, y = x^2",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "y = x^3(lnx + 1)" },
+      { "B": "y = 3x^2 − 2x" },
+      { "C": "y = x^2 − x + 1" },
+      { "D": "y = x^3 − 2x + 3" },
+      { "E": "y = x^3" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "xy' = xy + e^x, y(1) = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^x ln x" },
+      { "B": "y = e^-x ln x" },
+      { "C": "y = e^(x^2) ln x" },
+      { "D": "y = e^(-x^2) ln x" },
+      { "E": "y = e^(2x) ln x" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "y' − 2y/x = 2x^3",
+    "correctAnswer": "D",
+    "answers": [
+      { "A": "y = x^2(x^2 + 2)" },
+      { "B": "y = 3x^2" },
+      { "C": "y = 2x^2 + x" },
+      { "D": "y = 2x^2 + 1" },
+      { "E": "y = x^2 + 3" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "y' + y cotx = 1/sinx, y(1) = 3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x / sinx" },
+      { "B": "y = x sinx" },
+      { "C": "y = x sin^2x" },
+      { "D": "y = -x cos^2x" },
+      { "E": "y = x cos^2x" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "x dy − (x^2 + 3y) dx = 0, y(π/2) = π/2",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y = 2x^3 − x^2" },
+      { "B": "y = 2x^3 + 1" },
+      { "C": "y = 3x^2 − x" },
+      { "D": "y = 3x^2 − 1" },
+      { "E": "y = x^2 + x" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "y' − 2y/x = 2x^3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x^4" },
+      { "B": "y = x^3" },
+      { "C": "y = 2x^2 − x" },
+      { "D": "y = 2x^2 − 1" },
+      { "E": "y = 3x^2 − 2" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "y' cosx + y sinx = 1, y(0) = 2",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y = sinx + 2 cosx" },
+      { "B": "y = 2 cosx" },
+      { "C": "y = 2 cos^2 x" },
+      { "D": "y = 1 + cosx" },
+      { "E": "y = 1 + cos^2x" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "y' − y/x = x + x cosx",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = x(1 + sinx)" },
+      { "B": "y = − x cosx" },
+      { "C": "y = x(1 − sinx)" },
+      { "D": "y = x + sinx" },
+      { "E": "y = x + sin^2x" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "xy' = 3y + x^2, y(π) = π, y(1) = 1",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y = 2x^3 − x^2" },
+      { "B": "y = 2x^3 + 1" },
+      { "C": "y = 3x^2 − 2x" },
+      { "D": "y = 2x^3 − 1" },
+      { "E": "y = x^2 + x" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Find the particular solution of the linear differential equation:",
+    "questionDown": "y' = 2xy + 2 e^(x^2), y(0) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^(x^2)(2x + 1)" },
+      { "B": "y = e^(x^2)" },
+      { "C": "y = 2 e^(x^2) − 1" },
+      { "D": "y = 2 e^x − 1" },
+      { "E": "y = e^(x^2) + 2x − 2" }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' + y = −x y^2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1 / (x ln|Cx|)" },
+      { "B": "y = x / (ln|Cx|)" },
+      { "C": "y = 1 / (x^2 ln|Cx|)" },
+      { "D": "y = 1 / (x + ln|Cx|)" },
+      { "E": "y = 4 / (x − ln|Cx|)" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' + y = −y^2",
+    "correctAnswer": "D",
+    "answers": [
+      { "A": "y = 1 / (C x − 1)" },
+      { "B": "y = C x − 1" },
+      { "C": "y = 1 / (C x^2 − 1)" },
+      { "D": "y = 1 / (3 x + C)" },
+      { "E": "y = 1 / (x + ln|Cx|)" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' − y = −x y^2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2x / (x^2 − C)" },
+      { "B": "y = x^2 − C" },
+      { "C": "y = 2x / (C x^2 − 1)" },
+      { "D": "y = 1 / (3x + C)" },
+      { "E": "y = 2 / (x^2 − C)" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' − (1/x) y = x y^2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 3x / (C − x^3)" },
+      { "B": "y = x^2 − C" },
+      { "C": "y = (C − x^3) / (3x)" },
+      { "D": "y = 3x / (C x^3)" },
+      { "E": "y = 3x / (x^3 + C)" }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 4x / (C − x^4)" },
+      { "B": "y = x^4 − C" },
+      { "C": "y = (C − x^4) / (4x)" },
+      { "D": "y = 3x / (C x^4)" },
+      { "E": "y = 2x / (x^4 + C)" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' − y = x^3 y^2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 4x / (C − x^4)" },
+      { "B": "y = x^4 − C" },
+      { "C": "y = (C − x^4) / (4x)" },
+      { "D": "y = 3x / (C x^4)" },
+      { "E": "y = 2x / (x^4 + C)" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "x y' + y = x y^3",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "y^2 = 1 / (C x^2 + 2x)" },
+      { "B": "y^2 = C / (x^2 − 2x)" },
+      { "C": "y = x / (C x^2 + 2x)" },
+      { "D": "y = 1 / (C x^3 + 2x)" },
+      { "E": "y = C x^2 + 2x" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' + y = y^3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = 1 / (C x^2 + 1)" },
+      { "B": "y^2 = C / (x^2 − 1)" },
+      { "C": "y = x / (C x^2 + 1)" },
+      { "D": "y = 1 / (C x^2 + x)" },
+      { "E": "y = C x^2 + x" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' − y = x y^3",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y^2 = 3x^2 / (C − 2x^3)" },
+      { "B": "y^2 = (C − 2x^3) / 3x^2" },
+      { "C": "y = x / (C − 2x^3)" },
+      { "D": "y = 3x^2 / (C − 2x^3)" },
+      { "E": "y = 2x^2 − C" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' − y/x = 1/x y^3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = x^2 / (C − 2x)" },
+      { "B": "y^2 = (C − 2x) / x^2" },
+      { "C": "y = x^2 / (C − 2x)" },
+      { "D": "y = x^3 / (C − 2x)" },
+      { "E": "y = C − 2x" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' + y/x = y^3/x",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = 1 / (C x^2 + 1)" },
+      { "B": "y^2 = C / (x^2 − 1)" },
+      { "C": "y = x / (C x^2 + 1)" },
+      { "D": "y = 1 / (C x^2 + x)" },
+      { "E": "y = C x^2 + x" }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' − y/x = y^3/x^2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = x^2 / (C − 2x)" },
+      { "B": "y^2 = (C − 2x) / x^2" },
+      { "C": "y = x^2 / (C − 2x)" },
+      { "D": "y = x^3 / (C − 2x)" },
+      { "E": "y = C − 2x" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' + y = e^x y^2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1 / (e^x (C − x))" },
+      { "B": "y^2 = 1 / (e^x (C + x))" },
+      { "C": "y = (C − x^4) / 4x" },
+      { "D": "y = e^x (C − x)" },
+      { "E": "y = 1 / (e^-x (C − x))" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "y' + y = e^x y^3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 = 1 / (e^x (2 + C e^x))" },
+      { "B": "y^2 = 1 / (e^x (C + e^x x))" },
+      { "C": "y = 1 / (e^x (2 + C e^x))" },
+      { "D": "y^2 = e^x (C − e^x x)" },
+      { "E": "y = 1 / (e^x (2 − C e^x))" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Solve the Bernoulli differential equation:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2 e^x / (1 + C e^{2x})" },
+      { "B": "y^2 = 1 / (e^x (C + e^x x))" },
+      { "C": "y = (1 + C e^{2x}) / (2 e^x)" },
+      { "D": "y^2 = 2 e^x / (1 + C e^{2x})" },
+      { "E": "y = 2 e^x / (e^x (2 − C e^x))" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Find the particular solution of the Bernoulli differential equation:",
+    "questionDown": "y' − y = −x y^2, y(2) = 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2x / (x^2 − 2)" },
+      { "B": "y = x^2 − 2" },
+      { "C": "y = 2x / (x^2 − 1)" },
+      { "D": "y = 1 / (3x − 4)" },
+      { "E": "y = 2 / (x^2 − 1)" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Find the particular solution of the Bernoulli differential equation:",
+    "questionDown": "x y' + y = −y^2, y(2) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 1 / (x − 1)" },
+      { "B": "y = x − 1" },
+      { "C": "y = 1 / (x^2 − 3)" },
+      { "D": "y = 1 / (3x − 5)" },
+      { "E": "y = 1 / (x + ln|x|)" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Find the particular solution of the Bernoulli differential equation:",
+    "questionDown": "y' − 1/x y = x y^2",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "y = 3x / (2 − x^3)" },
+      { "B": "y = x^2 + 2" },
+      { "C": "y = (1 − x^3) / (3x)" },
+      { "D": "y = 3x / x^3" },
+      { "E": "y = 3x / (x^3 + 1)" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Find the particular solution of the Bernoulli differential equation:",
+    "questionDown": "y' − 1/x y = x y^2, y(1) = 3",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "y = 4x / (2 − x^4)" },
+      { "B": "y = x^4 + 3" },
+      { "C": "y = (2 − x^4) / (4x)" },
+      { "D": "y = 4x / x^4" },
+      { "E": "y = 4x / (x^4 + 3)" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Find the particular solution of the Bernoulli differential equation:",
+    "questionDown": "y' + y = e^-x y^2, y(0) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2 e^x / (1 + e^{2x})" },
+      { "B": "y^2 = 1 / (e^x (1 + e^x x))" },
+      { "C": "y = (1 + C e^{2x}) / (2 e^x)" },
+      { "D": "y^2 = 2 e^x / (1 + e^{2x})" },
+      { "E": "y = e^x / (e^x (2 − e^x))" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(2x + 3x^2y)dx + (x^3 – 3y^2)dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 + x^3y – y^3 = C" },
+      { "B": "x^2 - x^3y – y^3 = C" },
+      { "C": "x^2 + x^3y + y^3 = 0" },
+      { "D": "x^3 – x^2y - y^3 = C" },
+      { "E": "x^3 + x^2y - y^2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(y^3 – 3x^2)dx + (2y + 3xy^2)dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 + xy^3 – x^3 = 0" },
+      { "B": "y^2 - xy^3 – x^3 = 0" },
+      { "C": "y^2 + xy^3 + x^3 = 0" },
+      { "D": "y^3 + xy – x^3 = 0" },
+      { "E": "xy^2 - y^3 + x^2 = 0" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "2xy dx + (x^2 – y^2) dy = 0",
+    "correctAnswer": "D",
+    "answers": [
+      { "A": "3x^2y – y^3 = C" },
+      { "B": "3x^2y + y^3 = C" },
+      { "C": "x^2y – y^3 = C" },
+      { "D": "x^2y + y^3 = C" },
+      { "E": "2x^2y – y^3 = C" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(y^2 – x^2) dx + 2xy dy = 0",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "3xy^2 – x^3 = C" },
+      { "B": "3x^2y + x^3 = 0" },
+      { "C": "3xy^2 + x^3 = C" },
+      { "D": "x^2y - y^3 = C" },
+      { "E": "xy^2 + x^3 = C" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(2 – 9xy^2)x dx + (4y^2 – 6x^3)y dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 – 3x^3y^2 + y^4 = C" },
+      { "B": "x^2 + 3x^3y^2 + y^4 = C" },
+      { "C": "x^2 – 3x^3y^2 - y^4 = C" },
+      { "D": "x^2 – 2x^3y^2 + y^4 = C" },
+      { "E": "x^2 + 2x^3y^2 - y^4 = C" }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(4x^2 – 6y^3)x dx + (2 – 9x^2y)y dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^2 – 3x^2y^3 + x^4 = C" },
+      { "B": "y^2 + 3x^2y^3 + x^4 = C" },
+      { "C": "y^2 – 3x^2y^3 - x^4 = C" },
+      { "D": "x^2 – 2x^2y^3 + y^4 = C" },
+      { "E": "x^2 + 2x^2y^3 - y^4 = C" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "e^-y dx – (2y + xe^-y) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "xe^-y – y^2 = C" },
+      { "B": "xe^-y – x^2 = C" },
+      { "C": "x e^y – y^2 = C" },
+      { "D": "x e^y + y^2 = C" },
+      { "E": "x e^y = C" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(2x + y)e^-x dx – e^-x dy = 0",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "y e^-x – x^2 = C" },
+      { "B": "y e^-x + x^2 = C" },
+      { "C": "x e^-y – y^2 = C" },
+      { "D": "x e^-y + y^2 = C" },
+      { "E": "y e^x = C" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "y dx + (y^3 + ln x) dy = 0",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "4y ln x + y^4 = C" },
+      { "B": "4y ln x - y^4 = C" },
+      { "C": "4x ln y + x^4 = C" },
+      { "D": "4x ln y - x^4 = C" },
+      { "E": "2y ln x = C" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(x^3 + ln y) dx + y dy = 0",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "4x ln y + x^4 = C" },
+      { "B": "4x ln y - x^4 = C" },
+      { "C": "4y ln x + y^4 = C" },
+      { "D": "4y ln x - y^4 = C" },
+      { "E": "x ln y = C" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(4 - y^2) dx + 2y dy = 0",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "4x^2 + y^2 = Cx" },
+      { "B": "4x^2 - y^2 = Cx" },
+      { "C": "4y^2 + x^2 = C" },
+      { "D": "4y^2 - x^2 = C" },
+      { "E": "x^2y = C" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(4 - x^2) dy + 2x dx = 0",
+    "correctAnswer": "D",
+    "answers": [
+      { "A": "x^2 + 4y^2 = Cy" },
+      { "B": "x^2 - 4y^2 = Cy" },
+      { "C": "4y^2 + x^2 = Cx" },
+      { "D": "x^2 - 4y^2 = Cx" },
+      { "E": "xy^2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "3x^2 e^y dx + (x^3 e^y -1) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^3 e^y – y = C" },
+      { "B": "x^3 e^y + y = C" },
+      { "C": "y^3 e^x – x = C" },
+      { "D": "y^3 e^x + x = C" },
+      { "E": "xy^3 = C" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(y^3 e^x – 1) dx + 3y^2 e^x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^3 e^x – x = C" },
+      { "B": "y^3 e^x + x = C" },
+      { "C": "x^3 e^y – y = C" },
+      { "D": "x^3 e^y + y = C" },
+      { "E": "x^2 e^y – x = C" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "2x cos^2y dx + (2y - x^2 sin^2y) dy = 0",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "x^2 cos^2y + y^2 = C" },
+      { "B": "x^2 cos^2y - y^2 = C" },
+      { "C": "x^2 sin^2y + y^2 = C" },
+      { "D": "x^2 sin^2y - y^2 = C" },
+      { "E": "y^2 cos^2x + x^2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(2x – y^2 sin 2x) dx + 2y cos 2x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2x^2 + y^2 cos 2x = C" },
+      { "B": "y^2 cos 2x - x^2 = C" },
+      { "C": "x^2 cos 2y + y^2 = C" },
+      { "D": "y^2 sin 2x + y^2 = C" },
+      { "E": "y^2 sin 2x - y^2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(2x^3 - xy^2) dx + (2y^3 - x^2y) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^4 – x^2y^2 + y^4 = C" },
+      { "B": "x^4 + x^2y^2 + y^4 = C" },
+      { "C": "x^4 – x^2y^2 - y^4 = C" },
+      { "D": "x^4 + x^2y^2 - y^4 = C" },
+      { "E": "x^4 + y^4 = C" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "x dy / y = C",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "x - arctg x = C" },
+      { "B": "x - arctg y = C" },
+      { "C": "x + arctg x = C" },
+      { "D": "x + arctg y = C" },
+      { "E": "y + arctg x = C" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "e^y dx + (x e^y – 2y) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x e^y – y^2 = C" },
+      { "B": "x e^y + y^2 = C" },
+      { "C": "y e^x – x^2 = C" },
+      { "D": "y e^x + x^2 = C" },
+      { "E": "x e^y = C" }
+    ]
+  },
+  {
+    "questionNumber": 207,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "y x y^{-1} dx + x y ln x dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "xy = C" },
+      { "B": "yx = C" },
+      { "C": "x ln y = C" },
+      { "D": "y ln x = C" },
+      { "E": "x e^y = C" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "y x ln y dx + x y x^{-1} dy = 0",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "yx = C" },
+      { "B": "xy = C" },
+      { "C": "y ln x = C" },
+      { "D": "x ln y = C" },
+      { "E": "y e^x = C" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(3x^2 + y) dx + (x + 4y^3) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^3 + xy + y^4 = C" },
+      { "B": "x^3 - xy + y^4 = C" },
+      { "C": "x^3 + xy - y^4 = C" },
+      { "D": "y^3 + xy + x^4 = C" },
+      { "E": "y^3 - xy + x^4 = C" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(y + 4x^3) dx + (x - 3y^2) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^4 + xy - y^3 = C" },
+      { "B": "y^3 - xy + x^4 = C" },
+      { "C": "y^3 + xy - x^4 = C" },
+      { "D": "x^3 + xy + y^4 = C" },
+      { "E": "x^3 - xy + y^4 = C" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 / 2" },
+      { "B": "x^2 / 2" },
+      { "C": "x^2 / 2" },
+      { "D": "y^2 / 2" },
+      { "E": "y^2 / 2" }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(x + y) dx + (x + 2y) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "xy + y^2 = C" },
+      { "B": "-xy + y^2 = C" },
+      { "C": "-xy - y^2 = C" },
+      { "D": "xy + x^2 = C" },
+      { "E": "-xy + x^2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(2x + y) dx + (x + y) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 + xy + y^2 / 2 = C" },
+      { "B": "x^2 - xy - y^2 / 2 = C" },
+      { "C": "x^2 + xy - y^2 / 2 = C" },
+      { "D": "y^2 + xy + x^2 / 2 = C" },
+      { "E": "y^2 - xy - x^2 / 2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(2x - y) dx + (3y^2 - x) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 – xy + y^3 = C" },
+      { "B": "x^2 + xy + y^3 = C" },
+      { "C": "x^2 – xy - y^3 = C" },
+      { "D": "x^3 – xy + y^2 = C" },
+      { "E": "x^2y + x^3 = C" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(2x - 3y) dx + (4y - 3x) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 – 3xy + 2y^2 = C" },
+      { "B": "x^2 + 3xy + 2y^2 = C" },
+      { "C": "x^2 – 3xy - 2y^2 = C" },
+      { "D": "y^2 – 3xy + 2x^2 = C" },
+      { "E": "y^2 + 3xy + 2x^2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(3x^2 – y^2) dx + (3y^2 - 2xy) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^3 – xy^2 + y^2 = C" },
+      { "B": "x^3 + xy^2 + y^2 = C" },
+      { "C": "x^3 – xy^2 - y^2 = C" },
+      { "D": "y^3 – x^2y + x^2 = C" },
+      { "E": "y^3 - x^2y - x^2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 217,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "cosx siny dx + sinx cosy dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sinx siny = C" },
+      { "B": "cosx siny = C" },
+      { "C": "sinx cosy = C" },
+      { "D": "cosx cosy = C" },
+      { "E": "sinx + cosy = C" }
+    ]
+  },
+  {
+    "questionNumber": 218,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(3x^2 – 2y) dx + 2(y - x) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^3 – 2xy + y^2 = C" },
+      { "B": "x^3 + 2xy + y^2 = C" },
+      { "C": "x^3 – 2xy - y^2 = C" },
+      { "D": "y^3 – 2xy + x^2 = C" },
+      { "E": "y^3 + 2xy + x^2 = C" }
+    ]
+  },
+  {
+    "questionNumber": 219,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(3x^2 – 2xy) dx + (3y^2 – x^2) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^3 – x^2y + y^3 = C" },
+      { "B": "x^3 + x^2y + y^3 = C" },
+      { "C": "x^3 – x^2y - y^3 = C" },
+      { "D": "x^3 – xy^2 + y^3 = C" },
+      { "E": "x^3 + xy^2 + y^3 = C" }
+    ]
+  },
+  {
+    "questionNumber": 220,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "y cos(x+y) dx + (sin(x+y) + y cos(x+y)) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y sin(x+y) = C" },
+      { "B": "y cos(x+y) = C" },
+      { "C": "x sin(x+y) = C" },
+      { "D": "x cos(x+y) = C" },
+      { "E": "sinx siny = C" }
+    ]
+  },
+  {
+    "questionNumber": 221,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(sin(x+y) + x cos(x+y)) dx + x cos(x+y) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x sin(x+y) = C" },
+      { "B": "x cos(x+y) = C" },
+      { "C": "y sin(x+y) = C" },
+      { "D": "y cos(x+y) = C" },
+      { "E": "cosx cosy = C" }
+    ]
+  },
+  {
+    "questionNumber": 222,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(4x^3 – 2xy) dx + (3y^2 – x^2) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^4 – x^2y + y^3 = C" },
+      { "B": "x^4 + x^2y + y^3 = C" },
+      { "C": "x^4 – x^2y - y^3 = C" },
+      { "D": "x^3 – xy^2 + y^4 = C" },
+      { "E": "x^3 - 2xy^2 + y^4 = C" }
+    ]
+  },
+  {
+    "questionNumber": 223,
+    "questionUp": "Solve the exact differential equation:",
+    "questionDown": "(3x^2 – y^2) dx + (4y^3 - 2xy) dy = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y^4 – xy^2 + x^3 = C" },
+      { "B": "y^4 + xy^2 + x^3 = C" },
+      { "C": "y^4 – xy^2 - x^3 = C" },
+      { "D": "x^4 – x^2y + y^3 = C" },
+      { "E": "x^4 + x^2y + y^3 = C" }
+    ]
+  },
+  {
+    "questionNumber": 224,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y = xy’ – 𝑦′2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx – C2" },
+      { "B": "y = x – C" },
+      { "C": "y = Cx2 – 1" },
+      { "D": "y = Cx + C2" },
+      { "E": "y = Cx" }
+    ]
+  },
+  {
+    "questionNumber": 225,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx - √(1+𝐶2)" },
+      { "B": "y = Cx + C2" },
+      { "C": "y = Cx – C2" },
+      { "D": "y = Cx + √(1+𝐶2)" },
+      { "E": "y = Cx2 – C2" }
+    ]
+  },
+  {
+    "questionNumber": 226,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y = xy’ – √(1+𝑦′2)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + C2" },
+      { "B": "y = Cx + C3" },
+      { "C": "y = Cx2 + √𝐶" },
+      { "D": "y = Cx – C2" },
+      { "E": "y = Cx" }
+    ]
+  },
+  {
+    "questionNumber": 227,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx – 3C3" },
+      { "B": "y = 3C3 – Cx" },
+      { "C": "y = Cx – 2C" },
+      { "D": "y = Cx + √(1+𝐶2)" },
+      { "E": "y = (x + C)2" }
+    ]
+  },
+  {
+    "questionNumber": 228,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + √(1+𝐶2)" },
+      { "B": "y = Cx + √𝐶" },
+      { "C": "y = Cx – √𝐶" },
+      { "D": "y = Cx - √(1+𝐶2)" },
+      { "E": "y = Cx2 – 1" }
+    ]
+  },
+  {
+    "questionNumber": 229,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y = xy’ + 1/𝑦′",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + 1/C" },
+      { "B": "y = Cx - 1/C" },
+      { "C": "y = Cx + √𝐶" },
+      { "D": "y = Cx – √𝐶" },
+      { "E": "y = Cx2 – 1" }
+    ]
+  },
+  {
+    "questionNumber": 230,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y = xy’ – ln(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx – lnC" },
+      { "B": "y = Cx + lnC" },
+      { "C": "y = Cx – C" },
+      { "D": "y = lnC – Cx" },
+      { "E": "y = Cx lnC" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y = xy’ + sin(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + sinC" },
+      { "B": "y = Cx - sinC" },
+      { "C": "y = Cx + cosC" },
+      { "D": "y = Cx – cosC" },
+      { "E": "y = Cx + tgC" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y = xy’ + cos(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + cosC" },
+      { "B": "y = Cx - sinC" },
+      { "C": "y = Cx + sinC" },
+      { "D": "y = Cx – cosC" },
+      { "E": "y = Cx cosC" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y cos(𝑦′) = x𝑦′cos(𝑦′) + sin(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + tgC" },
+      { "B": "y = Cx - tgC" },
+      { "C": "y = Cx" },
+      { "D": "y = ctgC" },
+      { "E": "y = Cx + ctgC" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y cos(𝑦′) = x𝑦′cos(𝑦′) - sin(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx - tgC" },
+      { "B": "y = tgCx" },
+      { "C": "y = Cx" },
+      { "D": "y = ctgC" },
+      { "E": "y = ctgCx" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y sin(𝑦′) = x𝑦′ sin(𝑦′) + cos(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + ctgC" },
+      { "B": "y = Cx - tgC" },
+      { "C": "y = Cx" },
+      { "D": "y = ctgC" },
+      { "E": "y = Cx + tgC" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y sin(𝑦′) = x𝑦′ sin(𝑦′) - cos(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx - ctgC" },
+      { "B": "y = Cx + ctgC" },
+      { "C": "y = Cx - tgC" },
+      { "D": "y = ctgC" },
+      { "E": "y = Cx + tgC" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y𝑦′ = x𝑦′2 + sin(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + sinC/C" },
+      { "B": "y = Cx + sinC" },
+      { "C": "y = Cx - sinC" },
+      { "D": "y = Cx + cosC" },
+      { "E": "y = Cx - cosC" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + ln(1+C)" },
+      { "B": "y = Cx – ln(1+C)" },
+      { "C": "y = Cx – lnC" },
+      { "D": "y = lnC + Cx" },
+      { "E": "y = Cx lnC" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "y = xy’ + ln(1+𝑦′),  y = xy’ + 𝑦′e^(𝑦′)",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + Ce^C" },
+      { "B": "y = Cx - Ce^C" },
+      { "C": "y = Cx - e^C" },
+      { "D": "y = Cx + e^C" },
+      { "E": "y = Ce^x" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx – arctgC" },
+      { "B": "y = Cx + arctgC" },
+      { "C": "y = Cx + arcctgC" },
+      { "D": "y = Cx – arcctgC" },
+      { "E": "y = C arctgx" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx – arcsinC" },
+      { "B": "y = Cx + arcsinC" },
+      { "C": "y = Cx + arccosC" },
+      { "D": "y = Cx – arccosC" },
+      { "E": "y = arcsinCx" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx + arcsinC" },
+      { "B": "y = Cx – arcsinC" },
+      { "C": "y = Cx + arccosC" },
+      { "D": "y = Cx – arccosC" },
+      { "E": "y = arcsinCx" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Solve the Clairaut’s equations:",
+    "questionDown": "",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = Cx – lnC" },
+      { "B": "y = Cx + lnC" },
+      { "C": "y = lnCx" },
+      { "D": "y = lnCx + C" },
+      { "E": "y = ClnCx" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 3y’ + 2y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1ex + C2e2x" },
+      { "B": "y = (C1 + C2x) ex" },
+      { "C": "y = (C1 + C2x) e2x" },
+      { "D": "y = C1e-x + C2e2x" },
+      { "E": "y = C1ex + C2e-2x" }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 4y’ + 3y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1ex + C2e3x" },
+      { "B": "y = (C1 + C2x) ex" },
+      { "C": "y = (C1 + C2x) e3x" },
+      { "D": "y = C1e-x + C2e3x" },
+      { "E": "y = C1ex + C2e-3x" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – y’ - 2y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-x + C2e2x" },
+      { "B": "y = (C1 + C2x) e-x" },
+      { "C": "y = (C1 + C2x) e2x" },
+      { "D": "y = C1e-x + C2e-2x" },
+      { "E": "y = C1e-x + C2e-2x" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 4y’ + 3y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-x + C2e-3x" },
+      { "B": "y = (C1 + C2x) e-x" },
+      { "C": "y = (C1 + C2x) e-3x" },
+      { "D": "y = C1ex + C2e-3x" },
+      { "E": "y = C1e-x + C2e3x" }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – y’ - 6y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-2x + C2e3x" },
+      { "B": "y = (C1 + C2x) e-2x" },
+      { "C": "y = (C1 + C2x) e3x" },
+      { "D": "y = C1e2x + C2e3x" },
+      { "E": "y = C1e-2x + C2e-3x" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 4y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-2x + C2e2x" },
+      { "B": "y = (C1 + C2x) e-2x" },
+      { "C": "y = (C1 + C2x) e2x" },
+      { "D": "y = C1e2x + C2ex" },
+      { "E": "y = C1e-2x + C2ex" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 9y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-3x + C2e3x" },
+      { "B": "y = (C1 + C2x) e-3x" },
+      { "C": "y = (C1 + C2x) e3x" },
+      { "D": "y = C1e-3x + C2ex" },
+      { "E": "y = C1e3x + C2ex" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – y’ - 20y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-4x + C2e5x" },
+      { "B": "y = (C1 + C2x) e-4x" },
+      { "C": "y = (C1 + C2x) e5x" },
+      { "D": "y = C1e4x + C2e5x" },
+      { "E": "y = C1e-4x + C2e-5x" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "2y’’ – 3y’ - 2y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-x/2 + C2e2x" },
+      { "B": "y = (C1 + C2x) e-x/2" },
+      { "C": "y = (C1 + C2x) e2x" },
+      { "D": "y = C1e-x + C2e2x" },
+      { "E": "y = C1ex + C2e2x" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "3y’’ – 2y’ - y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-x/3 + C2ex" },
+      { "B": "y = (C1 + C2x) e-x/2" },
+      { "C": "y = (C1 + C2x) ex" },
+      { "D": "y = C1e-x + C2ex" },
+      { "E": "y = C1ex + C2e2x" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 2y’ + y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (C1 + C2x) e-x" },
+      { "B": "y = (C1 + C2x) ex" },
+      { "C": "y = C1e-x + C2ex" },
+      { "D": "y = C1e-2x + C2ex" },
+      { "E": "y = C1ex + C2e-2x" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 4y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cos2x + C2sin2x" },
+      { "B": "y = C1cosx + C2sinx" },
+      { "C": "y = C1cos4x + C2sin4x" },
+      { "D": "y = (C1 + C2x) cos2x" },
+      { "E": "y = (C1 + C2x) sin2x" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cosx + C2sinx" },
+      { "B": "y = C1cos2x + C2sin2x" },
+      { "C": "y = C1cos3x + C2sin3x" },
+      { "D": "y = (C1 + C2x) cosx" },
+      { "E": "y = (C1 + C2x) sinx" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 9y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cos3x + C2sin3x" },
+      { "B": "y = C1cosx + C2sinx" },
+      { "C": "y = C1cos2x + C2sin2x" },
+      { "D": "y = (C1 + C2x) cos3x" },
+      { "E": "y = (C1 + C2x) sin3x" }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 16y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cos4x + C2sin4x" },
+      { "B": "y = C1cosx + C2sinx" },
+      { "C": "y = C1cos2x + C2sin2x" },
+      { "D": "y = (C1 + C2x) cos4x" },
+      { "E": "y = (C1 + C2x) sin4x" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ - 2y’ + y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (C1 + C2x) ex" },
+      { "B": "y = C1ex + C2e-2x" },
+      { "C": "y = C1e2x + C2e-2x" },
+      { "D": "y = (C1 + C2x) e-x" },
+      { "E": "y = (C1 + C2x) e2x" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 2y’ + 2y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e-x (C1cosx + C2sinx)" },
+      { "B": "y = e-2x (C1cosx + C2sinx)" },
+      { "C": "y = e-2x (C1cos2x + C2sin2x)" },
+      { "D": "y = (C1 + C2x) ex" },
+      { "E": "y = (C1 + C2x) e-x" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "3y’’ + y’ = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1 + C2e-x/3" },
+      { "B": "y = (C1 + C2x) e-x/3" },
+      { "C": "y = (C1 + C2x) e3x" },
+      { "D": "y = C1 + C2e3x" },
+      { "E": "y = C1 + C2e-3x" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "2y’’ – y’ = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1 + C2e x/2" },
+      { "B": "y = (C1 + C2x) e x/2" },
+      { "C": "y = (C1 + C2x) e2x" },
+      { "D": "y = C1 + C2e-x" },
+      { "E": "y = C1 + C2ex" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 16y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-4x + C2e4x" },
+      { "B": "y = (C1 + C2x) e-4x" },
+      { "C": "y = (C1 + C2x) e4x" },
+      { "D": "y = C1 + C2e4x" },
+      { "E": "y = C1 + C2e-4x" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ - 2y’ - 3y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e-x + C2e3x" },
+      { "B": "y = (C1 + C2x) e-x" },
+      { "C": "y = (C1 + C2x) e4x" },
+      { "D": "y = C1ex + C2e x4" },
+      { "E": "y = C1e-x + C2e-4x" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ - 3y’ = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1 + C2e3x" },
+      { "B": "y = (C1 + C2x) e3x" },
+      { "C": "y = (C1 + C2x) e-3x" },
+      { "D": "y = C1 + C2e-3x" },
+      { "E": "y = C1ex + C2e3x" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 2y’ + 2y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ex ( C1cosx + C2sinx)" },
+      { "B": "y = e-x ( C1sinx + C2cosx)" },
+      { "C": "y = (C1 + C2x) ex" },
+      { "D": "y = (C1 + C2x) e-x" },
+      { "E": "y = C1ex + C2e-x" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 2y’ + 2y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e-x ( C1cosx + C2sinx)" },
+      { "B": "y = ex ( C1sinx + C2cosx)" },
+      { "C": "y = (C1 + C2x) ex" },
+      { "D": "y = (C1 + C2x) e-x" },
+      { "E": "y = C1cosx + C2sinx" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 2y’ + 5y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ex ( C1cos2x + C2sin2x)" },
+      { "B": "y = e-x ( C1sin2x + C2cos2x)" },
+      { "C": "y = (C1 + C2x) ex" },
+      { "D": "y = (C1 + C2x) e-x" },
+      { "E": "y = C1cosx + C2sinx" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 4y’ + 5y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e2x ( C1cosx + C2sinx)" },
+      { "B": "y = ex ( C1sin2x + C2cos2x)" },
+      { "C": "y = C1 ex + C2 e2x" },
+      { "D": "y = C1 e-x + C2 e2x" },
+      { "E": "y = C1cosx + C2sinx" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 4y’ + 5y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e-2x ( C1cosx + C2sinx)" },
+      { "B": "y = e2x ( C1cosx + C2sinx)" },
+      { "C": "y = (C1 + C2x) e-2x" },
+      { "D": "y = C1 e-2x + C2 ex" },
+      { "E": "y = C1cos2x + C2sin2x" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 6y’ + 13y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e3x ( C1cos2x + C2sin2x)" },
+      { "B": "y = e-3x ( C1sin2x + C2cos2x)" },
+      { "C": "y = (C1 + C2x) e3x" },
+      { "D": "y = (C1 + C2x) e2x" },
+      { "E": "y = C1cosx + C2sinx" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ - 8y’ + 17y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e4x ( C1cosx + C2sinx)" },
+      { "B": "y = e-4x ( C1cosx + C2sinx)" },
+      { "C": "y = (C1 + C2x) e4x" },
+      { "D": "y = (C1 + C2x) e-4x" },
+      { "E": "y = C1cosx + C2sinx" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ - 2y’ + 17y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ex ( C1cos4x + C2sin4x)" },
+      { "B": "y = e4x ( C1cosx + C2sinx)" },
+      { "C": "y = (C1 + C2x) ex" },
+      { "D": "y = (C1 + C2x) e4x" },
+      { "E": "y = C1cos4x + C2sin4x" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 6y’ + 13y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e-3x ( C1cos2x + C2sin2x)" },
+      { "B": "y = e2x ( C1cos3x + C2sin3x)" },
+      { "C": "y = (C1 + C2x) e-3x" },
+      { "D": "y = (C1 + C2x) e2x" },
+      { "E": "y = C1cos2x + C2sin2x" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 4y’ + 13y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e-2x ( C1cos3x + C2sin3x)" },
+      { "B": "y = e3x ( C1cos2x + C2sin2x)" },
+      { "C": "y = (C1 + C2x) e-2x" },
+      { "D": "y = (C1 + C2x) e3x" },
+      { "E": "y = C1cos3x + C2sin3x" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 4y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cos2x + C2sin2x" },
+      { "B": "y = e2x ( C1cosx + C2sinx)" },
+      { "C": "y = (C1 + C2x) ex" },
+      { "D": "y = (C1 + C2x) e2x" },
+      { "E": "y = ex ( C1cos2x + C2sin2x)" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 9y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cos3x + C2sin3x" },
+      { "B": "y = e3x ( C1cosx + C2sinx)" },
+      { "C": "y = (C1 + C2x) ex" },
+      { "D": "y = (C1 + C2x) e3x" },
+      { "E": "y = ex ( C1cos2x + C2sin2x)" }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "4y’’ – 4y’ + 5y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e x/2 (C1cosx + C2sinx)" },
+      { "B": "y = ex ( C1cos x/2 + C2sin x/2 )" },
+      { "C": "y = C1cosx + C2sinx" },
+      { "D": "y = (C1 + C2x) e x/2" },
+      { "E": "y = (C1 + C2x) ex" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "4y’’ – 8y’ + 5y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = ex ( C1cos x/2 + C2sin x/2 )" },
+      { "B": "y = e x/2 (C1cosx + C2sinx)" },
+      { "C": "y = C1cosx + C2sinx" },
+      { "D": "y = (C1 + C2x) e x/2" },
+      { "E": "y = (C1 + C2x) ex" }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "9y’’ – 6y’ + 10y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e x/3 (C1cosx + C2sinx)" },
+      { "B": "y = ex ( C1cos x/3 + C2sin x/3 )" },
+      { "C": "y = C1cosx + C2sinx" },
+      { "D": "y = (C1 + C2x) e x/3" },
+      { "E": "y = (C1 + C2x) ex" }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "9y’’ + 6y’ + 10y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e- x/3 (C1cosx + C2sinx)" },
+      { "B": "y = ex ( C1cos x/3 + C2sin x/3 )" },
+      { "C": "y = C1cosx + C2sinx" },
+      { "D": "y = (C1 + C2x) e x/3" },
+      { "E": "y = (C1 + C2x) ex" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "4y’’ + y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cos x/2 + C2sin x/2" },
+      { "B": "y = e x/2 (C1cosx + C2sinx)" },
+      { "C": "y = ex ( C1cos x/2 + C2sin x/2 )" },
+      { "D": "y = (C1 + C2x) e x/2" },
+      { "E": "y = (C1 + C2x) ex" }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "25y’’ + y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cos x/5 + C2sin x/5" },
+      { "B": "y = ex (C1cos5x + C2sin5x)" },
+      { "C": "y = C1cos5x + C2sin5x" },
+      { "D": "y = (C1 + C2x) e5x" },
+      { "E": "y = C1ex + C2e5x" }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "9y’’ + 4y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1cos 2/3 x + C2sin 2/3 x" },
+      { "B": "y = e2x (C1cos3x + C2sin3x)" },
+      { "C": "y = (C1cos 2/3 x + C2sin 2/3 x) e2x" },
+      { "D": "y = (C1 + C2x) e3x" },
+      { "E": "y = C1ex + C2e2x" }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 2y’ + y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (C1 + C2x) ex" },
+      { "B": "y = e-x ( C1sinx + C2cosx)" },
+      { "C": "y = ex ( C1cosx + C2sinx)" },
+      { "D": "y = (C1 + C2x) e-x" },
+      { "E": "y = C1ex + C2e-x" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "4y’’ – 4y’+ y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (C1 + C2x) e x/2" },
+      { "B": "y = e2x (C1 + C2x)" },
+      { "C": "y = ex ( C1cos x/2 + C2sin x/2 )" },
+      { "D": "y = C1cos2x + C2sin2x" },
+      { "E": "y = C1e2x + C2e x/2" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "4y’’ + 4y’+ y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (C1 + C2x) e- x/2" },
+      { "B": "y = e2x (C1 + C2x)" },
+      { "C": "y = e2x ( C1cosx + C2sinx)" },
+      { "D": "y = C1cosx + C2sinx" },
+      { "E": "y = e-2x (C1 + C2x)" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "9y’’ - 6y’+ y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (C1 + C2x) e x/3" },
+      { "B": "y = e3x (C1 + C2x)" },
+      { "C": "y = (C1 + C2x) e- x/3" },
+      { "D": "y = C1cos3x + C2sin3x" },
+      { "E": "y = e-3x (C1 + C2x)" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "9y’’ + 6y’+ y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (C1 + C2x) e- x/3" },
+      { "B": "y = e3x (C1 + C2x)" },
+      { "C": "y = (C1 + C2x) e x/3" },
+      { "D": "y = C1cos3x + C2sin3x" },
+      { "E": "y = e-3x (C1 + C2x)" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "4y’’ – 12y’+ 9y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (C1 + C2x) e 3x/2" },
+      { "B": "y = e3x (C1 + C2x)" },
+      { "C": "y = C1cos 3x/2 + C2sin 3x/2" },
+      { "D": "y = (C1 + C2x) e 2x/3" },
+      { "E": "y = (C1 + C2x) e- 3x/2" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ + 3y’ = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1 + C2e-3x" },
+      { "B": "y = C1sin3x + C2cos3x" },
+      { "C": "y = C1 + C2e3x" },
+      { "D": "y = (C1 + C2x) e-3x" },
+      { "E": "y = C1ex + C2e3x" }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ - y’ = 0, y(0) = 1, y’(0) = 3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 3e^x – 2" },
+      { "B": "y = 2e^x – e^-x" },
+      { "C": "y = e^x" },
+      { "D": "y = e^-x" },
+      { "E": "y = 2e^-x – e^x" }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + y’ = 0, y(0) = 2, y’(0) = 1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^x + 1" },
+      { "B": "y = e^-x + 1" },
+      { "C": "y = 3e^x - 1" },
+      { "D": "y = 2e^x" },
+      { "E": "y = 2e^-x – x" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ - 3y’ + 2 = 0, y(0) = 3, y’(0) = 4",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2e^x + e^2x" },
+      { "B": "y = e^x + 2e^2x" },
+      { "C": "y = 2e^-x + e^2x" },
+      { "D": "y = 2e^x + e^-2x" },
+      { "E": "y = e^x + 2" }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ - y’ - 2 = 0, y(0) = 4, y’(0) = -1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 3e^-x + e^2x" },
+      { "B": "y = 3e^-x + 2e^-2x" },
+      { "C": "y = e^x + 3e^2x" },
+      { "D": "y = e^2x + 3" },
+      { "E": "y = e^-2x + 3" }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + y = 0, y(0) = 2, y’(0) = -1",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2cosx – sinx" },
+      { "B": "y = 2cosx + sinx" },
+      { "C": "y = 3cosx – sinx – 1" },
+      { "D": "y = (2 + x)e^x" },
+      { "E": "y = (2 - x)e^x" }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + 4y = 0, y(0) = 1, y’(0) = -2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = cos2x – sin2x" },
+      { "B": "y = cos2x + 2sinx" },
+      { "C": "y = 2cos2x – 1" },
+      { "D": "y = (1 + x)e^2x" },
+      { "E": "y = (1 - x)e^2x" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ - 4y’ + 4y = 0, y(0) = 2, y’(0) = 5",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (2 + x)e^2x" },
+      { "B": "y = 2e^2x" },
+      { "C": "y = (2 + x)e^-2x" },
+      { "D": "y = (2 + x)e^-2x" },
+      { "E": "y = (2 - x)e^-2x" }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + y = 0, y(0) = 2, y’(0) = 3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2cosx + 3sinx" },
+      { "B": "y = 2cosx – 3sinx" },
+      { "C": "y = 2cosx + sinx" },
+      { "D": "y = (2 + x)e^2x" },
+      { "E": "y = (2 - x)e^x" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ - 2y’ = 0, y(0) = 1, y’(0) = -2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 2 – e^2x" },
+      { "B": "y = cosx + sinx" },
+      { "C": "y = e^2x - x" },
+      { "D": "y = e^2x + x" },
+      { "E": "y = 2e^x – 1" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + 2y’ = 0, y(0) = 2, y’(0) = 2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 3 – e^-2x" },
+      { "B": "y = 2 – x e^x" },
+      { "C": "y = 2 + x e^x" },
+      { "D": "y = e^-2x + 1" },
+      { "E": "y = 2e^-x" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + 2y’ = 0, y(0) = 1, y’(0) = 4",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = 3 – 2e^-2x" },
+      { "B": "y = 3 – 2e^x" },
+      { "C": "y = 2 – e^-2x" },
+      { "D": "y = x e^x + 1" },
+      { "E": "y = e^x" }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + y’ – 2y = 0, y(0) = 0, y’(0) = -3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^-2x - e^x" },
+      { "B": "y = e^x - e^-2x" },
+      { "C": "y = e^-2x - 1" },
+      { "D": "y = e^x - 1" },
+      { "E": "y = x e^x" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ – 4y = 0, y(0) = 0, y’(0) = 4",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^2x – e^-2x" },
+      { "B": "y = e^-2x - e^2x" },
+      { "C": "y = x e^x" },
+      { "D": "y = e^x - 1" },
+      { "E": "y = 1 - e^x" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ - 6y’ + 9 = 0, y(0) = 1, y’(0) = 4",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = (1 + x)e^3x" },
+      { "B": "y = e^3x" },
+      { "C": "y = e^x - x" },
+      { "D": "y = e^x + x" },
+      { "E": "y = (1 - x)e^3x" }
+    ]
+  },
+  {
+    "questionNumber": 306,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + 4y = 0, y(0) = 1, y’(0) = -2",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = cos2x – sin2x" },
+      { "B": "y = cos2x + sin2x" },
+      { "C": "y = cosx – sinx" },
+      { "D": "y = cosx + sinx" },
+      { "E": "y = cos2x + sinx" }
+    ]
+  },
+  {
+    "questionNumber": 307,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ + 9y = 0, y(0) = 1, y’(0) = 3",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = cos3x + sin3x" },
+      { "B": "y = cos3x – sin3x" },
+      { "C": "y = cosx – 2sinx" },
+      { "D": "y = cos3x – 2sin3x" },
+      { "E": "y = cosx + 2sinx" }
+    ]
+  },
+  {
+    "questionNumber": 308,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 7y’ + 10y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e^2x + C2e^5x" },
+      { "B": "y = (C1 + C2x)e^-x" },
+      { "C": "y = (C1 + C2x)e^5x" },
+      { "D": "y = C1e^4x + C2e^5x" },
+      { "E": "y = C1e^-2x + C2e^-5x" }
+    ]
+  },
+  {
+    "questionNumber": 309,
+    "questionUp": "Find the solution to the initial-values problem:",
+    "questionDown": "y’’ – 7y’ + 10y = 0, y(0) = 2, y’(0) = 7",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = e^2x + e^5x" },
+      { "B": "y = (3 + x)e^-x" },
+      { "C": "y = (1 + x)e^5x" },
+      { "D": "y = e^4x - 2e^5x" },
+      { "E": "y = 2e^-2x + e^-5x" }
+    ]
+  },
+  {
+    "questionNumber": 310,
+    "questionUp": "Find general solution of equation:",
+    "questionDown": "y’’ – 2y’ - 3y = 0",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "y = C1e^3x + C2e^-x" },
+      { "B": "y = (C1 + C2x)e^-x" },
+      { "C": "y = (C1 + C2x)e^3x" },
+      { "D": "y = C1e^-3x + C2e^x" },
+      { "E": "y = C1e^-3x + C2e^-x" }
+    ]
+  },
+  {
     "questionNumber": 353,
     "questionUp": "Tənliyi həll edin:  y^, – tg x = 0",
     "questionDown": "",
