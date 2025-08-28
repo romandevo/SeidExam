@@ -1,3 +1,11 @@
+#modal-body {
+  height: 100%;
+  margin: 0;
+  background: #f1f4f9;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial;
+}
+
 .paper {
   display: flex;
   flex-direction: column;
@@ -44,6 +52,14 @@ hr.delicate {
   font-size: 1.15rem;
   font-weight: 600;
   color: #0b1220;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+.question-text-down {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #374151;
   margin-bottom: 1rem;
   text-align: left;
 }
@@ -86,10 +102,81 @@ hr.delicate {
 }
 
 @media print {
+  body {
+    background: white;
+  }
   .paper {
     box-shadow: none;
     border: none;
     padding: 1.5rem;
     max-width: 100%;
+  }
+}
+
+/* Extra Small Devices (like iPhone SE, Galaxy S8+) */
+@media (max-width: 375px) {
+  .header .title {
+    font-size: 1.2rem;
+  }
+  .header .subtitle {
+    font-size: 0.9rem;
+  }
+  .question-text {
+    font-size: 1rem;
+  }
+  .option-text {
+    font-size: 0.9rem;
+  }
+}
+
+/* Small-Medium Devices (like iPhone XR, iPhone 12 Pro, Pixel 7, Galaxy A51/71) */
+@media (min-width: 376px) and (max-width: 768px) {
+  .header .title {
+    font-size: 1.5rem;
+  }
+  .question-text {
+    font-size: 1.1rem;
+  }
+  .option-text {
+    font-size: 1rem;
+  }
+}
+
+/* Large Phones / Small Tablets (like iPhone 14 Pro Max, Galaxy S20 Ultra, Surface Duo, Z Fold) */
+@media (min-width: 769px) and (max-width: 991px) {
+  .header .title {
+    font-size: 1.8rem;
+  }
+  .question-text {
+    font-size: 1.2rem;
+  }
+  .option-text {
+    font-size: 1.05rem;
+  }
+}
+
+/* Tablets (iPad Mini, iPad Air, Nest Hub) */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .header .title {
+    font-size: 2rem;
+  }
+  .question-text {
+    font-size: 1.3rem;
+  }
+  .option-text {
+    font-size: 1.1rem;
+  }
+}
+
+/* Large Tablets / Small Laptops (iPad Pro, Surface Pro 7, Nest Hub Max, Zenbook Fold) */
+@media (min-width: 1200px) {
+  .header .title {
+    font-size: 2.2rem;
+  }
+  .question-text {
+    font-size: 1.4rem;
+  }
+  .option-text {
+    font-size: 1.2rem;
   }
 }
