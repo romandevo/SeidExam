@@ -1,0 +1,86 @@
+.pdf-sheet {
+  position: fixed;
+  bottom: -100%;
+  left: 0;
+  right: 0;
+  height: 80vh; /* use viewport height for consistency */
+  background: #fff;
+  color: #000;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+  transition: height 0.2s ease, bottom 0.35s ease;
+  will-change: height; /* hint for smoother drag */
+  display: flex;
+  flex-direction: column;
+  z-index: 1050;
+}
+
+.pdf-sheet.show {
+  bottom: 0;
+}
+
+.pdf-sheet.fullscreen {
+  height: 100dvh; /* dynamic VH for mobile address bar */
+  border-radius: 0;
+}
+
+.pdf-sheet-header button {
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+#pdfFullscreenBtn {
+  background: #fff;
+  color: #000;
+  border: none;
+}
+
+#pdfFullscreenBtn:hover {
+  background: #f0f0f0;
+}
+
+.pdf-sheet-body {
+  flex: 1;
+  overflow: hidden;
+}
+
+.pdf-sheet-body iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.pdf-sheet-header {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px 14px;
+  border-bottom: 1px solid #ddd;
+  background: #f8f9fa;
+  user-select: none; /* no text selection while dragging */
+}
+
+.drag-area {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 140px; /* large clickable width */
+  height: 32px; /* large clickable height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: ns-resize;
+  touch-action: none;
+}
+
+.drag-handle {
+  width: 56px; /* visible bar */
+  height: 6px;
+  background: #bbb;
+  border-radius: 999px;
+}
