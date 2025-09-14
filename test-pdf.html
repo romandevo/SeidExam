@@ -87,5 +87,111 @@
         </div>
       </section>
     </div>
+
+    <!-- Second Window with PDF section (No questions, just paper + PDF viewer) -->
+    <div class="pdf-window">
+      <div class="paper">
+        <header>
+          <div class="title-main">Original Pdf(s)</div>
+          <div class="subtitle-right">
+            &lt;&lt;&lt; Seid's Pdf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          </div>
+        </header>
+        <section class="question-block">
+          <div class="question-text">
+            1. What is the main function of a processor in a computer system?
+          </div>
+          <div class="question-text-down">
+            Think about the role of the CPU compared to other components.
+          </div>
+          <div class="options">
+            <div class="option-card">
+              <div class="option-bullet">A</div>
+              <div class="option-text">To process and execute instructions</div>
+            </div>
+            <div class="option-card">
+              <div class="option-bullet">B</div>
+              <div class="option-text">To provide power to the system</div>
+            </div>
+            <div class="option-card">
+              <div class="option-bullet">C</div>
+              <div class="option-text">To handle input and output</div>
+            </div>
+            <div class="option-card">
+              <div class="option-bullet">D</div>
+              <div class="option-text">To manage memory</div>
+            </div>
+            <div class="option-card">
+              <div class="option-bullet">E</div>
+              <div class="option-text">To store data</div>
+            </div>
+          </div>
+        </section>
+
+        <section class="question-block">
+          <div class="question-text">
+            2. Which component is responsible for storing data long-term?
+          </div>
+          <div class="question-text-down">
+            Focus on which part keeps your files even when the computer is off.
+          </div>
+          <div class="options">
+            <div class="option-card">
+              <div class="option-bullet">A</div>
+              <div class="option-text">Processor (CPU)</div>
+            </div>
+            <div class="option-card">
+              <div class="option-bullet">B</div>
+              <div class="option-text">Memory (RAM)</div>
+            </div>
+            <div class="option-card">
+              <div class="option-bullet">C</div>
+              <div class="option-text">Storage devices (HDD/SSD)</div>
+            </div>
+            <div class="option-card">
+              <div class="option-bullet">D</div>
+              <div class="option-text">Power supply unit</div>
+            </div>
+            <div class="option-card">
+              <div class="option-bullet">E</div>
+              <div class="option-text">Graphics card</div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <script>
+      // Scroll to the second window when the subtitle is clicked
+      const pdfSheetBody = document.querySelector('.pdf-sheet-body');
+      const pdfWindow = document.querySelector('.pdf-window');
+      document
+        .querySelector('.subtitle')
+        .addEventListener('click', function () {
+          if (pdfSheetBody) {
+            pdfSheetBody.style.transform = 'translateX(-100vw)';
+          }
+          if (pdfWindow) {
+            pdfWindow.style.transform = 'translateX(0)';
+            pdfWindow.style.display = 'block';
+            setTimeout(function () {
+              pdfWindow.style.width = '100%';
+            }, 1000);
+          }
+        });
+      document
+        .querySelector('.subtitle-right')
+        .addEventListener('click', function () {
+          if (pdfSheetBody) {
+            pdfSheetBody.style.transform = '';
+          }
+          if (pdfWindow) {
+            pdfWindow.style.width = '100vw';
+            setTimeout(function () {
+              pdfWindow.style.display = 'none';
+            }, 1000);
+          }
+        });
+    </script>
   </body>
 </html>
