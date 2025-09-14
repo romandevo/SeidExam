@@ -1,11 +1,3 @@
-.pdf-sheet-body {
-  height: 100%;
-  margin: 0;
-  background: #f1f4f9;
-  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto,
-    'Helvetica Neue', Arial;
-}
-
 .paper {
   display: flex;
   flex-direction: column;
@@ -30,6 +22,11 @@ header {
 }
 
 .subtitle {
+  font-size: 1rem;
+  color: #6b7280;
+  margin-top: 0.3rem;
+}
+.subtitle-right {
   font-size: 1rem;
   color: #6b7280;
   margin-top: 0.3rem;
@@ -121,6 +118,9 @@ hr.delicate {
   .header .subtitle {
     font-size: 0.675rem;
   }
+  .header .subtitle-right {
+    font-size: 0.675rem;
+  }
   .question-text {
     font-size: 0.75rem;
   }
@@ -195,4 +195,37 @@ hr.delicate {
   .option-text {
     font-size: 1.2rem;
   }
+}
+
+/* Adding scroll and hiding overflow */
+.pdf-sheet-body {
+  height: 100%;
+  margin: 0;
+  background: #f1f4f9;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial;
+  overflow-x: hidden; /* Hide overflow initially */
+  transition: transform 1s ease-in-out; /* Smooth scrolling */
+  touch-action: pan-y;
+}
+
+/* Adding full-width horizontal scroll on larger screens */
+@media (min-width: 768px) {
+  .pdf-sheet-body {
+    width: 100vw;
+  }
+}
+
+.pdf-window {
+  display: none;
+  background: #f9f9f9;
+  width: 100vw;
+  height: 100%;
+  overflow-x: hidden; /* Hide overflow initially */
+  overflow-y: auto;
+  position: absolute;
+  top: 0;
+  left: 100vw; /* Initially off-screen to the right */
+  transition: transform 1s ease-in-out;
+  touch-action: pan-y;
 }
