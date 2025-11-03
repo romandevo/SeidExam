@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Basit WebRTC Sesli Görüşme (P2P)</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        max-width: 600px;
+        margin: 40px auto;
+      }
+      textarea {
+        width: 100%;
+        height: 120px;
+      }
+      button {
+        margin: 10px 0;
+        padding: 10px 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>🎙️ Basit WebRTC Sesli Görüşme</h2>
+    <p>1. Bir cihaz “A” (Caller) olsun, diğeri “B” (Callee).</p>
+    <p>2. A “Teklif oluştur”a basar, çıkan metni kopyalayıp B’ye yollar.</p>
+    <p>
+      3. B “Teklifi yapıştır”a basar, “Yanıt oluştur” der, çıkan yanıtı A’ya
+      yollar.
+    </p>
+    <p>4. A “Yanıtı yapıştır”a basar — bağlantı kurulur!</p>
+
+    <h3>Adım 1: Teklif / Yanıt</h3>
+    <textarea id="offer"></textarea><br />
+    <button id="makeOffer">Teklif oluştur</button>
+    <button id="setOffer">Teklifi yapıştır</button><br />
+
+    <textarea id="answer"></textarea><br />
+    <button id="makeAnswer">Yanıt oluştur</button>
+    <button id="setAnswer">Yanıtı yapıştır</button>
+
+    <h3>Log:</h3>
+    <pre id="log"></pre>
+
+    <script>
+      const pc = new RTCPeerConnection();
+      const log = msg =>
+        (document.getElementById('log').textContent += msg + '\n');
+
+      navigator.mediaDevices
+        .getUserMedia({ audio: true })
+        .then(stream => {
+          pc.addStream(stream);
+          const audio = document.createElement('audio');
+          audio.autoplay = true;
+          pc.onaddstream = e => (audio.srcObject = e.stream);
+        })
+        .catch(err => log('Mikrofon erişimi reddedildi: ' + err));
+
+      document.getElementById('makeOffer').onclick = async () => {
+        const offer = await pc.createOffer();
+        await pc.setLocalDescription(offer);
+        document.getElementById('offer').value = JSON.stringify(offer);
+        log('Teklif oluşturuldu, kopyala ve karşı tarafa gönder.');
+      };
+
+      document.getElementById('setOffer').onclick = async () => {
+        const offer = JSON.parse(document.getElementById('offer').value);
+        await pc.setRemoteDescription(offer);
+        log('Teklif alındı, şimdi yanıt oluşturabilirsin.');
+      };
+
+      document.getElementById('makeAnswer').onclick = async () => {
+        const answer = await pc.createAnswer();
+        await pc.setLocalDescription(answer);
+        document.getElementById('answer').value = JSON.stringify(answer);
+        log('Yanıt oluşturuldu, kopyala ve karşı tarafa gönder.');
+      };
+
+      document.getElementById('setAnswer').onclick = async () => {
+        const answer = JSON.parse(document.getElementById('answer').value);
+        await pc.setRemoteDescription(answer);
+        log('Yanıt alındı, bağlantı kuruluyor...');
+      };
+
+      pc.onicecandidate = e => {
+        if (e.candidate) return; // Tüm adaylar toplanınca
+        if (pc.localDescription.type === 'offer')
+          document.getElementById('offer').value = JSON.stringify(
+            pc.localDescription
+          );
+        else
+          document.getElementById('answer').value = JSON.stringify(
+            pc.localDescription
+          );
+      };
+    </script>
+  </body>
+</html>
