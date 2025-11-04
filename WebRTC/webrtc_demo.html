@@ -54,7 +54,11 @@
           audio.autoplay = true;
           pc.onaddstream = e => (audio.srcObject = e.stream);
         })
-        .catch(err => log('Mikrofon erişimi reddedildi: ' + err));
+        .catch(err => {
+          log(
+            '⚠️ Mikrofon erişimi yok, sadece veri aktarımı denenecek: ' + err
+          );
+        });
 
       document.getElementById('makeOffer').onclick = async () => {
         const offer = await pc.createOffer();
