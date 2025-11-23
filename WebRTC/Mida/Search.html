@@ -1,6 +1,6 @@
 <html
   class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"
-  style=""
+  style="--side-filter-h: 834px"
 >
   <head>
     <script src="chrome-extension://lgblnfidahcdcjddiepkckcfdhpknnjh/content/popups-script.js"></script>
@@ -14817,11 +14817,11 @@
     <link rel="icon" href="" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seçimlər - MİDA Qeydiyyat</title>
+    <title>Parametrlər - MİDA Qeydiyyat</title>
     <link href="MidaCss/all.css" rel="stylesheet" />
 
     <link
-      href="MidaCss/ynG4lRWYh06JpNsSKKGYM2ntu02vvdxX-sYqBu6MjY81.css"
+      href="MidaCss/ynG4lRWYh06JpNsSKKGYM2ntu02vvdxX-sYqBu6MjY81"
       rel="stylesheet"
     />
 
@@ -14835,7 +14835,7 @@
       crossorigin="anonymous"
       integrity="sha384-Ft89l3aihBBhSrkZ/Syx/7cCCaryQcJICINmdoWVHhaQefSnqabq/akNl06biiHi"
     ></script>
-    <script src="MidaJs/wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1.js"></script>
+    <script src="MidaJs/wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
 
     <style>
       .loading-big {
@@ -15071,10 +15071,10 @@
           id="header-user-part"
         >
           <img
-            src="https://i.etsystatic.com/21977652/r/il/cd41d7/7121982002/il_340x270.7121982002_dz0f.jpg"
+            src="https://app.mida.gov.az/media/c210360e240749f795c0a717bfa607c7.jpg"
             class="person-photo"
           />
-          <span>SOYADLI AD ATA OĞLU</span>
+          <span>SÜLEYMANLI ZAUR FAİZ OĞLU</span>
 
           <a href="democabinet.html" class="d-flex gap-2 fs-6">
             <p>Çıxış et</p>
@@ -15182,8 +15182,28 @@
             display: flex !important;
           }
 
-          .col-md-2 > label {
+          .left-most {
             margin-left: 40px;
+          }
+
+          .min-floor {
+            margin-left: 20%;
+            width: 37%;
+            display: inline-block;
+          }
+
+          .min-floor.empty,
+          .max-floor.empty {
+            border: 1px solid red;
+          }
+
+          .max-floor {
+            width: 37%;
+            display: inline-block;
+          }
+
+          #next {
+            margin-left: 20px;
           }
 
           hr {
@@ -15191,41 +15211,105 @@
             margin-right: 45px;
           }
 
-          .choice {
-            border: 1px solid lightgray;
-            border-right: none;
-            padding: 10px;
+          .list-group {
+            display: flex;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-direction: row;
+            flex-wrap: wrap;
+          }
+
+          .list-group.empty .list-group-item {
+            border-color: red;
+          }
+
+          .list-group-item {
+            cursor: pointer;
+            font-size: 0.875rem;
+            font-weight: 500;
+            flex-grow: 1 !important;
+            text-align: center;
+            border-radius: 0.625rem !important;
+            border: 0.125rem solid transparent;
+            box-sizing: border-box;
+            transition: background 0.3s ease;
+          }
+
+          .list-group-item:hover.success {
+            background: rgba(25, 152, 98, 0.1) !important;
+          }
+
+          .list-group-item.active.success {
+            background: #19986233 !important;
+            color: var(--black);
+            border: 0.125rem solid #dee2e666 !important;
+          }
+
+          .list-group-item:hover.waiting {
+            background: rgba(110, 114, 240, 0.1) !important;
+          }
+
+          .list-group-item.active.waiting {
+            background: #6e72f033 !important;
+            color: var(--black);
+            border: 0.125rem solid #6e72f066 !important;
+          }
+
+          .list-group-item:not(.active) {
+            background: #dee2e633;
+            border: 0.125rem solid #dee2e666;
+          }
+
+          .mg-glass-cont.waiting path.mg-glass {
+            fill: var(--waiting) !important;
+          }
+
+          .mg-glass-cont.waiting path.mg-glass-glare {
+            fill: #a8ebcb !important;
+          }
+
+          .mg-glass-cont.success path.mg-glass {
+            fill: var(--success) !important;
+          }
+
+          .mg-glass-cont.success path.mg-glass-glare {
+            fill: #95fcce !important;
+          }
+
+          #search tr:nth-child(even) {
+            background-color: #f0f0f0;
+          }
+
+          #search tr:nth-child(odd) {
+            background-color: #dfdfdf;
+          }
+
+          #search tr:hover {
+            background-color: #267292;
+
+            color: white;
             cursor: pointer;
           }
 
-          .choice:first-child {
-            border-bottom-left-radius: 5px;
-            border-top-left-radius: 5px;
-          }
-
-          .choice:last-child {
-            border-bottom-right-radius: 5px;
-            border-top-right-radius: 5px;
-            border-right: 1px solid lightgray;
-          }
-
-          .choice-selected {
-            border-color: #3394bc;
-            background-color: #3394bc;
+          #search thead > tr,
+          #search thead > tr:hover {
+            background-color: #b2b2b2 !important;
             color: white;
-          }
-          .choice-disabled {
-            opacity: 0.4;
-            cursor: default !important;
-            border-right: 1px solid gray;
+            cursor: default;
           }
 
-          #prev {
-            margin-left: 40px;
-          }
-
-          #next {
-            margin-left: 20px;
+          #search table .header-fixed {
+            position: fixed;
+            top: 40px;
+            z-index: 1020; /* 10 less than .navbar-fixed to prevent any overlap */
+            border-bottom: 1px solid #d5d5d5;
+            -webkit-border-radius: 0;
+            -moz-border-radius: 0;
+            border-radius: 0;
+            -webkit-box-shadow: inset 0 1px 0 #fff, 0 1px 5px rgba(0, 0, 0, 0.1);
+            -moz-box-shadow: inset 0 1px 0 #fff, 0 1px 5px rgba(0, 0, 0, 0.1);
+            box-shadow: inset 0 1px 0 #fff, 0 1px 5px rgba(0, 0, 0, 0.1);
+            filter: progid:DXImageTransform.Microsoft.gradient(enabled=false); /* IE6-9 */
           }
 
           .keyboard {
@@ -15239,13 +15323,14 @@
           }
 
           .number_input {
+            border: 1px solid #3394bc8f;
             height: 30px;
             width: 30px;
             margin: 5px;
             display: flex;
             align-items: center;
             justify-content: center;
-            transition: all 0.1s ease-in-out;
+            transition: all 0.3s ease-in-out;
             -webkit-touch-callout: none; /* iOS Safari */
             -webkit-user-select: none; /* Safari */
             -khtml-user-select: none; /* Konqueror HTML */
@@ -15253,19 +15338,25 @@
             -ms-user-select: none; /* Internet Explorer/Edge */
             user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
           }
-          .number_input.border {
-            border: 1px solid #3394bc;
+
+          .dateRow {
+            margin: 5px 0;
+          }
+
+          .dateRow:hover .number_input {
+            border: 1.5px solid #3394bc;
+          }
+          .selectedDate .number_input {
+            border: 2px solid #3394bc !important;
           }
 
           .number_input.small {
-            height: 20px;
-            width: 20px;
-            margin: 2px;
+            height: 15px;
+            width: 15px;
+            margin: 1px;
           }
-          .number_input.selected {
-            /*            cursor: pointer;*/
-            background-color: #3394bc;
-            color: white;
+          .number_input.small.empty {
+            border: 1px solid red;
           }
 
           .divider {
@@ -15275,7 +15366,7 @@
           .numbers_part {
             display: flex;
             justify-content: center;
-            position: relative;
+            align-items: center;
           }
 
           .part_description {
@@ -15283,20 +15374,15 @@
             bottom: 100%;
           }
 
-          .empty {
-            border: 1px solid red !important;
-          }
-
-          .keyboard_row .number_input:hover {
+          .number_input:not(.small):hover {
             cursor: pointer;
             background-color: #3394bc;
             color: white;
           }
 
-          .keyboard_row .number_input:active {
-            background: none;
-            color: black;
-            transition: all 0;
+          .number_input:active {
+            background-color: transparent !important;
+            color: black !important;
           }
 
           .captchaImg {
@@ -15308,19 +15394,31 @@
           .security {
             border: 1px solid black;
             margin-left: 40px;
+            margin-top: 20px;
             margin-bottom: 20px;
             padding: 20px;
           }
 
-          .keyboard
-            .keyboard_row:last-child
-            .number_input.colorize:first-child {
+          .security img {
+            width: 100%;
+            margin-bottom: 20px;
+          }
+
+          .securitySelect {
+            width: calc(94% / 6);
+            display: inline-block;
+            padding-left: 1px;
+          }
+
+          .securitySelect.empty {
+            border: 1px solid red;
+          }
+
+          .keyboard .keyboard_row:last-child .number_input:first-child {
             background: red;
           }
 
-          .keyboard
-            .keyboard_row:last-child
-            .number_input.colorize:first-child:active {
+          .keyboard .keyboard_row:last-child .number_input:first-child:active {
             background: none;
           }
 
@@ -15328,66 +15426,64 @@
             height: 70%;
           }
 
-          .keyboard .keyboard_row:last-child .number_input.colorize:last-child {
+          .keyboard .keyboard_row:last-child .number_input:last-child {
             background: #ffc107;
           }
 
-          .keyboard
-            .keyboard_row:last-child
-            .number_input.colorize:last-child:active {
+          .keyboard .keyboard_row:last-child .number_input:last-child:active {
             background: none;
           }
 
           .keyboard .keyboard_row:last-child .number_input:last-child svg {
             height: 60%;
           }
-          .creditInfo {
+
+          form {
+            padding: 0 !important;
+          }
+
+          .apartment-row {
+            border: 0.08rem solid #eaeef1;
+            border-radius: 0.125rem;
+            padding: 0.625rem 0;
+            color: #6c757d;
+            margin: 0.25rem 0;
             cursor: pointer;
+            transition: all 0.3s ease;
           }
 
-          .creditInfo .creditInfoBodyInner {
-            display: none;
+          .apartment-row:hover.success {
+            background-color: #d1eae0;
           }
 
-          .creditInfo:hover .creditInfoBodyInner {
-            display: block;
+          .apartment-row:hover.waiting {
+            background-color: #d6d8f7;
           }
 
-          .creditInfoBodyInner:hover {
-            display: block;
+          .apartment-status {
+            padding: 0.25rem !important;
+            border: 0.1rem solid var(--success);
+            border-radius: 0.5rem;
           }
 
-          #options .form-group {
+          .apartment-row-item {
             display: flex;
             align-items: center;
-            margin: 10px 0px !important;
-            height: 40px;
+            justify-content: center;
           }
 
-          #options .form-group > div {
-            display: flex;
-            align-items: center;
-          }
-
-          .my-1 {
-            margin-left: 40px;
-            margin-right: 20px;
-          }
-
-          option:disabled {
-            background-color: #f2f2f2;
-            color: #828282;
-          }
-          option:not(:disabled) {
-            font-weight: 600;
+          .dashed-border {
+            border: 0.1rem dashed #6c757d;
+            border-radius: 0.125rem;
+            padding: 2.5rem;
           }
 
           .not-selected {
-            border: 0.125rem solid var(--danger);
+            border: 0.125rem solid var(--danger) !important;
           }
         </style>
 
-        <div id="options" class="w-100">
+        <div id="search" class="w-100">
           <div
             id="page-loading-spinner"
             class="overflow-hidden d-flex justify-content-center align-items-center loader-container"
@@ -15397,16 +15493,16 @@
           </div>
           <div class="editor-content">
             <div class="breadcrumb mt-4 mb-5 px-3">
-              <div class="bc-item success pending">
+              <div class="bc-item success checked">
                 <div class="d-flex w-100 align-items-center test">
                   <div class="bc-circle">
-                    <span>1</span>
+                    <i class="bi bi-check2 text-white fs-6"></i>
                     <small class="mt-2 breadcrumb-title">Seçimlər</small>
                   </div>
                   <div class="bc-line2 w-100"></div>
                 </div>
               </div>
-              <div class="bc-item success" style="">
+              <div class="bc-item success pending">
                 <div class="d-flex w-100 align-items-center test">
                   <div class="bc-circle">
                     <span>2</span>
@@ -15436,327 +15532,233 @@
                 </div>
               </div>
             </div>
-            <form
-              action="Options.html"
-              id="options"
-              method="post"
-              class="w-100"
-              style="margin-top: 4.5rem"
-            >
-              <input
-                name="__RequestVerificationToken"
-                type="hidden"
-                value="ulwAImeiZhBATAe-73DsaMP0JFmqpSgQcSsLpfX0S1cMMN23b6d1XorGeEJkVCjUG7bIYAcnJ5itZrn5aTKzQpLCmRnNbKEZFUjPSARcyZA1"
-              />
-              <div class="card mt-5 w-100 position-relative">
-                <div class="card-tab-title card-tab-title text-secondary">
-                  <span>Mənzil sifarişi</span>
-                </div>
-                <div class="card-heading">
-                  <h3 class="card-title pb-4 border-b">Seçimlər</h3>
-                </div>
-                <div>
-                  <input type="hidden" name="PaymentType" value="Cash" />
-                  <input type="hidden" name="Method" value="Search" />
+            <div class="row w-100 gap-3 flex-nowrap mt-5">
+              <div class="col-3">
+                <div
+                  id="side-filter-spacer"
+                  style="height: calc(100% - 834px); width: 100%"
+                ></div>
+                <form
+                  action="/democabinet/Order/Search"
+                  id="side-filter"
+                  method="post"
+                  style="position: sticky; height: max-content; bottom: 10px"
+                >
                   <input
+                    name="__RequestVerificationToken"
                     type="hidden"
-                    name="ProjectId"
-                    value="25f4cebc-4469-4de6-9993-828c52367e1b"
+                    value="j4AfnB0lW8CeK053y9aYxfHnbKZ5e0U07N8jYZ76OKMCm0hraWlul2bV0OyDvVcN4g-gtzHhbnE1hBe_0rNCnHpkqo_JxXUwiZVRGUnYPV01"
                   />
-                  <input
-                    type="hidden"
-                    name="BirthDateCode"
-                    data-nosubmitonenter="true"
-                    value="12345678"
-                  />
-                  <br />
-                  <div class="card-body p-0">
-                    <div class="card-row pt-0 border-0">
-                      <div class="col-6 d-flex justify-content-between">
-                        <h6>Layihə</h6>
-                        <select
-                          autocomplete="off"
-                          class=""
-                          style="max-width: fit-content"
-                        >
-                          <option
-                            disabled="disabled"
-                            selected="selected"
-                            hidden="hidden"
-                            value=""
-                          >
-                            Layihəni seçin
-                          </option>
-                          <option
-                            value="e3eec46c-8f80-42e8-b31c-334efface7c2"
-                            disabled="disabled"
-                          >
-                            Yasamal Yaşayış Kompleksi
-                          </option>
-                          <option value="5c1b506e-c751-4252-8d6b-5a78a89458fa">
-                            Hövsan Yaşayış Kompleksi
-                          </option>
-                          <option
-                            value="3217e53d-8023-4610-8e5c-7b20683174fb"
-                            disabled="disabled"
-                          >
-                            Sumqayıt şəhərində güzəştli mənzillər
-                          </option>
-                          <option
-                            value="f3ffc990-85c9-4653-bc56-2075f4cce7be"
-                            disabled="disabled"
-                          >
-                            Gəncə Yaşayış Kompleksi
-                          </option>
-                          <option
-                            value="719a8862-4827-4485-829c-fc4f81b7d100"
-                            disabled="disabled"
-                          >
-                            Yasamal Yaşayış Kompleksinin ikinci mərhələsi
-                          </option>
-                          <option value="4bd99e4b-59b1-4d75-ab18-c7f9d6654882">
-                            Hövsan Yaşayış Kompleksinin ikinci mərhələsi
-                          </option>
-                          <option value="f72b646c-5ae2-4451-850d-317840567ccc">
-                            Lənkəran Yaşayış Kompleksi
-                          </option>
-                          <option value="cd552f9e-a16f-44ed-a900-2646e3b9f816">
-                            Sumqayıt Yaşayış Kompleksi
-                          </option>
-                          <option value="25f4cebc-4469-4de6-9993-828c52367e1b">
-                            Binəqədi Yaşayış Kompleksi
-                          </option>
-                          <option value="9788c664-aab1-4701-a868-e0b01ffa8ddf">
-                            Şirvan Yaşayış Kompleksi
-                          </option>
-                          <option value="d310da24-a222-466e-924e-fd7c12531934">
-                            Yevlax Yaşayış Kompleksi
-                          </option>
-                        </select>
-                      </div>
-                    </div>
-                    <div class="card-row flex-wrap">
-                      <div class="col-6">
-                        <h6 class="mb-3">Ödəniş üsulu</h6>
-                        <div class="d-flex gap-2 flex-wrap">
-                          <div class="d-flex flex-wrap gap-5">
-                            <div class="d-flex gap-3">
-                              <input
-                                type="radio"
-                                name="payment-selection25f4cebc-4469-4de6-9993-828c52367e1b"
-                                id="cash-payment-choice"
-                                autocomplete="off"
-                                class="form-check-input radio-input"
-                                value="Cash"
-                              />
-                              <label for="cash-payment-choice"
-                                >Öz vəsaiti hesabına</label
-                              >
-                            </div>
-                            <div class="d-flex gap-3 position-relative">
-                              <input
-                                type="radio"
-                                name="payment-selection25f4cebc-4469-4de6-9993-828c52367e1b"
-                                id="loan-payment-choice"
-                                disabled="disabled"
-                                autocomplete="off"
-                                class="form-check-input radio-input"
-                              />
-                              <label
-                                for="loan-payment-choice"
-                                onclick="toggleTooltip('loan-payment-type-not-allowed', true)"
-                                onmouseout="toggleTooltip('loan-payment-type-not-allowed', false)"
-                                style="cursor: not-allowed"
-                                >İpoteka krediti hesabına</label
-                              >
-                              <div
-                                id="loan-payment-type-not-allowed"
-                                onmouseover="toggleTooltip('loan-payment-type-not-allowed', true)"
-                                onmouseout="toggleTooltip('loan-payment-type-not-allowed', false)"
-                                class="custom-tooltip-icon"
-                              >
-                                <svg
-                                  viewBox="0 0 24 24"
-                                  fill="none"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  class="svg-icon-size-2"
-                                >
-                                  <path
-                                    d="M24 12C24 8.8174 22.7357 5.76515 20.4853 3.51472C18.2348 1.26428 15.1826 0 12 0C8.8174 0 5.76515 1.26428 3.51472 3.51472C1.26428 5.76515 0 8.8174 0 12C0 15.1826 1.26428 18.2348 3.51472 20.4853C5.76515 22.7357 8.8174 24 12 24C15.1826 24 18.2348 22.7357 20.4853 20.4853C22.7357 18.2348 24 15.1826 24 12ZM11.262 10.365C11.2933 10.1921 11.3843 10.0356 11.5192 9.92298C11.6541 9.81033 11.8243 9.74862 12 9.74862C12.1757 9.74862 12.3459 9.81033 12.4808 9.92298C12.6156 10.0356 12.7067 10.1921 12.738 10.365L12.75 10.5V17.253L12.738 17.388C12.7067 17.5609 12.6156 17.7174 12.4808 17.83C12.3459 17.9427 12.1757 18.0044 12 18.0044C11.8243 18.0044 11.6541 17.9427 11.5192 17.83C11.3843 17.7174 11.2933 17.5609 11.262 17.388L11.25 17.253V10.5L11.262 10.365ZM10.875 7.125C10.875 6.82663 10.9935 6.54048 11.2045 6.3295C11.4155 6.11852 11.7016 6 12 6C12.2984 6 12.5845 6.11852 12.7955 6.3295C13.0065 6.54048 13.125 6.82663 13.125 7.125C13.125 7.42337 13.0065 7.70951 12.7955 7.92049C12.5845 8.13147 12.2984 8.25 12 8.25C11.7016 8.25 11.4155 8.13147 11.2045 7.92049C10.9935 7.70951 10.875 7.42337 10.875 7.125Z"
-                                    fill="var(--info)"
-                                  ></path>
-                                </svg>
-                              </div>
-                              <div
-                                id="loan-payment-type-not-allowed-tooltip"
-                                class="d-none custom-tooltip"
-                              >
-                                <div
-                                  role="alert"
-                                  class="alert alert-danger flex-column my-0"
-                                >
-                                  <div class="d-flex gap-3 m-0">
-                                    <div style="line-height: 0">
-                                      <svg
-                                        viewBox="0 0 24 25"
-                                        fill="none"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        class="svg-icon-size-2"
-                                      >
-                                        <g clip-path="url(#clip0_2237_1504)">
-                                          <path
-                                            d="M13.4716 2.87798C13.3231 2.61933 13.109 2.40443 12.8509 2.25499C12.5928 2.10555 12.2998 2.02686 12.0016 2.02686C11.7033 2.02686 11.4104 2.10555 11.1523 2.25499C10.8942 2.40443 10.6801 2.61933 10.5316 2.87798L0.246076 20.3785C-0.439424 21.5455 0.382576 23.029 1.71608 23.029H22.2856C23.6191 23.029 24.4426 21.544 23.7556 20.3785L13.4716 2.87798ZM11.9986 8.02898C12.8011 8.02898 13.4296 8.72198 13.3486 9.52148L12.8236 14.782C12.8059 14.9886 12.7114 15.1812 12.5586 15.3214C12.4058 15.4617 12.206 15.5396 11.9986 15.5396C11.7912 15.5396 11.5913 15.4617 11.4385 15.3214C11.2858 15.1812 11.1912 14.9886 11.1736 14.782L10.6486 9.52148C10.6297 9.33283 10.6506 9.14232 10.7098 8.96223C10.7691 8.78214 10.8654 8.61645 10.9926 8.47585C11.1198 8.33524 11.275 8.22284 11.4483 8.14587C11.6215 8.06891 11.809 8.02909 11.9986 8.02898V8.02898ZM12.0016 17.029C12.3994 17.029 12.7809 17.187 13.0622 17.4683C13.3435 17.7496 13.5016 18.1312 13.5016 18.529C13.5016 18.9268 13.3435 19.3083 13.0622 19.5896C12.7809 19.8709 12.3994 20.029 12.0016 20.029C11.6038 20.029 11.2222 19.8709 10.9409 19.5896C10.6596 19.3083 10.5016 18.9268 10.5016 18.529C10.5016 18.1312 10.6596 17.7496 10.9409 17.4683C11.2222 17.187 11.6038 17.029 12.0016 17.029Z"
-                                            fill="var(--danger)"
-                                          ></path>
-                                        </g>
-                                      </svg>
-                                    </div>
-                                    <p class="w-100">
-                                      İlkin razılıq qərarınız yoxdur və ya
-                                      müddəti başa çatıb.
-                                    </p>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <!---->
-                        </div>
-                      </div>
-                    </div>
-                    <div class="card-row">
-                      <div class="col-6">
-                        <h6 class="mb-3">Mənzil seçimi üsulu</h6>
-                        <div class="d-flex gap-2 flex-wrap">
-                          <div class="d-flex gap-5">
-                            <div class="d-flex gap-3">
-                              <input
-                                v:checked="explorer == 'Map'"
-                                type="radio"
-                                name="flat-selection"
-                                id="explorer-map"
-                                autocomplete="off"
-                                class="form-check-input radio-input"
-                              />
-                              <label for="explorer-map">Xəritə üzərində</label>
-                            </div>
-                            <div class="d-flex gap-3">
-                              <input
-                                v:checked="explorer == 'Search'"
-                                type="radio"
-                                name="flat-selection"
-                                id="explorer-search"
-                                autocomplete="off"
-                                class="form-check-input radio-input"
-                              />
-                              <label for="explorer-search"
-                                >Parametrlər üzrə</label
-                              >
-                            </div>
-                            <div class="d-flex gap-3">
-                              <input
-                                v:checked="explorer == 'Address'"
-                                type="radio"
-                                name="flat-selection"
-                                id="explorer-address"
-                                autocomplete="off"
-                                class="form-check-input radio-input"
-                              />
-                              <label for="explorer-address">Ünvan üzrə</label>
-                            </div>
-                          </div>
-                          <!---->
-                        </div>
-                      </div>
-                    </div>
+                  <div class="p-0">
+                    <input type="hidden" name="MinLivingFloor" value="" />
+                    <input type="hidden" name="MaxLivingFloor" value="" />
+                    <input
+                      type="hidden"
+                      name="BirthDateCode"
+                      data-nosubmitonenter="true"
+                      value="12345678"
+                    />
                   </div>
-                  <div>
-                    <p
-                      data-valmsg-for="PaymentType"
-                      data-valmsg-replace="true"
-                      class="field-validation-valid text-danger my-1"
-                    ></p>
-                    <p
-                      data-valmsg-for="SelectionMethod"
-                      data-valmsg-replace="true"
-                      class="field-validation-valid text-danger my-1"
-                    ></p>
-                    <p
-                      data-valmsg-for="BirthDateCode"
-                      data-valmsg-replace="true"
-                      class="field-validation-valid text-danger text-center"
-                    ></p>
-                  </div>
-                </div>
-              </div>
-              <div
-                role="alert"
-                class="alert alert-warning flex-column my-0 my-4"
-              >
-                <div class="d-flex gap-3 m-0">
-                  <div style="line-height: 0">
-                    <svg
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                      class="svg-icon-size-2"
-                    >
-                      <g clip-path="url(#clip0_2237_1442)">
-                        <path
-                          d="M13.473 2.34795C13.3246 2.0893 13.1105 1.8744 12.8524 1.72496C12.5942 1.57552 12.3013 1.49683 12.003 1.49683C11.7048 1.49683 11.4118 1.57552 11.1537 1.72496C10.8956 1.8744 10.6815 2.0893 10.533 2.34795L0.247541 19.8485C-0.437959 21.0155 0.384041 22.499 1.71754 22.499H22.287C23.6205 22.499 24.444 21.014 23.757 19.8485L13.473 2.34795ZM12 7.49895C12.8025 7.49895 13.431 8.19195 13.35 8.99145L12.825 14.252C12.8074 14.4586 12.7128 14.6511 12.5601 14.7914C12.4073 14.9317 12.2075 15.0095 12 15.0095C11.7926 15.0095 11.5928 14.9317 11.44 14.7914C11.2872 14.6511 11.1927 14.4586 11.175 14.252L10.65 8.99145C10.6312 8.8028 10.6521 8.61229 10.7113 8.4322C10.7706 8.25211 10.8669 8.08642 10.9941 7.94582C11.1212 7.80521 11.2765 7.69281 11.4497 7.61584C11.623 7.53888 11.8105 7.49906 12 7.49895V7.49895ZM12.003 16.499C12.4009 16.499 12.7824 16.657 13.0637 16.9383C13.345 17.2196 13.503 17.6011 13.503 17.999C13.503 18.3968 13.345 18.7783 13.0637 19.0596C12.7824 19.3409 12.4009 19.499 12.003 19.499C11.6052 19.499 11.2237 19.3409 10.9424 19.0596C10.6611 18.7783 10.503 18.3968 10.503 17.999C10.503 17.6011 10.6611 17.2196 10.9424 16.9383C11.2237 16.657 11.6052 16.499 12.003 16.499Z"
-                          fill="#FAA309"
-                        ></path>
-                      </g>
-                    </svg>
-                  </div>
-                  <p class="w-100 fs-6">
-                    DİQQƏT! Mənzil seçimi prosesində əlavə təhlükəsizlik
-                    tədbirləri tətbiq edilə bilər.
-                  </p>
-                </div>
-              </div>
-              <div
-                class="d-flex justify-content-between text-center align-self-start p-0 text-center mt-4 ms-auto w-100"
-              >
-                <a
-                  href="democabinet.html"
-                  onclick="blockWholePage();"
-                  class="m-0 btn btn-outline-secondary btn-transparent btn-prev gap-3"
-                  ><svg
-                    viewBox="0 0 7 13"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                    style="width: 0.4375rem; height: 0.8125rem"
+                  <p
+                    class="text-center card border-0 text-black fw-600 mb-2 py-2 px-4"
                   >
-                    <path
-                      d="M6.5 12.3333L0.666667 6.49992L6.5 0.666586"
-                      stroke="#C1C1C1"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    ></path>
-                  </svg>
-
-                  Əvvəlki
-                </a>
-                <div class="cursor">
-                  <a href="Search.html">
-                    <button type="button" class="mb-0 btn btn-success gap-3">
-                      Növbəti&nbsp;&nbsp;
-                      <svg
+                    Binəqədi Yaşayış Kompleksi
+                  </p>
+                  <div
+                    role="alert"
+                    class="alert alert-warning flex-column my-0 my-2"
+                    style="border-radius: 0.25rem !important"
+                  >
+                    <div class="d-flex gap-3 m-0">
+                      <div style="line-height: 0">
+                        <svg
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          xmlns="http://www.w3.org/2000/svg"
+                          class="svg-icon-size-2"
+                        >
+                          <g clip-path="url(#clip0_2237_1442)">
+                            <path
+                              d="M13.473 2.34795C13.3246 2.0893 13.1105 1.8744 12.8524 1.72496C12.5942 1.57552 12.3013 1.49683 12.003 1.49683C11.7048 1.49683 11.4118 1.57552 11.1537 1.72496C10.8956 1.8744 10.6815 2.0893 10.533 2.34795L0.247541 19.8485C-0.437959 21.0155 0.384041 22.499 1.71754 22.499H22.287C23.6205 22.499 24.444 21.014 23.757 19.8485L13.473 2.34795ZM12 7.49895C12.8025 7.49895 13.431 8.19195 13.35 8.99145L12.825 14.252C12.8074 14.4586 12.7128 14.6511 12.5601 14.7914C12.4073 14.9317 12.2075 15.0095 12 15.0095C11.7926 15.0095 11.5928 14.9317 11.44 14.7914C11.2872 14.6511 11.1927 14.4586 11.175 14.252L10.65 8.99145C10.6312 8.8028 10.6521 8.61229 10.7113 8.4322C10.7706 8.25211 10.8669 8.08642 10.9941 7.94582C11.1212 7.80521 11.2765 7.69281 11.4497 7.61584C11.623 7.53888 11.8105 7.49906 12 7.49895V7.49895ZM12.003 16.499C12.4009 16.499 12.7824 16.657 13.0637 16.9383C13.345 17.2196 13.503 17.6011 13.503 17.999C13.503 18.3968 13.345 18.7783 13.0637 19.0596C12.7824 19.3409 12.4009 19.499 12.003 19.499C11.6052 19.499 11.2237 19.3409 10.9424 19.0596C10.6611 18.7783 10.503 18.3968 10.503 17.999C10.503 17.6011 10.6611 17.2196 10.9424 16.9383C11.2237 16.657 11.6052 16.499 12.003 16.499Z"
+                              fill="#FAA309"
+                            ></path>
+                          </g>
+                        </svg>
+                      </div>
+                      <p class="w-100 fs-6">
+                        DİQQƏT! Mənzil seçimi prosesində əlavə təhlükəsizlik
+                        tədbirləri tətbiq edilə bilər.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="card border-0">
+                    <div class="card-heading">
+                      <h3 class="card-title" style="font-size: 1.125rem">
+                        Parametrlər üzrə mənzil seçimi
+                      </h3>
+                    </div>
+                    <div class="card-body p-0">
+                      <div class="card-row p-0">
+                        <div class="mb-3 w-100">
+                          <h4 class="fs-14 my-3">Bina tipi</h4>
+                          <ul class="list-group">
+                            <li class="list-group-item success">9 mərtəbəli</li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="card-row p-0">
+                        <div class="mb-3 w-100">
+                          <h4 class="fs-14 my-3">Mərtəbə seçimi</h4>
+                          <div class="d-flex gap-3">
+                            <select class="flex-grow-1 m-0"></select>
+                            <select class="flex-grow-1 m-0"></select>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="card-row p-0">
+                        <div class="mb-3 w-100">
+                          <h4 class="fs-14 my-3">Otaq sayı</h4>
+                          <ul class="list-group">
+                            <li class="list-group-item success">1 otaqlı</li>
+                            <li class="list-group-item success">2 otaqlı</li>
+                            <li class="list-group-item success">3 otaqlı</li>
+                            <li class="list-group-item success">4 otaqlı</li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="card-row gap-3 pb-0 w-100">
+                        <a
+                          class="w-100 text-center fw-500 btn"
+                          style="
+                            cursor: pointer;
+                            color: var(--black);
+                            border-bottom: 0.08rem solid var(--black);
+                          "
+                          >Sıfırla</a
+                        >
+                        <div class="cursor w-100">
+                          <button
+                            type="submit"
+                            disabled="disabled"
+                            class="btn btn-success w-100"
+                          >
+                            Axtar
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="text-center mt-4 align-self-start">
+                    <a
+                      href="Options.html"
+                      onclick="blockWholePage();"
+                      class="mb-0 btn btn-outline-secondary btn-transparent gap-3 btn-prev"
+                      ><svg
+                        viewBox="0 0 7 13"
+                        fill="none"
                         xmlns="http://www.w3.org/2000/svg"
-                        viewBox="0 -960 960 960"
-                        fill="#e8eaed"
-                        class="svg-icon-size-1"
+                        style="width: 0.4375rem; height: 0.8125rem"
                       >
                         <path
-                          d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z"
+                          d="M6.5 12.3333L0.666667 6.49992L6.5 0.666586"
+                          stroke="#C1C1C1"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
                         ></path>
                       </svg>
-                    </button>
-                  </a>
+
+                      Geri
+                    </a>
+                  </div>
+                </form>
+              </div>
+              <div id="table-wrapper" class="col-9 card border-0 p-2 pt-0">
+                <div
+                  class="d-flex h-100 justify-content-center align-items-center"
+                >
+                  <div
+                    class="dashed-border mg-glass-cont success d-flex flex-column align-items-center justify-content-center gap-3"
+                    style="width: 33%"
+                  >
+                    <svg
+                      viewBox="0 0 163 109"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      style="width: 10.1875rem; height: 6.8125rem"
+                    >
+                      <path
+                        d="M153.389 23.9466C153.389 27.4389 151.978 30.5996 149.698 32.8881C147.418 35.1767 144.267 36.5923 140.787 36.5923H23.2696C16.3102 36.5923 10.6689 30.9312 10.6689 23.9473C10.6689 20.455 12.0796 17.2943 14.3602 15.0057C16.6399 12.7172 19.7903 11.3015 23.2696 11.3015H140.787C147.747 11.3015 153.389 16.9627 153.389 23.9466Z"
+                        fill="#EAEEF1"
+                        fill-opacity="0.4"
+                      ></path>
+                      <path
+                        d="M23.2695 11.8015H140.787C147.469 11.8015 152.889 17.2376 152.889 23.947C152.889 27.092 151.698 29.9559 149.744 32.113L149.344 32.5349C147.154 34.7333 144.129 36.0925 140.787 36.0925H23.2695C16.588 36.0925 11.1689 30.6564 11.1689 23.947C11.169 20.802 12.3597 17.9382 14.3135 15.781L14.7139 15.3591L14.7148 15.3582C16.8363 13.2288 19.7406 11.8873 22.957 11.8054L23.2695 11.8015Z"
+                        stroke="#EAEEF1"
+                        stroke-opacity="0.6"
+                      ></path>
+                      <path
+                        d="M37.4757 11.3015H36.8496V36.5923H37.4757V11.3015Z"
+                        fill="#F0F4F7"
+                      ></path>
+                      <path
+                        d="M127.208 11.3015H126.582V36.5923H127.208V11.3015Z"
+                        fill="#F0F4F7"
+                      ></path>
+                      <path
+                        d="M28.8932 27.8449L26.4815 25.4247C26.9868 24.7749 27.2891 23.9585 27.2891 23.0722C27.2891 20.9599 25.5761 19.2408 23.4712 19.2408C21.3663 19.2408 19.6533 20.9599 19.6533 23.0722C19.6533 25.1845 21.3663 26.9036 23.4712 26.9036C24.3544 26.9036 25.1679 26.6002 25.8155 26.0931L28.2271 28.5133C28.319 28.6055 28.4398 28.6516 28.5605 28.6516C28.6813 28.6516 28.8021 28.6055 28.8939 28.5133C29.0769 28.3289 29.0769 28.03 28.8932 27.8449ZM20.5958 23.0729C20.5958 21.4818 21.8857 20.1873 23.4712 20.1873C25.0568 20.1873 26.3467 21.4818 26.3467 23.0729C26.3467 24.6641 25.0568 25.9585 23.4712 25.9585C21.8857 25.9585 20.5958 24.6641 20.5958 23.0729Z"
+                        fill="#6C767C"
+                      ></path>
+                      <path
+                        d="M139.007 25.6582C140.026 25.6582 140.853 24.8284 140.853 23.8053V21.0937C140.853 20.0706 140.026 19.2408 139.007 19.2408C137.987 19.2408 137.16 20.0706 137.16 21.0937V23.8046C137.16 24.8284 137.986 25.6582 139.007 25.6582Z"
+                        fill="#6C767C"
+                      ></path>
+                      <path
+                        d="M142.007 23.9154C142.007 23.7272 141.855 23.5756 141.668 23.5756C141.481 23.5756 141.33 23.728 141.33 23.9154C141.33 25.2009 140.288 26.2463 139.007 26.2463C137.726 26.2463 136.684 25.2009 136.684 23.9154C136.684 23.7272 136.532 23.5756 136.345 23.5756C136.158 23.5756 136.007 23.728 136.007 23.9154C136.007 25.4604 137.173 26.7378 138.668 26.9073V27.972H137.891C137.704 27.972 137.552 28.1244 137.552 28.3118C137.552 28.4992 137.704 28.6516 137.891 28.6516H140.123C140.31 28.6516 140.461 28.4992 140.461 28.3118C140.461 28.1244 140.309 27.972 140.123 27.972H139.345V26.9073C140.841 26.7378 142.007 25.4611 142.007 23.9154Z"
+                        fill="#6C767C"
+                      ></path>
+                      <path
+                        d="M106.564 64.5666L100.752 70.3992L105.446 75.1098L111.258 69.2772L106.564 64.5666Z"
+                        fill="#5A6266"
+                      ></path>
+                      <path
+                        d="M106.723 65.4282L101.612 70.557C100.99 71.1809 99.9818 71.1809 99.3602 70.557L96.7529 67.9406L104.115 60.5522L106.723 63.1687C107.344 63.7925 107.344 64.8044 106.723 65.4282Z"
+                        fill="#C7CDD1"
+                      ></path>
+                      <path
+                        d="M81.2871 71.7891C96.0127 71.7891 107.95 59.8095 107.95 45.032C107.95 30.2545 96.0127 18.275 81.2871 18.275C66.5615 18.275 54.624 30.2545 54.624 45.032C54.624 59.8095 66.5615 71.7891 81.2871 71.7891Z"
+                        fill="#5D88C6"
+                      ></path>
+                      <path
+                        d="M98.1595 61.9635C88.8411 71.314 73.734 71.314 64.4156 61.9635C55.0972 52.6122 55.0972 37.4518 64.4156 28.1006C73.734 18.7493 88.8411 18.7493 98.1595 28.1006C107.477 37.4518 107.477 52.6122 98.1595 61.9635Z"
+                        fill="#199862"
+                        class="mg-glass"
+                      ></path>
+                      <path
+                        d="M101.184 64.9985C98.4982 67.6937 95.3664 69.7808 91.8753 71.2017C88.5034 72.5735 84.9411 73.2694 81.2877 73.2694C77.6335 73.2694 74.0712 72.5735 70.7001 71.2017C67.2089 69.7808 64.0763 67.6937 61.3913 64.9985C58.7055 62.3032 56.6258 59.1604 55.2099 55.6569C53.8429 52.2731 53.1494 48.6983 53.1494 45.032C53.1494 41.365 53.8429 37.7901 55.2099 34.4071C56.6258 30.9036 58.7055 27.76 61.3913 25.0655C64.0771 22.371 67.2089 20.2832 70.7001 18.8623C74.0719 17.4906 77.6342 16.7946 81.2877 16.7946C84.9418 16.7946 88.5041 17.4906 91.8753 18.8623C95.3664 20.2832 98.499 22.3703 101.184 25.0655C103.87 27.7608 105.95 30.9036 107.365 34.4071C108.732 37.7909 109.426 41.3657 109.426 45.032C109.426 48.699 108.732 52.2739 107.365 55.6569C105.95 59.1604 103.87 62.304 101.184 64.9985ZM63.4762 27.1585C58.7188 31.9327 56.099 38.2801 56.099 45.032C56.099 51.7839 58.7188 58.1313 63.4762 62.9055C68.2336 67.6796 74.5587 70.3087 81.2869 70.3087C88.0151 70.3087 94.3403 67.6796 99.0976 62.9055C103.855 58.1313 106.475 51.7839 106.475 45.032C106.475 38.2801 103.855 31.9327 99.0976 27.1585C94.3403 22.3844 88.0151 19.7553 81.2869 19.7553C74.5595 19.7546 68.2336 22.3844 63.4762 27.1585Z"
+                        fill="#E4EAEF"
+                      ></path>
+                      <path
+                        d="M65.3377 56.2175C65.6652 56.8072 65.454 57.5507 64.8672 57.8786C64.2797 58.2072 63.5388 57.9953 63.212 57.4064C62.8845 56.8168 63.095 56.074 63.6825 55.7454C64.2686 55.4175 65.0095 55.6287 65.3377 56.2175Z"
+                        fill="#95FCCE"
+                        class="mg-glass-glare"
+                      ></path>
+                      <path
+                        d="M71.1466 33.9119C64.3754 40.8765 63.4463 41.6996 63.1122 52.1891C63.0959 52.694 62.8536 53.1602 62.3646 53.2843C61.883 53.407 61.3814 53.1579 61.1932 52.6962C58.1718 45.3027 59.5262 36.257 64.6481 30.1215C65.2593 29.3884 65.9891 28.656 66.9301 28.4999C68.0422 28.3147 69.0994 28.9817 70.03 29.6196C71.0999 30.352 72.7981 32.2137 71.1466 33.9119Z"
+                        fill="#95FCCE"
+                        class="mg-glass-glare"
+                      ></path>
+                      <path
+                        d="M132.244 96.1683C130.211 98.2085 126.915 98.2085 124.882 96.1683L104.041 75.2538C103.464 74.6754 103.464 73.7385 104.041 73.1601L109.317 67.8655C109.893 67.287 110.827 67.287 111.403 67.8655L132.244 88.78C134.277 90.8202 134.277 94.1281 132.244 96.1683Z"
+                        fill="#313638"
+                      ></path>
+                    </svg>
+                    <p class="fw-500 text-center">
+                      Parametrlər üzrə axtarış edin.
+                    </p>
+                  </div>
                 </div>
               </div>
-            </form>
+            </div>
           </div>
         </div>
       </div>
@@ -15789,7 +15791,7 @@
 
     <script>
       var antiForgerytoken = $.parseHTML(
-        '<input name="__RequestVerificationToken" type="hidden" value="-2VSsW-tA-advMv2GRDk9L0Q3LTlfGpo82c9IbzmBs2eLOPpMAkmvxbEIe0VXIr7xKNZDlSd_J932H2n-re_Sls0zE4dCNcpzi2oUNGaRgo1" />'
+        '<input name="__RequestVerificationToken" type="hidden" value="JcSB5wBMI8WFI9kzzfO_foEsGE7sq-QYC8WRaDyhemxLJGEIO2xNvp1bZMH0poZXIbr0NMtdvQud3VlXEVW7OofTgtFz-4P-oZDFumOcjbk1" />'
       )[0].value;
 
       $.ajaxPrefilter(function (options, originalOptions, jqXhr) {
@@ -15990,79 +15992,92 @@
     </script>
 
     <script src="MidaJs/vue.js"></script>
+    <script src="MidaJs/jquery.floatThead.min.js"></script>
+
+    <script>
+      function update() {
+        const form = document.getElementById('side-filter');
+        const root = document.documentElement;
+        root.style.setProperty('--side-filter-h', form.offsetHeight + 'px');
+      }
+      update();
+      addEventListener('resize', update);
+      new ResizeObserver(update).observe(form);
+    </script>
+
     <script type="text/javascript">
-      var optionsApp = new Vue({
-        el: '#options',
+      Array.prototype.contains = function (v) {
+        for (var i = 0; i < this.length; i++) {
+          if (this[i] === v) return true;
+        }
+        return false;
+      };
+
+      Array.prototype.unique = function () {
+        var arr = [];
+        for (var i = 0; i < this.length; i++) {
+          if (!arr.contains(this[i])) {
+            arr.push(this[i]);
+          }
+        }
+        return arr;
+      };
+
+      var searchApp = new Vue({
+        el: '#search',
         data: {
-          stage: 'initial',
-          explorer: null,
-          paymentType: null,
-          projects: JSON.parse(
-            '[{"Id":"e3eec46c-8f80-42e8-b31c-334efface7c2","Name":"Yasamal Yaşayış Kompleksi","Enabled":false,"PaymentType":0},{"Id":"5c1b506e-c751-4252-8d6b-5a78a89458fa","Name":"Hövsan Yaşayış Kompleksi","Enabled":true,"PaymentType":0},{"Id":"3217e53d-8023-4610-8e5c-7b20683174fb","Name":"Sumqayıt şəhərində güzəştli mənzillər","Enabled":false,"PaymentType":0},{"Id":"f3ffc990-85c9-4653-bc56-2075f4cce7be","Name":"Gəncə Yaşayış Kompleksi","Enabled":false,"PaymentType":0},{"Id":"719a8862-4827-4485-829c-fc4f81b7d100","Name":"Yasamal Yaşayış Kompleksinin ikinci mərhələsi","Enabled":false,"PaymentType":0},{"Id":"4bd99e4b-59b1-4d75-ab18-c7f9d6654882","Name":"Hövsan Yaşayış Kompleksinin ikinci mərhələsi","Enabled":true,"PaymentType":0},{"Id":"f72b646c-5ae2-4451-850d-317840567ccc","Name":"Lənkəran Yaşayış Kompleksi","Enabled":true,"PaymentType":0},{"Id":"cd552f9e-a16f-44ed-a900-2646e3b9f816","Name":"Sumqayıt Yaşayış Kompleksi","Enabled":true,"PaymentType":0},{"Id":"25f4cebc-4469-4de6-9993-828c52367e1b","Name":"Binəqədi Yaşayış Kompleksi","Enabled":true,"PaymentType":0},{"Id":"9788c664-aab1-4701-a868-e0b01ffa8ddf","Name":"Şirvan Yaşayış Kompleksi","Enabled":true,"PaymentType":0},{"Id":"d310da24-a222-466e-924e-fd7c12531934","Name":"Yevlax Yaşayış Kompleksi","Enabled":true,"PaymentType":0}]'
-          ),
-          project: null,
+          stage: 'search',
+          explorer: 'Search',
+          query: {
+            storeys: [],
+            allStoreys: [],
+            livingFloors: [],
+            minLivingFloor: null,
+            maxLivingFloor: null,
+            rooms: [],
+          },
           captcha: '12345678',
-          captchaMonth: '',
-          captchaYear: '',
           captchaTimeout: 0,
           captchaTimer: null,
           captchaPassed: false,
+          appartments: null,
+          buildings: JSON.parse(
+            '[{"MinLivingFloor":2,"MaxLivingFloor":9,"RoomType":[1,3,4],"Storeys":9},{"MinLivingFloor":1,"MaxLivingFloor":9,"RoomType":[2,3,4],"Storeys":9},{"MinLivingFloor":2,"MaxLivingFloor":9,"RoomType":[1,3,4],"Storeys":9},{"MinLivingFloor":1,"MaxLivingFloor":9,"RoomType":[2,3,4],"Storeys":9}]'
+          ),
           triedToSearch: false,
         },
         computed: {
           submittable: function () {
             return (
-              this.explorer &&
-              this.paymentType == 'Cash' &&
-              this.project &&
               ((this.captcha &&
                 this.captcha.length == 8 &&
                 this.captchaTimeout <= 0) ||
-                this.captchaPassed)
+                this.captchaPassed) &&
+              this.query.storeys.length > 0 &&
+              this.query.rooms.length > 0 &&
+              this.query.maxLivingFloor != null &&
+              this.query.minLivingFloor != null
             );
           },
           keyboard: function () {
-            var nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
-            //if (this.captchaMonth == '') {
-            //}
-            nums = [
-              'Yan.',
-              'Fev.',
-              'Mar.',
-              'Apr.',
-              'May',
-              'İyun',
-              'İyul',
-              'Avq.',
-              'Sen.',
-              'Okt.',
-              'Noy.',
-              'Dek.',
-            ];
-            var ranNums = nums,
+            var nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0], //all numbers to be randomized
               keyboardArray = [],
               i = nums.length,
               j = 0;
 
-            //while (i--) {
-            //    j = Math.floor(Math.random() * (i + 1));
-            //    ranNums.push(nums[j]);
-            //    nums.splice(j, 1);
-            //}
-            const chunkSize = 4;
-            for (let i = 0; i < ranNums.length; i += chunkSize) {
-              const chunk = ranNums.slice(i, i + chunkSize);
+            const chunkSize = 3;
+            for (let i = 0; i < nums.length; i += chunkSize) {
+              const chunk = nums.slice(i, i + chunkSize);
               keyboardArray.push(chunk);
             }
 
+            keyboardArray[3].unshift('X');
+            keyboardArray[3].push('<');
             return keyboardArray;
           },
           randomKeyboard: function () {
-            var nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
-            //if (this.captchaMonth == '') {
-            //    nums = ["Yan.", "Fev.", "Mar.", "Apr.", "May", "Iyun", "Iyul", "Avg.", "Sen.", "Okt.", "Noy.", "Dek."];
-            //}
-            var ranNums = [],
+            var nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], //all numbers to be randomized
+              ranNums = [],
               keyboardArray = [],
               i = nums.length,
               j = 0;
@@ -16077,25 +16092,10 @@
               const chunk = ranNums.slice(i, i + chunkSize);
               keyboardArray.push(chunk);
             }
-            //if (this.captchaMonth !== '') {
-            //}
+
             keyboardArray[3].unshift('X');
             keyboardArray[3].push('<');
-
             return keyboardArray;
-          },
-        },
-        watch: {
-          project(newVal, oldVal) {
-            this.paymentType = null;
-
-            console.log(this.project, this.paymentType, this.explorer);
-          },
-          paymentType(newVal, oldVal) {
-            console.log(this.project, this.paymentType, this.explorer);
-          },
-          explorer(newVal, oldVal) {
-            console.log(this.project, this.paymentType, this.explorer);
           },
         },
         methods: {
@@ -16116,64 +16116,76 @@
               return base.concat(defaultSteps).indexOf(title) + 1;
             }
           },
-          setProject: function (event) {
-            this.project = event.target.value;
+          getStoreys: function () {
+            if (this.buildings) {
+              var result = [];
+              this.buildings.forEach(x => result.push(x.Storeys));
+              result = result.unique();
+              return result.sort((a, b) => a - b);
+            } else return null;
           },
-          tryToSearch: function (event) {
+          getRoomTypes: function () {
+            if (this.buildings) {
+              var result = [];
+              this.buildings.forEach(x => result.push(...x.RoomType));
+              result = result.unique();
+              return result.sort((a, b) => a - b);
+            } else return null;
+          },
+
+          toggleValue: function (array, value) {
+            var values = this.query[array];
+            if (!values.contains(value)) values.push(value);
+            else this.query[array] = values.filter(x => x != value);
+          },
+          toggleStorey: function (s) {
+            this.toggleValue('storeys', s);
+          },
+          toggleRooms: function (r) {
+            this.toggleValue('rooms', r);
+          },
+          tryToSearch: function () {
             if (this.captchaTimeout <= 0) this.triedToSearch = true;
             if (this.submittable) blockWholePage();
           },
-          editSequenceMonth: function (n) {
-            this.captchaMonth = n;
-            const monthIndex = [
-              'Yan.',
-              'Fev.',
-              'Mar.',
-              'Apr.',
-              'May',
-              'İyun',
-              'İyul',
-              'Avq.',
-              'Sen.',
-              'Okt.',
-              'Noy.',
-              'Dek.',
-            ].indexOf(n);
-            this.captcha =
-              '9'.padStart(2, '0') +
-              (monthIndex != -1
-                ? (monthIndex + 1).toString().padStart(2, '0')
-                : '') +
-              this.captchaYear;
-          },
           editSequence: function (n) {
-            if (n === 'X') this.captchaYear = '';
+            if (n === 'X') this.captcha = '';
             else if (n === '<') {
-              if (this.captchaYear.length > 0)
-                this.captchaYear = this.captchaYear.slice(0, -1);
-            } else if (this.captchaYear.length < 4)
-              this.captchaYear = this.captchaYear + n;
-
-            const monthIndex = [
-              'Yan.',
-              'Fev.',
-              'Mar.',
-              'Apr.',
-              'May',
-              'İyun',
-              'İyul',
-              'Avq.',
-              'Sen.',
-              'Okt.',
-              'Noy.',
-              'Dek.',
-            ].indexOf(this.captchaMonth);
-            this.captcha =
-              '9'.padStart(2, '0') +
-              (monthIndex != -1
-                ? (monthIndex + 1).toString().padStart(2, '0')
-                : '') +
-              this.captchaYear;
+              if (this.captcha.length > 0)
+                this.captcha = this.captcha.slice(0, -1);
+            } else if (this.captcha.length < 8) this.captcha = this.captcha + n;
+          },
+          clear: function () {
+            this.query.storeys = [];
+            this.query.rooms = [];
+            this.query.minLivingFloor = null;
+            this.query.maxLivingFloor = null;
+            this.query.interiors = [];
+          },
+          book: function (id) {
+            window.location = '/democabinet/Order/Booking/' + id;
+            blockWholePage();
+          },
+          setLivingFloors: function () {
+            if (this.query.storeys) {
+              var buildings = this.buildings.filter(x =>
+                this.query.storeys.find(y => y == x.Storeys)
+              );
+              var asc = (a, b) => a - b;
+              var desc = (a, b) => b - a;
+              var minLivingFloor = buildings
+                .map(x => x.MinLivingFloor)
+                .unique()
+                .sort(asc)[0];
+              var maxLivingFloor = buildings
+                .map(x => x.MaxLivingFloor)
+                .unique()
+                .sort(desc)[0];
+              var result = [];
+              for (var i = minLivingFloor; i <= maxLivingFloor; i++)
+                result.push(i);
+              this.query.livingFloors = result;
+            } else this.query.livingFloors = [];
           },
         },
         filters: {
@@ -16183,6 +16195,83 @@
             } else return null;
           },
         },
+      });
+
+      searchApp.$watch('query.storeys', function () {
+        var query = this.query;
+        query.maxLivingFloor = null;
+        query.minLivingFloor = null;
+        this.setLivingFloors();
+      });
+
+      searchApp.$watch('query.maxLivingFloor', function () {
+        if (this.query.minLivingFloor)
+          this.query.minLivingFloor = Math.min(
+            this.query.minLivingFloor,
+            this.query.maxLivingFloor
+          );
+      });
+
+      searchApp.$watch('query.minLivingFloor', function () {
+        if (this.query.maxLivingFloor)
+          this.query.maxLivingFloor = Math.max(
+            this.query.minLivingFloor,
+            this.query.maxLivingFloor
+          );
+      });
+
+      searchApp.setLivingFloors();
+      $(document).ready(function () {
+        //function update() {
+        //    const form = document.getElementById('side-filter');
+        //    const root = document.documentElement;
+        //    root.style.setProperty('--side-filter-h', form.offsetHeight + 'px');
+        //}
+
+        const form = document.getElementById('side-filter');
+        const spacer = document.getElementById('side-filter-spacer');
+        const root = document.documentElement;
+
+        function vh() {
+          return window.visualViewport?.height || window.innerHeight;
+        }
+
+        function setTopMode() {
+          form.style.top = '10px';
+          form.style.bottom = '';
+          // в top-режиме «прокладка» не нужна
+          spacer.style.height = '0px';
+          root.style.removeProperty('--side-filter-h');
+        }
+
+        function setBottomMode() {
+          form.style.top = '';
+          form.style.bottom = '10px';
+          // в bottom-режиме, если хочешь «растянуть» колонку,
+          // подставляем высоту прокладки = высота формы
+          const h = form.offsetHeight;
+          spacer.style.height = `calc(100% - ${h}px)`;
+          root.style.setProperty('--side-filter-h', h + 'px');
+        }
+        function update() {
+          const hForm = form.offsetHeight;
+          const margin = 20; // зазор, чтобы не дёргалось
+          if (vh() >= hForm + margin) {
+            setTopMode();
+          } else {
+            setBottomMode();
+          }
+        }
+
+        update();
+        addEventListener('resize', update);
+        new ResizeObserver(update).observe(form);
+
+        $('table').floatThead({
+          scrollContainer: function ($table) {
+            return $('#table-wrapper');
+          },
+        });
       });
     </script>
 
