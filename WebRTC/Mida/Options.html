@@ -15406,10 +15406,10 @@
                   <div class="bc-line2 w-100"></div>
                 </div>
               </div>
-              <div class="bc-item success" style="display: none">
+              <div class="bc-item success" style="">
                 <div class="d-flex w-100 align-items-center test">
                   <div class="bc-circle">
-                    <span>0</span>
+                    <span>2</span>
                     <small class="mt-2 breadcrumb-title">Axtarış</small>
                   </div>
                   <div class="bc-line2 w-100"></div>
@@ -15421,7 +15421,7 @@
               <div class="bc-item success">
                 <div class="d-flex w-100 align-items-center test">
                   <div class="bc-circle">
-                    <span>2</span>
+                    <span>3</span>
                     <small class="mt-2 breadcrumb-title">Mənzil</small>
                   </div>
                   <div class="bc-line2 w-100"></div>
@@ -15430,7 +15430,7 @@
               <div class="bc-item success flex-grow-0 min-w-0">
                 <div class="d-flex align-items-center">
                   <div class="bc-circle">
-                    <span>3</span>
+                    <span>4</span>
                     <small class="mt-2 breadcrumb-title">Ərizə</small>
                   </div>
                 </div>
@@ -15446,7 +15446,7 @@
               <input
                 name="__RequestVerificationToken"
                 type="hidden"
-                value="WHLTaHOD-Aww5JhGTxnyV2WSSnVX2Z_wfaLWCZAiXbWkPEy-kqhHmFtojBj799Q7-5PPC535reEuopqXeGhuZk1TpUd7VRhQgQ7-sSW7v1g1"
+                value="ulwAImeiZhBATAe-73DsaMP0JFmqpSgQcSsLpfX0S1cMMN23b6d1XorGeEJkVCjUG7bIYAcnJ5itZrn5aTKzQpLCmRnNbKEZFUjPSARcyZA1"
               />
               <div class="card mt-5 w-100 position-relative">
                 <div class="card-tab-title card-tab-title text-secondary">
@@ -15456,9 +15456,13 @@
                   <h3 class="card-title pb-4 border-b">Seçimlər</h3>
                 </div>
                 <div>
-                  <input type="hidden" name="PaymentType" />
-                  <input type="hidden" name="Method" />
-                  <input type="hidden" name="ProjectId" />
+                  <input type="hidden" name="PaymentType" value="Cash" />
+                  <input type="hidden" name="Method" value="Search" />
+                  <input
+                    type="hidden"
+                    name="ProjectId"
+                    value="25f4cebc-4469-4de6-9993-828c52367e1b"
+                  />
                   <input
                     type="hidden"
                     name="BirthDateCode"
@@ -15539,9 +15543,8 @@
                             <div class="d-flex gap-3">
                               <input
                                 type="radio"
-                                name="payment-selectionnull"
+                                name="payment-selection25f4cebc-4469-4de6-9993-828c52367e1b"
                                 id="cash-payment-choice"
-                                disabled="disabled"
                                 autocomplete="off"
                                 class="form-check-input radio-input"
                                 value="Cash"
@@ -15553,7 +15556,7 @@
                             <div class="d-flex gap-3 position-relative">
                               <input
                                 type="radio"
-                                name="payment-selectionnull"
+                                name="payment-selection25f4cebc-4469-4de6-9993-828c52367e1b"
                                 id="loan-payment-choice"
                                 disabled="disabled"
                                 autocomplete="off"
@@ -15615,37 +15618,6 @@
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                          </div>
-                          <!---->
-                        </div>
-                        <div class="d-flex gap-2 flex-wrap">
-                          <div class="d-flex gap-5">
-                            <div class="d-flex gap-3">
-                              <input
-                                v:checked="explorer == 'Map'"
-                                type="radio"
-                                name="flat-selection"
-                                id="explorer-map"
-                                autocomplete="off"
-                                class="form-check-input radio-input"
-                              />
-                              <label for="explorer-map"
-                                >Öz vəsaiti hesabına</label
-                              >
-                            </div>
-                            <div class="d-flex gap-3">
-                              <input
-                                v:checked="explorer == 'Search'"
-                                type="radio"
-                                name="flat-selection"
-                                id="explorer-search"
-                                autocomplete="off"
-                                class="form-check-input radio-input"
-                              />
-                              <label for="explorer-search"
-                                >İpoteka krediti hesabına</label
-                              >
                             </div>
                           </div>
                           <!---->
@@ -15767,11 +15739,7 @@
                   Əvvəlki
                 </a>
                 <div class="cursor">
-                  <button
-                    type="submit"
-                    disabled="disabled"
-                    class="mb-0 btn btn-success gap-3"
-                  >
+                  <button type="submit" class="mb-0 btn btn-success gap-3">
                     Növbəti&nbsp;&nbsp;
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -15819,7 +15787,7 @@
 
     <script>
       var antiForgerytoken = $.parseHTML(
-        '<input name="__RequestVerificationToken" type="hidden" value="jh7ULIaq-D2zrQrj8cdu4ry2hOBMzY5VCqgxcr0PdQ5fe6w5Qxcy5P-vYDT_t9yHD2qJ5KRB9M30Llyom_ygYAjfe4IlLJXtxnvhybK2xck1" />'
+        '<input name="__RequestVerificationToken" type="hidden" value="-2VSsW-tA-advMv2GRDk9L0Q3LTlfGpo82c9IbzmBs2eLOPpMAkmvxbEIe0VXIr7xKNZDlSd_J932H2n-re_Sls0zE4dCNcpzi2oUNGaRgo1" />'
       )[0].value;
 
       $.ajaxPrefilter(function (options, originalOptions, jqXhr) {
