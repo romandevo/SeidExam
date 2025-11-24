@@ -531,4 +531,16 @@ document.addEventListener('DOMContentLoaded', () => {
   searchButton.addEventListener('click', () => {
     tableWrapper.innerHTML = newTableContent;
   });
+
+  // =============================
+  //  SYSTEM 4: Apartment row click → redirect
+  // =============================
+
+  // Use table-wrapper as the parent
+
+  tableWrapper.addEventListener('click', event => {
+    const row = event.target.closest('.row.apartment-row.success');
+    if (!row) return; // clicked somewhere else
+    window.location.href = 'democabinet.html';
+  });
 });
