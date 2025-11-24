@@ -21,13 +21,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
       floorSelects.forEach(select => {
         if (buildingType.classList.contains('active')) {
-          // Add 1–9 floors
           select.innerHTML = Array.from(
             { length: 9 },
             (_, i) => `<option value="${i + 1}">${i + 1}</option>`
           ).join('');
+
+          // 👇 NEW LINE — deselect everything
+          select.selectedIndex = -1;
         } else {
-          // Clear
           select.innerHTML = '';
         }
       });
