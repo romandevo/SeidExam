@@ -32,9 +32,16 @@ function twoDigitStr(n) {
   return String(n).padStart(2, '0');
 }
 
-/* ---------- Option generation rules (updated: all one-digit options use leading zero) ---------- */
-
-/* helper to count predicate matches in a set-like collection */
+/* ---------- Option generation helpers ---------- */
+function addUnique(outSet, val) {
+  // ensure val is two-digit string
+  const v = String(val).padStart(2, '0');
+  if (!outSet.has(v)) {
+    outSet.add(v);
+    return true;
+  }
+  return false;
+}
 function countMatches(setLike, pred) {
   let count = 0;
   for (const v of setLike) {
@@ -43,153 +50,196 @@ function countMatches(setLike, pred) {
   return count;
 }
 
+/* ---------- Generators implementing the exact order + uniqueness retry ---------- */
+
 /* CATEGORY A: two-digit with different digits (e.g. 12)
-   one-digit incorrect options will be shown with leading zero ("01","02")
+   Order:
+   1) add correct "AB"
+   2) add reverse "BA"
+   3) add "0A" and "0B"
+   4) generate:
+        - 2 starting with A and not ending with B
+        - 2 ending with B and not starting with A
+        - 1 starting with B and not ending with A
+        - 1 ending with A and not starting with B
 */
 function generateOptionsCategoryA(correct) {
-  const s = correct.toString().padStart(2, '0'); // "12"
+  const s = String(correct).padStart(2, '0'); // "12"
   const A = s[0],
     B = s[1];
   const out = new Set();
-  out.add(s); // correct as two-digit
 
-  // 2 starting with A but not ending with B
+  // 1) correct
+  addUnique(out, s);
+
+  // 2) reverse BA (reserve)
+  addUnique(out, B + A);
+
+  // 3) one-digit displays for digits (always leading-zero)
+  addUnique(out, '0' + A);
+  addUnique(out, '0' + B);
+
+  // 4) structured groups, each will loop until the required count is reached
+  // Group 1: 2 starting with A but not ending with B
   while (
     countMatches(
       out,
-      v => v.length === 2 && v[0] === A && v !== s && v[1] !== B
+      v => v.length === 2 && v[0] === A && v[1] !== B && v !== s
     ) < 2
   ) {
-    const y = randInt(0, 9).toString();
-    const candidate = A + y;
-    if (candidate !== s && candidate[1] !== B) out.add(candidate);
+    const y = String(randInt(0, 9));
+    const cand = A + y;
+    if (cand === s || cand[1] === B) continue;
+    addUnique(out, cand);
   }
 
-  // 2 ending with B but not starting with A
+  // Group 2: 2 ending with B but not starting with A
   while (
     countMatches(
       out,
-      v => v.length === 2 && v[1] === B && v !== s && v[0] !== A
+      v => v.length === 2 && v[1] === B && v[0] !== A && v !== s
     ) < 2
   ) {
-    const x = randInt(0, 9).toString();
-    const candidate = x + B;
-    if (candidate !== s && candidate[0] !== A) out.add(candidate);
+    const x = String(randInt(0, 9));
+    const cand = x + B;
+    if (cand === s || cand[0] === A) continue;
+    addUnique(out, cand);
   }
 
-  // 1 starting with B but not ending with A
+  // Group 3: 1 starting with B but not ending with A
   while (
     countMatches(
       out,
-      v => v.length === 2 && v[0] === B && v !== s && v[1] !== A
+      v => v.length === 2 && v[0] === B && v[1] !== A && v !== s
     ) < 1
   ) {
-    const y = randInt(0, 9).toString();
-    const candidate = B + y;
-    if (candidate !== s && candidate[1] !== A) out.add(candidate);
+    const y = String(randInt(0, 9));
+    const cand = B + y;
+    if (cand === s || cand[1] === A) continue;
+    addUnique(out, cand);
   }
 
-  // 1 ending with A but not starting with B
+  // Group 4: 1 ending with A but not starting with B
   while (
     countMatches(
       out,
-      v => v.length === 2 && v[1] === A && v !== s && v[0] !== B
+      v => v.length === 2 && v[1] === A && v[0] !== B && v !== s
     ) < 1
   ) {
-    const x = randInt(0, 9).toString();
-    const candidate = x + A;
-    if (candidate !== s && candidate[0] !== B) out.add(candidate);
+    const x = String(randInt(0, 9));
+    const cand = x + A;
+    if (cand === s || cand[0] === B) continue;
+    addUnique(out, cand);
   }
 
-  // reversed number BA
-  const rev = B + A;
-  if (rev !== s) out.add(rev);
-
-  // two one-digit incorrect options — BUT displayed with leading zero per your rule
-  out.add('0' + A); // e.g. "01"
-  out.add('0' + B); // e.g. "02"
-
-  // ensure 10 items total
+  // Safety fallback (kept per your request) — should rarely if ever happen
   while (out.size < 10) {
-    const cand = randInt(0, 99).toString().padStart(2, '0');
-    if (cand !== s) out.add(cand);
+    const cand = twoDigitStr(randInt(0, 99));
+    if (cand !== s) addUnique(out, cand);
   }
 
   return shuffleArr(Array.from(out));
 }
 
 /* CATEGORY B: one-digit correct (e.g. 4)
-   correct option shown as "04"
-   incorrect options: 4 starting with D (not ending D), 4 ending with D (not starting D), 1 "DD"
-   all one-digit displays will still be two-digit formatted where needed
+   Order/reserve:
+   1) add correct "0D" (displayed)
+   2) add "DD" (double-digit) as reserved
+   3) generate 4 starting with D (not ending D) and 4 ending with D (not starting D)
 */
 function generateOptionsCategoryB(correct) {
-  const D = String(correct); // "4"
+  const D = String(correct);
   const correctStr = twoDigitStr(correct); // "04"
   const out = new Set();
 
-  out.add(correctStr); // "04"
+  // Reserve correct displayed form
+  addUnique(out, correctStr);
+
+  // Reserve "DD" (two-digit double)
+  addUnique(out, D + D);
 
   // 4 starting with D and not ending with D
   while (
-    countMatches(out, v => v.length === 2 && v[0] === D && v[1] !== D) < 4
+    countMatches(
+      out,
+      v => v.length === 2 && v[0] === D && v[1] !== D && v !== correctStr
+    ) < 4
   ) {
-    const y = randInt(0, 9).toString();
+    const y = String(randInt(0, 9));
     const cand = D + y;
-    if (cand !== D + D && cand !== correctStr) out.add(cand);
+    if (cand === correctStr || cand === D + D) continue;
+    addUnique(out, cand);
   }
 
   // 4 ending with D and not starting with D
   while (
-    countMatches(out, v => v.length === 2 && v[1] === D && v[0] !== D) < 4
+    countMatches(
+      out,
+      v => v.length === 2 && v[1] === D && v[0] !== D && v !== correctStr
+    ) < 4
   ) {
-    const x = randInt(0, 9).toString();
+    const x = String(randInt(0, 9));
     const cand = x + D;
-    if (cand !== D + D && cand !== correctStr) out.add(cand);
+    if (cand === correctStr || cand === D + D) continue;
+    addUnique(out, cand);
   }
 
-  // 1 "DD"
-  out.add(D + D);
-
-  // ensure 10 items
+  // Safety fallback (kept)
   while (out.size < 10) {
-    const cand = randInt(0, 99).toString().padStart(2, '0');
-    if (cand !== correctStr) out.add(cand);
+    const cand = twoDigitStr(randInt(0, 99));
+    if (cand !== correctStr) addUnique(out, cand);
   }
 
   return shuffleArr(Array.from(out));
 }
 
 /* CATEGORY C: two identical digits (e.g. 77)
-   incorrects: 4 starting with D not ending D, 4 ending with D not starting D, 1 "0D" (one-digit shown with leading zero)
+   Order/reserve:
+   1) add correct "AA"
+   2) add "0A" (leading zero)
+   3) generate 4 starting with A (not ending A) and 4 ending with A (not starting A)
 */
 function generateOptionsCategoryC(correct) {
-  const s = correct.toString().padStart(2, '0'); // "77"
+  const s = String(correct).padStart(2, '0'); // "77"
   const D = s[0];
   const out = new Set();
-  out.add(s);
 
+  // Reserve correct "77"
+  addUnique(out, s);
+
+  // Reserve leading-zero "07"
+  addUnique(out, '0' + D);
+
+  // 4 starting with D and not ending with D
   while (
-    countMatches(out, v => v.length === 2 && v[0] === D && v[1] !== D) < 4
+    countMatches(
+      out,
+      v => v.length === 2 && v[0] === D && v[1] !== D && v !== s
+    ) < 4
   ) {
-    const y = randInt(0, 9).toString();
+    const y = String(randInt(0, 9));
     const cand = D + y;
-    if (cand !== s) out.add(cand);
+    if (cand === s) continue;
+    addUnique(out, cand);
   }
+
+  // 4 ending with D and not starting with D
   while (
-    countMatches(out, v => v.length === 2 && v[1] === D && v[0] !== D) < 4
+    countMatches(
+      out,
+      v => v.length === 2 && v[1] === D && v[0] !== D && v !== s
+    ) < 4
   ) {
-    const x = randInt(0, 9).toString();
+    const x = String(randInt(0, 9));
     const cand = x + D;
-    if (cand !== s) out.add(cand);
+    if (cand === s) continue;
+    addUnique(out, cand);
   }
 
-  // one-digit incorrect displayed as "0D"
-  out.add('0' + D);
-
+  // Safety fallback (kept)
   while (out.size < 10) {
-    const cand = randInt(10, 99).toString();
-    if (cand !== s) out.add(cand);
+    const cand = twoDigitStr(randInt(10, 99));
+    if (cand !== s) addUnique(out, cand);
   }
 
   return shuffleArr(Array.from(out));
@@ -207,7 +257,7 @@ function createUI() {
   generatedNumbers.forEach(n => {
     const box = document.createElement('div');
     box.className = 'number-box';
-    // Top boxes should be single-digit display when applicable (no leading zero)
+    // Top boxes are single-digit display when applicable (no leading zero)
     box.textContent = String(n);
     numbersDiv.appendChild(box);
   });
@@ -231,23 +281,24 @@ function createUI() {
     if (isSingleDigit(n)) {
       optionList = generateOptionsCategoryB(n); // strings already two-digit where needed
     } else if (isTwoDigit(n)) {
-      const s = n.toString().padStart(2, '0');
+      const s = String(n).padStart(2, '0');
       if (s[0] === s[1]) {
         optionList = generateOptionsCategoryC(n);
       } else {
         optionList = generateOptionsCategoryA(n);
       }
     } else {
+      // fallback: should not happen
       optionList = [];
-      optionList.push(n.toString().padStart(2, '0'));
+      optionList.push(twoDigitStr(n));
       while (optionList.length < 10)
-        optionList.push(randInt(0, 99).toString().padStart(2, '0'));
+        optionList.push(twoDigitStr(randInt(0, 99)));
       shuffleArr(optionList);
     }
 
+    // safety trim/pad
     if (optionList.length > 10) optionList = optionList.slice(0, 10);
-    while (optionList.length < 10)
-      optionList.push(randInt(0, 99).toString().padStart(2, '0'));
+    while (optionList.length < 10) optionList.push(twoDigitStr(randInt(0, 99)));
 
     optionList.forEach(opt => {
       const optEl = document.createElement('option');
@@ -268,17 +319,13 @@ function checkAll() {
   for (let i = 0; i < selects.length; i++) {
     const val = selects[i].value;
     if (val === '-1') {
-      successMsg.style.display = 'none';
-      return;
+      return; // do nothing, keep page clean
     }
-    // Numeric compare: "01" -> 1 matches top box 1
     if (Number(val) !== generatedNumbers[i]) {
-      successMsg.style.display = 'none';
-      return;
+      return; // stop silently, don't show success text
     }
   }
   console.log('Success! All matched.');
-  successMsg.style.display = 'block';
 }
 
 /* init */
