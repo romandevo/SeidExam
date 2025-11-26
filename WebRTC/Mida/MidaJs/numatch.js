@@ -237,12 +237,13 @@ function create5BoxSystem() {
     sel.className = 'captch-select';
     sel.dataset.index = idx;
 
-    const placeholder = document.createElement('option');
-    placeholder.value = '-1';
-    placeholder.textContent = '';
-    placeholder.disabled = true;
-    placeholder.selected = true;
-    sel.appendChild(placeholder);
+    // HIDDEN placeholder (not visible in dropdown)
+    const hiddenPlaceholder = document.createElement('option');
+    hiddenPlaceholder.value = '';
+    hiddenPlaceholder.textContent = '';
+    hiddenPlaceholder.hidden = true;
+    hiddenPlaceholder.selected = true;
+    sel.appendChild(hiddenPlaceholder);
 
     let optionList;
 
@@ -272,8 +273,9 @@ function create5BoxSystem() {
     sel.addEventListener('change', () => {
       const selects = document.querySelectorAll('.captch-select');
       for (let i = 0; i < selects.length; i++) {
-        if (selects[i].value === '-1') return;
-        if (Number(selects[i].value) !== generatedNumbers[i]) return;
+        if (selects[i].value === '') return;
+        const correct = String(generatedNumbers[i]).padStart(2, '0');
+        if (selects[i].value !== correct) return;
       }
       console.log('Success! All matched.');
     });

@@ -69,6 +69,10 @@
   border-radius: 4px; /* slight rounded corners */
 }
 
+.captch-select:not(:focus):invalid {
+  color: transparent;
+}
+
 /* Custom dropdown arrow */
 .select-wrap::after {
   content: '▼';
