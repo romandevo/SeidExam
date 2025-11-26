@@ -185,13 +185,6 @@ function create6BoxSystem() {
     sel.className = 'captch-select';
     sel.dataset.index = idx;
 
-    const placeholder = document.createElement('option');
-    placeholder.value = '-1';
-    placeholder.textContent = '';
-    placeholder.disabled = true;
-    placeholder.selected = true;
-    sel.appendChild(placeholder);
-
     const order = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'];
     order.forEach(o => {
       const opt = document.createElement('option');
@@ -200,10 +193,12 @@ function create6BoxSystem() {
       sel.appendChild(opt);
     });
 
+    sel.selectedIndex = -1;
+
     sel.addEventListener('change', () => {
       for (let i = 0; i < 6; i++) {
         const dd = document.querySelectorAll('.captch-select')[i];
-        if (dd.value === '-1') return;
+        if (dd.selectedIndex === -1) return;
         if (Number(dd.value) !== nums[i]) return;
       }
       console.log('Success! All matched.');
