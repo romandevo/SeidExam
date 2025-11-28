@@ -14827,6 +14827,13 @@
 
     <link href="MidaCss/app.css" rel="stylesheet" />
 
+    <link rel="stylesheet" href="MidaCss/captcha-style.css" />
+    <!-- Fontawesome CDN Link -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+    />
+
     <script
       type="text/javascript"
       async=""
@@ -15623,6 +15630,24 @@
                     ></p>
                   </div>
                 </div>
+                <div style="float: left; margin: 0 auto">
+                  <div class="container">
+                    <header>Captcha Generator</header>
+                    <div class="input_field captch_box">
+                      <input type="text" value="" disabled />
+                      <button class="refresh_button" type="button">
+                        <i class="fa-solid fa-rotate-right"></i>
+                      </button>
+                    </div>
+                    <div class="input_field captch_input">
+                      <input type="text" placeholder="Enter captcha" />
+                    </div>
+                    <div class="message">Entered captcha is correct</div>
+                    <div class="input_field button disabled">
+                      <button type="button">Submit Captcha</button>
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
                 role="alert"
@@ -15673,7 +15698,7 @@
 
                   Əvvəlki
                 </a>
-                <a href="Search.html">
+                <a href="numbermatch.html">
                   <div class="cursor">
                     <button type="button" class="mb-0 btn btn-success gap-3">
                       Növbəti&nbsp;&nbsp;
@@ -15715,6 +15740,7 @@
       <small>MİDA</small>
     </footer>
 
+    <script src="MidaJs/captcha-script.js"></script>
     <script src="MidaJs/cabinet-card.js"></script>
     <script src="MidaJs/modal.js"></script>
     <script src="MidaJs/navigate.js"></script>
@@ -15738,7 +15764,7 @@
 
     <script src="MidaJs/jquery.signalR-2.2.3.min.js"></script>
     <script src="MidaJs/hubs.js"></script>
-    <script src="MidaJs/vue.js"></script>
+    <!-- <script src="MidaJs/vue.js"></script> -->
 
     <script type="text/javascript">
       function afterAsyncPostBack() {
@@ -15924,7 +15950,7 @@
       createSessionHubApp();
     </script>
 
-    <script src="MidaJs/vue.js"></script>
+    <!-- <script src="MidaJs/vue.js"></script> -->
     <script type="text/javascript">
       var optionsApp = new Vue({
         el: '#options',
