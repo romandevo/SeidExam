@@ -1,0 +1,52 @@
+function extractSmsData(body) {
+  try {
+    // Normalleştir: \r kaldır, trim, satırlara ayır
+    const normalized = body.replace(/\r/g, '');
+    const lines = normalized
+      .split('\n')
+      .map(l => l.trim())
+      .filter(l => l !== '');
+
+    // From: ... satırını bul
+    const fromLine = lines.find(l => /^From:/i.test(l));
+    // Received At: ... satırını bul
+    const dateLine = lines.find(l => /^Received At:/i.test(l));
+
+    let from = '';
+    let date = '';
+    let text = '';
+
+    if (fromLine) from = fromLine.replace(/^From:/i, '').trim();
+    if (dateLine) date = dateLine.replace(/^Received At:/i, '').trim();
+
+    // Body: fromLine sonrası ile dateLine öncesi arası
+    if (fromLine && dateLine) {
+      const start = lines.indexOf(fromLine);
+      const end = lines.indexOf(dateLine);
+      if (end > start + 0) {
+        const bodyLines = lines.slice(start + 1, end);
+        text = bodyLines.join('\n').trim();
+      } else {
+        // beklenmeyen layout -> tüm satırlardan çıkar
+        text = lines.join('\n').trim();
+      }
+    } else {
+      // Eğer beklenen etiketler yoksa fallback: body'nin ilki kısa olarak mesaj kabul et
+      // burada ihtiyaca göre geliştirilebilir
+      text = lines.join('\n').trim();
+    }
+
+    // Boş değilse döndür
+    if (from || text || date) {
+      return {
+        from: from || 'unknown',
+        text: text || '',
+        date: date || new Date().toString(),
+      };
+    }
+    return null;
+  } catch (err) {
+    console.error('extractSmsData error', err);
+    return null;
+  }
+}
