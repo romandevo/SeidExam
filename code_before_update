@@ -1,0 +1,198 @@
+// ---------- AYARLAR (BURAYI DEĞİŞTİR) ----------
+const SMS_SHEET_ID = '1TgPEDNC2WKdsWulEpMT2Qy3nPL9-Cg1cq5YOXC-eUmg'; // -> Google Sheet ID
+const SHEET_NAME = 'Sheet1'; // sheet sekme adı
+// ------------------------------------------------
+
+// ------------------ doPost: Pub/Sub push endpoint ------------------
+function doPost(e) {
+  try {
+    if (!e || !e.postData || !e.postData.contents) {
+      console.log('doPost: no postData');
+      return ContentService.createTextOutput('NO_DATA');
+    }
+
+    // Pub/Sub mesajı base64 encoded içinden çıkar
+    const pubsubMessage = JSON.parse(e.postData.contents);
+    if (!pubsubMessage.message || !pubsubMessage.message.data) {
+      console.log('doPost: no message data');
+      return ContentService.createTextOutput('NO_MSG');
+    }
+
+    const encoded = pubsubMessage.message.data;
+    const decodedStr = Utilities.newBlob(Utilities.base64Decode(encoded)).getDataAsString();
+    const decoded = JSON.parse(decodedStr);
+
+    // decoded içinden historyId alabiliriz (bilgisel)
+    const historyId = decoded.historyId || null;
+    console.log('doPost: historyId=', historyId);
+
+    // Gelen bildirime göre yeni gelen mailleri işle
+    processNewSmsEmails();
+
+    return ContentService.createTextOutput('OK');
+  } catch (err) {
+    console.error('doPost error:', err);
+    return ContentService.createTextOutput('ERROR:' + String(err));
+  }
+}
+
+// --------------- Gelen sms etiketli e-postaları işleyen fonksiyon ---------------
+function processNewSmsEmails() {
+  const labelName = 'sms-forward';
+  const ss = SpreadsheetApp.openById(SMS_SHEET_ID);
+  const sheet = ss.getSheetByName(SHEET_NAME);
+  if (!sheet) {
+    console.error('Sheet bulunamadi:', SHEET_NAME);
+    return;
+  }
+
+  // Sadece etiketli thread'leri al
+  const label = GmailApp.getUserLabelByName(labelName);
+  if (!label) {
+    console.error('Label bulunamadi:', labelName);
+    return;
+  }
+
+  const threads = label.getThreads();
+  if (!threads || threads.length === 0) {
+    console.log('Yeni etiketli thread yok.');
+    return;
+  }
+
+  threads.forEach(thread => {
+    const messages = thread.getMessages();
+    messages.forEach(msg => {
+      // Eğer gerekiyorsa unread kontrolü yapabilirsin. Burada tüm mesajları işliyoruz.
+      const rawBody = msg.getPlainBody();
+      const parsed = extractSmsData(rawBody);
+
+      // parsed null ise ham kaydı da istersen buraya yazabilirsin
+      if (parsed) {
+        sheet.appendRow([ parsed.from, parsed.text, parsed.date ]);
+      } else {
+        // Parsing hatası olursa ham gövdeyi kaydet (opsiyonel)
+        sheet.appendRow([ 'unknown', rawBody, new Date(msg.getDate()) ]);
+      }
+    });
+
+    // Thread işlendi → etiketi kaldır (tekrar işlenmesin)
+    thread.removeLabel(label);
+  });
+
+  console.log('processNewSmsEmails: tamamlandi. Threads islemesi bitti.');
+}
+
+
+// ------------------ SMS içeriğini ayrıştıran yardımcı (parser) ------------------
+function extractSmsData(body) {
+  try {
+    // Normalleştir: \r kaldır, trim, satırlara ayır
+    const normalized = (body || '').replace(/\r/g, ''); // const normalized = body.replace(/\r/g, '');
+    const lines = normalized.split('\n').map(l => l.trim()).filter(l => l !== '');
+
+    // From: ... satırını bul
+    const fromLine = lines.find(l => /^From:/i.test(l));
+    // Received At: ... satırını bul
+    const dateLine = lines.find(l => /^Received At:/i.test(l));
+
+    let from = '';
+    let date = '';
+    let text = '';
+
+    if (fromLine) from = fromLine.replace(/^From:/i, '').trim();
+    if (dateLine) date = dateLine.replace(/^Received At:/i, '').trim();
+
+    // Body: fromLine sonrası ile dateLine öncesi arası
+    if (fromLine && dateLine) {
+      const start = lines.indexOf(fromLine);
+      const end = lines.indexOf(dateLine);
+      if (end > start + 0) {
+        const bodyLines = lines.slice(start + 1, end);
+        text = bodyLines.join('\n').trim();
+      } else {
+        // beklenmeyen layout -> tüm satırlardan çıkar
+        text = lines.join('\n').trim();
+      }
+    } else {
+      // Eğer beklenen etiketler yoksa fallback: body'nin ilki kısa olarak mesaj kabul et
+      // burada ihtiyaca göre geliştirilebilir
+      text = lines.join('\n').trim();
+    }
+
+    // Boş değilse döndür
+    if (from || text || date) {
+      return { from: from || 'unknown', text: text || '', date: date || new Date().toString() };
+    }
+    return null;
+  } catch (err) {
+    console.error('extractSmsData error', err);
+    return null;
+  }
+}
+
+
+// ------------------ Yardımcı: Gmail API ile label ID listeleme (Advanced Service gerekli) ------------------
+function listLabels() {
+  try {
+    // Advanced Service olan Gmail API etkin olmalı (Resources -> Advanced Google Services -> Gmail API ON)
+    const res = Gmail.Users.Labels.list('me');
+    const labels = res.labels || [];
+    labels.forEach(l => Logger.log(l.name + ' → ' + l.id));
+    return labels;
+  } catch (err) {
+    console.error('listLabels error:', err);
+    throw err;
+  }
+}
+
+
+// ------------------ enableGmailPush: Gmail'i Pub/Sub'a kayıt etme (Advanced Service gerekli) ------------------
+function enableGmailPush(labelId) {
+  // labelId örn: "Label_12"
+  const topicName = 'projects/sms-realtime-481010/topics/gmail-push-topic'; // değiştirilecekse burayı güncelle
+
+  try {
+    // Gmail API kullanılarak watch çağrısı
+    const req = {
+      labelIds: [ labelId ],
+      topicName: topicName
+    };
+
+    const result = Gmail.Users.watch(req, 'me');
+    Logger.log('enableGmailPush result: %s', JSON.stringify(result));
+    return result;
+  } catch (err) {
+    console.error('enableGmailPush error:', err);
+    throw err;
+  }
+}
+
+function enableGmailPushAuto() {
+  const LABEL_ID = 'Label_8652507836914564732'; // sms-forward
+  const TOPIC = 'projects/sms-realtime-481010/topics/gmail-push-topic';
+
+  const req = {
+    labelIds: [LABEL_ID],
+    topicName: TOPIC
+  };
+
+  const res = Gmail.Users.watch(req, 'me');
+  Logger.log('Push renewed: ' + JSON.stringify(res));
+  return res;
+}
+
+function testGmailWatch() {
+  try {
+    const res = Gmail.Users.watch({
+      userId: 'me',
+      resource: {
+        labelIds: ['INBOX'],
+        topicName: 'projects/YOUR_PROJECT/topics/YOUR_TOPIC'
+      }
+    });
+    Logger.log(res);
+  } catch (e) {
+    Logger.log("ERROR: " + e);
+  }
+}
+
