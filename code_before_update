@@ -19,7 +19,9 @@ function doPost(e) {
     }
 
     const encoded = pubsubMessage.message.data;
-    const decodedStr = Utilities.newBlob(Utilities.base64Decode(encoded)).getDataAsString();
+    const decodedStr = Utilities.newBlob(
+      Utilities.base64Decode(encoded)
+    ).getDataAsString();
     const decoded = JSON.parse(decodedStr);
 
     // decoded içinden historyId alabiliriz (bilgisel)
@@ -64,14 +66,31 @@ function processNewSmsEmails() {
     messages.forEach(msg => {
       // Eğer gerekiyorsa unread kontrolü yapabilirsin. Burada tüm mesajları işliyoruz.
       const rawBody = msg.getPlainBody();
-      const parsed = extractSmsData(rawBody);
+      if (parsed) {
+        const cache = CacheService.getScriptCache();
+        const smsHash = generateSmsHash(parsed.from, parsed.text, parsed.date);
+
+        // Daha önce işlendi mi?
+        if (cache.get(smsHash)) {
+          console.log('Duplicate SMS atlandı:', smsHash);
+          return;
+        }
+
+        // Cache'e yaz (6 saat)
+        cache.put(smsHash, '1', 21600);
+      }
 
       // parsed null ise ham kaydı da istersen buraya yazabilirsin
       if (parsed) {
-        sheet.appendRow([ parsed.from, parsed.text, parsed.date ]);
+        sheet.appendRow([parsed.from, parsed.text, parsed.date, new Date()]);
       } else {
         // Parsing hatası olursa ham gövdeyi kaydet (opsiyonel)
-        sheet.appendRow([ 'unknown', rawBody, new Date(msg.getDate()) ]);
+        sheet.appendRow([
+          'unknown',
+          rawBody,
+          new Date(msg.getDate()),
+          new Date(), // created_at
+        ]);
       }
     });
 
@@ -82,13 +101,15 @@ function processNewSmsEmails() {
   console.log('processNewSmsEmails: tamamlandi. Threads islemesi bitti.');
 }
 
-
 // ------------------ SMS içeriğini ayrıştıran yardımcı (parser) ------------------
 function extractSmsData(body) {
   try {
     // Normalleştir: \r kaldır, trim, satırlara ayır
     const normalized = (body || '').replace(/\r/g, ''); // const normalized = body.replace(/\r/g, '');
-    const lines = normalized.split('\n').map(l => l.trim()).filter(l => l !== '');
+    const lines = normalized
+      .split('\n')
+      .map(l => l.trim())
+      .filter(l => l !== '');
 
     // From: ... satırını bul
     const fromLine = lines.find(l => /^From:/i.test(l));
@@ -121,7 +142,11 @@ function extractSmsData(body) {
 
     // Boş değilse döndür
     if (from || text || date) {
-      return { from: from || 'unknown', text: text || '', date: date || new Date().toString() };
+      return {
+        from: from || 'unknown',
+        text: text || '',
+        date: date || new Date().toString(),
+      };
     }
     return null;
   } catch (err) {
@@ -129,7 +154,6 @@ function extractSmsData(body) {
     return null;
   }
 }
-
 
 // ------------------ Yardımcı: Gmail API ile label ID listeleme (Advanced Service gerekli) ------------------
 function listLabels() {
@@ -145,7 +169,6 @@ function listLabels() {
   }
 }
 
-
 // ------------------ enableGmailPush: Gmail'i Pub/Sub'a kayıt etme (Advanced Service gerekli) ------------------
 function enableGmailPush(labelId) {
   // labelId örn: "Label_12"
@@ -154,8 +177,8 @@ function enableGmailPush(labelId) {
   try {
     // Gmail API kullanılarak watch çağrısı
     const req = {
-      labelIds: [ labelId ],
-      topicName: topicName
+      labelIds: [labelId],
+      topicName: topicName,
     };
 
     const result = Gmail.Users.watch(req, 'me');
@@ -173,7 +196,7 @@ function enableGmailPushAuto() {
 
   const req = {
     labelIds: [LABEL_ID],
-    topicName: TOPIC
+    topicName: TOPIC,
   };
 
   const res = Gmail.Users.watch(req, 'me');
@@ -187,12 +210,50 @@ function testGmailWatch() {
       userId: 'me',
       resource: {
         labelIds: ['INBOX'],
-        topicName: 'projects/YOUR_PROJECT/topics/YOUR_TOPIC'
-      }
+        topicName: 'projects/YOUR_PROJECT/topics/YOUR_TOPIC',
+      },
     });
     Logger.log(res);
   } catch (e) {
-    Logger.log("ERROR: " + e);
+    Logger.log('ERROR: ' + e);
   }
 }
 
+// ------------------ Delete SMS after 150 days (cleanup) ------------------
+function cleanupExpiredSms() {
+  const ss = SpreadsheetApp.openById(SMS_SHEET_ID);
+  const sheet = ss.getSheetByName(SHEET_NAME);
+
+  const DAYS_TO_KEEP = 150;
+  const now = new Date();
+  const cutoff = new Date(now.getTime() - DAYS_TO_KEEP * 24 * 60 * 60 * 1000);
+
+  const lastRow = sheet.getLastRow();
+  if (lastRow < 2) return;
+
+  // created_at = 4. kolon
+  const createdAtValues = sheet.getRange(2, 4, lastRow - 1, 1).getValues();
+
+  const rowsToDelete = [];
+
+  createdAtValues.forEach((row, i) => {
+    const createdAt = row[0];
+    if (createdAt instanceof Date && createdAt < cutoff) {
+      rowsToDelete.push(i + 2);
+    }
+  });
+
+  // When deleting rows going in REVERSE order is essential
+  rowsToDelete.reverse().forEach(r => sheet.deleteRow(r));
+
+  Logger.log(
+    'cleanupExpiredSms: number of deleted records = ' + rowsToDelete.length
+  );
+}
+
+// ------------------ SMS duplicate kontrol için hash ------------------
+function generateSmsHash(from, text, date) {
+  const raw = `${from}|${text}|${date}`;
+  const bytes = Utilities.computeDigest(Utilities.DigestAlgorithm.SHA_256, raw);
+  return bytes.map(b => ('0' + (b & 0xff).toString(16)).slice(-2)).join('');
+}
