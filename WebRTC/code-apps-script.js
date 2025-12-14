@@ -38,6 +38,28 @@ function doPost(e) {
   }
 }
 
+// ------------------ Manuel doPost testi ------------------
+function testDoPostManuel() {
+  // Örnek push verisi (Pub/Sub mesajını simüle ediyor)
+  const exampleEvent = {
+    postData: {
+      contents: JSON.stringify({
+        message: {
+          data: Utilities.base64Encode(
+            JSON.stringify({
+              historyId: '1234567890', // Örnek historyId
+            })
+          ),
+        },
+      }),
+    },
+  };
+
+  // Ana doPost fonksiyonunu çağır
+  const result = doPost(exampleEvent);
+  Logger.log('doPost manuel sonucu: ' + result.getContent());
+}
+
 // --------------- Gelen sms etiketli e-postaları işleyen fonksiyon ---------------
 function processNewSmsEmails() {
   const labelName = 'sms-forward';
