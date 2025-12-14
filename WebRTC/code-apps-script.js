@@ -263,30 +263,14 @@ function generateSmsHash(from, text, date) {
 function doGet(e) {
   const ss = SpreadsheetApp.openById(SMS_SHEET_ID);
   const sheet = ss.getSheetByName(SHEET_NAME);
-
-  const since = e.parameter.since ? new Date(e.parameter.since) : null;
-
-  const lastRow = sheet.getLastRow();
-  if (lastRow < 2) {
-    return ContentService.createTextOutput('[]').setMimeType(
-      ContentService.MimeType.JSON
-    );
-  }
-
-  const values = sheet.getRange(2, 1, lastRow - 1, 4).getValues();
-
-  const rows = values
-    .filter(r => {
-      if (!since) return true;
-      return r[2] && new Date(r[2]) > since;
-    })
-    .map(r => ({
-      from: r[0],
-      body: r[1],
-      date: r[2],
-      created_at: r[3],
-    }));
-
+  const data = sheet.getDataRange().getValues();
+  const headers = data.shift();
+  const rows = data.map(r => ({
+    from: r[0],
+    body: r[1],
+    date: r[2],
+    created_at: r[3],
+  }));
   return ContentService.createTextOutput(JSON.stringify(rows)).setMimeType(
     ContentService.MimeType.JSON
   );
