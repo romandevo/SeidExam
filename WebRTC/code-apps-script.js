@@ -125,6 +125,68 @@ function processNewSmsEmails() {
   console.log('processNewSmsEmails: tamamlandi. Threads islemesi bitti.');
 }
 
+function processNewSmsEmailsOptimized() {
+  const labelName = 'sms-forward';
+  const ss = SpreadsheetApp.openById(SMS_SHEET_ID);
+  const sheet = ss.getSheetByName(SHEET_NAME);
+  if (!sheet) {
+    console.error('Sheet bulunamadi:', SHEET_NAME);
+    return;
+  }
+
+  const label = GmailApp.getUserLabelByName(labelName);
+  if (!label) {
+    console.error('Label bulunamadi:', labelName);
+    return;
+  }
+
+  // Tüm threadleri al
+  const threads = label.getThreads();
+  if (!threads || threads.length === 0) {
+    console.log('Yeni etiketli thread yok.');
+    return;
+  }
+
+  const cache = CacheService.getScriptCache();
+
+  threads.forEach(thread => {
+    // Thread hash ile duplicate thread kontrolü (quota azaltmak için)
+    const threadId = thread.getId();
+    if (cache.get('thread_' + threadId)) {
+      console.log('Duplicate thread atlandi:', threadId);
+      return; // Aynı thread daha önce işlenmiş
+    }
+    cache.put('thread_' + threadId, '1', 21600); // 6 saat cache
+
+    // Thread mesajlarını al
+    const messages = thread.getMessages();
+    messages.forEach(msg => {
+      const rawBody = msg.getPlainBody();
+      const parsed = extractSmsData(rawBody);
+
+      if (!parsed) return;
+
+      // SMS hash ile duplicate kontrolü (Sheet’e tekrar yazmamak için)
+      const smsHash = generateSmsHash(parsed.from, parsed.text, parsed.date);
+      if (cache.get(smsHash)) {
+        console.log('Duplicate SMS atlandi:', smsHash);
+        return;
+      }
+      cache.put(smsHash, '1', 21600);
+
+      // Sheet’e yaz
+      sheet.appendRow([parsed.from, parsed.text, parsed.date, new Date()]);
+    });
+
+    // Thread işlendi → etiketi kaldır
+    thread.removeLabel(label);
+  });
+
+  console.log(
+    'processNewSmsEmailsOptimized: tamamlandi. Threads islemesi bitti.'
+  );
+}
+
 // ------------------ SMS içeriğini ayrıştıran yardımcı (parser) ------------------
 function extractSmsData(body) {
   try {
