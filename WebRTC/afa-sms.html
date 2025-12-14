@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Messages</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Bootstrap -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        background: #0b141a;
+        font-family: 'Inter', sans-serif;
+        color: #fff;
+        overflow: hidden;
+      }
+
+      .viewport {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      .app {
+        display: flex;
+        width: 200%;
+        height: 100%;
+        transition: transform 0.3s ease;
+      }
+
+      /* PANELS */
+      .panel {
+        width: 50%;
+        height: 100%;
+        overflow-y: auto;
+      }
+
+      /* CONVERSATIONS */
+      .sidebar {
+        background: #0b141a;
+        border-right: 1px solid #222;
+      }
+
+      .sidebar-header {
+        padding: 16px;
+        font-weight: 600;
+        font-size: 18px;
+        background: #111b21;
+      }
+
+      .conversation {
+        padding: 12px 16px;
+        border-bottom: 1px solid #1f2c33;
+        cursor: pointer;
+      }
+
+      .conversation:hover {
+        background: #1f2c33;
+      }
+
+      .conv-name {
+        font-weight: 500;
+      }
+
+      .conv-preview {
+        font-size: 13px;
+        color: #aaa;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .conv-time {
+        font-size: 11px;
+        color: #aaa;
+      }
+
+      /* CHAT */
+      .chat {
+        background: #0b141a;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .chat-header {
+        padding: 14px;
+        background: #111b21;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        border-bottom: 1px solid #222;
+      }
+
+      .back {
+        cursor: pointer;
+        color: #4ea3ff;
+        font-size: 14px;
+      }
+
+      .chat-title {
+        font-weight: 600;
+      }
+
+      .messages {
+        flex: 1;
+        padding: 16px;
+        overflow-y: auto;
+      }
+
+      .msg {
+        background: #1f2c33;
+        padding: 10px 14px;
+        border-radius: 12px;
+        margin-bottom: 12px;
+        max-width: 80%;
+      }
+
+      .msg-date {
+        font-size: 11px;
+        color: #aaa;
+        text-align: right;
+        margin-top: 4px;
+      }
+
+      /* DESKTOP FIX */
+      @media (min-width: 768px) {
+        .app {
+          width: 100%;
+          transform: none !important;
+        }
+        .panel {
+          width: 50%;
+        }
+        .back {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="viewport">
+      <div class="app" id="app">
+        <!-- CONVERSATIONS -->
+        <div class="panel sidebar">
+          <div class="sidebar-header">💬 Conversations</div>
+          <div id="conversationList"></div>
+        </div>
+
+        <!-- CHAT -->
+        <div class="panel chat">
+          <div class="chat-header">
+            <div class="back" onclick="goBack()">← Back</div>
+            <div class="chat-title" id="chatTitle"></div>
+          </div>
+          <div class="messages" id="messages"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const API_URL =
+        'https://script.google.com/macros/s/AKfycbyzVEieBKGGu5kxBOldarao8ob92Bf-KxXjFpugT_wWIR73OAlqha_T_tmtoHF-Vj8g/exec';
+
+      const app = document.getElementById('app');
+      let conversations = {};
+      let activeFrom = null;
+
+      function groupByFrom(data) {
+        conversations = {};
+        data.forEach(m => {
+          conversations[m.from] ||= [];
+          conversations[m.from].push(m);
+        });
+      }
+
+      function renderConversationList() {
+        const list = document.getElementById('conversationList');
+        list.innerHTML = '';
+
+        Object.entries(conversations)
+          .sort((a, b) => {
+            return new Date(b[1].at(-1).date) - new Date(a[1].at(-1).date);
+          })
+          .forEach(([from, msgs]) => {
+            const last = msgs.at(-1);
+            const el = document.createElement('div');
+            el.className = 'conversation';
+            el.onclick = () => openConversation(from);
+
+            el.innerHTML = `
+              <div class="d-flex justify-content-between">
+                <div class="conv-name">${from}</div>
+                <div class="conv-time">${new Date(
+                  last.date
+                ).toLocaleTimeString()}</div>
+              </div>
+              <div class="conv-preview">${last.body}</div>
+            `;
+            list.appendChild(el);
+          });
+      }
+
+      function openConversation(from) {
+        activeFrom = from;
+        document.getElementById('chatTitle').innerText = from;
+
+        const box = document.getElementById('messages');
+        box.innerHTML = '';
+
+        conversations[from].forEach(m => {
+          const div = document.createElement('div');
+          div.className = 'msg';
+          div.innerHTML = `
+            <div>${m.body}</div>
+            <div class="msg-date">${new Date(m.date).toLocaleString()}</div>
+          `;
+          box.appendChild(div);
+        });
+
+        box.scrollTop = box.scrollHeight;
+        app.style.transform = 'translateX(-50%)';
+      }
+
+      function goBack() {
+        app.style.transform = 'translateX(0)';
+      }
+
+      function load() {
+        fetch(API_URL)
+          .then(r => r.json())
+          .then(data => {
+            groupByFrom(data);
+            renderConversationList();
+          });
+      }
+
+      load();
+      setInterval(load, 5000);
+    </script>
+  </body>
+</html>
