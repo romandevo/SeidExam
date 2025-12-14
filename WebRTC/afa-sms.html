@@ -52,11 +52,33 @@
         border-right: 1px solid #222;
       }
 
-      .sidebar-header {
-        padding: 16px;
+      .sidebar-header,
+      .chat-header {
+        height: 56px;
+        padding: 0 16px;
+        display: flex;
+        align-items: center;
+        background: #111b21;
         font-weight: 600;
         font-size: 18px;
-        background: #111b21;
+        border-bottom: 1px solid #222;
+      }
+
+      .chat-header {
+        position: relative;
+      }
+
+      .chat-title {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        font-weight: 600;
+        white-space: nowrap;
+
+        max-width: 50%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-align: center;
       }
 
       .conversation {
@@ -93,29 +115,19 @@
         flex-direction: column;
       }
 
-      .chat-header {
-        padding: 14px;
-        background: #111b21;
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        border-bottom: 1px solid #222;
-      }
-
       .back {
         cursor: pointer;
         color: #4ea3ff;
         font-size: 14px;
       }
 
-      .chat-title {
-        font-weight: 600;
-      }
-
       .messages {
         flex: 1;
         padding: 16px;
         overflow-y: auto;
+
+        overscroll-behavior-y: contain;
+        -webkit-overflow-scrolling: touch;
       }
 
       .msg {
@@ -124,6 +136,19 @@
         border-radius: 12px;
         margin-bottom: 12px;
         max-width: 80%;
+
+        animation: pop 0.2s ease-out;
+      }
+
+      @keyframes pop {
+        from {
+          transform: scale(0.96);
+          opacity: 0.5;
+        }
+        to {
+          transform: scale(1);
+          opacity: 1;
+        }
       }
 
       .msg-date {
