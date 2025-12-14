@@ -16,6 +16,11 @@
       rel="stylesheet"
     />
 
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%234ea3ff'><path d='M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5.414a1 1 0 0 0-.707.293L2.707 16H2a2 2 0 0 1-2-2V4z'/></svg>"
+    />
+
     <style>
       body {
         margin: 0;
@@ -52,7 +57,15 @@
         border-right: 1px solid #222;
       }
 
-      .sidebar-header,
+      .sidebar-header {
+        padding: 16px;
+        font-weight: 600;
+        font-size: 18px;
+        background: #111b21;
+        text-align: center;
+        letter-spacing: 0.3px;
+      }
+
       .chat-header {
         height: 56px;
         padding: 0 16px;
@@ -171,6 +184,33 @@
           display: none;
         }
       }
+
+      .loading-no-animation {
+        text-align: center;
+        margin-top: 40px;
+        color: #8a8a8a;
+        font-size: 14px;
+      }
+
+      .loading {
+        text-align: center;
+        margin-top: 40px;
+        color: #8a8a8a;
+        font-size: 14px;
+        animation: pulse 1.2s infinite ease-in-out;
+      }
+
+      @keyframes pulse {
+        0% {
+          opacity: 0.3;
+        }
+        50% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0.3;
+        }
+      }
     </style>
   </head>
 
@@ -204,7 +244,13 @@
 
       function groupByFrom(data) {
         conversations = {};
+        const seen = new Set();
+
         data.forEach(m => {
+          const key = `${m.from}|${m.body}|${m.date}`;
+          if (seen.has(key)) return;
+          seen.add(key);
+
           conversations[m.from] ||= [];
           conversations[m.from].push(m);
         });
@@ -270,6 +316,9 @@
             renderConversationList();
           });
       }
+
+      const list = document.getElementById('conversationList');
+      list.innerHTML = `<div class="loading">Messages are loading...</div>`;
 
       load();
       setInterval(load, 5000);
