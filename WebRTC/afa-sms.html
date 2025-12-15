@@ -236,11 +236,12 @@
 
     <script>
       const API_URL =
-        'https://script.google.com/macros/s/AKfycbzV20Xxqrm1t2tUyEp1NfgNJkgSuB8qd5yT6DOlh8WQapuH3-Dj9F2o9zovoiXKEYh5/exec';
+        'https://script.google.com/macros/s/AKfycbwg1-IhKHUvusSkfT_TcA1m3Na0QlZ1ZLCMK1NIW49I-HwZCjmCpA8PQWNb0Lrsn0xk/exec';
 
       const app = document.getElementById('app');
       let conversations = {};
       let activeFrom = null;
+      let lastFetch = null;
 
       function groupByFrom(data) {
         conversations = {};
@@ -309,11 +310,17 @@
       }
 
       function load() {
-        fetch(API_URL)
+        const url = lastFetch
+          ? `${API_URL}?since=${encodeURIComponent(lastFetch)}`
+          : API_URL;
+
+        fetch(url)
           .then(r => r.json())
           .then(data => {
-            groupByFrom(data);
-            renderConversationList();
+            if (data.length) {
+              lastFetch = data[data.length - 1].date;
+              mergeIntoUI(data);
+            }
           });
       }
 

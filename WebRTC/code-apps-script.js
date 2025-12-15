@@ -345,17 +345,30 @@ function generateSmsHash(from, text, date) {
 }
 
 function doGet(e) {
-  const ss = SpreadsheetApp.openById(SMS_SHEET_ID);
-  const sheet = ss.getSheetByName(SHEET_NAME);
-  const data = sheet.getDataRange().getValues();
-  const headers = data.shift();
-  const rows = data.map(r => ({
-    from: r[0],
-    body: r[1],
-    date: r[2],
-    created_at: r[3],
-  }));
-  return ContentService.createTextOutput(JSON.stringify(rows)).setMimeType(
+  const since = e.parameter.since ? new Date(e.parameter.since) : null;
+
+  const sheet =
+    SpreadsheetApp.openById(SMS_SHEET_ID).getSheetByName(SHEET_NAME);
+
+  const lastRow = sheet.getLastRow();
+  if (lastRow < 2) return json([]);
+
+  const values = sheet.getRange(2, 1, lastRow - 1, 4).getValues();
+
+  const rows = values
+    .filter(r => !since || new Date(r[2]) > since)
+    .map(r => ({
+      from: r[0],
+      body: r[1],
+      date: r[2],
+      created_at: r[3],
+    }));
+
+  return json(rows);
+}
+
+function json(obj) {
+  return ContentService.createTextOutput(JSON.stringify(obj)).setMimeType(
     ContentService.MimeType.JSON
   );
 }
