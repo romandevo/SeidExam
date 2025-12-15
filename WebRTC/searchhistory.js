@@ -259,3 +259,22 @@ function generateSmsHash(from, text, date) {
   const bytes = Utilities.computeDigest(Utilities.DigestAlgorithm.SHA_256, raw);
   return bytes.map(b => ('0' + (b & 0xff).toString(16)).slice(-2)).join('');
 }
+
+function doGet(e) {
+  const ss = SpreadsheetApp.openById(SMS_SHEET_ID);
+  const sheet = ss.getSheetByName(SHEET_NAME);
+
+  const data = sheet.getDataRange().getValues();
+  const headers = data.shift();
+
+  const rows = data.map(r => ({
+    from: r[0],
+    body: r[1],
+    date: r[2],
+    created_at: r[3],
+  }));
+
+  return ContentService.createTextOutput(JSON.stringify(rows)).setMimeType(
+    ContentService.MimeType.JSON
+  );
+}
