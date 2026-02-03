@@ -132,8 +132,8 @@ function getEndpoint(locationPath) {
     endpoint = './zad2.json';
   }
 
-  return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
-  // return endpoint;
+  // return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
+  return endpoint;
 }
 
 // Pass the pathname to the function and store the result
@@ -332,7 +332,7 @@ function addAnswerSelectionListeners() {
         // Deselect previously selected answer for the same question
         document
           .querySelectorAll(
-            `.list-group-item[data-question="${questionIndex}"]`
+            `.list-group-item[data-question="${questionIndex}"]`,
           )
           .forEach(btn => {
             btn.classList.remove('active');
@@ -378,7 +378,7 @@ document
 document.getElementById('checkAnswersBtn').addEventListener('click', () => {
   // Assuming the modal with id "exampleModalCenter" corresponds to the "Scrolling long content"
   const modal = new bootstrap.Modal(
-    document.getElementById('exampleModalCenter')
+    document.getElementById('exampleModalCenter'),
   );
   modal.show();
 });
@@ -391,7 +391,7 @@ document
 document.getElementById('doneExam').addEventListener('click', () => {
   // Assuming the modal with id "exampleModalCenter" corresponds to the "Scrolling long content"
   const modal = new bootstrap.Modal(
-    document.getElementById('exampleModalLong')
+    document.getElementById('exampleModalLong'),
   );
   modal.show();
 });
@@ -435,7 +435,7 @@ function checkAnswers() {
       .textContent.trim();
     const correctAnswer = questionBlock.getAttribute('data-correct-answer');
     const selectedButton = questionBlock.querySelector(
-      '.list-group-item.active'
+      '.list-group-item.active',
     );
 
     if (!selectedButton) {
@@ -477,8 +477,8 @@ function checkAnswers() {
     totalPoint > 0 && totalPoint < 17
       ? 'Kəsildin...'
       : totalPoint <= 0
-      ? 'Kəsildin...'
-      : 'Keçdin, təbriklər!';
+        ? 'Kəsildin...'
+        : 'Keçdin, təbriklər!';
 
   // Display results in the modal
   const modalBody = document.getElementById('modalBody');
@@ -496,7 +496,7 @@ function checkAnswers() {
 
   // Trigger the modal display
   const modal = new bootstrap.Modal(
-    document.getElementById('exampleModalCenter')
+    document.getElementById('exampleModalCenter'),
   );
   modal.show();
 }
