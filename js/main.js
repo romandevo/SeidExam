@@ -132,8 +132,8 @@ function getEndpoint(locationPath) {
     endpoint = './zad2.json';
   }
 
-  // return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
-  return endpoint;
+  return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
+  // return endpoint;
 }
 
 // Pass the pathname to the function and store the result
