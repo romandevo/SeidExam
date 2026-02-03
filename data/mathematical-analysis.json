@@ -5,11 +5,11 @@
     "questionDown": "$$f(x) = \\sqrt{x-2} + \\sqrt{5-x}$$",
     "correctAnswer": "A",
     "answers": [
-      { "A": "domain[2;5]" },
-      { "B": "domain(2;5)" },
-      { "C": "domain[2;6]" },
-      { "D": "domain[1;5]" },
-      { "E": "domain[3;5]" }
+      { "A": "[2;5]" },
+      { "B": "(2;5)" },
+      { "C": "[2;+∞)" },
+      { "D": "(-∞;5]" },
+      { "E": "[2;5]" }
     ]
   },
   {
@@ -18,310 +18,24 @@
     "questionDown": "$$f(x) = \\sqrt{3-x} + \\sqrt{x-1}$$",
     "correctAnswer": "A",
     "answers": [
-      { "A": "domain[1;3]" },
-      { "B": "domain(1;3)" },
-      { "C": "domain[0;3]" },
-      { "D": "domain[1;4]" },
-      { "E": "domain[2;3]" }
+      { "A": "[1;3]" },
+      { "B": "(1;3)" },
+      { "C": "[1;+∞)" },
+      { "D": "(1;3]" },
+      { "E": "(-∞;3)" }
     ]
   },
   {
     "questionNumber": 3,
     "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{\\frac{-x}{x+1}}$$",
+    "questionDown": "$$f(x) = \\frac{\\sqrt{4-x}}{\\sqrt{x+1}}$$",
     "correctAnswer": "A",
     "answers": [
-      { "A": "domain(-1;4]" },
-      { "B": "domain(-1;5]" },
-      { "C": "domain[-1;4]" },
-      { "D": "domain(-2;4]" },
-      { "E": "domain(-1;3]" }
-    ]
-  },
-  {
-    "questionNumber": 4,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{x^2-2x-3}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "(-∞;-1];[3;+∞)" },
-      { "B": "(-∞;0];[3;+∞)" },
-      { "C": "(-∞;-2];[3;+∞)" },
-      { "D": "(-∞;-1];[2;+∞)" },
-      { "E": "(-∞;-1];[4;+∞)" }
-    ]
-  },
-  {
-    "questionNumber": 5,
-    "questionUp": "Calculate the product f(1)∙f(3) for the function",
-    "questionDown": "$$f(x) = \\begin{cases} -2x+1, & x \\leq 2 \\\\ x^2, & x > 2 \\end{cases}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "-9" },
-      { "B": "-8" },
-      { "C": "-10" },
-      { "D": "-7" },
-      { "E": "-6" }
-    ]
-  },
-  {
-    "questionNumber": 6,
-    "questionUp": "Calculate the product f(-1)∙f(2) for the function",
-    "questionDown": "$$f(x) = \\begin{cases} 3x-1, & x \\leq -1 \\\\ x^2+1, & x > -1 \\end{cases}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "-20" },
-      { "B": "-18" },
-      { "C": "-22" },
-      { "D": "-19" },
-      { "E": "-21" }
-    ]
-  },
-  {
-    "questionNumber": 7,
-    "questionUp": "Calculate the product f(-2)∙f(0) for the function",
-    "questionDown": "$$f(x) = \\begin{cases} x^2-1, & x \\leq -1 \\\\ 4x+3, & x > -1 \\end{cases}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "9" },
-      { "B": "8" },
-      { "C": "10" },
-      { "D": "7" },
-      { "E": "11" }
-    ]
-  },
-  {
-    "questionNumber": 8,
-    "questionUp": "Calculate the product f(3)∙f(-1) for the function",
-    "questionDown": "$$f(x) = \\begin{cases} \\frac{x-1}{x+1}, & x \\leq 2 \\\\ x^2, & x > 2 \\end{cases}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "-6" },
-      { "B": "-5" },
-      { "C": "-7" },
-      { "D": "-8" },
-      { "E": "-4" }
-    ]
-  },
-  {
-    "questionNumber": 9,
-    "questionUp": "Calculate the product f(-2)∙f(1) for the function",
-    "questionDown": "$$f(x) = \\sqrt{2-x} + \\frac{3x+2}{x^2}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "10" },
-      { "B": "9" },
-      { "C": "11" },
-      { "D": "8" },
-      { "E": "12" }
-    ]
-  },
-  {
-    "questionNumber": 10,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\frac{x-2}{1-x^2}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "(-∞;-1]U[-1;1]U[1;+∞)" },
-      { "B": "(-∞;-1)U(-1;1)U(1;+∞)" },
-      { "C": "(-∞;-2]U[-2;2]U[2;+∞)" },
-      { "D": "(-∞;-1)U(-2;1]U[1;+∞)" },
-      { "E": "(-∞;-1]U[-2;1]U[1;+∞)" }
-    ]
-  },
-  {
-    "questionNumber": 11,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\frac{x-2}{16-x^2}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "(-∞;-4)U(-4;4)U(4;+∞)" },
-      { "B": "(-∞;-3)U(-4;3)U(3;+∞)" },
-      { "C": "(-∞;-5)U(-4;5)U(5;+∞)" },
-      { "D": "(-∞;-4)U(-5;4)U(4;+∞)" },
-      { "E": "(-∞;-4)U(-4;3)U(4;+∞)" }
-    ]
-  },
-  {
-    "questionNumber": 12,
-    "questionUp": "Find the range of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{x+10}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "[0;+∞)" },
-      { "B": "(-10;+∞)" },
-      { "C": "[10;+∞)" },
-      { "D": "(-∞;+10]" },
-      { "E": "(-∞;0]" }
-    ]
-  },
-  {
-    "questionNumber": 13,
-    "questionUp": "Find the range of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{x-10}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "Range [0;+∞)" },
-      { "B": "Range (-10;+∞)" },
-      { "C": "Range [10;+∞)" },
-      { "D": "Range (-∞;+10]" },
-      { "E": "Range (-∞;0]" }
-    ]
-  },
-  {
-    "questionNumber": 14,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{4-x^2}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "[-2;2]" },
-      { "B": "(-2;2)" },
-      { "C": "(-∞;2]" },
-      { "D": "[-2;+∞)" },
-      { "E": "(-2;2]" }
-    ]
-  },
-  {
-    "questionNumber": 15,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{x^2 - 9}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "(-∞;3]U[3;+∞)" },
-      { "B": "(-∞;3)U(3;+∞)" },
-      { "C": "(-∞;4]U[4;+∞)" },
-      { "D": "(-∞;2]U[2;+∞)" },
-      { "E": "(-∞;3]U(3;+∞)" }
-    ]
-  },
-  {
-    "questionNumber": 16,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$y = \\sqrt{x - 2} + \\sqrt{2 - x}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "x = 2" },
-      { "B": "x ≤ 2" },
-      { "C": "x > 2" },
-      { "D": "x < 2" },
-      { "E": "x ≥ 2" }
-    ]
-  },
-  {
-    "questionNumber": 17,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$y = \\frac{4}{\\sqrt{1 - x^2}}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "(-1;1)" },
-      { "B": "(-1;1]" },
-      { "C": "[-1;1]" },
-      { "D": "(-2;2)" },
-      { "E": "(-1.5;1.5)" }
-    ]
-  },
-  {
-    "questionNumber": 18,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{x} - 3 + \\frac{1}{\\sqrt{3 - x}}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "x = 3" },
-      { "B": "x ≥ 3" },
-      { "C": "x > 3" },
-      { "D": "x < 3" },
-      { "E": "x ≤ 3" }
-    ]
-  },
-  {
-    "questionNumber": 19,
-    "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$y = \\sqrt{x - 3} + \\sqrt{5 - x}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "3 ≤ x ≤ 5" },
-      { "B": "3 < x < 5" },
-      { "C": "3 ≤ x < 5" },
-      { "D": "3 < x ≤ 5" },
-      { "E": "2 ≤ x ≤ 5" }
-    ]
-  },
-  {
-    "questionNumber": 20,
-    "questionUp": "If f(x) = x² and g(x) = eˣ ,",
-    "questionDown": "find f(g(x)) composition function.",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "e²ˣ" },
-      { "B": "eˣ" },
-      { "C": "x²eˣ" },
-      { "D": "2eˣ" },
-      { "E": "e²" }
-    ]
-  },
-  {
-    "questionNumber": 21,
-    "questionUp": "If f(x) = x² and g(x) = x + 1 ,",
-    "questionDown": "find f(g(x)) composition function.",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "x² + 2x + 1" },
-      { "B": "x² + x + 1" },
-      { "C": "x² - 2x + 1" },
-      { "D": "x² + 2x" },
-      { "E": "x² + x" }
-    ]
-  },
-  {
-    "questionNumber": 22,
-    "questionUp": "If f(x) = x² and g(x) = x - 1 ,",
-    "questionDown": "find f(g(x)) composition function.",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "x² - 2x + 1" },
-      { "B": "x² - x + 1" },
-      { "C": "x² + 2x + 1" },
-      { "D": "x² - 2x" },
-      { "E": "x² - x" }
-    ]
-  },
-  {
-    "questionNumber": 23,
-    "questionUp": "Find the inverse of the following function.",
-    "questionDown": "$$f(x) = \\frac{x - 2}{1 - x}, \\quad (x \\neq 1)$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "f'(x)= x+2/ 1+x" },
-      { "B": "f'(x)= x-2/ x+1" },
-      { "C": "f'(x)= x+2/ x-1" },
-      { "D": "f'(x)= x-1/ 1+x" },
-      { "E": "f'(x)= x-2/ 1-x" }
-    ]
-  },
-  {
-    "questionNumber": 24,
-    "questionUp": "Find the inverse of the following function.",
-    "questionDown": "$$f(x) = 7x + 14$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "f'(x) =x-14/ 7" },
-      { "B": "f'(x) =x+14/ 7" },
-      { "C": "f'(x) =x-7/ 14" },
-      { "D": "f'(x) =x+7/ 14" },
-      { "E": "f'(x) =x/ 7-14" }
-    ]
-  },
-  {
-    "questionNumber": 25,
-    "questionUp": "Find the inverse of the following function.",
-    "questionDown": "$$f(x) = \\frac{-x - 2}{3 - x}, \\quad (x \\neq 3)$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "f'(x) = 3x+2/ 1+x" },
-      { "B": "f'(x) = 3x-2/ 1-x" },
-      { "C": "f'(x) = x+2/ 3-x" },
-      { "D": "f'(x) = x-2/ 3+x" },
-      { "E": "f'(x) = x-3/ x+2" }
+      { "A": "(-1;4]" },
+      { "B": "(-1;4)" },
+      { "C": "[-1;4]" },
+      { "D": "(-1;+∞)" },
+      { "E": "(-∞;4)" }
     ]
   }
 ]
