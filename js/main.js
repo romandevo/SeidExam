@@ -51,7 +51,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/mathematical-analysis.html' ||
     locationPath === '/SeidExam/exams/mathematical-analysis.html'
   ) {
-    endpoint = '../data./data/mathematical-analysis.json';
+    endpoint = '../data/mathematical-analysis.json';
   }
 
   //S1-P2 (7 Exams)
