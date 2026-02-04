@@ -2,20 +2,20 @@
   {
     "questionNumber": 1,
     "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{x-2} + \\sqrt{5-x}$$",
+    "questionDown": "$$f(x)=\\sqrt{x-2}+\\sqrt{5-x}$$",
     "correctAnswer": "A",
     "answers": [
       { "A": "[2;5]" },
       { "B": "(2;5)" },
       { "C": "[2;+∞)" },
       { "D": "(-∞;5]" },
-      { "E": "[2;5]" }
+      { "E": "[2;5)" }
     ]
   },
   {
     "questionNumber": 2,
     "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\sqrt{3-x} + \\sqrt{x-1}$$",
+    "questionDown": "$$f(x)=\\sqrt{3-x}+\\sqrt{x-1}$$",
     "correctAnswer": "A",
     "answers": [
       { "A": "[1;3]" },
@@ -28,7 +28,7 @@
   {
     "questionNumber": 3,
     "questionUp": "Find the domain of the following function.",
-    "questionDown": "$$f(x) = \\frac{\\sqrt{4-x}}{\\sqrt{x+1}}$$",
+    "questionDown": "$$f(x)=\\frac{\\sqrt{4-x}}{\\sqrt{x+1}}$$",
     "correctAnswer": "A",
     "answers": [
       { "A": "(-1;4]" },
@@ -36,6 +36,4296 @@
       { "C": "[-1;4]" },
       { "D": "(-1;+∞)" },
       { "E": "(-∞;4)" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$f(x)=\\sqrt{x^2-2x-3}$$",
+    "correctAnswer": "E",
+    "answers": [
+      { "A": "(-∞;-1]∪[3;+∞)" },
+      { "B": "(-∞;-1]" },
+      { "C": "(3;+∞)" },
+      { "D": "(-1;3)" },
+      { "E": "[-1;3]" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionUp": "Calculate the product f(1)·f(3) for the function f(x).",
+    "questionDown": "$$f(x)=\\begin{cases}-2x+1,& x\\le2\\\\x^2,& x>2\\end{cases}$$",
+    "correctAnswer": "D",
+    "answers": [
+      { "A": "-9" },
+      { "B": "9" },
+      { "C": "5" },
+      { "D": "-5" },
+      { "E": "7" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionUp": "Calculate the product f(-1)·f(2) for the function f(x).",
+    "questionDown": "$$f(x)=\\begin{cases}3x-1,& x\\le-1\\\\x^2+1,& x>-1\\end{cases}$$",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "-20" },
+      { "B": "20" },
+      { "C": "10" },
+      { "D": "-10" },
+      { "E": "15" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionUp": "Calculate the product f(-2)·f(0) for the function f(x).",
+    "questionDown": "$$f(x)=\\begin{cases}x^2-1,& x\\le-1\\\\4x+3,& x>-1\\end{cases}$$",
+    "correctAnswer": "B",
+    "answers": [
+      { "A": "9" },
+      { "B": "-3" },
+      { "C": "-15" },
+      { "D": "-9" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionUp": "Calculate the product f(3)·f(-1) for the function f(x).",
+    "questionDown": "$$f(x)=\\begin{cases}2x-1,& x\\le2\\\\\\sqrt{x+1},& x>2\\end{cases}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-6" },
+      { "B": "0" },
+      { "C": "-15" },
+      { "D": "15" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionUp": "Calculate the product f(-2)·f(1) for the function f(x).",
+    "questionDown": "$$f(x)=\\begin{cases}\\sqrt{2-x},& x\\le0\\\\3x+2,& x>0\\end{cases}$$",
+    "correctAnswer": "C",
+    "answers": [
+      { "A": "10" },
+      { "B": "2" },
+      { "C": "-20" },
+      { "D": "-2" },
+      { "E": "-10" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$f(x)=\\frac{x-2}{1-x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;-1)∪(-1;1)∪(1;+∞)" },
+      { "B": "(-∞;-1)∪(1;+∞)" },
+      { "C": "(-∞;+∞)" },
+      { "D": "(-∞;0)∪(1;+∞)" },
+      { "E": "(-∞;-1)∪(-1;1)∪(3;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$f(x)=\\frac{x-2}{16-x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;-4)∪(-4;4)∪(4;+∞)" },
+      { "B": "(-∞;-4)∪(1;+∞)" },
+      { "C": "(-∞;+∞)" },
+      { "D": "(-∞;0)∪(4;+∞)" },
+      { "E": "(-∞;-1)∪(-4;1)∪(3;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionUp": "Find the range of the following function.",
+    "questionDown": "$$f(x)=\\sqrt{x+10}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[0;+∞)" },
+      { "B": "[10;+∞)" },
+      { "C": "(-10;+∞)" },
+      { "D": "(0;+∞)" },
+      { "E": "(-∞;10)" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionUp": "Find the range of the following function.",
+    "questionDown": "$$f(x)=\\sqrt{x-10}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[0;+∞)" },
+      { "B": "(-10;+∞)" },
+      { "C": "(-10;+∞)" },
+      { "D": "(0;10)" },
+      { "E": "(-∞;10)" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$f(x)=\\sqrt{4-x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[-2;2]" },
+      { "B": "[-2;+∞)" },
+      { "C": "(-2;+∞)" },
+      { "D": "(0;2]" },
+      { "E": "(-∞;-2)" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$f(x)=\\sqrt{x^2-9}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;-3] ∪ [3;+∞)" },
+      { "B": "[3;+∞)" },
+      { "C": "(-∞;-3]" },
+      { "D": "(-3;3)" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$y=\\sqrt{x-2}+\\sqrt{2-x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "{2}" },
+      { "B": "[2;+∞)" },
+      { "C": "(-∞;-2]" },
+      { "D": "(-2;3)" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$y=\\frac{4}{\\sqrt{1-x^2}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-1;1)" },
+      { "B": "[-1;1]" },
+      { "C": "(-∞;-1]" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$f(x)=\\sqrt{x-3}+\\frac{1}{\\sqrt{3-x}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "∅" },
+      { "B": "(3;+∞)" },
+      { "C": "(-∞;-3]" },
+      { "D": "(-3;3)" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionUp": "Find the domain of the following function.",
+    "questionDown": "$$y=\\sqrt{x-3}+\\sqrt{5-x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[3;5]" },
+      { "B": "[3;+∞)" },
+      { "C": "(-∞;5]" },
+      { "D": "(3;5)" },
+      { "E": "(-∞;3)" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionUp": "If f(x)=x^2 and g(x)=e^x, find f(g(x)) composition function.",
+    "questionDown": "$$f(g(x))=?$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "e^{2x}" },
+      { "B": "e^x" },
+      { "C": "e^{x^2}" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionUp": "If f(x)=x² and g(x)=x+1, find f(g(x)) composition function.",
+    "questionDown": "$$f(g(x))$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x²+2x+1" },
+      { "B": "x+1" },
+      { "C": "x²-2x+1" },
+      { "D": "x²+2x" },
+      { "E": "2x²+x+1" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionUp": "If f(x)=x² and g(x)=x-1, find f(g(x)) composition function.",
+    "questionDown": "$$f(g(x))$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x²-2x+1" },
+      { "B": "x²+1" },
+      { "C": "x²+2x+1" },
+      { "D": "x²+x" },
+      { "E": "2x²-x+1" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionUp": "Find the inverse of the following function.",
+    "questionDown": "$$f(x)=\\frac{x-2}{1-x} \\quad (x\\neq1)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x+2 / x+1" },
+      { "B": "x+2 / 1-x" },
+      { "C": "x-2 / 1-x" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionUp": "Find the inverse of the following function.",
+    "questionDown": "$$f(x)=7x+14$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/7 x - 2" },
+      { "B": "7(x-2)" },
+      { "C": "3(x-2)" },
+      { "D": "1/3 x - 2" },
+      { "E": "1/7 x" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionUp": "Find the inverse of the following function.",
+    "questionDown": "$$f(x)=\\frac{x-2}{3-x} \\quad (x\\neq3)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3x+2 / 1+x" },
+      { "B": "x+2 / 1-x" },
+      { "C": "x-2 / 1+x" },
+      { "D": "3x-2 / 1-x" },
+      { "E": "-x+2 / 1+x" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionUp": "Find the inverse of the following function.",
+    "questionDown": "$$f(x)=\\frac{1}{4}x+2$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "7x-2" },
+      { "B": "7(x-2)" },
+      { "C": "1/4 (x-2)" },
+      { "D": "1/3 (x-2)" },
+      { "E": "None of these" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionUp": "Find the inverse of the following function.",
+    "questionDown": "$$f(x)=\\frac{2x+3}{2-x} \\quad (x\\neq2)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2x-3 / 2+x" },
+      { "B": "2x+2 / 1+x" },
+      { "C": "x-3 / 1+3x" },
+      { "D": "3x-2 / 1+x" },
+      { "E": "3x+2 / 1+x" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionUp": "Find the limit of sequence.",
+    "questionDown": "$$\\lim_{n \\to \\infty} \\frac{2-n}{3n+1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/3" },
+      { "B": "1/5" },
+      { "C": "0" },
+      { "D": "2/3" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionUp": "Find the limit of sequence.",
+    "questionDown": "$$\\lim_{n \\to \\infty} \\frac{3n-1}{2n+1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3/2" },
+      { "B": "1" },
+      { "C": "0" },
+      { "D": "2/3" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionUp": "Find the limit of sequence.",
+    "questionDown": "$$\\lim_{n \\to \\infty} \\frac{2n-1}{n^2-3n+4}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "2" },
+      { "C": "2/3" },
+      { "D": "1/2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionUp": "Find the limit of sequence.",
+    "questionDown": "$$\\lim_{n \\to \\infty} \\frac{2n^2-5n+1}{3n^2+2n-4}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/3" },
+      { "B": "1/4" },
+      { "C": "3/2" },
+      { "D": "5/2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionUp": "Find the limit of sequence.",
+    "questionDown": "$$\\lim_{n \\to \\infty} \\frac{n^2+2n-1}{4n^2-n+2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4" },
+      { "B": "-2" },
+      { "C": "2" },
+      { "D": "1/2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionUp": "Find the limit of sequence.",
+    "questionDown": "$$\\lim_{n \\to \\infty} \\frac{2n^2-n+1}{n^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "-1" },
+      { "C": "-2" },
+      { "D": "1/2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionUp": "Find the limit of sequence.",
+    "questionDown": "$$\\lim_{n \\to \\infty} \\left(1+\\frac{1}{n}\\right)^n$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "e" },
+      { "B": "1" },
+      { "C": "2e" },
+      { "D": "2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionUp": "Find the limit of sequence.",
+    "questionDown": "$$\\lim_{n \\to \\infty} \\frac{2n^2+3n+1}{n^2+1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "-3" },
+      { "C": "0" },
+      { "D": "1/2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to \\infty} \\frac{2x-1}{3x+4}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/3" },
+      { "B": "0" },
+      { "C": "3/2" },
+      { "D": "1/4" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to \\infty} \\frac{3-2x}{4+5x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2/5" },
+      { "B": "1/4" },
+      { "C": "5/2" },
+      { "D": "1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to \\infty} \\frac{x^2-x+4}{6x^2-2x+1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/6" },
+      { "B": "5" },
+      { "C": "1/2" },
+      { "D": "1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to -\\infty} \\frac{10x^2 - 7x + 1}{5x^2 + x - 1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "-7" },
+      { "C": "1/2" },
+      { "D": "7" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to \\infty} \\frac{1 + x - 2x^2}{2 - x + x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2" },
+      { "B": "-1" },
+      { "C": "1/2" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to -\\infty} \\frac{1 + x}{-x^2 - x - 1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "-1" },
+      { "C": "1/2" },
+      { "D": "1" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{n \\to \\infty} (\\sqrt{n+1} - \\sqrt{n})$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "+∞" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to +\\infty} (\\sqrt{x+1} - \\sqrt{x})$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "+∞" },
+      { "D": "2" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to -2} \\frac{x^2 + x + 3}{x + 1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "5" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to -3} \\frac{x^2 - 9}{x + 3}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-6" },
+      { "B": "-4" },
+      { "C": "7" },
+      { "D": "2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 2} \\frac{x - 2}{x^2 + x - 6}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/5" },
+      { "B": "1/4" },
+      { "C": "-1" },
+      { "D": "0" },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 2} \\frac{x^3 - 8}{x - 2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "12" },
+      { "B": "0" },
+      { "C": "5" },
+      { "D": "-2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to -2} \\frac{x^3 + 8}{x + 2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "12" },
+      { "B": "0" },
+      { "C": "-1" },
+      { "D": "-2" },
+      { "E": "5" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to -3} \\frac{x^2 + 2x - 3}{x^2 + 5x + 6}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4" },
+      { "B": "2" },
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 1} \\frac{x^3 - 1}{x^2 - 1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3/2" },
+      { "B": "1" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 1} \\frac{x^3 + 1}{x^2 - 1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3/2" },
+      { "B": "3/2" },
+      { "C": "2/3" },
+      { "D": "-2/3" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 1} \\frac{\\sqrt{x} - 1}{x - 1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "1/2" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\sqrt{1+x} - 1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "1/2" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 2} \\frac{x - 2}{x^2 + 3x - 10}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/7" },
+      { "B": "-1/7" },
+      { "C": "7" },
+      { "D": "1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 3} \\frac{\\sqrt{1+x} - 2}{x - 3}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4" },
+      { "B": "1/3" },
+      { "C": "1" },
+      { "D": "2/3" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 1} \\frac{\\sin(\\pi x)}{x - 1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "π" },
+      { "C": "1" },
+      { "D": "1/2" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to \\frac{1}{2}} \\frac{\\sin(\\pi x)}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "π" },
+      { "C": " " },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to \\frac{\\pi}{6}} \\frac{\\sin x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "1/3" },
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 1} \\frac{\\cos(\\pi x)}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1" },
+      { "B": "1/2" },
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to \\frac{\\pi}{2}} \\frac{\\sin x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/π" },
+      { "B": "π/2" },
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to \\frac{\\pi}{2}} \\frac{\\cos x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "π/2" },
+      { "C": "π" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\sin 3x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "0" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\sin 5x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "2" },
+      { "C": "0" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\sin 2x}{\\sin 3x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/3" },
+      { "B": "3/2" },
+      { "C": "-2/3" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\tan 5x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "5" },
+      { "B": "-5" },
+      { "C": "0" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\sin 10x}{\\sin 5x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "1/2" },
+      { "D": "0" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\cos 3x}{\\cos x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "3" },
+      { "C": "-3" },
+      { "D": "0" },
+      { "E": "1/3" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{1 - \\cos 2x}{x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "-2" },
+      { "D": "0" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\sin x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4" },
+      { "B": "4" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{1 - \\cos 2x}{x \\sin x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1/2" },
+      { "C": "-2" },
+      { "D": "0" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{x}{\\sin 4x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4" },
+      { "B": "-1/4" },
+      { "C": "-1" },
+      { "D": "0" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\sin\\left(\\frac{2x}{3}\\right)}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/3" },
+      { "B": "-2/3" },
+      { "C": "1" },
+      { "D": "-3/2" },
+      { "E": "3/2" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\tan 3x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "-3" },
+      { "C": "1/3" },
+      { "D": "1" },
+      { "E": "-1/3" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{1 - \\cos 2x}{\\sin x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "-1/2" },
+      { "C": "-1" },
+      { "D": "1" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 1} \\left( \\frac{1}{x-1} - \\frac{2}{x^2-1} \\right)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "-1/2" },
+      { "C": "-1" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to -1} \\left( \\frac{1}{x+1} + \\frac{2}{x^2-1} \\right)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "-1/2" },
+      { "C": "-1" },
+      { "D": "1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionUp": "Limiti hesaplayın.",
+    "questionDown": "$$\\lim_{x \\to 2} \\left( \\frac{1}{x-2} - \\frac{4}{x^2-4} \\right)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4" },
+      { "B": "-1/4" },
+      { "C": "-1" },
+      { "D": "1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionUp": "Limiti hesaplayın.",
+    "questionDown": "$$\\lim_{x \\to -2} \\left( \\frac{1}{x+2} + \\frac{4}{x^2-4} \\right)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1/4" },
+      { "B": "1/4" },
+      { "C": "-1" },
+      { "D": "1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^{2x}-1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "-2" },
+      { "C": "-1" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^x - 1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "-2" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^{-3x}-1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-3" },
+      { "B": "3" },
+      { "C": "-2" },
+      { "D": "2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^x - 1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "-1/2" },
+      { "C": "-2" },
+      { "D": "2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x\\to 0} \\frac{\\sqrt{1+x}-1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "-1/2" },
+      { "C": "-2" },
+      { "D": "2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x\\to 0} \\frac{\\ln(1+x)}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "-2" },
+      { "D": "-1" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x\\to 0} \\frac{\\ln(1+2x)}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "0" },
+      { "C": "-2" },
+      { "D": "-1" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x\\to 0} \\frac{\\ln(1-3x)}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-3" },
+      { "B": "0" },
+      { "C": "3" },
+      { "D": "-1" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x\\to 0} \\ln(1-5x)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-5" },
+      { "B": "0" },
+      { "C": "5" },
+      { "D": "-1" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x\\to +\\infty} \\left(1+\\frac{1}{x}\\right)^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "e" },
+      { "B": "0" },
+      { "C": "e²" },
+      { "D": "1/e" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionUp": "Find the limit.",
+    "questionDown": "$$\\lim_{x\\to +\\infty} \\left(1-\\frac{1}{x}\\right)^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/e" },
+      { "B": "e" },
+      { "C": "0" },
+      { "D": "e²" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionUp": "Calculate f(-2) for the function.",
+    "questionDown": "$$f(x)=\\frac{1}{2}x^2-x+3$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-3" },
+      { "B": "7" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "-4" }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionUp": "If f(x)=1/3 x^3-x^2+3x-1, calculate f'(-1).",
+    "questionDown": "$$f(x)=\\frac{1}{3}x^3-x^2+3x-1$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6" },
+      { "B": "-5/3" },
+      { "C": "-4" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionUp": "If f(x)=x^4-1/3 x^3+x^2-1, calculate f'(-1).",
+    "questionDown": "$$f(x)=x^4-\\frac{1}{3}x^3+x^2-1$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-7" },
+      { "B": "1/3" },
+      { "C": "2" },
+      { "D": "-3" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionUp": "If f(x)=sin²x, calculate f'(π/4).",
+    "questionDown": "$$f(x)=\\sin^2 x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "1/2" },
+      { "C": "-1" },
+      { "D": "√3/2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionUp": "If f(x)=cos²x, calculate f'(π/4).",
+    "questionDown": "$$f(x)=\\cos^2 x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1" },
+      { "B": "1/2" },
+      { "C": "1" },
+      { "D": "-1/2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=(3x-2)^{10} \\text{ calculate } f'(1).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "30" },
+      { "B": "20" },
+      { "C": "1" },
+      { "D": "10" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=(3x-4)^4 \\text{ calculate } f'(2).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "96" },
+      { "B": "16" },
+      { "C": "48" },
+      { "D": "-96" },
+      { "E": "32" }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=e^{3x-1} \\text{ calculate } f'\\left(\\tfrac{1}{3}\\right).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "-3" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=e^{2x+1} \\text{ calculate } f'\\left(\\tfrac{1}{2}\\right).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2" },
+      { "B": "1" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=e^{x-1} \\text{ calculate } f'(-1).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2" },
+      { "B": "1" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=10^{\\cos x} \\text{ calculate } f'\\left(\\tfrac{\\pi}{2}\\right).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-ln10" },
+      { "B": "1" },
+      { "C": "lg e" },
+      { "D": "ln 10" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=2^{3x-2} \\text{ calculate } f'(1).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6 ln 2" },
+      { "B": "2" },
+      { "C": "3 ln 2" },
+      { "D": "1" },
+      { "E": "ln 2" }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=\\tan(3x) \\text{ calculate } f'\\left(\\tfrac{\\pi}{3}\\right).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "-3" },
+      { "C": "0" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=\\cot(2x) \\text{ calculate } f'\\left(\\tfrac{\\pi}{4}\\right).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2" },
+      { "B": "2" },
+      { "C": "0" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=\\ln(1+3x) \\text{ calculate } f'(1).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3/4" },
+      { "B": "ln 4" },
+      { "C": "-1/2" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=\\ln(1-3x) \\text{ calculate } f'(-1).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-3/4" },
+      { "B": "ln 7" },
+      { "C": "3/4" },
+      { "D": "1/4" },
+      { "E": "-1/4" }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=\\arcsin x \\text{ calculate } f'\\left(\\tfrac{\\sqrt{3}}{2}\\right).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "π/3" },
+      { "C": "-2" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionUp": "",
+    "questionDown": "$$\\text{If } f(x)=\\arccos x \\text{ calculate } f'\\left(\\tfrac{\\sqrt{3}}{2}\\right).$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2" },
+      { "B": "π/3" },
+      { "C": "2" },
+      { "D": "1" },
+      { "E": "-1" }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionUp": "If f(x)=arctg 2x calculate f(-1).",
+    "questionDown": "$$f(x)=\\arctan(2x)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/5" },
+      { "B": "-2/5" },
+      { "C": "2" },
+      { "D": "1" },
+      { "E": "π/2" }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionUp": "If f(x)=arctg 3x calculate f'(-1).",
+    "questionDown": "$$f(x)=\\arctan(3x)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0.3" },
+      { "B": "-0.3" },
+      { "C": "-1" },
+      { "D": "1" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$f(x)=x\\ln x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "lnx + 1" },
+      { "B": "lnx - 1" },
+      { "C": "x + lnx" },
+      { "D": "2lnx" },
+      { "E": "2x - lnx" }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$f(x)=x^2\\ln x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2xlnx + x" },
+      { "B": "xlnx - x" },
+      { "C": "x + 2lnx" },
+      { "D": "2lnx + 2x" },
+      { "E": "x - xlnx" }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$f(x)=xe^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "e^x + xe^x" },
+      { "B": "2e^x + xe^x" },
+      { "C": "x + xe^x" },
+      { "D": "xe^x" },
+      { "E": "2xe^x" }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$f(x)=x^2e^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2xe^x + x^2e^x" },
+      { "B": "2xe^x + xe^x" },
+      { "C": "xe^x + e^x" },
+      { "D": "e^x + x^2e^x" },
+      { "E": "2xe^x + 5" }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$f(x)=x\\sin x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "sinx + xcosx" },
+      { "B": "sinx + xsinx" },
+      { "C": "x + xcosx" },
+      { "D": "1 + xcosx" },
+      { "E": "sinx + cosx" }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$f(x)=x^2\\sin x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2xsinx + x^2cosx" },
+      { "B": "sinx + x^2cosx" },
+      { "C": "2xsinx + x^2sinx" },
+      { "D": "sinx + xcosx" },
+      { "E": "2x + x^2cosx" }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$f(x)=x\\cos x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "cosx - xsinx" },
+      { "B": "cosx + xsinx" },
+      { "C": "x + xcosx" },
+      { "D": "x + xcosx" },
+      { "E": "cosx - sinx" }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$f(x)=x^2\\cos x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2xcosx - x^2sinx" },
+      { "B": "2xcosx + x^2sinx" },
+      { "C": "xcosx - x^2sinx" },
+      { "D": "2xcosx - xsinx" },
+      { "E": "2xcosx - x^2cosx" }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$y = \\frac{x^4}{4} - \\frac{2x^3}{3} + x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^3 - 2x^2 + 1" },
+      { "B": "x^4 - 2x^2 + 1" },
+      { "C": "4x^3 + 2x^2 + 1" },
+      { "D": "x^3 - 2x^2 - 1" },
+      { "E": "x^3 - x^2 + 1" }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$y = x - 2\\sqrt{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 - \\frac{1}{\\sqrt{x}}" },
+      { "B": "1 + \\frac{1}{\\sqrt{x}}" },
+      { "C": "1 - \\frac{1}{2\\sqrt{x}}" },
+      { "D": "1 + \\frac{1}{2\\sqrt{x}}" },
+      { "E": "1 + \\frac{2}{2\\sqrt{x}}" }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$y = x - \\frac{1}{2x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1 + \\frac{1}{x^3}" },
+      { "B": "1 - \\frac{1}{x^3}" },
+      { "C": "1 + \\frac{1}{2x}" },
+      { "D": "1 - \\frac{1}{2x}" },
+      { "E": "1 + \\frac{1}{x^2}" }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$y = \\frac{x}{1 - 2x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{1}{(1 - 2x)^2}" },
+      { "B": "\\frac{1 - 4x}{(1 - 2x)^2}" },
+      { "C": "\\frac{x}{(1 - 2x)^2}" },
+      { "D": "\\frac{1 - x}{(1 - 2x)^2}" },
+      { "E": "\\frac{1 + x}{(1 - 2x)^2}" }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionUp": "Find the derivative of the function.",
+    "questionDown": "$$y = \\arctg(3x)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{3}{1 + 9x^2}" },
+      { "B": "-\\frac{3}{1 + 9x^2}" },
+      { "C": "\\frac{1}{1 + 9x^2}" },
+      { "D": "-\\frac{1}{1 + 9x^2}" },
+      { "E": "\\frac{3}{1 + x^2}" }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$y = \\sin^2 x + \\cos^2 x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "cos 2x" },
+      { "C": "sin 2x" },
+      { "D": "2 sin x" },
+      { "E": "2 cos x" }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionUp": "Find the derivative of the function.",
+    "questionDown": "$$y = \\arcsin x + \\arccos x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "\\frac{2}{\\sqrt{1 - x^2}}" },
+      { "C": "\\frac{1}{\\sqrt{1 - x^2}}" },
+      { "D": "-\\frac{2}{\\sqrt{1 - x^2}}" },
+      { "E": "\\frac{1}{2\\sqrt{1 - x}}" }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionUp": "Find the derivative of the function.",
+    "questionDown": "$$y = \\ln(\\sin x)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ctg x" },
+      { "B": "tg x" },
+      { "C": "-ctg x" },
+      { "D": "-tg x" },
+      { "E": "1 / sin x" }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionUp": "Find the derivative of the following function.",
+    "questionDown": "$$y = \\ln(\\cos x)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-tg x" },
+      { "B": "tg x" },
+      { "C": "ctg x" },
+      { "D": "-ctg x" },
+      { "E": "1 / cos x" }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionUp": "Find the slope of the function at the given point.",
+    "questionDown": "$$y=(3x-1)^4, \\quad x_0=\\frac{1}{2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1.5" },
+      { "B": "0.5" },
+      { "C": "2" },
+      { "D": "-2" },
+      { "E": "-1.5" }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionUp": "Find the slope of the function at the given point.",
+    "questionDown": "$$f(x)=x^2, \\quad x_0=4$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "-4" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionUp": "Find the slope of the function at the given point.",
+    "questionDown": "$$f(x)=x^3, \\quad x_0=2$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "12" },
+      { "B": "0" },
+      { "C": "-2" },
+      { "D": "-1" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionUp": "Find the slope of the function at the given point.",
+    "questionDown": "$$f(x)=\\ln x, \\quad x_0=\\frac{1}{2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1/√3" },
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionUp": "Find the slope of the function at the given point.",
+    "questionDown": "$$f(x)=\\sin x, \\quad x_0=\\frac{\\pi}{3}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "1/√3" },
+      { "C": "-√3" },
+      { "D": "√3" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionUp": "Find the slope of the function at the given point.",
+    "questionDown": "$$f(x)=\\cos x, \\quad x_0=\\frac{\\pi}{6}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1/2" },
+      { "B": "1/2" },
+      { "C": "-√3" },
+      { "D": "0" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionUp": "Find the equation of the tangent line.",
+    "questionDown": "$$f(x)=x^2, \\quad x_0=2$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4x - 4" },
+      { "B": "x - 2" },
+      { "C": "2x - 4" },
+      { "D": "3x + 4" },
+      { "E": "4x" }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionUp": "Find the equation of the normal line.",
+    "questionDown": "$$f(x)=x^2, \\quad x_0=2$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1/4 x + 9/2" },
+      { "B": "1/4 x - 9/2" },
+      { "C": " " },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionUp": "Find the equation of the tangent line.",
+    "questionDown": "$$f(x)=x^3, \\quad x_0=1$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3x - 2" },
+      { "B": "2x - 2" },
+      { "C": "x - 4" },
+      { "D": "x + 2" },
+      { "E": "3x" }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionUp": "Find the equation of the normal line.",
+    "questionDown": "$$f(x)=x^3, \\quad x_0=1$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1/3 x + 5/3" },
+      { "B": "1/3 x - 5/3" },
+      { "C": "1/3 x + 5" },
+      { "D": "-3x" },
+      { "E": "3x" }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionUp": "Find the equation of tangent line to the graph of function f(x)=lnx at the point x₀=e.",
+    "questionDown": "$$f(x)=\\ln x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{1}{e}x" },
+      { "B": "\\frac{1}{e}x-2" },
+      { "C": "ex+2" },
+      { "D": "x+e" },
+      { "E": "ex" }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionUp": "Find the equation of normal line to the graph of function f(x)=lnx at the point x₀=e.",
+    "questionDown": "$$f(x)=\\ln x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-ex+e^2+1" },
+      { "B": "-ex+1" },
+      { "C": "-ex+e+1" },
+      { "D": "x+e-2" },
+      { "E": "2ex" }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionUp": "Find the interval(s) where the function y=2x³-3x² is increasing.",
+    "questionDown": "$$y=2x^3-3x^2$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;0] ∪ [1;+∞)" },
+      { "B": "(-∞;0)" },
+      { "C": "[1;+∞)" },
+      { "D": "[0;1]" },
+      { "E": "(0;1)" }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionUp": "Find the interval(s) where the function y=2x³-3x² is decreasing.",
+    "questionDown": "$$y=2x^3-3x^2$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[0;1]" },
+      { "B": "(-∞;0)" },
+      { "C": "[1;+∞)" },
+      { "D": "(-∞;0] ∪ [1;+∞)" },
+      { "E": "(0;1)" }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionUp": "Find the interval(s) where the function y=x²-6x+7 is increasing.",
+    "questionDown": "$$y=x^2-6x+7$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[3;+∞)" },
+      { "B": "(-∞;3]" },
+      { "C": "[0;+∞)" },
+      { "D": "[-1;3]" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionUp": "Find the interval(s) where the function y=x²-6x+7 is decreasing.",
+    "questionDown": "$$y=x^2-6x+7$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;3]" },
+      { "B": "[3;+∞)" },
+      { "C": "[0;+∞)" },
+      { "D": "[-1;3]" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionUp": "Find the interval(s) where the function y=xe^x is increasing.",
+    "questionDown": "$$y=xe^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[−1;+∞)" },
+      { "B": "(-∞;−1]" },
+      { "C": "[0;+∞)" },
+      { "D": "(-∞;0]" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionUp": "Find the interval(s) where the function y=xe^x is decreasing.",
+    "questionDown": "$$y=xe^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;−1]" },
+      { "B": "[−1;+∞)" },
+      { "C": "[0;+∞)" },
+      { "D": "(-∞;0]" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionUp": "Find the interval(s) where the function y=xe^x is increasing.",
+    "questionDown": "$$y=xe^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;1]" },
+      { "B": "[1;+∞)" },
+      { "C": "[-1;1]" },
+      { "D": "[-1;0]" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionUp": "Find the interval(s) where the function y=xe^x is decreasing.",
+    "questionDown": "$$y=xe^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[1;+∞)" },
+      { "B": "(-∞;1]" },
+      { "C": "[-1;1]" },
+      { "D": "[-1;0]" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionUp": "Find the interval(s) where the function y=2x³-6x²-18x+21 is increasing.",
+    "questionDown": "$$y=2x^3-6x^2-18x+21$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;-1] ∪ [3;+∞)" },
+      { "B": "(-∞;3)" },
+      { "C": "[-1;+∞)" },
+      { "D": "[-1;3]" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionUp": "Find the interval(s) where the function y=2x³-6x²-18x+21 is decreasing.",
+    "questionDown": "$$y=2x^3-6x^2-18x+21$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[-1;3]" },
+      { "B": "(-∞;-1)" },
+      { "C": "[-1;+∞)" },
+      { "D": "[3;+∞)" },
+      { "E": "(-∞;3]" }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionUp": "Find the interval(s) where the function y=x²-4x+10 is increasing.",
+    "questionDown": "$$y=x^2-4x+10$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[2;+∞)" },
+      { "B": "(-∞;2]" },
+      { "C": "[-1;+∞)" },
+      { "D": "(-∞;-2]" },
+      { "E": "[-2;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionUp": "Find the interval(s) where the function is decreasing.",
+    "questionDown": "$$y = x^2 - 4x + 10$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞; 2]" },
+      { "B": "(-2; 2)" },
+      { "C": "[-1; +∞)" },
+      { "D": "[-2; 2]" },
+      { "E": "[-2; +∞)" }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionUp": "Find the interval(s) where the function is increasing.",
+    "questionDown": "$$y = x^2 e^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞; -2] ∪ [0; +∞)" },
+      { "B": "[-2; 0]" },
+      { "C": "[-2; +∞)" },
+      { "D": "(-∞; 0]" },
+      { "E": "(-∞; +∞)" }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionUp": "Find the interval(s) where the function is decreasing.",
+    "questionDown": "$$y = x^2 e^x$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[-2; 0]" },
+      { "B": "(-∞; -2]" },
+      { "C": "[-2; +∞)" },
+      { "D": "(-∞; 2]" },
+      { "E": "[0; +∞)" }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionUp": "Find the interval(s) where the function is increasing.",
+    "questionDown": "$$y = x^2 e^{-x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[0; 2]" },
+      { "B": "[-1; 1]" },
+      { "C": "[2; +∞)" },
+      { "D": "(1; +∞)" },
+      { "E": "[0; +∞)" }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionUp": "Find the interval(s) where the function is decreasing.",
+    "questionDown": "$$y = x^2 e^{-x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞; 0] ∪ [2; +∞)" },
+      { "B": "[-1; 1]" },
+      { "C": "(-∞; 1]" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionUp": "Find the interval(s) where the function is increasing.",
+    "questionDown": "$$y = x^3 - 3x^2 - 9x + 1$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞; -1] ∪ [3; +∞)" },
+      { "B": "(-∞; -1]" },
+      { "C": "[3; +∞)" },
+      { "D": "[-1; 3]" },
+      { "E": "(-∞; +∞)" }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionUp": "Find the interval(s) where the function is decreasing.",
+    "questionDown": "$$y = x^3 - 3x^2 - 9x + 1$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[-1; 3]" },
+      { "B": "(-∞; 3]" },
+      { "C": "[3; +∞)" },
+      { "D": "(-∞; -1]" },
+      { "E": "[-1; +∞)" }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionUp": "Find the interval(s) where the function is increasing.",
+    "questionDown": "$$y = x^3 - 3x^2 - 24x + 3$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞; -2] ∪ [4; +∞)" },
+      { "B": "(-∞; -2]" },
+      { "C": "[4; +∞)" },
+      { "D": "[-2; 4]" },
+      { "E": "[-2; +∞)" }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionUp": "Find the interval(s) where the function is decreasing.",
+    "questionDown": "$$y = x^3 - 3x^2 - 24x + 3$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "[-2; 4]" },
+      { "B": "(-∞; -2]" },
+      { "C": "[4; +∞)" },
+      { "D": "(-∞; 4]" },
+      { "E": "(2; +∞)" }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionUp": "Find maximum point of function.",
+    "questionDown": "$$y = 2x^3 - 3x^2 + 5$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionUp": "Find minimum point of function.",
+    "questionDown": "$$y = 2x^3 - 3x^2 - 4$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 161,
+    "questionUp": "Find minimum point of function.",
+    "questionDown": "$$y = x^2 - 6x + 7$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "0" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 162,
+    "questionUp": "Find maximum point of function.",
+    "questionDown": "$$y = -x^2 + 6x + 7$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "0" },
+      { "C": "-1" },
+      { "D": "2" },
+      { "E": "1" }
+    ]
+  },
+  {
+    "questionNumber": 163,
+    "questionUp": "Find maximum point of function",
+    "questionDown": "$$y = 2x^3 - 6x^2 - 18x + 21$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1" },
+      { "B": "3" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 164,
+    "questionUp": "Find minimum point of function",
+    "questionDown": "$$y = 2x^3 - 6x^2 - 18x + 5$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "-1" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 165,
+    "questionUp": "Find maximum point of function",
+    "questionDown": "$$y = x^3 - 3x^2 - 9x + 4$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1" },
+      { "B": "3" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 166,
+    "questionUp": "Find minimum point of function",
+    "questionDown": "$$y = x^3 - 3x^2 - 9x + 7$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "-1" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 167,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^x - x - 1}{x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 168,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^x - \\cos x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "-1" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 169,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^x - x - 1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "-1" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 170,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^x - \\sin x - 1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "-1" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 171,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^x + \\cos x - 2}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 172,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to \\pi} \\frac{1 + \\cos x}{\\sin x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "1/2" },
+      { "D": "-1" },
+      { "E": "-1/2" }
+    ]
+  },
+  {
+    "questionNumber": 173,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to \\pi/4} \\frac{\\sin x - \\cos x}{\\cos 2x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1/\\sqrt{2}" },
+      { "B": "1/\\sqrt{2}" },
+      { "C": "1/\\sqrt{2}" },
+      { "D": "\\sqrt{2}" },
+      { "E": "-\\sqrt{2}" }
+    ]
+  },
+  {
+    "questionNumber": 174,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\ln(1+x) - x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "-1" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 175,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\ln(\\cos x)}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "1/2" },
+      { "D": "-1" },
+      { "E": "-1/2" }
+    ]
+  },
+  {
+    "questionNumber": 176,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to +\\infty} \\frac{\\ln x}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "e" },
+      { "D": "-1" },
+      { "E": "-e" }
+    ]
+  },
+  {
+    "questionNumber": 177,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{e^{2x}-1}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "1/2" },
+      { "C": "0" },
+      { "D": "-1" },
+      { "E": "e" }
+    ]
+  },
+  {
+    "questionNumber": 178,
+    "questionUp": "Find the limit by using L’Hospital’s rule.",
+    "questionDown": "$$\\lim_{x \\to 0} \\frac{\\ln(1+\\sin x)}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "1/2" },
+      { "C": "0" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 179,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\left(x - \\frac{1}{x}\\right) dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2 x^2 - ln x + C" },
+      { "B": "2x + 1/x + C" },
+      { "C": "1/3 x^3 + 1/x^2 + C" },
+      { "D": "x^3/3 + ln x + C" },
+      { "E": "1/3 x^3 - 1/x^2 + C" }
+    ]
+  },
+  {
+    "questionNumber": 180,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{x+1}{\\sqrt{x}} dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/3 x^(3/2) + 2x^(1/2) + C" },
+      { "B": "3/2 x^(3/2) + 2x^(1/2) + C" },
+      { "C": "2/3 x^(3/2) - 2x^(1/2) + C" },
+      { "D": "3/2 x^(3/2) - 2x^(1/2) + C" },
+      { "E": "2/3 x^(3/2) + sqrt(x) + C" }
+    ]
+  },
+  {
+    "questionNumber": 181,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int (3x-1)^9 dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/30 (3x-1)^10 + C" },
+      { "B": "1/27 (3x-1)^10 + C" },
+      { "C": "1/10 (3x-1)^10 + C" },
+      { "D": "30 (3x-1)^10 + C" },
+      { "E": "24 (3x-1)^8 + C" }
+    ]
+  },
+  {
+    "questionNumber": 182,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{x+2}{x^3} dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ln x - 2/x + C" },
+      { "B": "-ln x + 2/x + C" },
+      { "C": "x - 1/x^2 + C" },
+      { "D": "x ln x + 2/x + C" },
+      { "E": "x - ln x - 2/x + C" }
+    ]
+  },
+  {
+    "questionNumber": 183,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\sqrt{3x+1} dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/9 (3x+1) sqrt(3x+1) + C" },
+      { "B": "1/3 sqrt(3x+1) + C" },
+      { "C": "1/sqrt(3x+1) + C" },
+      { "D": "sqrt(3x+1) + C" },
+      { "E": "1/3 (3x+1)^(3/2) + C" }
+    ]
+  },
+  {
+    "questionNumber": 184,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int (5x+2)^5 dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/30 (5x+2)^6 + C" },
+      { "B": "5 (5x+2)^4 + C" },
+      { "C": "1/6 (5x+2)^6 + C" },
+      { "D": "1/25 (5x+2)^4 + C" },
+      { "E": "(5x+2)^4 + C" }
+    ]
+  },
+  {
+    "questionNumber": 185,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\sqrt{1-2x}\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{1}{3}(1-2x)^{3/2}+C" },
+      { "B": "\\frac{2}{3}(1-2x)^{3/2}+C" },
+      { "C": "-\\frac{2}{3}(1-2x)^{3/2}+C" },
+      { "D": "\\frac{1}{3}\\sqrt{1-2x}+C" },
+      { "E": "-\\frac{1}{3}(1-2x)^{1/2}+C" }
+    ]
+  },
+  {
+    "questionNumber": 186,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{3x+1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{1}{3}\\ln|3x+1|+C" },
+      { "B": "3\\ln|3x+1|+C" },
+      { "C": "\\frac{1}{(3x+1)^2}+C" },
+      { "D": "\\frac{1}{3x+1}+C" },
+      { "E": "\\frac{1}{3}\\ln\\frac{1}{3x+1}+C" }
+    ]
+  },
+  {
+    "questionNumber": 187,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{2x+5}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{1}{2}\\ln|2x+5|+C" },
+      { "B": "2\\ln|2x+5|+C" },
+      { "C": "\\frac{1}{2x+5}+C" },
+      { "D": "-2\\ln|2x+5|+C" },
+      { "E": "\\frac{1}{(2x+5)^2}+C" }
+    ]
+  },
+  {
+    "questionNumber": 188,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\cot x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\ln|\\sin x|+C" },
+      { "B": "-\\ln|\\sin x|+C" },
+      { "C": "\\ln|\\cos x|+C" },
+      { "D": "-\\ln|\\cos x|+C" },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 189,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{1-2x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-\\frac{1}{2}\\ln|1-2x|+C" },
+      { "B": "\\frac{1}{2}\\ln|1-2x|+C" },
+      { "C": "2\\ln|1-2x|+C" },
+      { "D": "-2\\ln|1-2x|+C" },
+      { "E": "\\frac{1}{(1-2x)^2}+C" }
+    ]
+  },
+  {
+    "questionNumber": 190,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\tan x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-\\ln|\\cos x|+C" },
+      { "B": "\\ln|\\cos x|+C" },
+      { "C": "\\ln|\\sin x|+C" },
+      { "D": "-\\ln|\\sin x|+C" },
+      { "E": "\\cot x + C" }
+    ]
+  },
+  {
+    "questionNumber": 191,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\sin^2 x \\cos x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{1}{3}\\sin^3 x + C" },
+      { "B": "\\frac{1}{3}\\cos^3 x + C" },
+      { "C": "-\\frac{1}{3}\\sin^3 x + C" },
+      { "D": "-\\frac{1}{3}\\cos^3 x + C" },
+      { "E": "\\cos^2 x\\sin x + C" }
+    ]
+  },
+  {
+    "questionNumber": 192,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\cos^3 x \\sin x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-\\frac{1}{4}\\cos^4 x + C" },
+      { "B": "\\frac{1}{4}\\cos^4 x + C" },
+      { "C": "-\\frac{1}{4}\\sin^4 x + C" },
+      { "D": "\\frac{1}{4}\\sin^4 x + C" },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 193,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{\\sin x}{1+\\cos^2 x}\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{1}{2\\cos x}+C" },
+      { "B": "\\frac{1}{2\\sin x}+C" },
+      { "C": "\\frac{1}{2\\cos x}+C" },
+      { "D": "\\frac{1}{\\sin x}+C" },
+      { "E": "\\frac{1}{\\cos x}+C" }
+    ]
+  },
+  {
+    "questionNumber": 194,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{\\cos x}{1-\\cos^2 x}\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\frac{1}{2\\sin x}+C" },
+      { "B": "\\frac{1}{2\\sin x}+C" },
+      { "C": "\\frac{1}{\\cos x}+C" },
+      { "D": "\\frac{1}{\\sin x}+C" },
+      { "E": "\\frac{1}{2\\cos x}+C" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{3+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "\\(\\frac{1}{\\sqrt{3}} arctg \\frac{x}{\\sqrt{3}} + C\\)" },
+      { "B": "ln(3+x²)+C" },
+      { "C": "arctg x + C" },
+      { "D": "1/√3 arctg x + C" },
+      { "E": "√3 arctg x + C" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{2+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/√2 arctg x/√2 + C" },
+      { "B": "ln(2+x²)+C" },
+      { "C": "arctg x/√2 + C" },
+      { "D": "1/√2 arctg x + C" },
+      { "E": "√2 arctg x + C" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-4x^2}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2 arcsin 2x + C" },
+      { "B": "1/2 arccos 2x + C" },
+      { "C": "-1/2 arcsin 2x + C" },
+      { "D": "2 arcsin 2x + C" },
+      { "E": "2 arccos x + C" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-9x^2}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/3 arcsin 3x + C" },
+      { "B": "1/3 arccos 3x + C" },
+      { "C": "-1/3 arcsin 3x + C" },
+      { "D": "3 arcsin 3x + C" },
+      { "E": "3 arccos x + C" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int tg^2 x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "tg x + x + C" },
+      { "B": "tg x + C" },
+      { "C": "ctg x + C" },
+      { "D": "ctg x + x + C" },
+      { "E": "tg x + C" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int ctg^2 x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-ctg x - x + C" },
+      { "B": "-ctg x + x + C" },
+      { "C": "ctg x + C" },
+      { "D": "tg x - x + C" },
+      { "E": "tg x + C" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{sin x}{1+cos x} dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ln|1+cos x| + C" },
+      { "B": "ln|1+cos x| + C" },
+      { "C": "ln|1+sin x| + C" },
+      { "D": "sin x (1+cos x) + C" },
+      { "E": "cos x (1+sin x) + C" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{cos x}{1+sin x} dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ln|1+sin x| + C" },
+      { "B": "ln|1+cos x| + C" },
+      { "C": "-ln|1+sin x| + C" },
+      { "D": "sin x (1+cos x) + C" },
+      { "E": "cos x (1+sin x) + C" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{x^2-5x+6}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ln |(x-3)/(x-2)| + C" },
+      { "B": "ln |(x-2)/(x-3)| + C" },
+      { "C": " " },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{x^2+2x-3}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4 ln |(x-1)/(x+3)| + C" },
+      { "B": "1/4 ln |(x+3)/(x-1)| + C" },
+      { "C": "ln(x^2+2x-3)+C" },
+      { "D": "ln |(x-1)/(x+3)| + C" },
+      { "E": "ln |(x+3)/(x-1)| + C" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int ln x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x ln x - x + C" },
+      { "B": "-x ln x + C" },
+      { "C": "-x ln x + x + C" },
+      { "D": "x ln x + C" },
+      { "E": "ln x + C" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int x ln x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2/2 (ln x - 1/2) + C" },
+      { "B": "x^2 ln x + C" },
+      { "C": "x ln x + C" },
+      { "D": "x^2 ln x + C" },
+      { "E": "x^2/2 ln x + C" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{3+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/√3 arctg(x/√3) + C" },
+      { "B": "ln(3+x^2)+C" },
+      { "C": "arctg(x/√3)+C" },
+      { "D": "1/√3 arctg x + C" },
+      { "E": "√3 arctg x + C" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{2+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/√2 arctg(x/√2) + C" },
+      { "B": "ln(2+x^2)+C" },
+      { "C": "arctg(x/√2)+C" },
+      { "D": "1/√2 arctg x + C" },
+      { "E": "√2 arctg x + C" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-4x^2}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2 arcsin(2x) + C" },
+      { "B": "1/2 arccos(2x) + C" },
+      { "C": "-1/2 arcsin(2x) + C" },
+      { "D": "2 arcsin(2x) + C" },
+      { "E": "2 arccos x + C" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-9x^2}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/3 arcsin(3x) + C" },
+      { "B": "1/3 arccos(3x) + C" },
+      { "C": "-1/3 arcsin(3x) + C" },
+      { "D": "3 arcsin(3x) + C" },
+      { "E": "3 arccos x + C" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int tg^2x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "tgx - x + C" },
+      { "B": "tgx + x + C" },
+      { "C": "ctgx - x + C" },
+      { "D": "ctgx + x + C" },
+      { "E": "tgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int ctg^2x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-ctgx - x + C" },
+      { "B": "-ctgx + x + C" },
+      { "C": "ctgx - x + C" },
+      { "D": "tgx - x + C" },
+      { "E": "tgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{sinx}{1+cosx}dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-ln|1+cosx| + C" },
+      { "B": "ln|1+cosx| + C" },
+      { "C": "ln|1+sinx| + C" },
+      { "D": "sinx(1+cosx) + C" },
+      { "E": "cosx(1+sinx) + C" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{cosx}{1+sinx}dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ln|1+sinx| + C" },
+      { "B": "ln|1+cosx| + C" },
+      { "C": "-ln|1+sinx| + C" },
+      { "D": "sinx(1+cosx) + C" },
+      { "E": "cosx(1+sinx) + C" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{x^2-5x+6}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ln|(x-3)/(x-2)| + C" },
+      { "B": "ln|(x-2)/(x-3)| + C" },
+      { "C": "ln(x^2-5x+6)+C" },
+      { "D": "ln|x-2|+C" },
+      { "E": "ln|x-3|+C" }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{x^2+2x-3}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4 ln|(x-1)/(x+3)| + C" },
+      { "B": "1/4 ln|(x+3)/(x-1)| + C" },
+      { "C": "ln(x^2+2x-3)+C" },
+      { "D": "ln|(x-1)/(x+3)| + C" },
+      { "E": "ln|(x+3)/(x-1)| + C" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int lnx\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "xlnx - x + C" },
+      { "B": "-xlnx + C" },
+      { "C": "-xlnx + x + C" },
+      { "D": "xlnx + x + C" },
+      { "E": "lnx + C" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int xlnx\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2/2 (lnx - 1/2) + C" },
+      { "B": "x^2 lnx + C" },
+      { "C": "xlnx + C" },
+      { "D": "-x^2 lnx + C" },
+      { "E": "x^2/2 lnx + C" }
+    ]
+  },
+  {
+    "questionNumber": 195,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{3+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/√3 arctg x/√3 + C" },
+      { "B": "ln(3+x²)+C" },
+      { "C": "arctg x/√3 + C" },
+      { "D": "1/√3 arctg x + C" },
+      { "E": "√3 arctg x + C" }
+    ]
+  },
+  {
+    "questionNumber": 196,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{2+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/√2 arctg x/√2 + C" },
+      { "B": "ln(2+x²)+C" },
+      { "C": "arctg x/√2 + C" },
+      { "D": "1/√2 arctg x + C" },
+      { "E": "√2 arctg x + C" }
+    ]
+  },
+  {
+    "questionNumber": 197,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-4x^2}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2 arcsin 2x + C" },
+      { "B": "1/2 arccos 2x + C" },
+      { "C": "-1/2 arcsin 2x + C" },
+      { "D": "2 arcsin 2x + C" },
+      { "E": "2 arccos x + C" }
+    ]
+  },
+  {
+    "questionNumber": 198,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-9x^2}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/3 arcsin 3x + C" },
+      { "B": "1/3 arccos 3x + C" },
+      { "C": "-1/3 arcsin 3x + C" },
+      { "D": "3 arcsin 3x + C" },
+      { "E": "3 arccos x + C" }
+    ]
+  },
+  {
+    "questionNumber": 199,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int tg^2 x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "tgx - x + C" },
+      { "B": "tgx + x + C" },
+      { "C": "ctgx - x + C" },
+      { "D": "ctgx + x + C" },
+      { "E": "tgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 200,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int ctg^2 x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-ctgx - x + C" },
+      { "B": "-ctgx + x + C" },
+      { "C": "ctgx - x + C" },
+      { "D": "tgx - x + C" },
+      { "E": "tgx + C" }
+    ]
+  },
+  {
+    "questionNumber": 201,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{sinx}{1+cosx}\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-ln|1+cosx| + C" },
+      { "B": "ln|1+cosx| + C" },
+      { "C": "ln|1+sinx| + C" },
+      { "D": "sinx(1+cosx)+C" },
+      { "E": "cosx(1+sinx)+C" }
+    ]
+  },
+  {
+    "questionNumber": 202,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{cosx}{1+sinx}\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ln|1+sinx| + C" },
+      { "B": "ln|1+cosx| + C" },
+      { "C": "-ln|1+sinx| + C" },
+      { "D": "sinx(1+cosx)+C" },
+      { "E": "cosx(1+sinx)+C" }
+    ]
+  },
+  {
+    "questionNumber": 203,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{x^2-5x+6}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "ln |(x-3)/(x-2)| + C" },
+      { "B": "ln |(x-2)/(x-3)| + C" },
+      { "C": " " },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 204,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{dx}{x^2+2x-3}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4 ln |(x-1)/(x+3)| + C" },
+      { "B": "1/4 ln |(x+3)/(x-1)| + C" },
+      { "C": "ln(x^2+2x-3)+C" },
+      { "D": "ln |(x-1)/(x+3)| + C" },
+      { "E": "ln |(x+3)/(x-1)| + C" }
+    ]
+  },
+  {
+    "questionNumber": 205,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int ln x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "xlnx - x + C" },
+      { "B": "-xlnx - x + C" },
+      { "C": "-xlnx + x + C" },
+      { "D": "xlnx + x + C" },
+      { "E": "lnx + C" }
+    ]
+  },
+  {
+    "questionNumber": 206,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int x lnx\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2/2 (lnx - 1/2) + C" },
+      { "B": "x^2lnx + C" },
+      { "C": "xlnx + C" },
+      { "D": "-x^2lnx + C" },
+      { "E": "x^2/2 lnx + C" }
+    ]
+  },
+  {
+    "questionNumber": 241,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{0}^{1} x e^x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "0" },
+      { "C": "2" },
+      { "D": "e" },
+      { "E": "2e" }
+    ]
+  },
+  {
+    "questionNumber": 242,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{-\\frac{\\pi}{2}}^{\\frac{\\pi}{2}} x\\cos x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "π/2" },
+      { "C": "2" },
+      { "D": "-π/2" },
+      { "E": "-π" }
+    ]
+  },
+  {
+    "questionNumber": 243,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{0}^{\\frac{\\pi}{2}} \\cos 4x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4" },
+      { "B": "-1/4" },
+      { "C": "0" },
+      { "D": "1/2" },
+      { "E": "-1/2" }
+    ]
+  },
+  {
+    "questionNumber": 244,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{0}^{\\frac{\\pi}{2}} \\sin 4x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4" },
+      { "B": " " },
+      { "C": " " },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 245,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{0}^{a} (x^3 - a x^2) \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "a^4/12" },
+      { "B": "a^4/12" },
+      { "C": "-a^2/6" },
+      { "D": "-a^3/6" },
+      { "E": "a^4/4" }
+    ]
+  },
+  {
+    "questionNumber": 246,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{0}^{\\pi} \\cos x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1" },
+      { "C": "2" },
+      { "D": "-1" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 247,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{0}^{\\pi} \\sin x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "0" },
+      { "C": " " },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 248,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{0}^{\\frac{\\pi}{2}} \\cos 2x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "-1/2" },
+      { "C": "1" },
+      { "D": "-1" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 249,
+    "questionUp": "Calculate definite integral:",
+    "questionDown": "$$\\int_{0}^{2} e^{4x} \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/4 e^8 - 1/4" },
+      { "B": "1/4 e^4 - 1/4" },
+      { "C": "e^8 - 1/4" },
+      { "D": "0" },
+      { "E": "1/4 e^8" }
+    ]
+  },
+  {
+    "questionNumber": 250,
+    "questionUp": "Calculate definite integral.",
+    "questionDown": "$$\\int_{1}^{e} \\frac{2}{x} \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "e" },
+      { "D": "ln2" },
+      { "E": "-2" }
+    ]
+  },
+  {
+    "questionNumber": 251,
+    "questionUp": "Calculate definite integral.",
+    "questionDown": "$$\\int_{1}^{e} \\frac{x+1}{x} \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "e" },
+      { "B": "1" },
+      { "C": "0" },
+      { "D": "ln2" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 252,
+    "questionUp": "Calculate the area of the figure bounded by curve.",
+    "questionDown": "$$y=-x^2+2x+3$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "10 2/3" },
+      { "B": "9 1/3" },
+      { "C": "8 1/3" },
+      { "D": "4" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 253,
+    "questionUp": "Calculate the area of the figure bounded by curve.",
+    "questionDown": "$$y=3x-x^2$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4 1/2" },
+      { "B": "3 1/2" },
+      { "C": "2 1/2" },
+      { "D": "2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 254,
+    "questionUp": "Calculate the area of the figure bounded by curve.",
+    "questionDown": "$$y=x^2, \\; y=0, \\; x=1$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/3" },
+      { "B": "1/6" },
+      { "C": "2" },
+      { "D": "1/2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 255,
+    "questionUp": "Calculate the area of the figure bounded by curve and line.",
+    "questionDown": "$$y=x^2+2x \\; \\text{and} \\; y=x+2$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4.5" },
+      { "B": "3.5" },
+      { "C": "3" },
+      { "D": "4" },
+      { "E": "5" }
+    ]
+  },
+  {
+    "questionNumber": 256,
+    "questionUp": "Calculate the area of the figure bounded by curve.",
+    "questionDown": "$$y=\\sin x, \\; y=0, \\; x=\\frac{\\pi}{3}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "1/3" },
+      { "C": "\\sqrt{3}" },
+      { "D": "1" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 257,
+    "questionUp": "Calculate the area of the figure bounded by curve.",
+    "questionDown": "$$y=\\cos x, \\; y=0, \\; x=\\frac{\\pi}{6}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "1/3" },
+      { "C": "\\sqrt{3}" },
+      { "D": "1" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 258,
+    "questionUp": "Calculate the area of the figure bounded by line.",
+    "questionDown": "$$y=x, \\; x=2, \\; x=0$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "e" },
+      { "D": "0.5" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 259,
+    "questionUp": "Calculate the area of the figure bounded by curve.",
+    "questionDown": "$$y=e^x, \\; y=0, \\; x=\\ln2, \\; x=\\ln5$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2" },
+      { "C": "4" },
+      { "D": "5" },
+      { "E": "6" }
+    ]
+  },
+  {
+    "questionNumber": 260,
+    "questionUp": "Calculate the area of the figure bounded by curves.",
+    "questionDown": "$$y=x^2 \\; \\text{and} \\; y=\\sqrt{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/3" },
+      { "B": "1/2" },
+      { "C": "1" },
+      { "D": "3" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 261,
+    "questionUp": "Calculate the area of the figure bounded by curve and lines.",
+    "questionDown": "$$y = x^2,\\ x = 1,\\ x = 3$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "8/3" },
+      { "B": "6 2/3" },
+      { "C": "8" },
+      { "D": "6.5" },
+      { "E": "8.5" }
+    ]
+  },
+  {
+    "questionNumber": 262,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_2^{+\\infty} \\frac{dx}{x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "+∞" },
+      { "C": "1/3" },
+      { "D": "1" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 263,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_1^{+\\infty} \\frac{dx}{x\\sqrt{x}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "+∞" },
+      { "C": "1" },
+      { "D": "1/2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 264,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_1^{+\\infty} \\frac{dx}{\\sqrt{x}}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+∞" },
+      { "B": "1/2" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 265,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_2^{+\\infty} \\frac{dx}{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+∞" },
+      { "B": "1/2" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 266,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_1^{+\\infty} e^{-x}\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "e^-1" },
+      { "B": "1" },
+      { "C": "+∞" },
+      { "D": "2e" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 267,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_0^{\\pi/2} \\frac{dx}{1+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "π/2" },
+      { "B": "π/4" },
+      { "C": "+∞" },
+      { "D": "1" },
+      { "E": "π/3" }
+    ]
+  },
+  {
+    "questionNumber": 268,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_0^{\\pi/2} \\frac{dx}{4+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "π/4" },
+      { "B": "π/2" },
+      { "C": "+∞" },
+      { "D": "1" },
+      { "E": "π/3" }
+    ]
+  },
+  {
+    "questionNumber": 269,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_0^{+\\infty} e^{-2x}\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "+∞" },
+      { "C": "1" },
+      { "D": "2" },
+      { "E": "1/3" }
+    ]
+  },
+  {
+    "questionNumber": 270,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_0^{+\\infty} e^x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+∞" },
+      { "B": "1/2" },
+      { "C": "1" },
+      { "D": "2e" },
+      { "E": "e" }
+    ]
+  },
+  {
+    "questionNumber": 271,
+    "questionUp": "Calculate improper integral:",
+    "questionDown": "$$\\int_0^{\\pi/2} \\frac{dx}{x\\sin x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+∞" },
+      { "B": "1" },
+      { "C": "ln2" },
+      { "D": "2ln2" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 272,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = \\sqrt{x} + \\sqrt{y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "I quadrant" },
+      { "B": "I and III quadrant" },
+      { "C": "I and II quadrant" },
+      { "D": "II and IV quadrant" },
+      { "E": "Whole plane" }
+    ]
+  },
+  {
+    "questionNumber": 273,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = \\sqrt{xy}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "I and III quadrant" },
+      { "B": "I quadrant" },
+      { "C": "III quadrant" },
+      { "D": "II and IV quadrant" },
+      { "E": "Whole plane" }
+    ]
+  },
+  {
+    "questionNumber": 274,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = x\\sqrt{y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "I and II quadrant" },
+      { "B": "I and IV quadrant" },
+      { "C": "I quadrant" },
+      { "D": "II and III quadrant" },
+      { "E": "Whole plane" }
+    ]
+  },
+  {
+    "questionNumber": 275,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = y\\sqrt{x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "I and IV quadrant" },
+      { "B": "II and IV quadrant" },
+      { "C": "I quadrant" },
+      { "D": "II and III quadrant" },
+      { "E": "Whole plane" }
+    ]
+  },
+  {
+    "questionNumber": 276,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = \\sqrt{x + y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "I and IV quadrant" },
+      { "B": "I and II quadrant" },
+      { "C": "I and III quadrant" },
+      { "D": "Whole plane" },
+      { "E": "I quadrant" }
+    ]
+  },
+  {
+    "questionNumber": 277,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = \\sqrt[3]{x} + \\sqrt{y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "I and II quadrant" },
+      { "B": "I quadrant" },
+      { "C": "II quadrant" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 278,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = \\sqrt{x + y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Whole plane" },
+      { "B": "I quadrant" },
+      { "C": "I and IV quadrant" },
+      { "D": "I and II quadrant" },
+      { "E": "II and III quadrant" }
+    ]
+  },
+  {
+    "questionNumber": 279,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = \\ln(1 - x^2 - y^2)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Inside of disc x² + y² < 1" },
+      { "B": "Disc x² + y² ≤ 1" },
+      { "C": "Outside of disc x² + y² ≤ 1" },
+      { "D": "Outside of disc x² + y² < 1" },
+      { "E": "Whole plane" }
+    ]
+  },
+  {
+    "questionNumber": 280,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = \\ln(x^2 + y^2 - 16)$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "Outside of disc x² + y² > 4" },
+      { "B": "Disc x² + y² ≤ 4" },
+      { "C": "Disc x² + y² < 4" },
+      { "D": "Outside of disc x² + y² < 4" },
+      { "E": "Whole plane" }
+    ]
+  },
+  {
+    "questionNumber": 281,
+    "questionUp": "Show domain of function in the coordinate plane:",
+    "questionDown": "$$z = \\sqrt{x} + \\sqrt[3]{y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "I and IV quadrant" },
+      { "B": "I quadrant" },
+      { "C": "I and III quadrant" },
+      { "D": "II and III quadrant" },
+      { "E": "II and IV quadrant" }
+    ]
+  },
+  {
+    "questionNumber": 282,
+    "questionUp": "If",
+    "questionDown": "$$u = x^3 + 2xy^2 - \\frac{2}{3}y^3$$ find $$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3x² + 2y²" },
+      { "B": "3x² - 4xy" },
+      { "C": "6x" },
+      { "D": "2x² + 4xy" },
+      { "E": "x² - y³" }
+    ]
+  },
+  {
+    "questionNumber": 283,
+    "questionUp": "If",
+    "questionDown": "$$u = x^3 + 2xy^2 - \\frac{2}{3}y^3$$ find $$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4xy - 2y²" },
+      { "B": "3x² - 2y²" },
+      { "C": "3x + 2y²" },
+      { "D": "2x² + 4xy" },
+      { "E": "3x² + 3y²" }
+    ]
+  },
+  {
+    "questionNumber": 284,
+    "questionUp": "If",
+    "questionDown": "$$u = x^3 + 2xy^2 - \\frac{2}{3}y^3$$ find $$\\frac{\\partial^2 u}{\\partial x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6x" },
+      { "B": "4x - 4y" },
+      { "C": "3 + 2y" },
+      { "D": "x + 2y" },
+      { "E": "3x² - y²" }
+    ]
+  },
+  {
+    "questionNumber": 285,
+    "questionUp": "If",
+    "questionDown": "$$u = x^3 + 2xy^2 - \\frac{2}{3}y^3$$ find $$\\frac{\\partial^2 u}{\\partial y^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4x - 4y" },
+      { "B": "6x" },
+      { "C": "4x - 4" },
+      { "D": "4y" },
+      { "E": "-y²" }
+    ]
+  },
+  {
+    "questionNumber": 286,
+    "questionUp": "If u = x^3 + 2x y^2 - 2/3 y^3, find partial derivative",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4y" },
+      { "B": "4x" },
+      { "C": "4x - 4" },
+      { "D": "4y - 4" },
+      { "E": "-y" }
+    ]
+  },
+  {
+    "questionNumber": 287,
+    "questionUp": "If u = x^3 + 2x y^2 - 2/3 y^3, find partial derivative",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial y x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4y" },
+      { "B": "4x + 4" },
+      { "C": "4x" },
+      { "D": "4y - 4" },
+      { "E": "y + x" }
+    ]
+  },
+  {
+    "questionNumber": 288,
+    "questionUp": "If u = e^{x/y}, find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "e^(x/y) / y" },
+      { "B": "x e^(x/y) / y^2" },
+      { "C": "x e^(x/y) / y" },
+      { "D": "e^(x/y) / x" },
+      { "E": "e^(x/y) / y" }
+    ]
+  },
+  {
+    "questionNumber": 289,
+    "questionUp": "If u = e^{x/y}, find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x e^(x/y) / y^2" },
+      { "B": "e^(x/y) / y" },
+      { "C": "y e^(x/y) / x" },
+      { "D": "e^(x/y) / x" },
+      { "E": "e^(x/y) / y" }
+    ]
+  },
+  {
+    "questionNumber": 290,
+    "questionUp": "If u = e^{x/y}, find sum",
+    "questionDown": "$$x \\frac{\\partial u}{\\partial x} + y \\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "x e^(x/y)" },
+      { "C": "y e^(x/y)" },
+      { "D": "x y e^(x/y)" },
+      { "E": "-x e^(x/y)" }
+    ]
+  },
+  {
+    "questionNumber": 291,
+    "questionUp": "If u = e^{x^2 + y}, find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2x e^(x^2 + y)" },
+      { "B": "-2y e^(x^2 + y)" },
+      { "C": "2x y e^(x^2 + y)" },
+      { "D": "2 e^(x^2 + y)" },
+      { "E": "-2 e^(x^2 + y)" }
+    ]
+  },
+  {
+    "questionNumber": 292,
+    "questionUp": "If u = e^{x^2 + y}, find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2y e^(x^2 + y)" },
+      { "B": "2x e^(x^2 + y)" },
+      { "C": "2x y e^(x^2 + y)" },
+      { "D": "2 e^(x^2 + y)" },
+      { "E": "-2 e^(x^2 + y)" }
+    ]
+  },
+  {
+    "questionNumber": 293,
+    "questionUp": "If u = e^{x^2 + y}, find partial derivative",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4x y e^(x^2 + y)" },
+      { "B": "2x y e^(x^2 + y)" },
+      { "C": "4y e^(x^2 + y)" },
+      { "D": "4 e^(x^2 + y)" },
+      { "E": "-4y e^(x^2 + y)" }
+    ]
+  },
+  {
+    "questionNumber": 294,
+    "questionUp": "If u = e^{x^2 + y}, find",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x} : \\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x / y" },
+      { "B": "1" },
+      { "C": "-1" },
+      { "D": "x / y" },
+      { "E": "y / x" }
+    ]
+  },
+  {
+    "questionNumber": 295,
+    "questionUp": "If u = ln(xy), find partial derivative.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/x" },
+      { "B": "1" },
+      { "C": "1/y" },
+      { "D": "x/y" },
+      { "E": "y/x" }
+    ]
+  },
+  {
+    "questionNumber": 296,
+    "questionUp": "If u = ln(xy), find partial derivative.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/y" },
+      { "B": "1" },
+      { "C": "1/x" },
+      { "D": "x/y" },
+      { "E": "y/x" }
+    ]
+  },
+  {
+    "questionNumber": 297,
+    "questionUp": "If u = ln(xy), find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1/x^2" },
+      { "B": "1" },
+      { "C": "1/x" },
+      { "D": "1/x^2" },
+      { "E": "1/y^2" }
+    ]
+  },
+  {
+    "questionNumber": 298,
+    "questionUp": "If u = ln(xy), find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial y^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-1/y^2" },
+      { "B": "0" },
+      { "C": "1/x" },
+      { "D": "1/x^2" },
+      { "E": "1/y^2" }
+    ]
+  },
+  {
+    "questionNumber": 299,
+    "questionUp": "If u = ln(xy), find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1/x" },
+      { "C": "1/y" },
+      { "D": "1/x^2" },
+      { "E": "1/y^2" }
+    ]
+  },
+  {
+    "questionNumber": 300,
+    "questionUp": "If u = ln(x^2 - y^2), find partial derivative.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2x/(x^2-y^2)" },
+      { "B": "1/(x+y)" },
+      { "C": "x/(x^2-y^2)" },
+      { "D": "2y/(x^2-y^2)" },
+      { "E": "1/(x-y)" }
+    ]
+  },
+  {
+    "questionNumber": 301,
+    "questionUp": "If u = ln(x^2 - y^2), find partial derivative.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2y/(x^2-y^2)" },
+      { "B": "1/(x+y)" },
+      { "C": "x/(x^2-y^2)" },
+      { "D": "2x/(x^2-y^2)" },
+      { "E": "1/(x-y)" }
+    ]
+  },
+  {
+    "questionNumber": 302,
+    "questionUp": "If u = ln(x^2 - y^2), find sum.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x} + \\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/(x+y)" },
+      { "B": "1/(x+y)" },
+      { "C": "x/(x^2-y^2)" },
+      { "D": "2y/(x^2-y^2)" },
+      { "E": "1/(x-y)" }
+    ]
+  },
+  {
+    "questionNumber": 303,
+    "questionUp": "If u = ln(x - y), find sum.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x} + \\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "1/(x-y)" },
+      { "C": "1" },
+      { "D": "1/(x-y)^2" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 304,
+    "questionUp": "If u = sin(x^2 − y^2), find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2x cos(x^2 − y^2)" },
+      { "B": "-2y cos(x^2 − y^2)" },
+      { "C": "x sin(x^2 − y^2)" },
+      { "D": "-2x sin(x^2 − y^2)" },
+      { "E": "2x sin(x^2 − y^2)" }
+    ]
+  },
+  {
+    "questionNumber": 305,
+    "questionUp": "If u = sin(x^2 − y^2), find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2y cos(x^2 − y^2)" },
+      { "B": "-x cos(x^2 − y^2)" },
+      { "C": "x sin(x^2 − y^2)" },
+      { "D": "-2x sin(x^2 − y^2)" },
+      { "E": "2x sin(x^2 − y^2)" }
+    ]
+  },
+  {
+    "questionNumber": 306,
+    "questionUp": "If u = sin(x^2 − y^2), find partial derivative",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x \\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4xy sin(x^2 − y^2)" },
+      { "B": "-x cos(x^2 − y^2)" },
+      { "C": "2y sin(x^2 − y^2)" },
+      { "D": "-2y sin(x^2 − y^2)" },
+      { "E": "2 cos(x^2 − y^2)" }
+    ]
+  },
+  {
+    "questionNumber": 307,
+    "questionUp": "If u = sin(x^2 − y^2), find sum",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x} + x \\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0" },
+      { "B": "cos(x^2 − y^2)" },
+      { "C": "4xy sin(x^2 − y^2)" },
+      { "D": "2y sin(x^2 − y^2)" },
+      { "E": "2x cos(x^2 − y^2)" }
+    ]
+  },
+  {
+    "questionNumber": 308,
+    "questionUp": "If u = cos(x^2 − y^2), find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-2x sin(x^2 − y^2)" },
+      { "B": "2y sin(x^2 − y^2)" },
+      { "C": "x sin(x^2 − y^2)" },
+      { "D": "2x sin(x^2 − y^2)" },
+      { "E": "2 sin(x^2 − y^2)" }
+    ]
+  },
+  {
+    "questionNumber": 309,
+    "questionUp": "If u = cos(x^2 − y^2), find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2y sin(x^2 − y^2)" },
+      { "B": "-2x sin(x^2 − y^2)" },
+      { "C": "y sin(x^2 − y^2)" },
+      { "D": "2x sin(x^2 − y^2)" },
+      { "E": "2 cos(x^2 − y^2)" }
+    ]
+  },
+  {
+    "questionNumber": 310,
+    "questionUp": "If u = cos(x^2 − y^2), find partial derivative",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x \\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "4xy cos(x^2 − y^2)" },
+      { "B": "-x cos(x^2 − y^2)" },
+      { "C": "-2y cos(x^2 − y^2)" },
+      { "D": "-4xy sin(x^2 − y^2)" },
+      { "E": "2x sin(x^2 − y^2)" }
+    ]
+  },
+  {
+    "questionNumber": 311,
+    "questionUp": "If u = e^(3x − y), find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3e^(3x − y)" },
+      { "B": "e^(3x − y)" },
+      { "C": "-e^(3x − y)" },
+      { "D": "e^(x − y)" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 312,
+    "questionUp": "If u = e^(3x − y), find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-e^(3x − y)" },
+      { "B": "e^(3x − y)" },
+      { "C": "3e^(3x − y)" },
+      { "D": "y e^(3x − y)" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 313,
+    "questionUp": "If u = e^(3x − y), find partial derivative",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x \\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-3e^(3x − y)" },
+      { "B": "e^(3x − y)" },
+      { "C": "3e^(3x − y)" },
+      { "D": "x e^(3x − y)" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 314,
+    "questionUp": "If u = e^(3x − y), find sum",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x} + \\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2e^(3x − y)" },
+      { "B": "3e^(3x − y)" },
+      { "C": "-e^(3x − y)" },
+      { "D": "e^(3x − y)" },
+      { "E": "0" }
+    ]
+  },
+  {
+    "questionNumber": 315,
+    "questionUp": "If u = x^3y + xy^3, find partial derivative",
+    "questionDown": "$$\\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3x^2y + y^3" },
+      { "B": "x^3 + 3xy^2" },
+      { "C": "x^3 − y^3" },
+      { "D": "x^2y + xy^3" },
+      { "E": "x^3y − xy^2" }
+    ]
+  },
+  {
+    "questionNumber": 316,
+    "questionUp": "If u = x^3y + xy^3, find partial derivative.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^3 + 3xy^2" },
+      { "B": "3x^2y + 3xy^2" },
+      { "C": "x^3 - y^3" },
+      { "D": "x^3y + xy^3" },
+      { "E": "x^3y - xy^2" }
+    ]
+  },
+  {
+    "questionNumber": 317,
+    "questionUp": "If u = x^3y + xy^3, find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6xy" },
+      { "B": "6xy + 3y^2" },
+      { "C": "x^3 - y^3" },
+      { "D": "xy + x^3y" },
+      { "E": "x^3 - xy^2" }
+    ]
+  },
+  {
+    "questionNumber": 318,
+    "questionUp": "If u = x^3y + xy^3, find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial y^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "6xy" },
+      { "B": "xy + 3y^2" },
+      { "C": "3x^2 - y^2" },
+      { "D": "xy + x^3" },
+      { "E": "6xy^2" }
+    ]
+  },
+  {
+    "questionNumber": 319,
+    "questionUp": "If u = x^3y + xy^3, find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 u}{\\partial x \\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3x^2 + 3y^2" },
+      { "B": "xy + 3y^2" },
+      { "C": "x^2 - y^2" },
+      { "D": "xy + y^2" },
+      { "E": "6xy^2 + 2xy" }
+    ]
+  },
+  {
+    "questionNumber": 320,
+    "questionUp": "If u = x^3y + xy^3, find sum.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y} + \\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(x + y)^3" },
+      { "B": "(x + y)^3" },
+      { "C": "x^3 - y^3" },
+      { "D": "x^3y + xy^3" },
+      { "E": "x^3y - xy^3" }
+    ]
+  },
+  {
+    "questionNumber": 321,
+    "questionUp": "If u = x^2y - xy^2, find.",
+    "questionDown": "$$\\frac{\\partial}{\\partial x}\\left(\\frac{\\partial u}{\\partial y}\\right) + \\frac{\\partial u}{\\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 - y^2" },
+      { "B": "x^2 + y^2" },
+      { "C": "(x - y)^2" },
+      { "D": "(x + y)^2" },
+      { "E": "x^2 + y^2 - xy" }
+    ]
+  },
+  {
+    "questionNumber": 322,
+    "questionUp": "If u = x^2y + xy^2, find sum.",
+    "questionDown": "$$\\frac{\\partial u}{\\partial y} - \\frac{\\partial u}{\\partial x}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "x^2 - y^2" },
+      { "B": "x^2 + y^2" },
+      { "C": "(x - y)^2" },
+      { "D": "(x + y)^2" },
+      { "E": "x^2 + y^2 - xy" }
+    ]
+  },
+  {
+    "questionNumber": 323,
+    "questionUp": "If z = xy^2 - x^2y, find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 z}{\\partial x \\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2y - x" },
+      { "B": "2x - y" },
+      { "C": "0" },
+      { "D": "2(x + y)" },
+      { "E": "y - x" }
+    ]
+  },
+  {
+    "questionNumber": 324,
+    "questionUp": "If z = e^{xy}, find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 z}{\\partial x \\partial y}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(1 + xy)e^{xy}" },
+      { "B": "x + ye^{xy}" },
+      { "C": "xye^{xy}" },
+      { "D": "e^{xy}" },
+      { "E": "xe^{xy}" }
+    ]
+  },
+  {
+    "questionNumber": 325,
+    "questionUp": "If z = xy^2 - x^2y, find partial derivative.",
+    "questionDown": "$$\\frac{\\partial^2 z}{\\partial x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "-6xy" },
+      { "B": "6xy" },
+      { "C": "3xy" },
+      { "D": "-3xy" },
+      { "E": "3xy^2" }
+    ]
+  },
+  {
+    "questionNumber": 326,
+    "questionUp": "Find partial sum of series.",
+    "questionDown": "$$1 - \\frac{1}{2} + \\frac{1}{4} - \\frac{1}{8} + \\cdots + (-1)^n \\frac{1}{2^n}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2/3" },
+      { "B": "1/3" },
+      { "C": "1/2" },
+      { "D": "1" },
+      { "E": "-1/2" }
+    ]
+  },
+  {
+    "questionNumber": 327,
+    "questionUp": "Find partial sum of series.",
+    "questionDown": "$$2 - \\frac{1}{2} + \\frac{1}{8} - \\frac{1}{32} + \\cdots + (-1)^{n-1} \\frac{1}{4^n}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "13/5" },
+      { "B": "11/5" },
+      { "C": "1/2" },
+      { "D": "1" },
+      { "E": "2" }
+    ]
+  },
+  {
+    "questionNumber": 328,
+    "questionUp": "Find partial sum of series:",
+    "questionDown": "$$1 - \\frac{2}{3} + \\frac{4}{9} - \\frac{9}{16} + \\cdots + \\left(\\frac{2}{3}\\right)^2 + \\cdots$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "3" },
+      { "B": "2 1/3" },
+      { "C": "2 2/3" },
+      { "D": "3 1/2" },
+      { "E": "3 2/3" }
+    ]
+  },
+  {
+    "questionNumber": 329,
+    "questionUp": "Find partial sum of series:",
+    "questionDown": "$$1 - \\frac{2}{3} + \\frac{4}{9} - \\frac{9}{16} + \\cdots + \\left(\\frac{2}{3}\\right)^n + \\cdots$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "0,6" },
+      { "B": "0,4" },
+      { "C": "0,8" },
+      { "D": "0,2" },
+      { "E": "-0,2" }
+    ]
+  },
+  {
+    "questionNumber": 330,
+    "questionUp": "Which of the following series is convergent?",
+    "questionDown": "$$ $$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/n^2" },
+      { "B": "1/n" },
+      { "C": "n/(n+1)" },
+      { "D": "(n+1)/n" },
+      { "E": "(n-1)/n" }
+    ]
+  },
+  {
+    "questionNumber": 331,
+    "questionUp": "Which of the following series is convergent?",
+    "questionDown": "$$ $$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/√n" },
+      { "B": "1/n" },
+      { "C": "1/n" },
+      { "D": "n/(n+1)" },
+      { "E": "-1^n" }
+    ]
+  },
+  {
+    "questionNumber": 332,
+    "questionUp": "Which of the following series is convergent?",
+    "questionDown": "$$ $$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/3^n" },
+      { "B": "(3/2)^n" },
+      { "C": "1/n" },
+      { "D": "1/√n" },
+      { "E": "2^n" }
+    ]
+  },
+  {
+    "questionNumber": 333,
+    "questionUp": "Which of the following series is convergent?",
+    "questionDown": "$$ $$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(2/3)^n" },
+      { "B": "(3/2)^n" },
+      { "C": "1/n" },
+      { "D": "1/√n" },
+      { "E": "(n+1)/n" }
+    ]
+  },
+  {
+    "questionNumber": 334,
+    "questionUp": "Which of the following series is convergent?",
+    "questionDown": "$$ $$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(2/3)^n" },
+      { "B": "(3/2)^n" },
+      { "C": "(4/3)^n" },
+      { "D": " " },
+      { "E": " " }
+    ]
+  },
+  {
+    "questionNumber": 335,
+    "questionUp": "Find radius of convergent of power series:",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{x^n}{n2^n}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1" },
+      { "B": "2" },
+      { "C": "1/2" },
+      { "D": "0" },
+      { "E": "3" }
+    ]
+  },
+  {
+    "questionNumber": 336,
+    "questionUp": "Find radius of convergent of power series:",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{x^n}{n!}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "+∞" },
+      { "B": "0" },
+      { "C": "12" },
+      { "D": "2" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 337,
+    "questionUp": "Find radius of convergent of power series:",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{n}{2^n} x^n$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "2" },
+      { "B": "1" },
+      { "C": "0" },
+      { "D": "+∞" },
+      { "E": "1/2" }
+    ]
+  },
+  {
+    "questionNumber": 338,
+    "questionUp": "Find the radius of convergent of power series.",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{2^n}{n} x^n$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "1/2" },
+      { "B": "1" },
+      { "C": "0" },
+      { "D": "2" },
+      { "E": "+∞" }
+    ]
+  },
+  {
+    "questionNumber": 339,
+    "questionUp": "Find the interval of convergent of power series.",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{(-1)^n}{n} x^n$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-1;1]" },
+      { "B": "[-1;1)" },
+      { "C": "[-1;1]" },
+      { "D": "[-1;1)" },
+      { "E": "(-∞;+∞)" }
+    ]
+  },
+  {
+    "questionNumber": 340,
+    "questionUp": "Find the interval of convergent of power series.",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{n!}{3^n} x^n$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "∅" },
+      { "B": "(-∞;+∞)" },
+      { "C": "∅" },
+      { "D": "(-3;3)" },
+      { "E": "[-3;3]" }
+    ]
+  },
+  {
+    "questionNumber": 341,
+    "questionUp": "Find the interval of convergent of power series.",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{10^n}{n!} x^n$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-∞;+∞)" },
+      { "B": "∅" },
+      { "C": "(-10;10)" },
+      { "D": "[-10;10]" },
+      { "E": "∅" }
+    ]
+  },
+  {
+    "questionNumber": 342,
+    "questionUp": "Find the interval of convergent of power series.",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{n!}{10^n} x^n$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "∅" },
+      { "B": "(-∞;+∞)" },
+      { "C": "∅" },
+      { "D": "(-1/10;1/10)" },
+      { "E": "[-1/10;1/10]" }
+    ]
+  },
+  {
+    "questionNumber": 343,
+    "questionUp": "Find the interval of convergent of power series.",
+    "questionDown": "$$\\sum_{n=1}^{\\infty} \\frac{(-2)^n}{n} x^n$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "(-1/2;1/2]" },
+      { "B": "[-1/2;1/2)" },
+      { "C": "[-1/2;1/2]" },
+      { "D": "(-1/2;1/2)" },
+      { "E": "(-∞;+∞)" }
     ]
   }
 ]
