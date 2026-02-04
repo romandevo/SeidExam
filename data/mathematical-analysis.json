@@ -216,8 +216,8 @@
       { "A": "(-1;1)" },
       { "B": "[-1;1]" },
       { "C": "(-∞;-1]" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "[1;+∞)" },
+      { "E": "(-∞;+∞)" }
     ]
   },
   {
@@ -255,8 +255,8 @@
       { "A": "e^{2x}" },
       { "B": "e^x" },
       { "C": "e^{x^2}" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "x^2 + e^x" },
+      { "E": "2e^x" }
     ]
   },
   {
@@ -294,8 +294,8 @@
       { "A": "x+2 / x+1" },
       { "B": "x+2 / 1-x" },
       { "C": "x-2 / 1-x" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "3x-2 / 1-x" },
+      { "E": "2x+2 / 1-x" }
     ]
   },
   {
@@ -541,8 +541,8 @@
       { "A": "0" },
       { "B": "1" },
       { "C": "+∞" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "2" },
+      { "E": "1/2" }
     ]
   },
   {
@@ -594,7 +594,7 @@
       { "B": "1/4" },
       { "C": "-1" },
       { "D": "0" },
-      { "E": " " }
+      { "E": "1/2" }
     ]
   },
   {
@@ -735,9 +735,9 @@
     "answers": [
       { "A": "2" },
       { "B": "π" },
-      { "C": " " },
-      { "D": " " },
-      { "E": " " }
+      { "C": "1" },
+      { "D": "0" },
+      { "E": "-1" }
     ]
   },
   {
@@ -970,8 +970,8 @@
       { "A": "1/2" },
       { "B": "-1/2" },
       { "C": "-1" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "1" },
+      { "E": "1/3" }
     ]
   },
   {
@@ -1022,8 +1022,8 @@
       { "A": "2" },
       { "B": "-2" },
       { "C": "-1" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "1" },
+      { "E": "0" }
     ]
   },
   {
@@ -1736,9 +1736,9 @@
     "answers": [
       { "A": "-1/4 x + 9/2" },
       { "B": "1/4 x - 9/2" },
-      { "C": " " },
-      { "D": " " },
-      { "E": " " }
+      { "C": "-1/4 x + 9" },
+      { "D": "-1/4 x" },
+      { "E": "4x" }
     ]
   },
   {
@@ -1997,8 +1997,8 @@
       { "A": "(-∞; 0] ∪ [2; +∞)" },
       { "B": "[-1; 1]" },
       { "C": "(-∞; 1]" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "(1; +∞)" },
+      { "E": "[-1; +∞)" }
     ]
   },
   {
@@ -2166,8 +2166,8 @@
       { "A": "1/2" },
       { "B": "0" },
       { "C": "2" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "-1" },
+      { "E": "1" }
     ]
   },
   {
@@ -2218,8 +2218,8 @@
       { "A": "1" },
       { "B": "0" },
       { "C": "2" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "-1" },
+      { "E": "-2" }
     ]
   },
   {
@@ -2309,8 +2309,8 @@
       { "A": "1" },
       { "B": "1/2" },
       { "C": "0" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "-1" },
+      { "E": "V3/2" }
     ]
   },
   {
@@ -2440,7 +2440,7 @@
       { "B": "-\\ln|\\sin x|+C" },
       { "C": "\\ln|\\cos x|+C" },
       { "D": "-\\ln|\\cos x|+C" },
-      { "E": " " }
+      { "E": "tgx + C" }
     ]
   },
   {
@@ -2492,7 +2492,7 @@
       { "B": "\\frac{1}{4}\\cos^4 x + C" },
       { "C": "-\\frac{1}{4}\\sin^4 x + C" },
       { "D": "\\frac{1}{4}\\sin^4 x + C" },
-      { "E": " " }
+      { "E": "sin^2 xcos2 + C" }
     ]
   },
   {
@@ -2519,162 +2519,6 @@
       { "C": "\\frac{1}{\\cos x}+C" },
       { "D": "\\frac{1}{\\sin x}+C" },
       { "E": "\\frac{1}{2\\cos x}+C" }
-    ]
-  },
-  {
-    "questionNumber": 195,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{3+x^2}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "\\(\\frac{1}{\\sqrt{3}} arctg \\frac{x}{\\sqrt{3}} + C\\)" },
-      { "B": "ln(3+x²)+C" },
-      { "C": "arctg x + C" },
-      { "D": "1/√3 arctg x + C" },
-      { "E": "√3 arctg x + C" }
-    ]
-  },
-  {
-    "questionNumber": 196,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{2+x^2}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/√2 arctg x/√2 + C" },
-      { "B": "ln(2+x²)+C" },
-      { "C": "arctg x/√2 + C" },
-      { "D": "1/√2 arctg x + C" },
-      { "E": "√2 arctg x + C" }
-    ]
-  },
-  {
-    "questionNumber": 197,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-4x^2}}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/2 arcsin 2x + C" },
-      { "B": "1/2 arccos 2x + C" },
-      { "C": "-1/2 arcsin 2x + C" },
-      { "D": "2 arcsin 2x + C" },
-      { "E": "2 arccos x + C" }
-    ]
-  },
-  {
-    "questionNumber": 198,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-9x^2}}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/3 arcsin 3x + C" },
-      { "B": "1/3 arccos 3x + C" },
-      { "C": "-1/3 arcsin 3x + C" },
-      { "D": "3 arcsin 3x + C" },
-      { "E": "3 arccos x + C" }
-    ]
-  },
-  {
-    "questionNumber": 199,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int tg^2 x \\, dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "tg x + x + C" },
-      { "B": "tg x + C" },
-      { "C": "ctg x + C" },
-      { "D": "ctg x + x + C" },
-      { "E": "tg x + C" }
-    ]
-  },
-  {
-    "questionNumber": 200,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int ctg^2 x \\, dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "-ctg x - x + C" },
-      { "B": "-ctg x + x + C" },
-      { "C": "ctg x + C" },
-      { "D": "tg x - x + C" },
-      { "E": "tg x + C" }
-    ]
-  },
-  {
-    "questionNumber": 201,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{sin x}{1+cos x} dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "ln|1+cos x| + C" },
-      { "B": "ln|1+cos x| + C" },
-      { "C": "ln|1+sin x| + C" },
-      { "D": "sin x (1+cos x) + C" },
-      { "E": "cos x (1+sin x) + C" }
-    ]
-  },
-  {
-    "questionNumber": 202,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{cos x}{1+sin x} dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "ln|1+sin x| + C" },
-      { "B": "ln|1+cos x| + C" },
-      { "C": "-ln|1+sin x| + C" },
-      { "D": "sin x (1+cos x) + C" },
-      { "E": "cos x (1+sin x) + C" }
-    ]
-  },
-  {
-    "questionNumber": 203,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{x^2-5x+6}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "ln |(x-3)/(x-2)| + C" },
-      { "B": "ln |(x-2)/(x-3)| + C" },
-      { "C": " " },
-      { "D": " " },
-      { "E": " " }
-    ]
-  },
-  {
-    "questionNumber": 204,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{x^2+2x-3}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/4 ln |(x-1)/(x+3)| + C" },
-      { "B": "1/4 ln |(x+3)/(x-1)| + C" },
-      { "C": "ln(x^2+2x-3)+C" },
-      { "D": "ln |(x-1)/(x+3)| + C" },
-      { "E": "ln |(x+3)/(x-1)| + C" }
-    ]
-  },
-  {
-    "questionNumber": 205,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int ln x \\, dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "x ln x - x + C" },
-      { "B": "-x ln x + C" },
-      { "C": "-x ln x + x + C" },
-      { "D": "x ln x + C" },
-      { "E": "ln x + C" }
-    ]
-  },
-  {
-    "questionNumber": 206,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int x ln x \\, dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "x^2/2 (ln x - 1/2) + C" },
-      { "B": "x^2 ln x + C" },
-      { "C": "x ln x + C" },
-      { "D": "x^2 ln x + C" },
-      { "E": "x^2/2 ln x + C" }
     ]
   },
   {
@@ -2834,162 +2678,6 @@
     ]
   },
   {
-    "questionNumber": 195,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{3+x^2}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/√3 arctg x/√3 + C" },
-      { "B": "ln(3+x²)+C" },
-      { "C": "arctg x/√3 + C" },
-      { "D": "1/√3 arctg x + C" },
-      { "E": "√3 arctg x + C" }
-    ]
-  },
-  {
-    "questionNumber": 196,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{2+x^2}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/√2 arctg x/√2 + C" },
-      { "B": "ln(2+x²)+C" },
-      { "C": "arctg x/√2 + C" },
-      { "D": "1/√2 arctg x + C" },
-      { "E": "√2 arctg x + C" }
-    ]
-  },
-  {
-    "questionNumber": 197,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-4x^2}}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/2 arcsin 2x + C" },
-      { "B": "1/2 arccos 2x + C" },
-      { "C": "-1/2 arcsin 2x + C" },
-      { "D": "2 arcsin 2x + C" },
-      { "E": "2 arccos x + C" }
-    ]
-  },
-  {
-    "questionNumber": 198,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{\\sqrt{1-9x^2}}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/3 arcsin 3x + C" },
-      { "B": "1/3 arccos 3x + C" },
-      { "C": "-1/3 arcsin 3x + C" },
-      { "D": "3 arcsin 3x + C" },
-      { "E": "3 arccos x + C" }
-    ]
-  },
-  {
-    "questionNumber": 199,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int tg^2 x\\,dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "tgx - x + C" },
-      { "B": "tgx + x + C" },
-      { "C": "ctgx - x + C" },
-      { "D": "ctgx + x + C" },
-      { "E": "tgx + C" }
-    ]
-  },
-  {
-    "questionNumber": 200,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int ctg^2 x\\,dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "-ctgx - x + C" },
-      { "B": "-ctgx + x + C" },
-      { "C": "ctgx - x + C" },
-      { "D": "tgx - x + C" },
-      { "E": "tgx + C" }
-    ]
-  },
-  {
-    "questionNumber": 201,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{sinx}{1+cosx}\\,dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "-ln|1+cosx| + C" },
-      { "B": "ln|1+cosx| + C" },
-      { "C": "ln|1+sinx| + C" },
-      { "D": "sinx(1+cosx)+C" },
-      { "E": "cosx(1+sinx)+C" }
-    ]
-  },
-  {
-    "questionNumber": 202,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{cosx}{1+sinx}\\,dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "ln|1+sinx| + C" },
-      { "B": "ln|1+cosx| + C" },
-      { "C": "-ln|1+sinx| + C" },
-      { "D": "sinx(1+cosx)+C" },
-      { "E": "cosx(1+sinx)+C" }
-    ]
-  },
-  {
-    "questionNumber": 203,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{x^2-5x+6}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "ln |(x-3)/(x-2)| + C" },
-      { "B": "ln |(x-2)/(x-3)| + C" },
-      { "C": " " },
-      { "D": " " },
-      { "E": " " }
-    ]
-  },
-  {
-    "questionNumber": 204,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int \\frac{dx}{x^2+2x-3}$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "1/4 ln |(x-1)/(x+3)| + C" },
-      { "B": "1/4 ln |(x+3)/(x-1)| + C" },
-      { "C": "ln(x^2+2x-3)+C" },
-      { "D": "ln |(x-1)/(x+3)| + C" },
-      { "E": "ln |(x+3)/(x-1)| + C" }
-    ]
-  },
-  {
-    "questionNumber": 205,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int ln x\\,dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "xlnx - x + C" },
-      { "B": "-xlnx - x + C" },
-      { "C": "-xlnx + x + C" },
-      { "D": "xlnx + x + C" },
-      { "E": "lnx + C" }
-    ]
-  },
-  {
-    "questionNumber": 206,
-    "questionUp": "Calculate integral:",
-    "questionDown": "$$\\int x lnx\\,dx$$",
-    "correctAnswer": "A",
-    "answers": [
-      { "A": "x^2/2 (lnx - 1/2) + C" },
-      { "B": "x^2lnx + C" },
-      { "C": "xlnx + C" },
-      { "D": "-x^2lnx + C" },
-      { "E": "x^2/2 lnx + C" }
-    ]
-  },
-  {
     "questionNumber": 241,
     "questionUp": "Calculate definite integral:",
     "questionDown": "$$\\int_{0}^{1} x e^x \\, dx$$",
@@ -3035,10 +2723,10 @@
     "correctAnswer": "A",
     "answers": [
       { "A": "1/4" },
-      { "B": " " },
-      { "C": " " },
-      { "D": " " },
-      { "E": " " }
+      { "B": "-1/4" },
+      { "C": "0" },
+      { "D": "1/2" },
+      { "E": "-1/2" }
     ]
   },
   {
@@ -3075,9 +2763,9 @@
     "answers": [
       { "A": "2" },
       { "B": "0" },
-      { "C": " " },
-      { "D": " " },
-      { "E": " " }
+      { "C": "-2" },
+      { "D": "-1" },
+      { "E": "4" }
     ]
   },
   {
@@ -3466,8 +3154,8 @@
       { "A": "I and II quadrant" },
       { "B": "I quadrant" },
       { "C": "II quadrant" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "Whole plane" },
+      { "E": "I and III quadrant" }
     ]
   },
   {
@@ -4207,8 +3895,8 @@
       { "A": "(2/3)^n" },
       { "B": "(3/2)^n" },
       { "C": "(4/3)^n" },
-      { "D": " " },
-      { "E": " " }
+      { "D": "1/^3Vn" },
+      { "E": "n" }
     ]
   },
   {
