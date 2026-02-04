@@ -1223,7 +1223,7 @@
   },
   {
     "questionNumber": 95,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=(3x-2)^{10} \\text{ calculate } f'(1).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1236,7 +1236,7 @@
   },
   {
     "questionNumber": 96,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=(3x-4)^4 \\text{ calculate } f'(2).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1249,7 +1249,7 @@
   },
   {
     "questionNumber": 97,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=e^{3x-1} \\text{ calculate } f'\\left(\\tfrac{1}{3}\\right).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1262,7 +1262,7 @@
   },
   {
     "questionNumber": 98,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=e^{2x+1} \\text{ calculate } f'\\left(\\tfrac{1}{2}\\right).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1275,7 +1275,7 @@
   },
   {
     "questionNumber": 99,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=e^{x-1} \\text{ calculate } f'(-1).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1288,7 +1288,7 @@
   },
   {
     "questionNumber": 100,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=10^{\\cos x} \\text{ calculate } f'\\left(\\tfrac{\\pi}{2}\\right).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1301,7 +1301,7 @@
   },
   {
     "questionNumber": 101,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=2^{3x-2} \\text{ calculate } f'(1).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1314,7 +1314,7 @@
   },
   {
     "questionNumber": 102,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=\\tan(3x) \\text{ calculate } f'\\left(\\tfrac{\\pi}{3}\\right).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1327,7 +1327,7 @@
   },
   {
     "questionNumber": 103,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=\\cot(2x) \\text{ calculate } f'\\left(\\tfrac{\\pi}{4}\\right).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1340,7 +1340,7 @@
   },
   {
     "questionNumber": 104,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=\\ln(1+3x) \\text{ calculate } f'(1).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1353,7 +1353,7 @@
   },
   {
     "questionNumber": 105,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=\\ln(1-3x) \\text{ calculate } f'(-1).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1366,7 +1366,7 @@
   },
   {
     "questionNumber": 106,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=\\arcsin x \\text{ calculate } f'\\left(\\tfrac{\\sqrt{3}}{2}\\right).$$",
     "correctAnswer": "A",
     "answers": [
@@ -1379,7 +1379,7 @@
   },
   {
     "questionNumber": 107,
-    "questionUp": "",
+    "questionUp": "Choose the correct variant.",
     "questionDown": "$$\\text{If } f(x)=\\arccos x \\text{ calculate } f'\\left(\\tfrac{\\sqrt{3}}{2}\\right).$$",
     "correctAnswer": "A",
     "answers": [
