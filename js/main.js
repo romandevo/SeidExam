@@ -19,7 +19,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/it-esaslari.html' ||
     locationPath === '/SeidExam/exmas/it-esaslari.html'
   ) {
-    endpoint = './it-esaslari.json';
+    endpoint = '../data/it-esaslari.json';
   }
 
   if (
@@ -27,7 +27,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/xarici-dil.html' ||
     locationPath === '/SeidExam/exams/xarici-dil.html'
   ) {
-    endpoint = './xarici-dil.json';
+    endpoint = '../data/xarici-dil.json';
   }
 
   if (
@@ -35,7 +35,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/information-technologies.html' ||
     locationPath === '/SeidExam/exams/information-technologies.html'
   ) {
-    endpoint = './information-technologies.json';
+    endpoint = '../data/information-technologies.json';
   }
 
   if (
@@ -43,7 +43,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/az-dili.html' ||
     locationPath === '/SeidExam/exams/az-dili.html'
   ) {
-    endpoint = './az-dili.json';
+    endpoint = '../data/az-dili.json';
   }
 
   if (
@@ -51,7 +51,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/mathematical-analysis.html' ||
     locationPath === '/SeidExam/exams/mathematical-analysis.html'
   ) {
-    endpoint = './mathematical-analysis.json';
+    endpoint = '../data./data/mathematical-analysis.json';
   }
 
   //S1-P2 (7 Exams)
@@ -61,7 +61,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/it-esaslari2.html' ||
     locationPath === '/SeidExam/exmas/it-esaslari2.html'
   ) {
-    endpoint = './it-esaslari2.json';
+    endpoint = '../data/it-esaslari2.json';
   }
 
   if (
@@ -69,7 +69,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/xarici-dil-2.html' ||
     locationPath === '/SeidExam/exams/xarici-dil-2.html'
   ) {
-    endpoint = './xarici-dil-2.json';
+    endpoint = '../data/xarici-dil-2.json';
   }
 
   if (
@@ -77,7 +77,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/fizika.html' ||
     locationPath === '/SeidExam/exams/fizika.html'
   ) {
-    endpoint = './fizika.json';
+    endpoint = '../data/fizika.json';
   }
 
   if (
@@ -85,7 +85,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/programlasdirmanin-esaslari.html' ||
     locationPath === '/SeidExam/exams/programlasdirmanin-esaslari.html'
   ) {
-    endpoint = './programlasdirmanin-esaslari.json';
+    endpoint = '../data/programlasdirmanin-esaslari.json';
   }
 
   if (
@@ -93,7 +93,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/diferensial.html' ||
     locationPath === '/SeidExam/exams/diferensial.html'
   ) {
-    endpoint = './diferensial.json';
+    endpoint = '../data/diferensial.json';
   }
 
   if (
@@ -101,7 +101,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/instrumental-ve-tetbiqi-programlar.html' ||
     locationPath === '/SeidExam/exams/instrumental-ve-tetbiqi-programlar.html'
   ) {
-    endpoint = './instrumental-ve-tetbiqi-programlar.json';
+    endpoint = '../data/instrumental-ve-tetbiqi-programlar.json';
   }
 
   // Special for T
@@ -111,7 +111,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/komp-muh-esas-2.html' ||
     locationPath === '/SeidExam/exams/komp-muh-esas-2.html'
   ) {
-    endpoint = './komp-muh-esas-2.json';
+    endpoint = '../data/komp-muh-esas-2.json';
   }
 
   // Special for E
@@ -121,7 +121,7 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/zad.html' ||
     locationPath === '/SeidExam/zad.html'
   ) {
-    endpoint = './zad.json';
+    endpoint = '../data/zad.json';
   }
 
   if (
@@ -129,11 +129,13 @@ function getEndpoint(locationPath) {
     locationPath === '/exams/zad2.html' ||
     locationPath === '/SeidExam/zad2.html'
   ) {
-    endpoint = './zad2.json';
+    endpoint = '../data/zad2.json';
   }
 
-  return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
-  // return endpoint;
+  // return `https://raw.githubusercontent.com/romandevo/SeidExam/refs/heads/main/data/${endpoint}`;
+
+  // replace "." with "../data" for endpoints
+  return endpoint;
 }
 
 // Pass the pathname to the function and store the result
@@ -282,6 +284,10 @@ function displayQuestions(questions) {
 
   // Trigger MathJax to render the equations
   MathJax.typeset();
+
+  // MathJax.typesetPromise()
+  //   .then(() => console.log('MathJax rendered'))
+  //   .catch(console.error);
 }
 
 // Function to display question statuses in #main-questions
