@@ -2678,6 +2678,266 @@
     ]
   },
   {
+    "questionNumber": 207,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int x e^x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$(x-1)e^x + C$$" },
+      { "B": "$$(1-x)e^x + C$$" },
+      { "C": "$$e^x - x + C$$" },
+      { "D": "$$e^x + x + C$$" },
+      { "E": "$$xe^x + x + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 208,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int x\\sin x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$-x\\cos x + \\sin x + C$$" },
+      { "B": "$$-x\\cos x + C$$" },
+      { "C": "$$x\\cos x + C$$" },
+      { "D": "$$x\\sin x + C$$" },
+      { "E": "$$-x\\sin x + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 209,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{x}{x+1} \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$x - \\ln|x+1| + C$$" },
+      { "B": "$$x + \\ln|x-1| + C$$" },
+      { "C": "$$\\ln|x+1| + C$$" },
+      { "D": "$$2x + \\ln|x+1| + C$$" },
+      { "E": "$$x - 2\\ln|x+1| + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 210,
+    "questionUp": "Calculate integral:",
+    "questionDown": "$$\\int \\frac{x}{x-1} \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$x + \\ln|x-1| + C$$" },
+      { "B": "$$x - \\ln|x+1| + C$$" },
+      { "C": "$$\\ln|x-1| + C$$" },
+      { "D": "$$2x - \\ln|x+1| + C$$" },
+      { "E": "$$x + 2\\ln|x-1| + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 211,
+    "questionUp": "Calculate indefinite integral:",
+    "questionDown": "$$\\int \\sin^2 x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{1}{2}x - \\frac{1}{4}\\sin 2x + C$$" },
+      { "B": "$$\\frac{1}{2}x + \\frac{1}{2}\\sin 2x + C$$" },
+      { "C": "$$x - \\frac{1}{4}\\sin 2x + C$$" },
+      { "D": "$$\\frac{1}{2}x - \\frac{1}{4}\\sin x + C$$" },
+      { "E": "$$\\frac{1}{2}x - \\sin 2x + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 212,
+    "questionUp": "Calculate indefinite integral:",
+    "questionDown": "$$\\int \\cos^2 x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{1}{4}x + \\frac{1}{4}\\sin 2x + C$$" },
+      { "B": "$$x - \\frac{1}{4}\\sin 2x + C$$" },
+      { "C": "$$\\frac{1}{2}x - \\sin 2x + C$$" },
+      { "D": "$$\\frac{1}{2} + \\frac{1}{4}\\sin 2x + C$$" },
+      { "E": "$$x + \\sin 2x + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 213,
+    "questionUp": "Calculate indefinite integral:",
+    "questionDown": "$$\\int \\cos^3 x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\sin x - \\frac{1}{3}\\sin^3 x + C$$" },
+      { "B": "$$\\sin x - \\sin^3 x + C$$" },
+      { "C": "$$\\sin 2x - \\frac{1}{3}\\sin^2 x + C$$" },
+      { "D": "$$2\\sin x - \\frac{1}{3}\\sin^3 x + C$$" },
+      { "E": "$$\\sin 2x - \\sin^3 x + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 214,
+    "questionUp": "Calculate indefinite integral:",
+    "questionDown": "$$\\int \\sin^3 x \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$-\\cos x + \\frac{1}{3}\\cos^3 x + C$$" },
+      { "B": "$$-\\cos x + \\cos^3 x + C$$" },
+      { "C": "$$\\cos x + \\frac{1}{3}\\cos^3 x + C$$" },
+      { "D": "$$2\\cos x + \\frac{1}{3}\\cos^3 x + C$$" },
+      { "E": "$$\\sin 2x - \\sin^3 x + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 215,
+    "questionUp": "Calculate indefinite integral:",
+    "questionDown": "$$\\int \\frac{x^2 - 4}{x - 2} \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{1}{2}x^2 + 2x + C$$" },
+      { "B": "$$\\frac{1}{2}x^2 + x + C$$" },
+      { "C": "$$\\frac{1}{2}x^2 + x + C$$" },
+      { "D": "$$x^2 + 2x + C$$" },
+      { "E": "$$\\ln|x-2| + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 216,
+    "questionUp": "Calculate indefinite integral:",
+    "questionDown": "$$\\int \\frac{5}{2x+1} \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$5\\ln|2x+1| + C$$" },
+      { "B": "$$5\\ln|2x+1| + C$$" },
+      { "C": "$$\\ln|2x+1| + C$$" },
+      { "D": "$$x - \\ln|2x+1| + C$$" },
+      { "E": "$$5\\ln|2x-1| + C$$" }
+    ]
+  },
+  {
+    "questionNumber": 231,
+    "questionUp": "Calculate indefinite integral:",
+    "questionDown": "$$\\int \\frac{2x^2 + x}{x^2} \\, dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$2x + \\ln x + C$" },
+      { "B": "$x - \\ln x + C$" },
+      { "C": "$2 + x\\ln x + C$" },
+      { "D": "$2x - \\ln x + C$" },
+      { "E": "$x + \\ln x + C$" }
+    ]
+  },
+  {
+    "questionNumber": 232,
+    "questionUp": "Calculate indefinite integral",
+    "questionDown": "$$\\int (x-2)(x^2+2x+4)\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{x^4}{4}-8x+C$$" },
+      { "B": "$$\\frac{x^3}{4}-x+C$$" },
+      { "C": "$$\\frac{x^3}{3}-4x+C$$" },
+      { "D": "$$\\frac{x^2}{2}-6x+C$$" },
+      { "E": "$$\\frac{x^4}{4}-2x+C$$" }
+    ]
+  },
+  {
+    "questionNumber": 233,
+    "questionUp": "Calculate indefinite integral",
+    "questionDown": "$$\\int x\\cos x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$x\\sin x+\\cos x+C$$" },
+      { "B": "$$x\\sin x-x+C$$" },
+      { "C": "$$\\cos x-x\\sin x+C$$" },
+      { "D": "$$\\sin x+x\\cos x+C$$" },
+      { "E": "$$-\\sin x+x+C$$" }
+    ]
+  },
+  {
+    "questionNumber": 234,
+    "questionUp": "Calculate indefinite integral",
+    "questionDown": "$$\\int e^x\\cos x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{e^x(\\sin x+\\cos x)}{2}+C$$" },
+      { "B": "$$\\frac{e^x(\\sin x-\\cos x)}{2}+C$$" },
+      { "C": "$$\\frac{e^x(\\sin x+2\\cos x)}{4}+C$$" },
+      { "D": "$$\\sin x+\\cos x+C$$" },
+      { "E": "$$\\frac{\\sin x+\\cos x}{2}+C$$" }
+    ]
+  },
+  {
+    "questionNumber": 235,
+    "questionUp": "Calculate indefinite integral",
+    "questionDown": "$$\\int e^x\\sin x\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{e^x(\\sin x-\\cos x)}{2}+C$$" },
+      { "B": "$$\\frac{e^x(\\sin x+\\cos x)}{2}+C$$" },
+      { "C": "$$\\frac{e^x(2\\sin x-\\cos x)}{2}+C$$" },
+      { "D": "$$e^x\\sin x+\\cos x+C$$" },
+      { "E": "$$\\frac{\\sin x+\\cos x}{2}+C$$" }
+    ]
+  },
+  {
+    "questionNumber": 236,
+    "questionUp": "Calculate definite integral",
+    "questionDown": "$$\\int_1^3 x^2\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$20$$" },
+      { "B": "$$19$$" },
+      { "C": "$$18$$" },
+      { "D": "$$17$$" },
+      { "E": "$$15$$" }
+    ]
+  },
+  {
+    "questionNumber": 237,
+    "questionUp": "Calculate definite integral",
+    "questionDown": "$$\\int_1^2 (3x-4)\\,dx$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{5}{4}$$" },
+      { "B": "$$1$$" },
+      { "C": "$$\\frac{3}{2}$$" },
+      { "D": "$$2$$" },
+      { "E": "$$-1$$" }
+    ]
+  },
+  {
+    "questionNumber": 238,
+    "questionUp": "Calculate definite integral",
+    "questionDown": "$$\\int_0^1 \\frac{dx}{2x-1}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$0$$" },
+      { "B": "$$-1$$" },
+      { "C": "$$1$$" },
+      { "D": "$$\\ln 2$$" },
+      { "E": "$$-\\ln 2$$" }
+    ]
+  },
+  {
+    "questionNumber": 239,
+    "questionUp": "Calculate definite integral",
+    "questionDown": "$$\\int_0^3 \\frac{dx}{4+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{\\pi}{8}$$" },
+      { "B": "$$\\frac{\\pi}{4}$$" },
+      { "C": "$$\\frac{\\pi}{2}$$" },
+      { "D": "$$\\pi$$" },
+      { "E": "$$0$$" }
+    ]
+  },
+  {
+    "questionNumber": 240,
+    "questionUp": "Calculate definite integral",
+    "questionDown": "$$\\int_0^3 \\frac{dx}{9+x^2}$$",
+    "correctAnswer": "A",
+    "answers": [
+      { "A": "$$\\frac{\\pi}{18}$$" },
+      { "B": "$$\\frac{\\pi}{12}$$" },
+      { "C": "$$\\frac{\\pi}{8}$$" },
+      { "D": "$$\\frac{\\pi}{4}$$" },
+      { "E": "$$\\pi$$" }
+    ]
+  },
+  {
     "questionNumber": 241,
     "questionUp": "Calculate definite integral:",
     "questionDown": "$$\\int_{0}^{1} x e^x \\, dx$$",
